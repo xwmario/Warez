@@ -4,6 +4,10 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 
 **I do not support nor I'm responsible for external links/content!** 
 
+# Todo
+- [ ] Include a search index
+- [ ] Filter for language, category etc
+- [ ] Add more services
 
 ### VPN Guides & Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
