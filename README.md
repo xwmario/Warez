@@ -448,33 +448,33 @@ premium services
 - [AnimeBam](https://www.animebam.net/)
 - [AnimeHub](https://animehub.ac/)
 - [Ryuanime](https://www3.ryuanime.com/)
-- [AnimeFreak](http://animefreak.tv/) 720p Animes
+- [AnimeFreak](http://animefreak.tv/) 720p 
 - [AnimeDao](https://animedao21.stream/)
 - [Anime Show](http://www.animeshow.tv/)
-AnimeXD - (720p Anime)
-Twist.most - (720p anime)
-Animeflv - (720p anime)
-Chia-Anime - (720p anime)
-Otakustream - (720p anime)
-Dubbed Anime - (720p anime)
-Kawaiifu - (720p anime)
-Justdubs - (720p anime)
-HotAnime - (720p anime)
-AnimeVibe - (720p anime)
-AnimeSeries - (720p anime)
-Randaris-Anime - (720p anime)
-Anime Rush - (720p anime)
-Anime HD 47 - (720p anime)
-Anime Land - (720p anime)
-Animer Reborn - (720p anime)
-EyeOnAnime - (720p anime)
-AnimeWorldBD - (720p anime)
-Club Anime - (720p anime)
-AnimePie - (720p anime)
-SGAnime - (720p anime)
-DarkAnime - (720p anime)
-Cartoon Crazy - (Cartoons & Anime)
-Pixa - (Big Cartoon Library)
+- [AnimeXD](http://www.animexd.me/) 720p 
+- [Twist.most](http://twist.moe/) 720p 
+- [Animeflv](https://animeflv.net/) 720p 
+- [Chia-Anime](http://ww2.chia-anime.tv/) 720p
+- [Otakustream](https://otakustream.tv/) 720p
+- [Dubbed Anime](https://ww5.dubbedanime.net/) 720p
+- [Kawaiifu](http://kawaiifu.com/) 720p
+- [Justdubs](http://justdubs.org/) 720p
+- [HotAnime](http://w1.hotanime.me/) 720p
+- [AnimeVibe](https://animevibe.xyz/) 720p
+- [AnimeSeries](https://animeseries.co/) 720p
+- [Randaris-Anime](http://randaris-anime.net/) 720p
+- [Anime Rush](http://www.animerush.tv/) 720p
+- [Anime HD 47](http://animehd47.com/) 720p
+- [Anime Land](http://www.animeland.tv/) 720p
+- [Animer Reborn](http://www.animereborn.io/) 720p
+- [EyeOnAnime](https://eyeonanime.tv/) 720p
+- [AnimeWorldBD](https://animeworldbd.com/) 720p
+- [Club Anime](http://clubani.me/) 720p
+- [AnimePie](https://www.animepie.to/index) 720p
+- [SGAnime](https://sganime.org/) 720p
+- [DarkAnime](https://darkanime.stream/) 720p
+- [Cartoon Crazy](https://www.cartooncrazy.tv/) Cartoons & Anime
+- [Pixa](https://tinyurl.com/yco62uop) Big Cartoon Library
 - [CartoonWire](https://cartoonwire.to/)
 - [KissCartoon](https://kisscartoon.ac/) 
 - [KimCartoon](https://kimcartoon.co/) Big Cartoon Library
@@ -484,6 +484,25 @@ Pixa - (Big Cartoon Library)
 - [WatchCartoonsOnline](https://watchcartoonsonline.la/) Big Cartoon Library
 - [Toonova](https://tinyurl.com/ybxvn3ad)
 
+### Specialty Sites
+- [Rulu](https://www.rulu.co/) Youtube Red Series
+- [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
+- [Classic Cinema Online](http://www.classiccinemaonline.com/) Classic Films
+- [Archive.org](https://archive.org/) Classic Films & more
+- [Classic Movies Channel](http://www.classiccinemaonline.com/) Youtube Classic Films
+- [Top Documentary Films](https://topdocumentaryfilms.com/) Documentaries
+- [Videoneat](https://videoneat.com/) Documentaries/Science Movies
+- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with nudity
+- [Einthusan](https://einthusan.tv/intro/) Foreign
+- [Dramago](http://www.dramago.com/) Foreign
+- [WatchAsian](https://www2.watchasian.co/) Foreign
+- [Layarkaca](http://layarkaca21.ru/) Foreign
+- [DramaCool](http://www1.dramacoolfirst.com/) Foreign
+- [DaebakDrama](https://daebakdrama.com/) Korean
+- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) Youtube Horror
+- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) Youtube Horror
+- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) Youtube Horror
+- [WTvF!](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) Youtube Grindhouse
 
 ### Random Streaming Sites
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) Huge list by /u/nbatman
