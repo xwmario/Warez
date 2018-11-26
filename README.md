@@ -69,27 +69,11 @@ The Warez list is for for research only! - **I do not support nor I'm responsibl
 - [LessPass](https://lesspass.com/) stateless open source password manager
 - [Psono](https://psono.com/) Open source and selfhosted password manager for teams
 
-## Antivirus
-- [MalwareBytes](https://www.malwarebytes.com/) "crushes malware so you are protected and your machine keeps running smoothly."
-- [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
-- [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
-- [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
-- [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt out of sending anonymous usage statistics.
-
-## Privacy
+## Privacy focused discussions 
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 
-### Windows 10 Privacy
-- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) In-depth guide on purging Windows 10 of Microsoft's attempts to track you
-- [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
-- [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
-- [WPD](https://wpd.app/) The real privacy dashboard for Windows
-- [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) Destroy Windows Spying tool
-- [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
-
-## Email
+## eMail
 - [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
@@ -100,7 +84,7 @@ The Warez list is for for research only! - **I do not support nor I'm responsibl
 - [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
 - [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
 
-## Operating Systems
+## Hardened Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
 - [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 
@@ -124,7 +108,9 @@ for any IP address.
 - [/r/trackers](https://www.reddit.com/r/trackers) A subreddit for discussing public & private trackers.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
-- [Bravo List](http://www.bvlist.com/) Tracker directory
+- [Bravo List](http://www.bvlist.com/) A public tracker directory.
+- [Trackers List](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers.
+
 
 #### Private Trackers
 - [AlphaRatio ](https://alpharatio.cc) (AR) A good starter tracker with lots of freeleech content.
