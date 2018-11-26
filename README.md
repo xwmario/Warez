@@ -1083,7 +1083,6 @@ premium services
 - [WatchFree.ac](https://www3.watchfree.ac/watchfree.html)
 - [ddlhub](https://ddlhub.xyz/)
 
-
 ### 1080p Streaming
 - [StreamCR](https://scr.cr/)
 - [LookMovie](https://lookmovie.ag/)
@@ -1116,7 +1115,6 @@ premium services
 - [Stream Likers](http://www.streamlikers.com/)
 - [QQMovies](http://qqmovies.co/)
 - [TopEuroPix](https://topeuropix.net/)
-
 
 ### Torrent Apps
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
