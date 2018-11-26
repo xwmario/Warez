@@ -503,6 +503,22 @@ premium services
 - [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) Youtube Horror
 - [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) Youtube Horror
 - [WTvF!](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) Youtube Grindhouse
+- [Pelisplus](http://pelisplus.co/) Espanol
+- [Cliver](http://www.cliver.tv/) Espanol
+- [Danimados](https://danimados.com/) Espanol
+- [Cuevana2](https://www.cuevana2.com/) Espanol
+- [K-Streaming](https://tinyurl.com/y8naqgmz) French
+- [Time2Watch](https://tinyurl.com/ybpfyspz) French
+- [Filmz.cc](https://tinyurl.com/y8b25rsa) French
+- [FilmZen](https://tinyurl.com/yclyfwdt) French
+- [SokoStream](https://tinyurl.com/yd3c7tk7) French
+- [EmuleIsland](https://tinyurl.com/y77p3ds8) French
+- [StreamComplete](https://tinyurl.com/ycht4vka) French
+- [6VoierFilms](https://tinyurl.com/y6ucy9hg) French
+- [FrenchStream](https://tinyurl.com/y8wpqosc) French
+- [VFStream](https://tinyurl.com/yd7sb7vq) French
+- [1Liberty](https://tinyurl.com/y99yod7s) French
+- [DPStream](https://tinyurl.com/y85ragst) French
 
 ### Random Streaming Sites
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) Huge list by /u/nbatman
