@@ -306,17 +306,17 @@ for any IP address.
 - [omgwtfnzbs](https://omgwtfnzbs.me/login) Invite-only NZB indexer with a funny name
 
 #### Free Indexers
-- [6box](https://6box.me/) A recently revived free Usenet indexing service with a generous API
-- [Usenet Crawler](https://usenet-crawler.com/) Usenet indexer with API access for registered users
-- [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results
+- [6box](https://6box.me/) A recently revived free Usenet indexing service with a generous API.
+- [Usenet Crawler](https://usenet-crawler.com/) Usenet indexer with API access for registered users.
+- [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results.
 - [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary usenet newsgroups.
-- [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups.
+- [NZBKing](http://nzbking.com/) The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 
 ### Usenet Clients
 - [SABnzbd](https://sabnzbd.org/) SABnzbd is an Open Source Binary Newsreader written in Python.
-- [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
-- [Usenetic](https://www.usenetic.com/) The full featured usenet client for Mac OSX
-- [Unison](https://panic.com/blog/the-future-of-unison/) OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued)
+- [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++.
+- [Usenetic](https://www.usenetic.com/) The full featured usenet client for Mac OSX.
+- [Unison](https://panic.com/blog/the-future-of-unison/) OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued).
 - [spotweb](https://github.com/spotweb/spotweb) Spotweb is a decentralized usenet community based on the Spotnet protocol.
 - [Newsbin](http://newsbin.com/about.php) Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
 
@@ -409,7 +409,9 @@ for any IP address.
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
-- [WarezBB.org](http://warezbb.org/)
+- [WarezBB.org](http://warezbb.org/) Invite-only
+- [RU-Board](http://forum.ru-board.com/)
+- [Nsane Forum](https://www.nsaneforums.com/)
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -846,7 +848,6 @@ premium services
 
 ### Windows
 - [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
-- [Windows 10 Digital License](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/?tab=comments#comment-1327529) Advanced tutorial from s1ave77 on activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
 
