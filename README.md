@@ -12,7 +12,7 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 
 ### Scene
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
-- [predb.pw)](https://predb.pw)
+- [predb.pw](https://predb.pw)
 - [xrel.to](https://www.xrel.to/)
 
 ### VPN Guides & Tutorials
