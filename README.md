@@ -908,6 +908,26 @@ premium services
 - [Fildo](https://fildo.net/android/en/) Music streaming app
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
 
+### Big Media Libraries
+- [filechef](http://filechef.com/) Search Direct Downloads.
+- [CafeHulu](http://cafehulu.com/)
+- [8Putlocker](http://www1.8putlocker.com/)
+- [Sharemovies](http://sharemovies.net/) 
+- [Sockshare](http://sockshare.ac/) Huge Movie/TV Library
+- [Movie4k](https://movie4k.io/) Huge Movie/TV Library)
+- [5Movies](http://5movies.to/) 
+- [Viooz](https://vioozgo.org/)
+- [Afdah](http://afdah.to/)
+- [2TwoMovies](https://two-movies.net/)
+- [WatchSeries 2.0](https://watch-series.io/)
+- [Putlockertv](https://www3.putlocker.onl/)
+- [Putlockeri](https://putlockeri.club/)
+- [Los-Movies](http://los-movies.com/)
+- [Putlocker.onl](https://www3.putlocker.onl/)
+- [Putlockerfreely](https://putlockerfreely.online/watch/rampage-full-movie-online-1-8911.html)
+- [123Movies.ooo](https://123movies.ooo/)
+- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
+
 ### 720p Streaming
 - [Streamm4u](http://streamm4u.tv/)
 - [123Moviesuk](https://www.123moviesuk.to/) 
