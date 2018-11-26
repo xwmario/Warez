@@ -1,6 +1,6 @@
 # Warez
 
-The list provides a small overview of Warez related topics and provides only information for research reasons. 
+The biggest Warez list on the internet! The overview of Warez related topics and provides only information for research reasons. 
 
 
 **I do not support nor I'm responsible for external links/content!** 
@@ -434,7 +434,58 @@ premium services
 - [opendirectories-bot](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
 
-### Streaming Sites
+### Anime & Cartoon Streaming
+- [Monimo](https://monimoapp.netlify.com/)
+- [Masterani](https://www.masterani.me/)
+- [9Anime](https://tinyurl.com/ydgladf3)
+- [KickAssAnime](https://www11.kickassanime.io/)
+- [AnimeHeaven](http://animeheaven.eu/)
+- [Hi10Anime](https://tinyurl.com/y72ltlay)
+- [AnimePahe](https://animepahe.com/)
+- [Kissanime.ru](http://kissanime.ru/)
+- [Kissanime.ac](https://kissanime.ac/)
+- [GoGoAnime](https://www1.gogoanime.sh/)
+- [AnimeBam](https://www.animebam.net/)
+- [AnimeHub](https://animehub.ac/)
+- [Ryuanime](https://www3.ryuanime.com/)
+- [AnimeFreak](http://animefreak.tv/) 720p Animes
+- [AnimeDao](https://animedao21.stream/)
+- [Anime Show](http://www.animeshow.tv/)
+AnimeXD - (720p Anime)
+Twist.most - (720p anime)
+Animeflv - (720p anime)
+Chia-Anime - (720p anime)
+Otakustream - (720p anime)
+Dubbed Anime - (720p anime)
+Kawaiifu - (720p anime)
+Justdubs - (720p anime)
+HotAnime - (720p anime)
+AnimeVibe - (720p anime)
+AnimeSeries - (720p anime)
+Randaris-Anime - (720p anime)
+Anime Rush - (720p anime)
+Anime HD 47 - (720p anime)
+Anime Land - (720p anime)
+Animer Reborn - (720p anime)
+EyeOnAnime - (720p anime)
+AnimeWorldBD - (720p anime)
+Club Anime - (720p anime)
+AnimePie - (720p anime)
+SGAnime - (720p anime)
+DarkAnime - (720p anime)
+Cartoon Crazy - (Cartoons & Anime)
+Pixa - (Big Cartoon Library)
+- [CartoonWire](https://cartoonwire.to/)
+- [KissCartoon](https://kisscartoon.ac/) 
+- [KimCartoon](https://kimcartoon.co/) Big Cartoon Library
+- [WatchCartoon](https://www.watchcartoononline.io/) Big Cartoon Library
+- [Online WatchCartoon](https://www.watchcartoononline.com/)
+- [Supercartoons](http://www.supercartoons.net/) Big Cartoon Library
+- [WatchCartoonsOnline](https://watchcartoonsonline.la/) Big Cartoon Library
+- [Toonova](https://tinyurl.com/ybxvn3ad)
+
+
+### Random Streaming Sites
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) Huge list by /u/nbatman
 - [StreamCR](https://scr.cr/)
 - [cine.to](https://cine.to/)
