@@ -1,7 +1,6 @@
 # Warez
 
-The biggest Warez list on the internet! The overview of Warez related topics and provides only information for research reasons. 
-
+The biggest Warez list in the entire internet! The overview of Warez related topics and provides only information for research only reasons. 
 
 **I do not support nor I'm responsible for external links/content!** 
 
@@ -555,6 +554,18 @@ premium services
 - [Qwemovies](https://www3.qwemovies.com/)
 - [HDO](https://hdo.to/)
 - [#1 Movies Website](https://www1.1movies.is)
+- [KStreaming](https://www.k-streaming.tv/)
+- [Time2Watch](https://time2watch.in/)
+- [Filmz.cc](https://www.filmz.cc/)
+- [Filmstream.online](http://filmzenstream.online/)
+- [Sokrostream.vip](https://sokrostream.vip/)
+- [eMule Island.ru](https://www2.emule-island.ru/)
+- [Streamcomplete](https://streamcomplet.me/)
+- [VoirFilms.ws](https://ww6.voirfilms.ws/)
+- [French Stream](http://wwv.french-stream.co/)
+- [VF-Streaming](https://www.vf-stream.org/)
+- [libertyVF](https://ww1.libertyvf.org/)
+- [DP Stream](https://www.dpstream.net/)
 
 ### Sports Streaming
 - [LiveTV](https://livesx.eu/)
