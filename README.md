@@ -9,6 +9,12 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 - [ ] Filter for language, category etc
 - [ ] Add more services
 
+
+### Scene
+- [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
+- [predb.pw)](https://predb.pw)
+- [xrel.to](https://www.xrel.to/)
+
 ### VPN Guides & Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
 - [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
@@ -722,6 +728,7 @@ premium services
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [PCGames-Download](https://pcgames-download.com/) Premium links to repacks from a variety of release groups
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
+- [Kaoskrew](http://kaoskrew.org/) Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc
 
 ### ROMs
 - [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories
@@ -1169,10 +1176,11 @@ premium services
 - [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
 
-## Discord Servers
+## Discord Servers & Bots
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
+- [WarezBot for Discord](https://github.com/enzobes/WarezBot)
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
