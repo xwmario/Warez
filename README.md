@@ -799,7 +799,12 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 - [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
-- [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
+- [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software.
+- [RuTracker](http://rutracker.org/forum/index.php) Ru-Tracker, music info, releases & software.
+- [Slsknet](http://www.slsknet.org/news/node/1) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux. 
+- [Redacted](https://redacted.ch/) Elite music scene (needs login).
+- [YouTube DL GUI](https://github.com/MrS0m30n3/youtube-dl-gui) Open source YouTube Music downloader.
+
 
 ### General Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
