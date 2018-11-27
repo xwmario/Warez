@@ -1,6 +1,6 @@
 # Warez
 
-The biggest Warez list in the entire internet! The overview of Warez related topics and provides only information for research only reasons. 
+The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
 
 **I do not support nor I'm responsible for external links/content!** 
 
@@ -26,6 +26,7 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## Scene Release Info
+- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
 - [predb.pw](https://predb.pw)
 - [xrel.to](https://www.xrel.to/)
@@ -451,6 +452,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [NGB.to](https://ngb.to/) (German)
 - [RSLinks](https://rslinks.org/)
 - [Radixx11](https://radixx11rce.blogspot.com/)
+- [AVXHome](http://avxhome.se/) Best of eBooks, Software, Mag, ...
+- [LavTeam](http://www.lavteam.org/)
+- [Onkyo4k](http://onkyo4k.com/)
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
