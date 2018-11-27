@@ -422,7 +422,7 @@ premium services
 - [Reevown](https://reevown.com/) A free download service with which you can perform premium downloads.
 
 ### Premium Link Hoster
-- [Mega](https://mega.nz/)
+- [Mega.nz](https://mega.nz/)
 - [OpenLoad](https://openload.co/)
 - [RapidGator](https://rapidgator.net/)
 - [4shared](https://www.4shared.com/)
@@ -794,7 +794,7 @@ premium services
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
 
-### Music Streaming
+### General Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
 - [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
 - [mp3Clan](http://mp3guild.com/) Free music streaming
@@ -815,10 +815,10 @@ premium services
 - [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
 
 ### Spotify
-- [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
+- [Spotify Ad-Free by CHEF-KOCH](https://github.com/CHEF-KOCH/CKs-FilterList) HOSTS file to block ads, banners, limited skips, and locked shuffle mode in Spotify Free
+- [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) Modified Client(s), Information, etc.
 - [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) This is the most up-to-date list and will block all annoying Spotify ads & analytics.
 - [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
-- [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
 - [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, audio & banner adblock/skip for Spotify
 
 ### iTunes
@@ -830,7 +830,6 @@ premium services
 
 ## Software
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
-- [nsane.down](https://www.nsanedown.com/) Popular file sharing forum focused on software
 - [CrackingPatching.com](https://crackingpatching.com/) Cracked software
 - [Appked](https://www.macbed.com/) Mac application sharing site
 - [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools.
@@ -850,6 +849,7 @@ premium services
 - [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
+- [MDL Forums](https://forums.mydigitallife.net/)
 
 ## Ebooks
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
