@@ -10,6 +10,20 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 - [ ] Add more services, websites, information
 
 
+## Contributing Guidelines
+- [x] Issue ticket is closed
+- [x] If something is wrong or missing just make a PR (_see above how to do that_)
+- [x] No page except ThePirateBay should include dangerous ads or coin-miners
+- [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them
+
+* Fork the repo on GitHub
+* Clone the project to your own machine
+* Commit changes to your own branch
+* Push your work back up to your fork
+* Submit a Pull request so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
 ## Scene Release Info
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
 - [predb.pw](https://predb.pw)
