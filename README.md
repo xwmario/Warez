@@ -909,6 +909,10 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 - [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
 - [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic files, particularly US based comics published by DC and Marvel.
 - [Gazee!](https://hub.docker.com/r/linuxserver/gazee/) A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web connected device with a modern web browser.
+- [Comic Extra](http://www.comicextra.com/) General Comic informations.
+- [GetComics](http://getcomics.info/) General Comic information.
+- [ReadComics](http://readcomics.website/) Several misc comics published.
+- [WorldWideTorrents](https://worldwidetorrents.eu/torrents.php?parent_cat=Comics) New comic releases.
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
