@@ -974,6 +974,8 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 ### Subtitles Automation
 - [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
 - [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
+- [SubScenes](https://subscene.com/) Subtitle Scene, provdes subtitles and tools.
+
 
 ## P2P Networks
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file sharing network
