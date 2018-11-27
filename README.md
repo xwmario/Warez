@@ -381,7 +381,7 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 - [IPLIVE](https://iplive.club/) DDL search engine.
 
 ### GoG Repack & Releases + Retro Games
-- [GoodoldDownloads](https://goodolddownloads.com/)
+- [GoodoldDownloads](https://goodolddownloads.com/) Gog.com releases, retro & Console releases.
 
 ### DDL Link Sites
 - [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it.
@@ -843,6 +843,10 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 - [CracksNow](https://cracksnow.com/) Cracks for Android, Windows, and macOS applications.
 - [Nulled](https://www.nulled.to/) Nulled is a cracking community where you can find links to cracked software
 - [Vestathemes](https://www.vestathemes.com/) Vestathemes is a website for [WordPress](https://www.wordpress.com/) themes and plugins.
+
+## Cracking
+- [Tuts4You](https://forum.tuts4you.com/) Tuts4You provides cracktros, information and more.
+- [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 
 ### Adobe CC
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
