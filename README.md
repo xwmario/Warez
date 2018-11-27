@@ -380,6 +380,9 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 - [OD-Database](https://od-db.the-eye.eu/) Database of searchable open directories curated by The-Eye.eu.
 - [IPLIVE](https://iplive.club/) DDL search engine.
 
+### GoG Repack & Releases + Retro Games
+- [GoodoldDownloads](https://goodolddownloads.com/)
+
 ### DDL Link Sites
 - [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it.
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links.
