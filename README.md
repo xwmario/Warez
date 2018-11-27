@@ -43,6 +43,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Private Internet Access](https://www.privateinternetaccess.com/) Popular subscription-based VPN provider with a proven track record for not keeping logs.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss made VPN that safeguards your privacy.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries and no logs which also rated one of the fastest VPNs out there.
+- [NordVPN](https://nordvpn.com/)
 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) A Peer-to-peer VPN.
