@@ -919,10 +919,11 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
-- [MDL Forums](https://forums.mydigitallife.net/)
+- [MDL Forums](https://forums.mydigitallife.net/) Windows topics, hotfixes, self-made tools.
 - [Shadow-Trooperz](http://shadow-trooperz.xyz/sw/) Provides Windows ISO's and other Windows related software links.
 - [Krakatoa](https://krakatoa.www3.cz/)
 - [SamLab](http://samlab.ws/)
+- [PCBeta](http://bbs.pcbeta.com)
 
 ## Ebooks
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
@@ -960,7 +961,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
-- [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
+- [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader tool.
 
 ## Direct Download Streaming
 - [filechef](http://filechef.com/)
@@ -968,8 +969,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Movie Files](https://moviefiles.org/)
 
 ## Audiobooks
-- [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality
-- [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
+- [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
+- [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
 - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 
 ## Comicbooks
