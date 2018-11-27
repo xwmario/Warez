@@ -7,10 +7,10 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 # Todo
 - [ ] Include a search index
 - [ ] Filter for language, category etc
-- [ ] Add more services
+- [ ] Add more services, websites, information
 
 
-### Scene Release Info
+## Scene Release Info
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
 - [predb.pw](https://predb.pw)
 - [xrel.to](https://www.xrel.to/)
@@ -1326,16 +1326,16 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 
 ## Miscellaneous
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
-- [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
+- [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones.
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
-- [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+- [Pi-hole](https://pi-hole.net/) Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
-- [ghostbin](https://ghostbin.com/) Secure pastebin service
+- [ghostbin](https://ghostbin.com/) Secure pastebin service.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is
 - [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
-- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
-- [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
+- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy.
+- [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars.
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
-- [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99
+- [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99, new NetFlix releases.
