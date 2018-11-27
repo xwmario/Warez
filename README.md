@@ -1399,6 +1399,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
 
 ## Miscellaneous
+- [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/)RCC, check your system's trusted root certificate store.
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones.
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
@@ -1415,3 +1416,4 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99, new NetFlix releases.
 - [Baltagy Official Homepage](https://baltagy1.blogspot.com/) Android & Windows Software.
 - [Simplix Blog](https://blog.simplix.info/update7/) Windows Hotfix repository.
+  
