@@ -11,7 +11,8 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 
 
 ## Contributing Guidelines
-- [x] Issue ticket is closed
+- [x] Issue ticket are closed
+- [x] Don't argue about morality here. We all have our reasons. 
 - [x] If something is wrong or missing just make a PR (_see above how to do that_)
 - [x] No page except ThePirateBay should include dangerous ads or coin-miners
 - [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them
@@ -767,6 +768,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [xbox360iso](http://www.xbox360iso.com/) XBox 360 game collection.
 - [gazellegames](https://gazellegames.net/) Another xBox 360 collection.
 - [Up2date list for Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) An up2date list for Xbox 360 games.
+
+### PC Games
+- [CS.Rin.RU](https://cs.rin.ru) NoStream Gaming Servers, Repacks & mods.
 
 ### Homebrew and Custom Firmware(s)
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
