@@ -142,7 +142,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology and radio.
 - [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
 - [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics / manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
-- [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
+- [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies (requires login).
 - [PrivateHD](https://privatehd.to/) (PHD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
 - [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
 - [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
@@ -198,6 +198,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine.
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation).
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI.
+- [TorrentInvites](http://torrentinvites.org) 
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
@@ -399,7 +400,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [GoodoldDownloads](https://goodolddownloads.com/) Gog.com releases, retro & Console releases.
 
 ### DDL Link Sites
-- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it.
+- [NaMaMe Club](http://nnmclub.to/) Software for Windows.
+- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega, has now moved to snahp.it.
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links.
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare.
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more.
@@ -424,14 +426,31 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Dospelis](https://www.dospelis.net) Spanish DDL indexer
 - [Vidics](https://www.vidics.to/)
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
-- [watchtvseries](http://watchtvseries.unblckd.club/)
+- [Watch Series](http://watchseries.ag/)
+- [WatchTVSeries](http://watchtvseries.unblckd.club/)
 - [tvbox](https://tvbox.unblocked.gdn/)
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
-- [WarezBB.org](http://warezbb.org/) Invite-only
-- [RU-Board](http://forum.ru-board.com/)
+- [WarezBB.org](http://warezbb.org/) Invite-only forum.
+- [RU-Board](http://forum.ru-board.com/) Well-known warez board.
 - [Nsane Forum](https://www.nsaneforums.com/)
+- [KickassWarez](https://kickasswarez.info/) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
+- [RlsBB](http://rlsbb.ru/) 
+- [Board4All](https://www.board4all.biz/)
+- [OSZone](http://www.oszone.net/)
+- [UpTown](https://en.uptodown.com/)
+- [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) Windows ISO Downloads Mirrors.
+- [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
+- [2Baksa](http://2baksa.net/)
+- [PCPortal](https://pcportal.org/)
+- [ZeroBoard](https://zeroboard.org/)
+- [RuTracker](https://rutracker.cr/)
+- [BetaArchive](https://www.betaarchive.com/)
+- [Mutaz](https://www.mutaz.net/free-programs/)
+- [NGB.to](https://ngb.to/) (German)
+- [RSLinks](https://rslinks.org/)
+- [Radixx11](https://radixx11rce.blogspot.com/)
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -451,6 +470,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Zippyshare](https://www.zippyshare.com/)
 - [NitroFlare](http://nitroflare.net/)
 - [PutLocker](https://www5.putlockertv.to/)
+- [K!M](https://k.im/) Replaces Megaupload.
 
 ### Open Directories
 - [httpdirfs](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings.
@@ -512,6 +532,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Supercartoons](http://www.supercartoons.net/) Big Cartoon Library
 - [WatchCartoonsOnline](https://watchcartoonsonline.la/) Big Cartoon Library
 - [Toonova](https://tinyurl.com/ybxvn3ad)
+- [MoviesEver](https://moviesever.com/)
+- [Serienjunkies](http://serienjunkies.org/) 720p (German)
 
 ### Specialty Sites
 - [Rulu](https://www.rulu.co/) Youtube Red Series
@@ -750,6 +772,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [PCGames-Download](https://pcgames-download.com/) Premium links to repacks from a variety of release groups.
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too.
 - [Kaoskrew](http://kaoskrew.org/) Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
+- [Official Revolt Group Website](https://revolt.group/) Revolt homepage.
 
 ### ROMs
 - [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories.
@@ -771,6 +794,11 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ### PC Games
 - [CS.Rin.RU](https://cs.rin.ru) NoStream Gaming Servers, Repacks & mods.
+- [DL2-DLFox](http://dl2.dlfox.com/96/4/) FTP Mirror for various games.
+- [Skidrow & Reloaded](https://www.skidrowreloaded.com/) Fanmade Skidrow & Reloaded mirror website.
+- [GameCopyWorld](https://gamecopyworld.eu) Provides cracks for Games.
+- [IGG-Games](http://igg-games.com/)
+
 
 ### Homebrew and Custom Firmware(s)
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
@@ -823,6 +851,10 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Redacted](https://redacted.ch/) Elite music scene (needs login).
 - [YouTube DL GUI](https://github.com/MrS0m30n3/youtube-dl-gui) Open source YouTube Music downloader.
 
+
+### iOS Firmware
+- [IPSW](https://ipsw.me/?_escaped_fragment_=/version) Provides Jailbreak firmware.
+  
 
 ### General Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
@@ -884,6 +916,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
 - [MDL Forums](https://forums.mydigitallife.net/)
+- [Shadow-Trooperz](http://shadow-trooperz.xyz/sw/) Provides Windows ISO's and other Windows related software links.
+- [Krakatoa](https://krakatoa.www3.cz/)
+- [SamLab](http://samlab.ws/)
 
 ## Ebooks
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
@@ -1062,12 +1097,12 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
 
 ### Big Media Libraries
-- [filechef](http://filechef.com/) Search Direct Downloads.
+- [filechef](http://filechef.com/) Search Direct Downloads
 - [CafeHulu](http://cafehulu.com/)
 - [8Putlocker](http://www1.8putlocker.com/)
 - [Sharemovies](http://sharemovies.net/) 
 - [Sockshare](http://sockshare.ac/) Huge Movie/TV Library
-- [Movie4k](https://movie4k.io/) Huge Movie/TV Library)
+- [Movie4k](https://movie4k.io/) Huge Movie/TV Library
 - [5Movies](http://5movies.to/) 
 - [Viooz](https://vioozgo.org/)
 - [Afdah](http://afdah.to/)
@@ -1080,6 +1115,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Putlockerfreely](https://putlockerfreely.online/watch/rampage-full-movie-online-1-8911.html)
 - [123Movies.ooo](https://123movies.ooo/)
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
+- [EZTV](https://eztv.io/)
+- [Kinox.to](https://www.kinos.to/) (German)
+- [BS.to](https://bs.to/) (German)
 
 ### TV & Sports Streaming
 - [M4uFree.tv](https://tinyurl.com/y7hf9et8)
@@ -1167,6 +1205,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [ddlhub](https://ddlhub.xyz/)
 
 ### 1080p Streaming
+- [Video2k](http://www.video2k.is/)
 - [StreamCR](https://scr.cr/)
 - [LookMovie](https://lookmovie.ag/)
 - [xPause](http://xpau.se/)
@@ -1198,6 +1237,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Stream Likers](http://www.streamlikers.com/)
 - [QQMovies](http://qqmovies.co/)
 - [TopEuroPix](https://topeuropix.net/)
+- [MovieStreams](https://moviestreams.org/)
 
 ### Torrent Apps
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
@@ -1368,3 +1408,5 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars.
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99, new NetFlix releases.
+- [Baltagy Official Homepage](https://baltagy1.blogspot.com/) Android & Windows Software.
+- [Simplix Blog](https://blog.simplix.info/update7/) Windows Hotfix repository.
