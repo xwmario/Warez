@@ -1317,6 +1317,11 @@ The biggest Warez list in the entire internet! The overview of Warez related top
 - [Unblocked](https://unblocked-pw.github.io/) Proxy site for accessing your favourite blocked sites
 - [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
+## Proxies
+- [Shadowsocks](https://shadowsocks.org/)
+- [Psiphon](https://www.psiphon.ca/)
+- [GnUNet](https://gnunet.org/)
+
 ## File Sharing Tools
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
