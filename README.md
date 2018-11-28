@@ -804,8 +804,18 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [DL2-DLFox](http://dl2.dlfox.com/96/4/) FTP Mirror for various Games.
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) Fanmade Skidrow & Reloaded mirror website.
 - [GameCopyWorld](https://gamecopyworld.eu) Provides cracks for Games.
-- [IGG-Games](http://igg-games.com/) PC Games.
+- [GameBurnWorld](http://www.gameburnworld.com/) Provides cracks for Games.
+- [IGG-Games](http://igg-games.com/) Provides cracks for Games.
 
+### CD Key Sellers
+- [GO CD Keys](https://gocdkeys.com/)
+- [DLC Compare](https://www.dlcompare.com/)
+- [All Key Shop](https://www.allkeyshop.com/blog/)
+- [CDKeyPrices](https://cdkeyprices.com/)
+- [Ultimatum Game Keys (UGK)](https://www.gamingdragons.com/en)
+- [G2Play](https://www.g2play.net/)
+- [G2a](https://www.g2a.com/)
+- [CDKeys](https://www.cdkeys.com/)
 
 ### Homebrew and Custom Firmware(s)
 - [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) Posted by /u/crazy5
