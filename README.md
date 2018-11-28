@@ -1417,4 +1417,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99, new NetFlix releases.
 - [Baltagy Official Homepage](https://baltagy1.blogspot.com/) Android & Windows Software.
 - [Simplix Blog](https://blog.simplix.info/update7/) Windows Hotfix repository.
-  
+
+
+## Premium Link Generators
+- [Free Rapidleech](http://freerapidleechlist.blogspot.com/) Daily updated free premium hoster logins. **Be Warned**: Fake pages are looking similar!
+-  [Deepbrid](https://www.deepbrid.com/downloader) 1,2GB premium links, a "pro" version is also avbl. without any download limits.
