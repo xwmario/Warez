@@ -797,6 +797,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [xbox360iso](http://www.xbox360iso.com/) XBox 360 game collection.
 - [gazellegames](https://gazellegames.net/) Another xBox 360 collection.
 - [Up2date list for Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) An up2date list for Xbox 360 games.
+- [PleasureDome Tracker](https://www.pleasuredome.org.uk/) MAME torrents.
 
 ### PC Games
 - [CS.Rin.RU](https://cs.rin.ru) NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_)
