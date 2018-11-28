@@ -173,7 +173,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016.
 - [RARBG](https://rarbg.to/) Public tracker with its own release group.
 - [YTS](https://yts.am/) Small-size HD movies from YIFY.
-- [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places.
+- [The Pirate Bay](https://thepiratebay.org/) Well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!)
 - [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 - [Torrentz2](https://torrentz2.eu/) A good replacement of the defunct Torrentz.eu.
@@ -798,11 +798,11 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Up2date list for Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) An up2date list for Xbox 360 games.
 
 ### PC Games
-- [CS.Rin.RU](https://cs.rin.ru) NoStream Gaming Servers, Repacks & mods.
-- [DL2-DLFox](http://dl2.dlfox.com/96/4/) FTP Mirror for various games.
+- [CS.Rin.RU](https://cs.rin.ru) NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_)
+- [DL2-DLFox](http://dl2.dlfox.com/96/4/) FTP Mirror for various Games.
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) Fanmade Skidrow & Reloaded mirror website.
 - [GameCopyWorld](https://gamecopyworld.eu) Provides cracks for Games.
-- [IGG-Games](http://igg-games.com/)
+- [IGG-Games](http://igg-games.com/) PC Games.
 
 
 ### Homebrew and Custom Firmware(s)
@@ -853,7 +853,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software.
 - [RuTracker](http://rutracker.org/forum/index.php) Ru-Tracker, music info, releases & software.
 - [Slsknet](http://www.slsknet.org/news/node/1) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux. 
-- [Redacted](https://redacted.ch/) Elite music scene (needs login).
+- [Redacted](https://redacted.ch/) Elite music scene (requires invite).
 - [YouTube DL GUI](https://github.com/MrS0m30n3/youtube-dl-gui) Open source YouTube Music downloader.
 
 
@@ -910,8 +910,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ### Adobe CC
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
-- [How to patch Adobe CC 2017 applications on Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
-- [HOW TO PATCH ADOBE APPLICATIONS ON MAC, WORKING EARLY 2017](https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view)
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
 - [Adobe CC 2019 AIO Patcher Zer0Cod3](https://www.reddit.com/r/Piracy/comments/9s7be6/adobe_cc_2019_aio_patcher_zer0cod3/) Latest method for cracking Adobe CC 2019 applications on Windows
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications
@@ -975,19 +973,19 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 
 ## Comicbooks
-- [readcomiconline.to](https://readcomiconline.to/) Manga and comics uploaded daily
-- [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally
-- [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
-- [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic files, particularly US based comics published by DC and Marvel.
+- [readcomiconline.to](https://readcomiconline.to/) Manga and comics which are been uploaded daily.
+- [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally.
+- [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI.
+- [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic. files, particularly US based comics published by DC and Marvel.
 - [Gazee!](https://hub.docker.com/r/linuxserver/gazee/) A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web connected device with a modern web browser.
 - [Comic Extra](http://www.comicextra.com/) General Comic informations.
 - [GetComics](http://getcomics.info/) General Comic information.
 - [ReadComics](http://readcomics.website/) Several misc comics published.
-- [WorldWideTorrents](https://worldwidetorrents.eu/torrents.php?parent_cat=Comics) New comic releases.
+- [WorldWideTorrents](https://worldwidetorrents.eu/torrents.php?parent_cat=Comics) Provides comic releases.
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
-- [KissManga](http://kissmanga.com/) Another manga website
+- [KissManga](http://kissmanga.com/) Another manga website.
 - [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
 - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
 - [Madokami F-K](https://archive.org/download/Madokami.Manga.F-K) Download manga titles named F to K.
@@ -1033,7 +1031,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ### Music Automation
 - [Lidarr](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
-- [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
+- [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd.
 
 ### Subtitles Automation
 - [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
