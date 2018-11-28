@@ -13,7 +13,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 ## Contributing Guidelines
 - [x] Issue ticket are closed
 - [x] Don't argue about morality here. We all have our reasons. 
-- [x] If something is wrong or missing just make a PR (_see above how to do that_)
+- [x] If something is wrong or missing just make a PR (_see below how to do that!_)
 - [x] No page except ThePirateBay should include dangerous ads or coin-miners
 - [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them
 
