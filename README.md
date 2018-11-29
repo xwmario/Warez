@@ -1,10 +1,10 @@
 # Warez
 
+The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
+
 <p align="center">
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
-
-The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
@@ -85,6 +85,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Add "View Image" button.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
+- [ThePirateBay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS and more...
 
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
@@ -191,6 +192,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum.
 
 #### Public Trackers
+- [Tor Lock](https://torlock.com/) TorLock is a torrent site that offers verified torrent downloads.
 - [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
 - [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
@@ -227,6 +229,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI.
 - [TorrentInvites](http://torrentinvites.org) 
 - [BytesLoader](https://www.bytesloader.com/)
+- [Pirateiro](https://pirateiro.unblocked.gdn/)
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
@@ -249,18 +252,19 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) Helpful resource from the /r/trackers Wiki.
 - [BTRACS](http://btracs.com/) An automatic information site which periodically checks closed community BitTorrent trackers for being open for signup.
 
-### Torrent Clients (Requires VPN)
+### Torrent Clients (Should be used in combination with a VPN)
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client.
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent.
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
 - [Deluge](https://www.deluge-torrent.org/) Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
-- [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video.
 - [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client.
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux.
 - [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows.
 - [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
 - [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js.
+- [RTorrent](https://github.com/rakshasa/rtorrent/wiki#download-links) Open source Torrent client. 
+- [LibTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) Mobile torrent client.
 
 #### rTorrent
 - [rTorrent](https://rakshasa.github.io/rtorrent/) rTorrent is a text-based ncurses BitTorrent client written in C++.
@@ -837,6 +841,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [GameCopyWorld](https://gamecopyworld.eu) Provides cracks for Games.
 - [GameBurnWorld](http://www.gameburnworld.com/) Provides cracks for Games.
 - [IGG-Games](http://igg-games.com/) Provides cracks for Games.
+- [Torrents Gamestorrent](http://gamestorrent.co/) PC Game releases from CODEX, SKIDROW, PLAZA & Co.
 
 ### CD Key Sellers
 - [GO CD Keys](https://gocdkeys.com/)
