@@ -1,6 +1,12 @@
 # Warez
 
+![Warez Scene](https://i.imgur.com/OTA2IhM.png)
+
 The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
+
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
+[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 **I or GitHub do not support warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DCMA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
