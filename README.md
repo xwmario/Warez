@@ -210,6 +210,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation).
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI.
 - [TorrentInvites](http://torrentinvites.org) 
+- [BytesLoader](https://www.bytesloader.com/)
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
@@ -796,7 +797,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [The Eye ROMs](http://the-eye.eu/public/rom/) Open directory of ROMs from The Eye.
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
-- [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs.
+- [The ROM Depot](https://theromdepot.com/roms/) Around 3 TB of ROMs.
 
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs.
@@ -897,9 +898,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [irs](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 - [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) A streaming music downloader.
 - [Deezloader](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
-- [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
-- [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
-- [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
+- [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezer.
+- [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums.
+- [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album music.
 
 ### Spotify
 - [Spotify Ad-Free by CHEF-KOCH](https://github.com/CHEF-KOCH/CKs-FilterList) HOSTS file to block ads, banners, limited skips, and locked shuffle mode in Spotify Free
