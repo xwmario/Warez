@@ -1,6 +1,8 @@
 # Warez
 
-![Warez Scene](https://i.imgur.com/OTA2IhM.png)
+<p align="center">
+  <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
+</p>
 
 The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
 
