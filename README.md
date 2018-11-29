@@ -43,7 +43,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 ### VPN Subscription Services (no-logs)
 - [Private Internet Access](https://www.privateinternetaccess.com/) Popular subscription-based VPN provider with a proven track record for not keeping logs.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss made VPN that safeguards your privacy.
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries and no logs which also rated one of the fastest VPNs out there.
+- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. Also rated one of the fastest VPNs out there.
 - [NordVPN](https://nordvpn.com/)
 
 ### Self-hosted VPNs
@@ -59,29 +59,37 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
 - [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
-- [openload](https://greasyfork.org/en/scripts/17665-openload) Removes Anti-Adblock, ads, popups and timer waits, and show direct download link on OpenLoad.
-- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) Some websites prevent you from copying its text, this script bypass it.
+- [openload](https://greasyfork.org/en/scripts/17665-openload) Remove Anti-Adblock, ads, popups, and timer waits, and show direct download link on OpenLoad.
+- [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active when you visit a website and it asks you to disable.
+- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) Some websites prevent you from copying text. This script bypasses it.
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2.
-- [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus and Web Of Science, which lead to sci-hub.tw.
+- [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
 - [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive.
 - [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to new search.
 - [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Add "View Image" button.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
 
+### Windows 10 Privacy
+- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
+- [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io.
+- [Winaero](https://winaero.com/download.php) Free, small and useful software for Windows.
+- [WPD](https://wpd.app/) The real privacy dashboard for Windows.
+
 ## Password Vaults
 - [BitWarden](https://bitwarden.com/) Open source password management solution, which can be self-hosted.
 - [1Password](https://1password.com/) Popular cloud-hosted password manager.
-- [KeePass](https://keepass.info/) Free, open source, light-weight and easy-to-use password manager.
+- [KeePass](https://keepass.info/) A free and open source, light-weight, and easy-to-use password manager.
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
 - [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
 - [LessPass](https://lesspass.com/) Stateless open source password manager.
-- [Psono](https://psono.com/) Open source and selfhosted password manager for teams.
+- [Psono](https://psono.com/) Open source and self-hosted password manager for teams.
 
 ## Privacy focused discussions 
-- [Prism Break](https://prism-break.org/en/) Opt-out of global data surveillance programs like PRISM, XKeyscore and Tempora.
+- [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 
 ## eMail Providers
@@ -127,24 +135,24 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 #### Private Trackers
 - [AlphaRatio ](https://alpharatio.cc) (AR) A good starter tracker with lots of freeleech content.
-- [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga and music
+- [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music.
 - [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) Open signups on the 1st-2nd every month.
 - [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
 - [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
 - [BeyondHD](https://beyondhd.xyz/) (BHD) BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
 - [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
-- [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses and audio books.
+- [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audio books.
 - [Blutopia](https://blutopia.xyz) (BLU) Blutopia is a private tracker for HD movies and HD TV shows.
-- [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design and computer assisted art.
-- [Filelist](https://filelist.ro/) (FL) Large Romanian general tracker with mostly English content. No rars allowed. (Scene torrents are unrared, and then allowed.)
+- [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
+- [Filelist](https://filelist.ro/) (FL) Large Romanian general tracker with mostly English content. No RAR files allowed. Scene torrents are unrared, and then allowed.
 - [GazelleGames](https://gazellegames.net/login.php) (GGn) Currently the largest private tracker for games.
 - [HD-Forever](https://hdf.world/) (HD-F) HD-Forever is a French private tracker for HD movies.
-- [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows and music torrents. Good tracker for beginners.
+- [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. A good tracker for beginners.
 - [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
-- [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on asian music.
-- [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology and radio.
+- [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on Asian music.
+- [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
 - [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
-- [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics / manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
+- [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies (requires login).
 - [PrivateHD](https://privatehd.to/) (PHD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
 - [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
@@ -155,7 +163,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV and General.
 - [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
-- [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flow chart. Somewhat out of date.
+- [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date).
@@ -169,7 +177,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 #### Public Trackers
 - [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
 - [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
-- [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV torrent distribution group EZTV.
+- [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository.
 - [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016.
 - [RARBG](https://rarbg.to/) Public tracker with its own release group.
@@ -213,7 +221,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ### Tracker Proxies
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
-- [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage and other media managers.
+- [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers.
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) Primarily a Usenet meta search engine but also supports Torznab.
 
 ### Tracker Invites
@@ -255,7 +263,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link.
-- [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB is free.
+- [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
 
 #### Seedbox Hosting Providers
 - [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers.
@@ -274,7 +282,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host.
 
 #### Seedbox Setup Tools and Guides
-- [swizzin](https://swizzin.ltd/) a light, modular package management suite for media oriented servers.
+- [swizzin](https://swizzin.ltd/) A light, modular package management suite for media-oriented servers.
 - [Seedbox Guide](https://seedboxgui.de/) comparison tool to help you find the best fitting Seedbox.
 - [rtinst](https://github.com/arakasi72/rtinst) Seedbox installation script for Ubuntu and Debian systems.
 - [sboxsetup](https://github.com/dannyti/sboxsetup) Another seedbox setup script.
@@ -289,11 +297,11 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
 - [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
 - [Gazelle](https://whatcd.github.io/Gazelle/) A web framework geared towards private torrent trackers with a focus on music.
-- [opentracker](https://erdgeist.org/arts/software/opentracker/) opentracker is a open and free bittorrent tracker project.
+- [OpenTracker](https://erdgeist.org/arts/software/opentracker/) OpenTracker is an open and free BitTorrent tracker project.
 
 ## Usenet
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
-- [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using Internet.
+- [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
 - [/r/Usenet](https://www.reddit.com/r/Usenet) A thriving community dedicated to helping users old and new understand and use usenet.
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers.
 - [NZBLINK](https://nzblnk.info/) The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
@@ -301,7 +309,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries.
 
 ### Usenet Providers
-- [Usenet Services Map](https://commons.wikimedia.org/wiki/File:Usenet_Services_MindMap.svg) Mind map by /u/thepageunit.
+- [Usenet Services Map](https://commons.wikimedia.org/wiki/File:Usenet_Services_MindMap.svg) Mindmap by /u/thepageunit
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [Eweka](https://www.eweka.nl/) Netherlands-based Usenet provider.
 - [Newsdemon](https://www.newsdemon.com/) Cheap and cheerful Usenet provider with frequent discounts.
@@ -330,15 +338,15 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [6box](https://6box.me/) A recently revived free Usenet indexing service with a generous API.
 - [Usenet Crawler](https://usenet-crawler.com/) Usenet indexer with API access for registered users.
 - [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results.
-- [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary usenet newsgroups.
+- [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary Usenet newsgroups.
 - [NZBKing](http://nzbking.com/) The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 
 ### Usenet Clients
 - [SABnzbd](https://sabnzbd.org/) SABnzbd is an Open Source Binary Newsreader written in Python.
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++.
-- [Usenetic](https://www.usenetic.com/) The full featured usenet client for Mac OSX.
+- [Usenetic](https://www.usenetic.com/) The full-featured Usenet client for Mac OSX.
 - [Unison](https://panic.com/blog/the-future-of-unison/) OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued).
-- [spotweb](https://github.com/spotweb/spotweb) Spotweb is a decentralized usenet community based on the Spotnet protocol.
+- [spotweb](https://github.com/spotweb/spotweb) Spotweb is a decentralized Usenet community based on the Spotnet protocol.
 - [Newsbin](http://newsbin.com/about.php) Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
 
 ## Direct Download Directories
@@ -923,7 +931,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 ### Adobe CC
 - [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
-- [Adobe CC 2019 AIO Patcher Zer0Cod3](https://www.reddit.com/r/Piracy/comments/9s7be6/adobe_cc_2019_aio_patcher_zer0cod3/) Latest method for cracking Adobe CC 2019 applications on Windows
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications
 
 ### Windows
