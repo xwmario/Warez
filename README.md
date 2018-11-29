@@ -1092,6 +1092,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
 - [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
 - [SubScenes](https://subscene.com/) Subtitle Scene, provdes subtitles and tools.
+- [vlsub](https://github.com/exebetche/vlsub) VLC extension to download subtitles from opensubtitles.org.
 
 
 ## P2P Networks
