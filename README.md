@@ -2,7 +2,7 @@
 
 The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
 
-**I do not support nor I'm or GitHub are responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DCMA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
+**I or GitHub do not support warez, we#re also not responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DCMA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
 See also:
 * [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
@@ -52,7 +52,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Private Internet Access](https://www.privateinternetaccess.com/) Popular subscription-based VPN provider with a proven track record for not keeping logs.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss made VPN that safeguards your privacy.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. Also rated one of the fastest VPNs out there.
-- [NordVPN](https://nordvpn.com/)
+- [NordVPN](https://nordvpn.com/) Protect your privacy online and access media content with no regional restrictions, and audit can be found [here](https://github.com/CHEF-KOCH/NSABlocklist/blob/5371276f7411ab64530f421ed88d21dda28b0dbc/Documents/VPN/profile-nordvpn2.pdf)
 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) A Peer-to-peer VPN.
@@ -962,6 +962,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [snahp.it Forum](https://forum.snahp.it/) Invite-only board for software.
 
 ## Ebooks
+- [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 - [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
 - [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
@@ -971,7 +972,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 - [Calibre](https://calibre-ebook.com/) eBook Management Tool
 - [Calibre-Web](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks
+- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
