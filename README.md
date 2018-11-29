@@ -782,7 +782,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) New video game crack releases are posted here.
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) A Steam emulator.
 - [Goldberg Steam Emu](https://www.reddit.com/r/CrackWatch/comments/979s5e/goldberg_steam_emu_lan_multiplayer_without_steam/) The  project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
-- [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to auto install Cream API for Steam games
+- [CreamAPI AutoInstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to auto install Cream API for Steam games in order to get all [DLCs for free](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
 
 ### Repacks
 - [Good Old Downloads](https://goodolddownloads.com/) Very popular repacks site with scene games, retro games, and games from the GOG.com catalog.
