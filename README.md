@@ -167,7 +167,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date).
-
+ 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) RuTracker is a huge Russian torrent site with a thriving file-sharing community.
 - [Zamunda.net](http://zamunda.net) A Bulgarian tracker with English and Russian translations available.
@@ -466,6 +466,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [AVXHome](http://avxhome.se/) Best of eBooks, Software, Mag, ...
 - [LavTeam](http://www.lavteam.org/)
 - [Onkyo4k](http://onkyo4k.com/)
+- [DownloadLY.IR](http://downloadly.ir/) (IR)
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
