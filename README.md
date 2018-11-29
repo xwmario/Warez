@@ -930,7 +930,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 
 ### Adobe CC
-- [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
+- [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](https://old.reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) A full in-depth guide to installing and cracking any application (Windows) by sjain_guides.
+- [Adobe CC 2018](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) A full in-depth guide to installing and cracking any application (Windows) by sjain_guides.
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications
 
