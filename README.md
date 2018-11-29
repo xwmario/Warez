@@ -2,7 +2,13 @@
 
 The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
 
-**I do not support nor I'm responsible for external links/content!** 
+**I do not support nor I'm or GitHub are responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DCMA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
+
+See also:
+* [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
+* [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
+* [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
+
 
 # Todo
 - [ ] Include a search index
@@ -793,6 +799,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Official Revolt Group Website](https://revolt.group/) Revolt homepage.
 
 ### ROMs
+- [Rom Links Megathread - 1Fichier, GDrive, Mega](https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) Nintendo, Sony, Microsoft, Romsets, Arcade and other ROm collections.
 - [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories.
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links.
@@ -801,6 +808,10 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
 - [The ROM Depot](https://theromdepot.com/roms/) Around 3 TB of ROMs.
+- [3dscia](https://www.3dscia.com/) Nintendo 3ds CIA files.
+- [Ziperto](https://www.ziperto.com/) Nintendo 3ds CIA files, especially for JRPGs.
+- [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) Nintendo 3ds CIA files.
+
 
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs.
