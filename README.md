@@ -2,7 +2,7 @@
 
 The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
 
-**I or GitHub do not support warez, we#re also not responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DCMA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
+**I or GitHub do not support warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DCMA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
 See also:
 * [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
@@ -973,6 +973,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Calibre](https://calibre-ebook.com/) eBook Management Tool
 - [Calibre-Web](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks.
+- [LibGen](http://libgen.io/) eBook search.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
