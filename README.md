@@ -12,6 +12,8 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 
 ## Contributing Guidelines
 - [x] Issue ticket are closed
+- [x] Submitted pages must be malware free, if it requires a VPN/proxy it must be mentioned.
+- [x] All pages are in english, except the ones which are labeled with e.g. (Ger) for Germany etc. 
 - [x] Don't argue about morality here. We all have our reasons. 
 - [x] If something is wrong or missing just make a PR (_see below how to do that!_)
 - [x] No page except ThePirateBay should include dangerous ads or coin-miners
@@ -448,7 +450,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [RU-Board](http://forum.ru-board.com/) Well-known warez board.
 - [Nsane Forum](https://www.nsaneforums.com/)
 - [KickassWarez](https://kickasswarez.info/) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [RlsBB](http://rlsbb.ru/) 
 - [Board4All](https://www.board4all.biz/)
 - [OSZone](http://www.oszone.net/)
 - [UpTown](https://en.uptodown.com/)
@@ -467,6 +468,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [LavTeam](http://www.lavteam.org/)
 - [Onkyo4k](http://onkyo4k.com/)
 - [DownloadLY.IR](http://downloadly.ir/) (IR)
+- [Mawto](https://www.mawtoload.com/)
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -877,6 +879,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Slsknet](http://www.slsknet.org/news/node/1) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux. 
 - [Redacted](https://redacted.ch/) Elite music scene (requires invite).
 - [YouTube DL GUI](https://github.com/MrS0m30n3/youtube-dl-gui) Open source YouTube Music downloader.
+- [CDBao](https://www.cdbao.net/) Chinese invite-only page for music.
 
 
 ### iOS Firmware
@@ -945,6 +948,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Krakatoa](https://krakatoa.www3.cz/)
 - [SamLab](http://samlab.ws/)
 - [PCBeta](http://bbs.pcbeta.com)
+- [snahp.it Forum](https://forum.snahp.it/) Invite-only board for software.
 
 ## Ebooks
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
@@ -967,6 +971,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
+- [PDF-Gigant](http://pdf-giant.com/) Lots of different magazines.
 
 ## Textbooks
 - [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
@@ -983,6 +988,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) 266+ Lynda courses
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader tool.
+- [FreeTutorial](https://www.freetutorials.eu/) Free tutorials page, hacking courses & more.
 
 ## Direct Download Streaming
 - [filechef](http://filechef.com/)
@@ -1385,6 +1391,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [TVmaze](https://www.tvmaze.com/) TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
 - [JustWatch](https://www.justwatch.com/) On JustWatch you are able to find out where to watch your favorite movies & TV series
 - [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
+- [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and bittorrent users.
 
 ## Dashboards and Homepages
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
