@@ -488,6 +488,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Onkyo4k](http://onkyo4k.com/)
 - [DownloadLY.IR](http://downloadly.ir/) (IR)
 - [Mawto](https://www.mawtoload.com/)
+- [rsload](https://rsload.net/)
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
