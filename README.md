@@ -47,6 +47,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [predb.pw](https://predb.pw)
 - [xrel.to](https://www.xrel.to/)
 - [SrrDB](https://www.srrdb.com/)
+- [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 
 ### VPN Guides & Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of "That One Privacy Site" with VPN comparisons.
@@ -109,6 +110,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 ## Privacy focused discussions 
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
+- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy.
 
 ## eMail Providers
 - [ProtonMail](https://protonmail.com/) Secure Email Based made in Switzerland.
@@ -231,6 +233,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [TorrentInvites](http://torrentinvites.org) 
 - [BytesLoader](https://www.bytesloader.com/)
 - [Pirateiro](https://pirateiro.unblocked.gdn/)
+- [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
@@ -1017,6 +1020,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader tool.
 - [FreeTutorial](https://www.freetutorials.eu/) Free tutorials page, hacking courses & more.
+- [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+- [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is
 
 ## Direct Download Streaming
 - [filechef](http://filechef.com/)
@@ -1148,6 +1153,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [4PDA.ru](http://4pda.ru/forum/index.php?act=idx) 4PDA is the biggest Russian forum about mobile devices. You can find endless amount of APKs and Mobile software there. For download registration is required, [this might help you to solve the captchas](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html).
 - [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
 - [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
+- [Baltagy Official Homepage](https://baltagy1.blogspot.com/) Android & Windows Software.
 
 ### Streaming Apps
 - [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
@@ -1299,6 +1305,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [QQMovies](http://qqmovies.co/)
 - [TopEuroPix](https://topeuropix.net/)
 - [MovieStreams](https://moviestreams.org/)
+- [SceneSource](http://www.scnsrc.me/category/films/)
 
 ### Torrent Apps
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
@@ -1337,6 +1344,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Xtream Editor](http://www.xtream-editor.com/) Xtream Editor allow you to create, edit and sort m3u playlists online.
 - [xTeVe](https://xteve.de/) M3U Proxy for Plex DVR
 - [STBEmulator](http://rocketstreams.tv/stbemu) Popular Android app for using IPTV streams with EPG
+- [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars.
 
 ### Acestreams
 - [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
@@ -1402,6 +1410,10 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo)
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 
+## Full TV Shows On
+- [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones.
+- [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99, new NetFlix releases.
+
 ## Piracy Blogs and News
 - [TorrentFreak](https://torrentfreak.com) TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 - [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
@@ -1455,26 +1467,30 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronised viewing of YouTube and Google Drive videos
 - [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
 
-## Miscellaneous
-- [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/)RCC, check your system's trusted root certificate store.
-- [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
-- [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones.
-- [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
-- [Pi-hole](https://pi-hole.net/) Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
-- [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
-- [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
-- [ghostbin](https://ghostbin.com/) Secure pastebin service.
-- [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
-- [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is
-- [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
-- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy.
-- [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars.
-- [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
-- [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99, new NetFlix releases.
-- [Baltagy Official Homepage](https://baltagy1.blogspot.com/) Android & Windows Software.
-- [Simplix Blog](https://blog.simplix.info/update7/) Windows Hotfix repository.
+## Secure PasteBin alternatives
+- [ghostbin](https://ghostbin.com/)
+- [zerobin](https://zerobin.net/) - [Tor Mirror](http://zerobinqmdqd236y.onion)
+- [privatebin](https://privatebin.net/)
 
+## DNS based Ad-Blocking
+- [Pi-hole](https://pi-hole.net/) Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
+
+## Emby Servers
+- [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
+
+## URL Shortener
+- [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
+
+## Windows Resources
+- [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) RCC, check your system's trusted root certificate store.
+- [Simplix Blog](https://blog.simplix.info/update7/) Windows Hotfix repository.
+- [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's
 
 ## Premium Link Generators
 - [Free Rapidleech](http://freerapidleechlist.blogspot.com/) Daily updated free premium hoster logins. **Be Warned**: Fake pages are looking similar!
 -  [Deepbrid](https://www.deepbrid.com/downloader) 1,2GB premium links, a "pro" version is also avbl. without any download limits.
+
+## Antivirus alternatives (because AV's suck)
+- [Sandboxie](https://www.sandboxie.com/) Install and run programs in a virtual sandbox environment without writing to the hard drive.
+- [FireJail](https://firejail.wordpress.com/download-2/) Linux Snadbox
+- [FlatPak](https://flatpak.org/getting) 
