@@ -48,6 +48,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [xrel.to](https://www.xrel.to/)
 - [SrrDB](https://www.srrdb.com/)
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
+- [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 
 ### VPN Guides & Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of "That One Privacy Site" with VPN comparisons.
