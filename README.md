@@ -256,7 +256,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) Helpful resource from the /r/trackers Wiki.
 - [BTRACS](http://btracs.com/) An automatic information site which periodically checks closed community BitTorrent trackers for being open for signup.
 
-### Torrent Clients (Should be used in combination with a VPN)
+### Torrent Clients (should be used in combination with a VPN)
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client.
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent.
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
@@ -269,6 +269,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js.
 - [RTorrent](https://github.com/rakshasa/rtorrent/wiki#download-links) Open source Torrent client. 
 - [LibTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) Mobile torrent client.
+- [popcorn-time-desktop](https://github.com/amilajack/popcorn-time-desktop) A modern open source Popcorn Time Client
 
 #### rTorrent
 - [rTorrent](https://rakshasa.github.io/rtorrent/) rTorrent is a text-based ncurses BitTorrent client written in C++.
