@@ -50,6 +50,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [SCNLOG.me](https://scnlog.me)
+- [RARBG](https://rarbg.to/) Public tracker with its own release group.
 
 ## Anti-tamper systems
 - [Valeroa](https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
@@ -207,7 +208,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository.
 - [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016.
-- [RARBG](https://rarbg.to/) Public tracker with its own release group.
 - [YTS](https://yts.am/) Small-size HD movies from YIFY.
 - [The Pirate Bay](https://thepiratebay.org/) Well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!)
 - [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
@@ -441,6 +441,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ### GoG Repack & Releases + Retro Games
 - [Good-Old-Downloads (GitHub)](https://github.com/Good-Old-Downloads) - Good-Old-Downloads is shuting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) why.
+- [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) Good-Old-Downloads mirror page.
 
 ### DDL Link Sites
 - [NaMaMe Club](http://nnmclub.to/) Software for Windows.
