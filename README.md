@@ -96,7 +96,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [ThePirateBay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS and more...
 - [Emuparadise ROMs:easy download](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) Make Emuparadise great again!
 
-### Windows 10 Privacy
+### Windows 10 pseudo-Privacy Tools
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io.
@@ -161,7 +161,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 
 #### Private Trackers
-- [AlphaRatio ](https://alpharatio.cc) (AR) A good starter tracker with lots of freeleech content.
+- [SceneTime](https://www.scenetime.com)
+- [AlphaRatio](https://alpharatio.cc) (AR) A good starter tracker with lots of freeleech content.
 - [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music.
 - [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) Open signups on the 1st-2nd every month.
 - [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
@@ -500,6 +501,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [DownloadLY.IR](http://downloadly.ir/) (IR)
 - [Mawto](https://www.mawtoload.com/)
 - [rsload](https://rsload.net/)
+- [GLOAD.cc](https://gload.cc/) (Ger)
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
