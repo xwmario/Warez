@@ -49,6 +49,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [SrrDB](https://www.srrdb.com/)
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
+- [SCNLOG.me](https://scnlog.me)
 
 ## Anti-tamper systems
 - [Valeroa](https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
