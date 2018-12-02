@@ -441,7 +441,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [IPLIVE](https://iplive.club/) DDL search engine.
 
 ### GoG Repack & Releases + Retro Games
-- [Good-Old-Downloads (GitHub)](https://github.com/Good-Old-Downloads) - Good-Old-Downloads is shuting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) why.
+- [Good-Old-Downloads (GitHub)](https://github.com/Good-Old-Downloads) - Good-Old-Downloads is shuting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) why. There is a full encrypted dump avbl. [here](https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) Good-Old-Downloads mirror page.
 
 ### DDL Link Sites
@@ -812,7 +812,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [CreamAPI AutoInstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to auto install Cream API for Steam games in order to get all [DLCs for free](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
 
 ### Repacks
-- [Good Old Downloads](https://goodolddownloads.com/) Very popular repacks site with scene games, retro games, and games from the GOG.com catalog.
 - [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more.
 - [FitGirl Repacks](http://fitgirl-repacks.site/) Popular DDL and torrent site for game repacks.
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents.
