@@ -1280,6 +1280,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [TVMovies](https://tvmovies.to/)
 - [WatchFree.ac](https://www3.watchfree.ac/watchfree.html)
 - [ddlhub](https://ddlhub.xyz/)
+- [flixtor.to](https://flixtor.to/) (currently under construction)
 
 ### 1080p Streaming
 - [Video2k](http://www.video2k.is/)
