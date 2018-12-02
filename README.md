@@ -828,7 +828,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) Nintendo, Sony, Microsoft, Romsets, Arcade and other ROm collections.
 - [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories.
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs.
-- [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links.
+- [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links to ROM and ISO websites.
 - [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs.
 - [The Eye ROMs](http://the-eye.eu/public/rom/) Open directory of ROMs from The Eye.
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
@@ -837,6 +837,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [3dscia](https://www.3dscia.com/) Nintendo 3ds CIA files.
 - [Ziperto](https://www.ziperto.com/) Nintendo 3ds CIA files, especially for JRPGs.
 - [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) Nintendo 3ds CIA files.
+- [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) List of Xbox, Nintendo etc games. 
 
 
 ### Console Games
@@ -854,7 +855,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) Fanmade Skidrow & Reloaded mirror website.
 - [GameCopyWorld](https://gamecopyworld.eu) Provides cracks for Games.
 - [GameBurnWorld](http://www.gameburnworld.com/) Provides cracks for Games.
-- [IGG-Games](http://igg-games.com/) Provides cracks for Games.
+- [IGG-Games](http://igg-games.com/) Provides cracks for lots of Games.
 - [Torrents Gamestorrent](http://gamestorrent.co/) PC Game releases from CODEX, SKIDROW, PLAZA & Co.
 
 ### CD Key Sellers
