@@ -435,7 +435,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [IPLIVE](https://iplive.club/) DDL search engine.
 
 ### GoG Repack & Releases + Retro Games
-- [GoodoldDownloads](https://goodolddownloads.com/) Gog.com releases, retro & Console releases.
+- [Good-Old-Downloads (GitHub)](https://github.com/Good-Old-Downloads) - Good-Old-Downloads is shuting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) why.
 
 ### DDL Link Sites
 - [NaMaMe Club](http://nnmclub.to/) Software for Windows.
