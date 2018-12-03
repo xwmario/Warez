@@ -55,6 +55,14 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 ## Anti-tamper systems
 - [Valeroa](https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
 - [Denuvo](https://old.reddit.com/r/CrackStatus/comments/43dgej/how_denuvo_works_and_why_its_so_hard_to_crack/)
+- CENC ClearKey
+- Adobe Primetime
+- Google Widevine Modular DRM
+- Marlin
+- Microsoft Playready
+- Verimatrix
+- VMProtect
+
 
 ### VPN Guides & Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of "That One Privacy Site" with VPN comparisons.
