@@ -1172,6 +1172,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
 - [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 - [Baltagy Official Homepage](https://baltagy1.blogspot.com/) Android & Windows Software.
+- [apk4free](https://apk4free.net/) Android apk mirrors and patches.
+- [APKDot](https://apkdot.com/) APKMirror clone website.
+- [Haxoff](https://haxoff.net/) Haxoff provides cracked games & Android APK's.
 
 ### Streaming Apps
 - [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
@@ -1335,6 +1338,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) Another popular torrent client for Android.
 
 ### APKs
+- [Aptoide](http://www.aptoide.com/) Cracked and legit apk's. 
 - [Mobilism Forum](https://forum.mobilism.org/index.php) Large forum of mobile apps and books
 - [On HAX](https://onhax.me/) APK mirrors
 - [APKMirror](https://www.apkmirror.com/) Download free Android APKs
@@ -1343,6 +1347,10 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [BlackMod](https://blackmod.net/) Lots of cracked Android games
 - [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
+- [APKmb](https://apkmb.com/) Download paid Apps & Android Games for free.
+- [Androeed](https://www.androeed.ru/) (RU) Russian APK site.
+- [libre.io](https://boards.libre.io) (requires login) A small forum with some exclusive apps & games.
+- [iHackedit](http://ihackedit.com/) Provides Android apps & games including Mods.
 
 ## Discord Servers, Bots & Tools
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
