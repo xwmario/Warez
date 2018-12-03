@@ -996,6 +996,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [SamLab](http://samlab.ws/)
 - [PCBeta](http://bbs.pcbeta.com)
 - [snahp.it Forum](https://forum.snahp.it/) Invite-only board for software.
+- [UUPDump](https://uupdump.ml/) Inofficial Windows Hotfix repository.
 
 ## Ebooks
 - [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
