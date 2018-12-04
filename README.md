@@ -25,21 +25,23 @@ See also:
 
 
 ## Contributing Guidelines
-- [x] Issue ticket are closed
-- [x] Submitted pages must be malware free, if it requires a VPN/proxy it must be mentioned.
+- [x] Issue ticket system is closed (for now)
+- [x] Submitted pages must be malware free, if it requires a VPN/proxy it must be mentioned due to security reasons!
 - [x] All pages are in english, except the ones which are labeled with e.g. (Ger) for Germany etc. 
 - [x] Don't argue about morality here. We all have our reasons. 
 - [x] If something is wrong or missing just make a PR (_see below how to do that!_)
 - [x] No page except ThePirateBay should include dangerous ads or coin-miners
-- [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them
+- [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them.
+- [x] No drama or bitch fighting, if a page is involved into such things it automatically lands on the banned list.  
 
+### Submitting a PR
 * Fork the repo on GitHub
 * Clone the project to your own machine
 * Commit changes to your own branch
 * Push your work back up to your fork
 * Submit a Pull request so that we can review your changes
 
-NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+**NOTE**: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## Scene Release Info
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
