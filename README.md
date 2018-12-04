@@ -1043,6 +1043,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [FreeTutorial](https://www.freetutorials.eu/) Free tutorials page, hacking courses & more.
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is
+- [Unlimited Mega.nz-IDM-downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Download Mega.nz without any limits.
 
 ## Direct Download Streaming
 - [filechef](http://filechef.com/)
@@ -1487,6 +1488,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 ## File Sharing Tools
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
+- [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://github.com/stewartmcgown/uds) Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
 
 ## Stream Synchronisation
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
