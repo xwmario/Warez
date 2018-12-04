@@ -17,3 +17,4 @@ Imposter, crypto mining etc
 * sunlitez.ru
 * sunlites.fun
 * howtofixgame.com
+* igg-games.com

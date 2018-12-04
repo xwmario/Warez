@@ -868,7 +868,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [GameCopyWorld](https://gamecopyworld.eu) Provides cracks for Games.
 - [MegaGames](https://megagames.com/) Same like GameCopyWorld, online since 20+ years, old but gold!
 - [GameBurnWorld](http://www.gameburnworld.com/) Provides cracks for Games.
-- [IGG-Games](http://igg-games.com/) Provides cracks for lots of Games.
 - [Torrents Gamestorrent](http://gamestorrent.co/) PC Game releases from CODEX, SKIDROW, PLAZA & Co.
 
 ### CD Key Sellers
