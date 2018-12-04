@@ -249,6 +249,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [BytesLoader](https://www.bytesloader.com/)
 - [Pirateiro](https://pirateiro.unblocked.gdn/)
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
+- [Saavn](https://saavn.tomato.to/) A search engine designed to find old and new music releases.
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
