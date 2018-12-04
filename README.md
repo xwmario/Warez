@@ -42,7 +42,6 @@ See also:
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## Scene Release Info
-- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
 - [predb.pw](https://predb.pw)
 - [xrel.to](https://www.xrel.to/)
@@ -51,6 +50,10 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [SCNLOG.me](https://scnlog.me)
 - [RARBG](https://rarbg.to/) Public tracker with its own release group.
+
+### Basic "starter info"
+- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
+- [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
 
 ## Anti-tamper systems
 - [Valeroa](https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
