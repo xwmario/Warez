@@ -1430,6 +1430,14 @@ See also:
 - [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
 - [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
 
+## Secure Messenger
+- [A comparison of messaging / communication services](Messaging-Services-Comparison)
+- [Threema](https://threema.ch/en)
+- [Riot](https://matrix.org/blog/home/)
+- [XMPP (protocol)](https://xmpp.org/)
+- [Briar](https://briarproject.org/)
+- [Wire](https://wire.com/)
+
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
 - [/r/fullmoviesongoogle](https://www.reddit.com/r/fullmoviesongoogle/)
