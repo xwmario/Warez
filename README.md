@@ -164,6 +164,7 @@ See also:
 - [Torrage](https://torrage.info/) Torrage is a free service for caching torrent files online.
 - [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents.
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies.
+- [Torrents.csv](https://torrents-csv.ml/) An [open source](https://gitlab.com/dessalines/torrents.csv) collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 
 ### Trackers
 - [/r/trackers](https://www.reddit.com/r/trackers) A subreddit for discussing public & private trackers.
@@ -255,6 +256,7 @@ See also:
 - [Pirateiro](https://pirateiro.unblocked.gdn/)
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
 - [Saavn](https://saavn.tomato.to/) A search engine designed to find old and new music releases.
+- [xbit.pw](http://xbit.pw/) A Magnet site search engine.
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
