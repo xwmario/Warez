@@ -1028,6 +1028,7 @@ See also:
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks.
 - [LibGen](http://libgen.io/) eBook search. ([Mirror](http://gen.lib.rus.ec/)) + ([another Mirror](https://libgen.pw/))
 - [TehParadox](http://www.tehparadox.co/) eBooks, Apps, Games & more.
+- [/r/DHExchange](https://old.reddit.com/r/DHExchange/) PDF/eBooks trading.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
