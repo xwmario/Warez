@@ -492,7 +492,7 @@ See also:
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
-- [WarezBB.org](http://warezbb.org/) Invite-only forum.
+- [WarezBB.org](http://warezbb.org/) Invite-only elite forum.
 - [RU-Board](http://forum.ru-board.com/) Well-known warez board.
 - [Nsane Forum](https://www.nsaneforums.com/)
 - [KickassWarez](https://kickasswarez.info/) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
@@ -517,6 +517,7 @@ See also:
 - [Mawto](https://www.mawtoload.com/)
 - [rsload](https://rsload.net/)
 - [GLOAD.cc](https://gload.cc/) (Ger)
+- [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -836,7 +837,6 @@ See also:
 - [CreamAPI AutoInstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to auto install Cream API for Steam games in order to get all [DLCs for free](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
 
 ### Repacks
-- [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more.
 - [FitGirl Repacks](http://fitgirl-repacks.site/) Popular DDL and torrent site for game repacks.
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents.
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games.
@@ -1098,12 +1098,13 @@ See also:
 - [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) An old post by /u/whatwhat888 that may still be useful
 
 ## Fonts, Icons and Graphics
-- [Get the font](https://www.getthefont.com/) Searches through GitHub for fonts
+- [Get the Font](https://www.getthefont.com/) Searches through GitHub for fonts
 - [Web4Sync](https://web4sync.com/) Forum with DDL links catering to web development, graphics design, 3D animation, and photography
 - [GFXDomain](http://forum.gfxdomain.net/) Forum for graphic design resources and software
 - [GFxtra](https://www.gfxtra.com/) DDL links for graphics, icons, 3D models, and more
 - [GraphicEx](https://graphicex.com/) Stock/vector graphics, PhotoShop/InDesign resources, fonts, and more
-- [How to download paid fonts for free](https://old.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
+- [Tomato.to](https://tomato.to/) Supports Shutterstock, Gettyimages, Adobestock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
+- [How to download paid Fonts for free](https://old.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
 
 ## Automation
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
@@ -1177,6 +1178,7 @@ See also:
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
+- [MediaElch](https://www.kvibes.de/mediaelch/) Media manager for Kodi. Metadata & artwork retrieval, as well as renaming.
 
 ## Mobile Apps
 - [nzb360](http://nzb360.com/) nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your usenet needs.
