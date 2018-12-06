@@ -1,5 +1,4 @@
-Imposter, crypto mining etc
-
+Imposter, crypto mining etc:
 
 * skidrowgamesreloaded.co
 * skidrowgames.in
@@ -18,3 +17,10 @@ Imposter, crypto mining etc
 * sunlites.fun
 * howtofixgame.com
 * igg-games.com
+
+
+Banned search engines:
+
+* DuckDuckGo ([read why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
+  
+  
