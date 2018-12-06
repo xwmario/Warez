@@ -489,7 +489,6 @@ See also:
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
 - [Watch Series](http://watchseries.ag/)
 - [WatchTVSeries](http://watchtvseries.unblckd.club/)
-- [tvbox](https://tvbox.unblocked.gdn/)
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
@@ -551,6 +550,15 @@ See also:
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow).
 
 ### Anime & Cartoon Streaming
+- [480mkv](http://480mkv.com/)
+- [PutlockerSeries](http://putlockerseries.to/)
+- [TVBox](https://tvbox.unblocked.gdn/)
+- [WatchSeries](http://dwatchseries.to/)
+- [WatchSeries 2.0](https://watch-series.io/)
+- [MioMio](http://www.miomio.tv/)
+- [Anime8](https://anime8.me/)
+- [NineAnime](https://www.nineanime.com/)
+- [TVRaven](https://www.onetvraven.pro/)
 - [Monimo](https://monimoapp.netlify.com/)
 - [Masterani](https://www.masterani.me/)
 - [9Anime](https://tinyurl.com/ydgladf3)
@@ -558,8 +566,7 @@ See also:
 - [AnimeHeaven](http://animeheaven.eu/)
 - [Hi10Anime](https://tinyurl.com/y72ltlay)
 - [AnimePahe](https://animepahe.com/)
-- [Kissanime.ru](http://kissanime.ru/)
-- [Kissanime.ac](https://kissanime.ac/)
+- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/)
 - [GoGoAnime](https://www1.gogoanime.sh/)
 - [AnimeBam](https://www.animebam.net/)
 - [AnimeHub](https://animehub.ac/)
@@ -689,6 +696,7 @@ See also:
 - [DP Stream](https://www.dpstream.net/)
 
 ### Sports Streaming
+- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
 - [LiveTV](https://livesx.eu/)
 - [Cricfree](https://crickfree.org/)
 - [VIPBox](https://www.vipbox.live/) Spanish
@@ -1196,6 +1204,12 @@ See also:
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
 
 ### Big Media Libraries
+- [Primewire](http://www.primewire.is/)
+- [SolarMovieHD](https://solarmoviehd.to/)
+- [Ololo](https://ololo.to/)
+- [FreeMoviez](https://freemoviesz/)
+- [Alluc](https://w1.alluc.uno/)
+- [Solarmovies](https://solamovies.cc/)
 - [filechef](http://filechef.com/) Search Direct Downloads
 - [CafeHulu](http://cafehulu.com/)
 - [8Putlocker](http://www1.8putlocker.com/)
@@ -1206,7 +1220,6 @@ See also:
 - [Viooz](https://vioozgo.org/)
 - [Afdah](http://afdah.to/)
 - [2TwoMovies](https://two-movies.net/)
-- [WatchSeries 2.0](https://watch-series.io/)
 - [Putlockertv](https://www3.putlocker.onl/)
 - [Putlockeri](https://putlockeri.club/)
 - [Los-Movies](http://los-movies.com/)
@@ -1221,8 +1234,6 @@ See also:
 ### TV & Sports Streaming
 - [M4uFree.tv](https://tinyurl.com/y7hf9et8)
 - [TVZion](https://www.nicetvzion.pro/)
-- [TVRaven](https://www.onetvraven.pro/)
-- [WatchSeries](http://dwatchseries.to/)
 - [SeriesFree](https://tinyurl.com/y7onqc4r)
 - [Daily TV Fix](https://tinyurl.com/yaqbmccu)
 - [TVSeries4u](http://tvseries4u.com/)
@@ -1264,7 +1275,6 @@ See also:
 - [HackIMDb](https://hackimdb.com/)
 - [FFilms](http://ffilms.org/)
 - [VidCloud](https://tinyurl.com/ycw4lkgz)
-- [SolarMovieHD](https://solarmoviehd.to/)
 - [IWannaWatch](https://www.iwannawatch.is/)
 - [Streamlord](https://tinyurl.com/ybrtnppf)
 - [Khaanflix](https://tinyurl.com/y98muv8v)
@@ -1321,9 +1331,7 @@ See also:
 - [Movie Files](https://moviefiles.org/)
 - [HD Multireddit](https://old.reddit.com/user/nbatman/m/streaming2/) 1080p Openload, Google Video & Vimeo,..
 - [Crackle](https://www.sonycrackle.com/out-of-region.html)
-- [Ololo](https://ololo.to/)
 - [Videospider](https://videospider.in/)
-- [Alluc](https://w1.alluc.uno/)
 - [crawler](https://crawler.to/)
 - [IceFilms](http://www.icefilms.info/)
 - [MovieJagg](https://www.coolmoviejagg.pro/)
