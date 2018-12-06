@@ -250,7 +250,7 @@ See also:
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine.
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation).
-- [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI.
+- [WorldWide Torrents](http://worldwidetorrents.to/) Another public tracker with a reasonably nice UI.
 - [TorrentInvites](http://torrentinvites.org) 
 - [BytesLoader](https://www.bytesloader.com/)
 - [Pirateiro](https://pirateiro.unblocked.gdn/)
