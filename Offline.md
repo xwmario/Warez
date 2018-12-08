@@ -5,4 +5,11 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - Good-Old-Downloads 
 - MovieBox
 - worldwidetorrents.me
+
+
+## Others 
 - mac-torrents.me
+
+
+## Tracker
+- [Leechers Paradise](https://torrentfreak.com/huge-torrent-tracker-calls-it-quits-after-12-years-citing-article-13-181207/)
