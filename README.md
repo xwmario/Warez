@@ -609,6 +609,7 @@ See also:
 - [Toonova](https://tinyurl.com/ybxvn3ad)
 - [MoviesEver](https://moviesever.com/)
 - [Serienjunkies](http://serienjunkies.org/) 720p (German)
+- [Mejor Torrent](http://www.mejortorrent.org/) (ES)
 
 ### Specialty Sites
 - [Rulu](https://www.rulu.co/) Youtube Red Series
