@@ -1553,3 +1553,8 @@ See also:
 - [Sandboxie](https://www.sandboxie.com/) Install and run programs in a virtual sandbox environment without writing to the hard drive.
 - [FireJail](https://firejail.wordpress.com/download-2/) Linux Snadbox
 - [FlatPak](https://flatpak.org/getting) 
+
+## Hardware Security Token
+- [How to use GPG with YubiKey (bonus: WSL)](https://codingnest.com/how-to-use-gpg-with-yubikey-wsl/)
+- [Configure YubiKey with Google, LastPass and KeePass](https://www.raymond.cc/blog/setting-up-yubikey-with-lastpass-as-second-factor-authentication/)
+- [Adding two factor authentication to KeePass & KeePass2Android](http://nidkil.me/2014/12/10/adding-two-factor-authentication-to-keepass-keepass2android/)
