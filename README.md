@@ -257,6 +257,7 @@ See also:
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
 - [Saavn](https://saavn.tomato.to/) A search engine designed to find old and new music releases.
 - [xbit.pw](http://xbit.pw/) A Magnet site search engine.
+- [WebOas](https://weboas.is/) A search engine designed to find warez, music and other stuff in public dirs.
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
