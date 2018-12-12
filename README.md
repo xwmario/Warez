@@ -670,7 +670,7 @@ See also:
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
 - [Yes! Movies](https://yesmovies.to)
-- [FMOVIES](https://www3.fmovies.to/)
+- [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
 - [openloadmovies.net](https://openloadmovies.net/) Reliable movie streaming site which uses OpenLoad
 - [HD MOVIES](https://hdm.to/) Another streaming site which uses OpenLoad
 - [HDOnline](https://www1.hdonline.eu)
@@ -700,11 +700,11 @@ See also:
 - [DP Stream](https://www.dpstream.net/)
 
 ### Sports Streaming
-- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
-- [LiveTV](https://livesx.eu/)
-- [Cricfree](https://crickfree.org/)
-- [VIPBox](https://www.vipbox.live/) Spanish
-- [MamaHD](https://www.mamahd.org/)
+- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services.
+- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
+- [Cricfree](https://crickfree.org/) Offers popular sports streams
+- [VIPBox](https://www.vipbox.live/) (Spanish) Many sport streams, TV, friendly UI
+- [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
 - [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) A subreddit dedicated to the highest quality of free soccer / football streams. World Cup Streams, too.
 - [/r/nflstreams](https://www.reddit.com/r/nflstreams/)
 - [/r/nbastreams](https://www.reddit.com/r/nbastreams/)
@@ -716,7 +716,7 @@ See also:
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/)
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
 - [/r/mmafights](https://www.reddit.com/r/mmafights/)
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams)
+- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit community for motorsports streams.
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me)
 - [720pStream](http://www.720pstream.me/)
@@ -1236,6 +1236,9 @@ See also:
 - [EZTV](https://eztv.io/)
 - [Kinox.to](https://www.kinos.to/) (German)
 - [BS.to](https://bs.to/) (German)
+- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
+- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, random streaming sites
+- [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
 
 ### TV & Sports Streaming
 - [M4uFree.tv](https://tinyurl.com/y7hf9et8)
@@ -1343,7 +1346,7 @@ See also:
 - [MovieJagg](https://www.coolmoviejagg.pro/)
 - [Vmovee](https://vmovee.ws/)
 - [UWatchfree](https://www.uwatchfree.tv/)
-- [RainierLand](http://www.rainierland.is/)
+- [RainierLand](http://www.rainierland.is/) Openload, Streamango
 - [WatchFullMovie](http://watchfullmovie.co/)
 - [Megashare9](http://megashare9.su/)
 - [OnMovies](https://onmovies.to/)
@@ -1361,6 +1364,7 @@ See also:
 - [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) Lightweight & powerful BitTorrent app.
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) Another popular torrent client for Android.
+- [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) A Deluge thin client for Android. Written in Flutter.
 
 ### APKs
 - [Aptoide](http://www.aptoide.com/) Cracked and legit apk's. 
@@ -1376,6 +1380,7 @@ See also:
 - [Androeed](https://www.androeed.ru/) (RU) Russian APK site.
 - [libre.io](https://boards.libre.io) (requires login) A small forum with some exclusive apps & games.
 - [iHackedit](http://ihackedit.com/) Provides Android apps & games including Mods.
+- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy focused keyboard.
 
 ## Discord Servers, Bots & Tools
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
