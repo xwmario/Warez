@@ -1558,7 +1558,7 @@ See also:
 
 ## Antivirus alternatives (because AV's suck)
 - [Sandboxie](https://www.sandboxie.com/) Install and run programs in a virtual sandbox environment without writing to the hard drive.
-- [FireJail](https://firejail.wordpress.com/download-2/) Linux Snadbox
+- [FireJail](https://firejail.wordpress.com/download-2/) Sandbox for Linux
 - [FlatPak](https://flatpak.org/getting) 
 
 ## Hardware Security Token
