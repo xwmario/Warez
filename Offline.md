@@ -9,6 +9,8 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 
 ## Others 
 - mac-torrents.me
+- ondailytvfix.com
+- dailytvfix.com
 
 
 ## Tracker
