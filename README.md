@@ -862,7 +862,6 @@ See also:
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
 - [The ROM Depot](https://theromdepot.com/roms/) Around 3 TB of ROMs.
-- [3dscia](https://www.3dscia.com/) Nintendo 3ds CIA files.
 - [Ziperto](https://www.ziperto.com/) Nintendo 3ds CIA files, especially for JRPGs.
 - [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) Nintendo 3ds CIA files.
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) List of Xbox, Nintendo etc games. 
@@ -885,6 +884,40 @@ See also:
 - [MegaGames](https://megagames.com/) Same like GameCopyWorld, online since 20+ years, old but gold!
 - [GameBurnWorld](http://www.gameburnworld.com/) Provides cracks for Games.
 - [Torrents Gamestorrent](http://gamestorrent.co/) PC Game releases from CODEX, SKIDROW, PLAZA & Co.
+
+
+### GameCube Games
+- [GDrive](https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR)
+- [Archive.org](https://archive.org/details/NCubeJ) Gamecube NTSC-J: Your gonna need an account with archive.org but it should work, speeds are decent.
+
+
+### 3DS
+- [3DS Decrypter utility](https://github.com/matiffeder/stuff)
+- [ziperto.com](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/)
+- [3dscia](https://www.3dscia.com/) Nintendo 3ds CIA files.
+- [GDrive](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5)  All regions collection.
+- [Mega.nz](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) 3DS Virtual Console
+- [MEga.nz](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) DS Best of Collection
+- [GDrive](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd)
+- [GDrive](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
+
+
+### GameBoy Advance
+- [Mega.nz](https://mega.nz/#!nNoCWbBB!VYNEdwStd12U_aS1qotoo9bz8vky9JnZGrlqAeVKHjA) Password=snahp.it
+- [GDrive (mirror)](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf) Password=snahp.it
+
+
+### Nintendo Switch Games
+- [GDrive](https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
+- [GDrive (more frequently updated](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
+
+
+### Wii U Games
+- [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-) EU only games.
+- [GDrive](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) Wiiware and VC collection
+- [GDrive](https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) Wii Scrubbed ISOs retail Collection NTSC
+- [GDrive (Mirror from abolve link](https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0)
+
 
 ### CD Key Sellers
 - [GO CD Keys](https://gocdkeys.com/)
