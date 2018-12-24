@@ -7,6 +7,10 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - worldwidetorrents.me
 
 
+# Anime
+- AnimeHeaven.eu
+
+
 ## Others 
 - mac-torrents.me
 - ondailytvfix.com

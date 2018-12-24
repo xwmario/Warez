@@ -569,6 +569,7 @@ See also:
 - [AnimeHeaven](http://animeheaven.eu/)
 - [Hi10Anime](https://tinyurl.com/y72ltlay)
 - [AnimePahe](https://animepahe.com/)
+- [MasterAni](https://www.masterani.me)
 - [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/)
 - [GoGoAnime](https://www1.gogoanime.sh/)
 - [AnimeBam](https://www.animebam.net/)
