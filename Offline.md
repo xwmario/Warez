@@ -19,6 +19,8 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - audiobookbay.me
 - audiobookbay.la
 - audiobookbay.cc
+- H33T.eu
+- H33t.to
 
 
 ## Tracker

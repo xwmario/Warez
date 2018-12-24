@@ -17,6 +17,7 @@ See also:
 * [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
 * [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
 * [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/)   ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
+* [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
 
 
 # Todo
