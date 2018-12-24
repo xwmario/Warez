@@ -11,6 +11,10 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - mac-torrents.me
 - ondailytvfix.com
 - dailytvfix.com
+- audiobookbay.nl
+- audiobookbay.me
+- audiobookbay.la
+- audiobookbay.cc
 
 
 ## Tracker

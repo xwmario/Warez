@@ -459,7 +459,7 @@ See also:
 - [IPLIVE](https://iplive.club/) DDL search engine.
 
 ### GoG Repack & Releases + Retro Games
-- [Good-Old-Downloads (GitHub)](https://github.com/Good-Old-Downloads) - Good-Old-Downloads is shuting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) why. There is a full encrypted dump avbl. [here](https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
+- [Good-Old-Downloads (GitHub source code)](https://github.com/Good-Old-Downloads) - Good-Old-Downloads is shuting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) why. There is a full encrypted dump avbl. [here](https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) Good-Old-Downloads mirror page.
 
 ### DDL Link Sites
@@ -884,6 +884,7 @@ See also:
 - [MegaGames](https://megagames.com/) Same like GameCopyWorld, online since 20+ years, old but gold!
 - [GameBurnWorld](http://www.gameburnworld.com/) Provides cracks for Games.
 - [Torrents Gamestorrent](http://gamestorrent.co/) PC Game releases from CODEX, SKIDROW, PLAZA & Co.
+- [OVA Games](http://www.ovagames.com/) Cracks to latest Game Releases from PLAZA, CODEX & Co.
 
 
 ### GameCube Games
@@ -1107,6 +1108,7 @@ See also:
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
 - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
+- 
 
 ## Comicbooks
 - [readcomiconline.to](https://readcomiconline.to/) Manga and comics which are been uploaded daily.
