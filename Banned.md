@@ -18,6 +18,7 @@ Imposter, crypto mining etc:
 * howtofixgame.com
 * igg-games.com
 * gamestorrent.co
+* magnet2torrent.com
 
 
 Banned search engines:
