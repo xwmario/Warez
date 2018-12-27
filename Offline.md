@@ -21,6 +21,10 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - audiobookbay.cc
 - H33T.eu
 - H33t.to
+- pcgames-download.com
+- subsmovies.com
+
+
 
 
 ## Tracker

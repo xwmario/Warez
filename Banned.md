@@ -16,9 +16,9 @@ Imposter, crypto mining etc:
 * sunlitez.ru
 * sunlites.fun
 * howtofixgame.com
-* igg-games.com
 * gamestorrent.co
 * magnet2torrent.com
+* igg-games.com 
 
 
 Banned search engines:

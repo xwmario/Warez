@@ -965,6 +965,7 @@ See also:
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
 - [GoGoAnimes](https://gogoanimes.co) Dubs and up2date animes.
 - [Kissanime](https://kissanime.ru) Dubs and up2date animes.
+- [Series9](https://www2.series9.io/) Search engine for movies and tv shows (incl. animes).
 
 ## Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
