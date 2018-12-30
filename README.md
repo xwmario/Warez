@@ -701,6 +701,9 @@ See also:
 - [libertyVF](https://ww1.libertyvf.org/)
 - [DP Stream](https://www.dpstream.net/)
 
+### Video Game Music (OST)
+- [FFShine Forum](http://forums.ffshrine.org/forumdisplay.php?f=72) A place for game and video game music.
+
 ### Sports Streaming
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services.
 - [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
