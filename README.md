@@ -1035,9 +1035,6 @@ See also:
 - [Nulled](https://www.nulled.to/) Nulled is a cracking community where you can find links to cracked software
 - [Vestathemes](https://www.vestathemes.com/) Vestathemes is a website for [WordPress](https://www.wordpress.com/) themes and plugins.
 
-## Cracking
-- [Tuts4You](https://forum.tuts4you.com/) Tuts4You provides cracktros, information and more.
-- [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 
 ### Adobe CC
 - [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](https://old.reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) A full in-depth guide to installing and cracking any application (Windows) by sjain_guides.
@@ -1057,7 +1054,7 @@ See also:
 - [snahp.it Forum](https://forum.snahp.it/) Invite-only board for software.
 - [UUPDump](https://uupdump.ml/) Inofficial Windows Hotfix repository.
 
-## Ebooks
+## eBooks
 - [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 - [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
@@ -1103,6 +1100,8 @@ See also:
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is
 - [Unlimited Mega.nz-IDM-downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Download Mega.nz without any limits.
+- [Tuts4You](https://forum.tuts4you.com/) Tuts4You provides cracktros, information and more.
+- [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 
 ## Direct Download Streaming
 - [filechef](http://filechef.com/)
@@ -1430,6 +1429,7 @@ See also:
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
 - [WarezBot for Discord](https://github.com/enzobes/WarezBot) A Discord Bot which crawls scene releases.
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
+- [wtfnzb](https://wtfnzb.pw/) Open dir for Software.
 
 ## IPTV and DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
