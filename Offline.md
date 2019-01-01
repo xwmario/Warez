@@ -23,6 +23,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - H33t.to
 - pcgames-download.com
 - subsmovies.com
+- macgames-download.com
 
 
 
