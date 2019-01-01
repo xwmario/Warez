@@ -19,6 +19,7 @@ Imposter, crypto mining etc:
 * gamestorrent.co
 * magnet2torrent.com
 * igg-games.com 
+* skidrow.games
 
 
 Banned search engines:
