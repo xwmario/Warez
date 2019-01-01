@@ -916,6 +916,7 @@ See also:
 ### Nintendo Switch Games
 - [GDrive](https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
 - [GDrive (more frequently updated](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
+- [Switch SN Checker](https://akdm.github.io/ssnc/scanner/)
 
 
 ### Wii U Games
