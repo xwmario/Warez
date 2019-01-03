@@ -20,10 +20,13 @@ Imposter, crypto mining etc:
 * magnet2torrent.com
 * igg-games.com 
 * skidrow.games
+* tvmuse.com
 
 
 Banned search engines:
 
 * DuckDuckGo ([read why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
   
+
+
   
