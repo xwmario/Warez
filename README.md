@@ -362,7 +362,6 @@ See also:
 - [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries.
 
 ### Usenet Providers
-- [Usenet Services Map](https://commons.wikimedia.org/wiki/File:Usenet_Services_MindMap.svg) Mindmap by /u/thepageunit
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [Eweka](https://www.eweka.nl/) Netherlands-based Usenet provider.
 - [Newsdemon](https://www.newsdemon.com/) Cheap and cheerful Usenet provider with frequent discounts.
@@ -383,9 +382,9 @@ See also:
 - [NZBgeek](https://nzbgeek.info/) Affordable Usenet indexer operating since 2014.
 - [NZBFinder](https://nzbfinder.ws/) Usenet indexer and newznab API with a clean UI and 8+ year backlog of NZBs.
 - [DrunkenSlug](https://drunkenslug.com/) Popular NZB indexer with a free tier and decent retention.
-- [NZBCat](https://nzb.cat/) Meow *cough* nzb-hair-bal.
-- [DOGnzb](https://dognzb.cr/) Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) at the moment).
+- [NZBCat](https://nzb.cat/)
 - [omgwtfnzbs](https://omgwtfnzbs.me/login) Invite-only NZB indexer with a funny name.
+- [DOGnzb](https://dognzb.cr/login) Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) at the moment)
 
 #### Free Indexers
 - [6box](https://6box.me/) A recently revived free Usenet indexing service with a generous API.
@@ -522,6 +521,7 @@ See also:
 - [rsload](https://rsload.net/)
 - [GLOAD.cc](https://gload.cc/) (Ger)
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
+- [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -615,6 +615,7 @@ See also:
 - [MoviesEver](https://moviesever.com/)
 - [Serienjunkies](http://serienjunkies.org/) 720p (German)
 - [Mejor Torrent](http://www.mejortorrent.org/) (ES)
+- [Mangarock](https://mangarock.com/) (EN)
 
 ### Specialty Sites
 - [Rulu](https://www.rulu.co/) Youtube Red Series
@@ -1214,6 +1215,7 @@ See also:
 - [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
 - [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
 - [DVDFab](https://www.dvdfab.cn/) DVD/Blu-ray ripping tool, alternative use AnyDVD HD.
+- [The Encoding Guide](https://encoding-guide.neocities.org/) An in-depth guide on video encoding.
 
 ## Cloud Storage
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
@@ -1266,9 +1268,7 @@ See also:
 ### Big Media Libraries
 - [Primewire](http://www.primewire.is/)
 - [SolarMovieHD](https://solarmoviehd.to/)
-- [Ololo](https://ololo.to/)
 - [FreeMoviez](https://freemoviesz/)
-- [Alluc](https://w1.alluc.uno/)
 - [Solarmovies](https://solamovies.cc/)
 - [filechef](http://filechef.com/) Search Direct Downloads
 - [CafeHulu](http://cafehulu.com/)
@@ -1445,18 +1445,20 @@ See also:
 - [wtfnzb](https://wtfnzb.pw/) Open dir for Software.
 
 ## IPTV and DVR
-- [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
+- [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang.
 - [tvheadend](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
-- [/r/IPTV](https://www.reddit.com/r/IPTV) Subreddit some may find helpful for gauging the current state of IPTV providers
-- [/r/iptvresellers](https://www.reddit.com/r/IPTVresellers) promotions and advertisements from IPTV providers
-- [/r/IPTVReviews](https://www.reddit.com/r/IPTVreviews) Reviews of IPTV service providers
-- [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder
-- [allsprk.tv](https://stream.allsprk.tv) Channel-hoppable live streaming site with a chat room
-- [UlstreaMix](https://ssl.ustreamix.com/) Live TV streaming site, predominantly sports
+- [/r/IPTV](https://www.reddit.com/r/IPTV) Subreddit some may find helpful for gauging the current state of IPTV providers.
+- [/r/iptvresellers](https://www.reddit.com/r/IPTVresellers) promotions and advertisements from IPTV providers.
+- [/r/IPTVReviews](https://www.reddit.com/r/IPTVreviews) Reviews of IPTV service providers.
+- [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder.
+- [allsprk.tv](https://stream.allsprk.tv) Channel-hoppable live streaming site with a chat room.
+- [UlstreaMix](https://ssl.ustreamix.com/) Live TV streaming site, predominantly sports.
 - [Xtream Editor](http://www.xtream-editor.com/) Xtream Editor allow you to create, edit and sort m3u playlists online.
-- [xTeVe](https://xteve.de/) M3U Proxy for Plex DVR
-- [STBEmulator](http://rocketstreams.tv/stbemu) Popular Android app for using IPTV streams with EPG
+- [xTeVe](https://xteve.de/) M3U Proxy for Plex DVR.
+- [STBEmulator](http://rocketstreams.tv/stbemu) Popular Android app for using IPTV streams with EPG.
 - [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars.
+- [IPTV Community](https://iptv.community/) Technology and IPTV discussion website, useful for finding an IPTV provider/reseller.
+- [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019.
 
 ### Acestreams
 - [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
@@ -1531,8 +1533,16 @@ See also:
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 
 ## Full TV Shows On
+- [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want proshots instead of bootlegs to be seen.
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones.
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99, new NetFlix releases.
+- [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019.
+- [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
+- [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99
+- [TheTrove](https://thetrove.net/) The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
+- [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
+- [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
+- [castnow](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 
 ## Piracy Blogs and News
 - [TorrentFreak](https://torrentfreak.com) TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
