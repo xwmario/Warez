@@ -394,8 +394,9 @@ See also:
 - [NZBKing](http://nzbking.com/) The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 
 ### Usenet Clients
-- [SABnzbd](https://sabnzbd.org/) SABnzbd is an Open Source Binary Newsreader written in Python.
-- [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++.
+- [SABnzbd](https://sabnzbd.org/) SABnzbd is an open-source binary Newsreader written in Python.
+- [PowerNZB] The Ultimate Binary Usenet Client for Android.
+- [NZBGet](https://nzbget.net/) Efficient Usenet downloader written in C++ which is bit lighter on system resources than SABNZBd.
 - [Usenetic](https://www.usenetic.com/) The full-featured Usenet client for Mac OSX.
 - [Unison](https://panic.com/blog/the-future-of-unison/) OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued).
 - [spotweb](https://github.com/spotweb/spotweb) Spotweb is a decentralized Usenet community based on the Spotnet protocol.
