@@ -54,7 +54,6 @@ See also:
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [SCNLOG.me](https://scnlog.me)
-- [RARBG](https://rarbg.to/) Public tracker with its own release group.
 
 ### Basic "starter info"
 - [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
@@ -220,6 +219,7 @@ See also:
 - [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum.
 
 #### Public Trackers
+- [LimeTorrents](https://www.limetorrents.info/) LimeTorrents has been around for more than half a decade.
 - [Tor Lock](https://torlock.com/) TorLock is a torrent site that offers verified torrent downloads.
 - [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
 - [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
@@ -261,6 +261,7 @@ See also:
 - [Saavn](https://saavn.tomato.to/) A search engine designed to find old and new music releases.
 - [xbit.pw](http://xbit.pw/) A Magnet site search engine.
 - [WebOas](https://weboas.is/) A search engine designed to find warez, music and other stuff in public dirs.
+- [RARBG](https://rarbg.to/) Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
@@ -1292,12 +1293,13 @@ See also:
 - [Putlockerfreely](https://putlockerfreely.online/watch/rampage-full-movie-online-1-8911.html)
 - [123Movies.ooo](https://123movies.ooo/)
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
-- [EZTV](https://eztv.io/)
-- [Kinox.to](https://www.kinos.to/) (German)
-- [BS.to](https://bs.to/) (German)
+- [EZTV (EZTV.AG)](https://eztv.io/) (EN) Well known group for movies and series.
+- [Kinox.to](https://www.kinos.to/) (GER)
+- [BS.to](https://bs.to/) (GER)
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, random streaming sites
 - [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
+- [TORRENTDOWNLOADS](https://www.torrentdownloads.me/) It’s a no-nonsense index that provides torrents to millions of users each month.
 
 ### TV & Sports Streaming
 - [M4uFree.tv](https://tinyurl.com/y7hf9et8)
