@@ -1198,7 +1198,7 @@ See also:
 - [vlsub](https://github.com/exebetche/vlsub) VLC extension to download subtitles from opensubtitles.org.
 
 
-## P2P Networks
+## P2P-Networks
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file sharing network
 - [Gnutella](https://en.wikipedia.org/wiki/Gnutella) P2P network behind the popular LimeWire file sharing app
 - [FastTrack](https://en.wikipedia.org/wiki/FastTrack) Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
@@ -1208,6 +1208,7 @@ See also:
 - [Kad](https://en.wikipedia.org/wiki/Kad_network) The Kad network is a peer-to-peer (P2P) network which implements the Kademlia P2P overlay protocol.
 
 ## Ripping, Transcoding, Converting
+- [The Encoding Guide](https://encoding-guide.neocities.org/) An in-depth guide on video encoding.
 - [Handbrake](https://handbrake.fr/) HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [MakeMKV](http://www.makemkv.com/) MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
 - [ffmpeg](https://ffmpeg.org/) A complete, cross-platform solution to record, convert and stream audio and video.
@@ -1215,7 +1216,6 @@ See also:
 - [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
 - [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
 - [DVDFab](https://www.dvdfab.cn/) DVD/Blu-ray ripping tool, alternative use AnyDVD HD.
-- [The Encoding Guide](https://encoding-guide.neocities.org/) An in-depth guide on video encoding.
 
 ## Cloud Storage
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
@@ -1444,7 +1444,7 @@ See also:
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
 - [wtfnzb](https://wtfnzb.pw/) Open dir for Software.
 
-## IPTV and DVR
+## IPTV + DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang.
 - [tvheadend](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
 - [/r/IPTV](https://www.reddit.com/r/IPTV) Subreddit some may find helpful for gauging the current state of IPTV providers.
@@ -1563,6 +1563,7 @@ See also:
 - [JustWatch](https://www.justwatch.com/) On JustWatch you are able to find out where to watch your favorite movies & TV series
 - [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
 - [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and bittorrent users.
+- [nulled.cc](https://www.nulled.cc/) Warez Scripts and a forum for Warez resources. 
 
 ## Dashboards and Homepages
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
