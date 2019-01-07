@@ -499,7 +499,7 @@ See also:
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
 - [WarezBB.org](http://warezbb.org/) (EN) Invite-only elite forum. 
-- [Warez-BB-org](https://warez-bb.org/) (EN) Invite-only elite forum.
+- [Warez-BB-org](https://warez-bb.org/) (EN) Elite warez forum. [![(invite needed)][inviteneeded]](#)
 - [RU-Board](http://forum.ru-board.com/) (RU) Well-known warez board.
 - [Nsane Forum](https://www.nsaneforums.com/)
 - [Adit-HD Forum](http://www.adit-hd.com/index.php) (EN) Forum which provides links to HD rips.
