@@ -495,9 +495,12 @@ See also:
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
-- [WarezBB.org](http://warezbb.org/) Invite-only elite forum.
-- [RU-Board](http://forum.ru-board.com/) Well-known warez board.
+- [WarezBB.org](http://warezbb.org/) (EN) Invite-only elite forum. 
+- [Warez-BB-org](https://warez-bb.org/) (EN) Invite-only elite forum.
+- [RU-Board](http://forum.ru-board.com/) (RU) Well-known warez board.
 - [Nsane Forum](https://www.nsaneforums.com/)
+- [Adit-HD Forum](http://www.adit-hd.com/index.php) (EN) Forum which provides links to HD rips.
+- [Snahp Forum](https://forum.snahp.it/index.php) (EN) Forum which provides links to HD rips & software.
 - [KickassWarez](https://kickasswarez.info/) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [Board4All](https://www.board4all.biz/)
 - [OSZone](http://www.oszone.net/)
@@ -1067,7 +1070,6 @@ See also:
 - [Krakatoa](https://krakatoa.www3.cz/)
 - [SamLab](http://samlab.ws/)
 - [PCBeta](http://bbs.pcbeta.com)
-- [snahp.it Forum](https://forum.snahp.it/) Invite-only board for software.
 - [UUPDump](https://uupdump.ml/) In-official Windows Hotfix repository + Windows dumps.
 
 ## eBooks
