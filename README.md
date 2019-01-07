@@ -1652,3 +1652,7 @@ See also:
 
 ## Free graphics 
 - [PixelPro.io](https://pixelpro.io/) Provides free (and paid) graphics for streamers.
+
+## SMS
+- [SMS Privacy](https://smsprivacy.org/) Send/Recieve SMS securely. 
+- [](https://crypton.sh/) Secure SMS Cloud service.
