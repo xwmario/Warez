@@ -48,12 +48,13 @@ See also:
 
 ## Scene Release Info
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
-- [predb.pw](https://predb.pw)
+- [predb.pw](https://predb.pw) + [predb.org](https://predb.org/)
 - [xrel.to](https://www.xrel.to/)
 - [SrrDB](https://www.srrdb.com/)
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [SCNLOG.me](https://scnlog.me)
+- [SweTracker](https://swetracker.org/releases)
 
 ### Basic "starter info"
 - [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
