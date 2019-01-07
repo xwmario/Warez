@@ -541,7 +541,7 @@ See also:
 - [Zippyshare](https://www.zippyshare.com/)
 - [NitroFlare](http://nitroflare.net/)
 - [PutLocker](https://www5.putlockertv.to/)
-- [K!M](https://k.im/) Replaces Megaupload.
+- [K!M](https://k.im/) Replaces Megaupload (_one day_).
 
 ### Open Directories
 - [httpdirfs](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings.
@@ -892,6 +892,8 @@ See also:
 - [GameBurnWorld](http://www.gameburnworld.com/) Provides cracks for Games.
 - [Torrents Gamestorrent](http://gamestorrent.co/) PC Game releases from CODEX, SKIDROW, PLAZA & Co.
 - [OVA Games](http://www.ovagames.com/) Cracks to latest Game Releases from PLAZA, CODEX & Co.
+- [Small-Games](http://small-games.info/) (RU) A russian website which provides their own releases. 
+- [VseTop](https://vsetop.org/) (ru) Yet another russian website which buy their own games and release it to the mass.
 
 
 ### GameCube Games
@@ -1066,7 +1068,7 @@ See also:
 - [SamLab](http://samlab.ws/)
 - [PCBeta](http://bbs.pcbeta.com)
 - [snahp.it Forum](https://forum.snahp.it/) Invite-only board for software.
-- [UUPDump](https://uupdump.ml/) Inofficial Windows Hotfix repository.
+- [UUPDump](https://uupdump.ml/) In-official Windows Hotfix repository + Windows dumps.
 
 ## eBooks
 - [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
