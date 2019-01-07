@@ -729,7 +729,6 @@ See also:
 - [720pStream](http://www.720pstream.me/)
 
 ## Media Centre Applications
-- [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
 - [Kodi](https://kodi.tv/) an award-winning free and open source home theater/media center software and entertainment hub for digital media.
 - [OpenPHT](https://github.com/RasPlex/OpenPHT) a community driven fork of Plex Home Theater
@@ -751,6 +750,7 @@ See also:
 - [Juan Carlos Torrents](https://jct.best4stremio.space/stremio/v1) Allows streaming from torrents collected from KAT.cr and others
 
 ## Plex
+- [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
 - [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
@@ -1377,7 +1377,8 @@ See also:
 - [TVMovies](https://tvmovies.to/)
 - [WatchFree.ac](https://www3.watchfree.ac/watchfree.html)
 - [ddlhub](https://ddlhub.xyz/)
-- [flixtor.to](https://flixtor.to/) (currently under construction)
+- [flixtor.to](https://flixtor.to/)
+- [MegaDDL](https://megaddl.co) (EN) Various movies via Mega, 1Fitcher, Openload and other file-hoster.
 
 ### 1080p Streaming
 - [Video2k](http://www.video2k.is/)
