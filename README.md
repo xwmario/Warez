@@ -1656,3 +1656,6 @@ See also:
 ## SMS
 - [SMS Privacy](https://smsprivacy.org/) Send/Recieve SMS securely. 
 - [](https://crypton.sh/) Secure SMS Cloud service.
+
+## Shared Accounts
+- [/f/SharedAcc](https://raddle.me/) Share and use account logins to preserve your online privacy.
