@@ -21,11 +21,15 @@ Imposter, crypto mining etc:
 * igg-games.com 
 * skidrow.games
 * tvmuse.com
+* nosTEAM.ro 
+* OceanOfGames
+* cpygames (same like shitrow imposter - same person)
+* steampunksgames (same like shitrow imposter - same person)
+
 
 
 Banned search engines:
-
-* DuckDuckGo ([read why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
+* DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
   
 
 
