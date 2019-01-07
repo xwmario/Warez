@@ -273,7 +273,7 @@ See also:
 - [SolidTorrents](https://solidtorrents.net) A clean, privacy focused torrent search engine.
 
 ### Tracker Proxies
-- [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
+- [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers, it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, DuckieTV, qBittorrent, etc) into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software.
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers.
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) Primarily a Usenet meta search engine but also supports Torznab.
 
