@@ -1205,7 +1205,7 @@ See also:
 
 
 ## P2P-Networks
-- [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file sharing network
+- [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file sharing network + [Server Status](https://edk.peerates.net/servers/online-servers-list)
 - [Gnutella](https://en.wikipedia.org/wiki/Gnutella) P2P network behind the popular LimeWire file sharing app
 - [FastTrack](https://en.wikipedia.org/wiki/FastTrack) Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
 - [Napster](https://en.wikipedia.org/wiki/Napster) Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
