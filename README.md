@@ -55,6 +55,7 @@ See also:
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [SCNLOG.me](https://scnlog.me)
 - [SweTracker](https://swetracker.org/releases)
+- [Release Watcher](http://extremedownload.org/)
 
 ### Basic "starter info"
 - [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
