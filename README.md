@@ -267,11 +267,12 @@ See also:
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
-- [TParser](http://tparser.org/) Russian torrent sites indexer.
+- [TParser](http://tparser.org/) Russian torrent sites indexer, good for FLAC music other other stuff.
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine.
 - [AIO Search](http://www.aiosearch.com/) Torrent search engine.
 - [SolidTorrents](https://solidtorrents.net) A clean, privacy focused torrent search engine.
+- [High Resolution Music](https://highresolutionmusic.com/) FLAC Music!
 
 ### Tracker Proxies
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers, it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, DuckieTV, qBittorrent, etc) into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software.
