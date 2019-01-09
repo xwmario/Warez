@@ -530,6 +530,7 @@ See also:
 - [GLOAD.cc](https://gload.cc/) (Ger)
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
 - [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
+- [Releaselog](http://www.rlslog.net/) Website for eBooks, Games & more.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
