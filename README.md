@@ -413,6 +413,10 @@ See also:
 - [JDownloader2](http://www.jdownloader.org/home/index) JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) One of the best shareware download manager for Windows.
 - [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
+- [Xtreme Download Manager](https://sourceforge.net/projects/xdman/) Open source alternative to IDM.
+- [Ant Download Manager](https://antdownloadmanager.com/) Ant Download Manager is similar like IDM (also paid).
+- [Persepolis Download Manager](https://persepolisdm.github.io/) Open source alternative to IDM. 
+
 
 ### DDL Tools
 - [youtube-dl](https://rg3.github.io/youtube-dl/) YouTube-dl is a command-line program to download videos from YouTube.com and a few more sites.
