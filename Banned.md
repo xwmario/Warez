@@ -27,6 +27,9 @@ Imposter, crypto mining etc:
 * steampunksgames (same like shitrow imposter - same person)
 
 
+Other reasons:
+* Kino.to
+
 
 Banned search engines:
 * DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
