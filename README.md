@@ -1304,7 +1304,6 @@ See also:
 - [123Movies.ooo](https://123movies.ooo/)
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
 - [EZTV (EZTV.AG)](https://eztv.io/) (EN) Well known group for movies and series.
-- [Kinox.to](https://www.kinos.to/) (GER)
 - [BS.to](https://bs.to/) (GER)
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, random streaming sites
