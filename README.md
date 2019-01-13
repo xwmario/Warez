@@ -1580,7 +1580,8 @@ See also:
 - [JustWatch](https://www.justwatch.com/) On JustWatch you are able to find out where to watch your favorite movies & TV series
 - [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
 - [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and bittorrent users.
-- [nulled.cc](https://www.nulled.cc/) Warez Scripts and a forum for Warez resources. 
+- [nulled.cc](https://www.nulled.cc/) Warez Scripts and a forum for Warez resources.
+- [SIMKL](https://simkl.org/?gi=f7bbecee5cd0) Similar like traktv but offers a Chrome app for Netflix. 
 
 ## Dashboards and Homepages
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
