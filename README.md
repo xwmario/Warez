@@ -1273,6 +1273,7 @@ See also:
 - [APKDot](https://apkdot.com/) APKMirror clone website.
 - [Haxoff](https://haxoff.net/) Haxoff provides cracked games & Android APK's.
 - [Android Zone](https://android-zone.ws/) koumkouat website for Android APK's/Games/GPS.
+- [Release-APK](https://release-apk.com/) Balatan APK page.
 
 ### Streaming Apps
 - [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
