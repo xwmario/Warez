@@ -1274,7 +1274,15 @@ See also:
 - [APKDot](https://apkdot.com/) APKMirror clone website.
 - [Haxoff](https://haxoff.net/) Haxoff provides cracked games & Android APK's.
 - [Android Zone](https://android-zone.ws/) koumkouat website for Android APK's/Games/GPS.
-- [Release-APK](https://release-apk.com/) Balatan APK page.
+- [Release-APK](https://release-apk.com/) Balatan's APK page.
+- [AppCake](http://www.appcake.net/) AppCake is also known as AC Market and provides free apks.
+- [Android Republic](https://androidrepublic.org/forums/public-mods.24/) Android Republic is similar to Mobilism, provides mirrors to various apks.
+- [Android-1](https://android-1.com/en/programmy/) Provides apps and mods.
+- [HiAppHere](http://www.hiapphere.com/app/index/index?sort=update)
+- [Platin Mods](https://platinmods.com/) As the name says, provides several mods for apks's & games.
+- [Trashbox](https://trashbox.ru/) Trashbox is the russian Mobilism.
+- [ProSmart](http://prosmart.by/) ProSmart is a russian site which provides several apks, mods and games.
+
 
 ### Streaming Apps
 - [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
