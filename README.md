@@ -213,6 +213,8 @@ See also:
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date).
+- [HD4Free](https://hd4.xyz) (HD4F) HD4Free is a general HD tracker with a good range of content.
+
  
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) RuTracker is a huge Russian torrent site with a thriving file-sharing community.
@@ -868,7 +870,6 @@ See also:
 - [qoob.name](http://qoob.name/) Repacker site of popular cracker teams like CPY, PLEX etc.
 - [Nicoblog](https://nicoblog.org/) Plenty of ISOs, ROMs, and repacks
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games.
-- [PCGames-Download](https://pcgames-download.com/) Premium links to repacks from a variety of release groups.
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too.
 - [Kaoskrew](http://kaoskrew.org/) Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
 - [Official Revolt Group Website](https://revolt.group/) Revolt homepage.
