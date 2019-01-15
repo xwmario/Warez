@@ -5,6 +5,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - Good-Old-Downloads 
 - MovieBox
 - worldwidetorrents.me
+- buildfeed.net
 
 
 # Anime
