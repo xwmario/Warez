@@ -899,7 +899,7 @@ See also:
 - [PleasureDome Tracker](https://www.pleasuredome.org.uk/) MAME torrents.
 
 ### PC Games
-- [CS.Rin.RU](https://cs.rin.ru) NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_)
+- [CS.Rin.RU](https://cs.rin.ru) NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) 
 - [DL2-DLFox](http://dl2.dlfox.com/96/4/) FTP Mirror for various Games.
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) Fanmade Skidrow & Reloaded mirror website.
 - [GameCopyWorld](https://gamecopyworld.eu) Provides cracks for Games.
