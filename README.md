@@ -476,7 +476,6 @@ See also:
 
 ### DDL Link Sites
 - [NaMaMe Club](http://nnmclub.to/) Software for Windows.
-- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega, has now moved to snahp.it.
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links.
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare.
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more.
