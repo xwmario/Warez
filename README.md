@@ -1044,11 +1044,11 @@ See also:
 - [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album music.
 
 ### Spotify
-- [Spotify Ad-Free by CHEF-KOCH](https://github.com/CHEF-KOCH/CKs-FilterList) HOSTS file to block ads, banners, limited skips, and locked shuffle mode in Spotify Free
+- [Spotify Ad-Free filter list by CHEF-KOCH](https://github.com/CHEF-KOCH/CKs-FilterList) HOSTS file to block ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) Modified Client(s), Information, etc.
-- [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) This is the most up-to-date list and will block all annoying Spotify ads & analytics.
 - [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) /r/Piracy Spotify-related discussion and future developments
-- [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, audio & banner adblock/skip for Spotify
+- [BlockTheSpot](https://github.com/master131/BlockTheSpot) Video, Audio & Banner ad-block/skip for Spotify.
+- [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags to the recorded files.
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
