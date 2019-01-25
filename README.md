@@ -1023,6 +1023,17 @@ See also:
 
 ### iOS Firmware
 - [IPSW](https://ipsw.me/?_escaped_fragment_=/version) Provides Jailbreak firmware.
+
+### iOS Apps
+- [Cinema Time](https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902?mt=8) Similar like Popcorn Time.
+- [HDX Online](https://itunes.apple.com/us/app/hdx-online/id1386799497?mt=8) Another alternative for Cinema Time.
+- [Cotomovies](https://cotomovies.com/) Streaming Movies and TVShows app.
+
+## iOS Download Manager
+- [Total files](https://itunes.apple.com/us/app/total-files/id557285579?mt=8) Basically the IDM under the iOS Download Managern.
+
+## iOS Stores
+- [App Valley](https://app.appvalley.vip/) Basically the Aptoide under the iOS Stores.
   
 
 ### General Music Streaming
