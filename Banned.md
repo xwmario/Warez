@@ -25,6 +25,8 @@ Imposter, crypto mining etc:
 * OceanOfGames
 * cpygames (same like shitrow imposter - same person)
 * steampunksgames (same like shitrow imposter - same person)
+* CRAVERS
+* CMRG
 
 
 Other reasons (sell-out, under surveillance etc)
