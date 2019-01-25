@@ -908,6 +908,7 @@ See also:
 - [OVA Games](http://www.ovagames.com/) Cracks to latest Game Releases from PLAZA, CODEX & Co.
 - [Small-Games](http://small-games.info/) (RU) A russian website which provides their own releases. 
 - [VseTop](https://vsetop.org/) (ru) Yet another russian website which buy their own games and release it to the mass.
+- [Games Turret](https://gamesturret.ga/) Proves games via file hosters. 
 
 
 ### GameCube Games
@@ -1171,7 +1172,7 @@ See also:
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
 - [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) An old post by /u/whatwhat888 that may still be useful
 
-## Fonts, Icons and Graphics
+## Fonts, Icons & Graphics
 - [Get the Font](https://www.getthefont.com/) Searches through GitHub for fonts
 - [Web4Sync](https://web4sync.com/) Forum with DDL links catering to web development, graphics design, 3D animation, and photography
 - [GFXDomain](http://forum.gfxdomain.net/) Forum for graphic design resources and software
