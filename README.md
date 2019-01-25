@@ -1691,3 +1691,6 @@ See also:
 
 ## Shared Accounts
 - [/f/SharedAcc](https://raddle.me/) Share and use account logins to preserve your online privacy.
+
+## Detect Fake Torrents
+- [Solid Torrents](https://solidtorrents.net/) A torrent index search engine, which checks if the torrent has known "fake" seeders/leechers based on a predefined database.
