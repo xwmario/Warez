@@ -266,6 +266,7 @@ See also:
 - [xbit.pw](http://xbit.pw/) A Magnet site search engine.
 - [WebOas](https://weboas.is/) A search engine designed to find warez, music and other stuff in public dirs.
 - [RARBG](https://rarbg.to/) Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
+- [Rustorka](http://rustorka.com) (RU) Software, Games & More.
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
