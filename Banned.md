@@ -144,5 +144,8 @@ Banned search engines:
 * DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
   
 
+Apps with malware, ads etc in it (possible honeypot apps to steal your data or to monitor you):
 
-  
+* Titanium TV v2.0.6 
+* DreamTV
+* OLA TV
