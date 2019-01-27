@@ -1483,6 +1483,8 @@ See also:
 - [WarezBot for Discord](https://github.com/enzobes/WarezBot) A Discord Bot which crawls scene releases.
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
 - [wtfnzb](https://wtfnzb.pw/) Open dir for Software.
+- [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
+
 
 ## IPTV + DVR
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang.
