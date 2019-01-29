@@ -25,6 +25,7 @@ See also:
 - [ ] Include a search index
 - [ ] Filter for language, category etc
 - [ ] Add more services, websites, information
+- [ ] Sort providers alphabetically to avoid stuff like "what's the best" (there is no best) ...
 
 
 ## Contributing Guidelines
@@ -324,8 +325,15 @@ See also:
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link.
 - [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
+- [Torrent Safe](https://www.torrentsafe.com/) Free-plan includes 1GB max file size, 2 days file lifetime.
+- [Furk.net](https://www.furk.net/) Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
+- [FileStream.me](https://filestream.me/) Free subscription offers 200Mb max file size and 200GB storage total.
+- [2Giga.link](https://www.2giga.link/) Free file hoster, Torrent caching & Premium link generator.
+- [Foxleech](https://www.foxleech.com/) No free trial, plans start at $3 per month
+- [Put.io automator](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers and files on Put.IO
 
 #### Seedbox Hosting Providers
+- [NZB Monkey](https://nzblnk.info/nzb-monkey/) NZB download helper utility.
 - [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers.
 - [Online.net](https://www.online.net/en) Seedbox-friendly, affordable, dedicated server host.
 - [Heztner](https://hetzner.co.za/) Reliable and affordable server host.
@@ -340,6 +348,9 @@ See also:
 - [Xirvik](https://www.xirvik.com/) Preconfigured seedbox servers.
 - [OVH](https://www.ovh.com/world/) Large cloud server provider.
 - [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host.
+
+#### Seedbox Hosting Extensions
+- [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
 
 #### Seedbox Setup Tools and Guides
 - [swizzin](https://swizzin.ltd/) A light, modular package management suite for media-oriented servers.
@@ -369,6 +380,8 @@ See also:
 - [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries.
 
 ### Usenet Providers
+- [WorldSrc](https://worldsrc.org) Movies, software, apps, games, music, and images available for fast direct download + torrents.
+- [Premiumizer](https://github.com/piejanssens/premiumizer) A download management tool for premiumize.me cloud downloads.
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [Eweka](https://www.eweka.nl/) Netherlands-based Usenet provider.
 - [Newsdemon](https://www.newsdemon.com/) Cheap and cheerful Usenet provider with frequent discounts.
@@ -728,7 +741,8 @@ See also:
 - [Cricfree](https://crickfree.org/) Offers popular sports streams
 - [VIPBox](https://www.vipbox.live/) (Spanish) Many sport streams, TV, friendly UI
 - [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
-- [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) A subreddit dedicated to the highest quality of free soccer / football streams. World Cup Streams, too.
+- [/r/soccerstreams_pl](https://www.reddit.com/r/soccerstreams) A subreddit dedicated to the highest quality of free soccer / football streams. World Cup Streams, too.
+- [/r/soccerstreams_other](https://www.reddit.com/r/soccerstreams_other) All other leagues
 - [/r/nflstreams](https://www.reddit.com/r/nflstreams/)
 - [/r/nbastreams](https://www.reddit.com/r/nbastreams/)
 - [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/)
@@ -893,7 +907,7 @@ See also:
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs.
 - [NoPayStation](https://nopaystation.com) A Database for PSN Content including Vita, PS3, PSX, and PSP.
 - [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Nintendo Switch games.
-- [xbox360iso](http://www.xbox360iso.com/) XBox 360 game collection.
+- [xbox360iso](http://www.xbox360iso.com/) XBox 360 Game collection.
 - [gazellegames](https://gazellegames.net/) Another xBox 360 collection.
 - [Up2date list for Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) An up2date list for Xbox 360 games.
 - [PleasureDome Tracker](https://www.pleasuredome.org.uk/) MAME torrents.
@@ -978,6 +992,7 @@ See also:
 - [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) Links for Yuzu, the open-source Nintendo Switch emulator.
 
 ## Anime
+- [/r/sjain_guides](https://www.reddit.com/r/sjain_guides/) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
 - [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa).
 - [Hi10 Anime](https://hi10anime.com/) High Quality 10-bit Anime Encodes.
 - [Anime Kaizoku](https://www2.animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive.
@@ -1085,6 +1100,8 @@ See also:
 - [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) A full in-depth guide to installing and cracking any application (Windows) by sjain_guides.
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications
+- [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) fonts online.
+
 
 ### Windows
 - [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
@@ -1297,7 +1314,7 @@ See also:
 
 
 ### Streaming Apps
-- [TerrariumTV](https://www.reddit.com/r/TTVreborn/comments/9n7zsf/terrariumtv_v6_mod_balatan/) V6 of this newly-fixed app for streaming TV and film. Features Trakt.tv and Real-Debrid integration
+- [CotoMovies](https://cotomovies.com/) Stream movies and TV shows online/offline for Android/iOS.
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
@@ -1452,6 +1469,7 @@ See also:
 - [SceneSource](http://www.scnsrc.me/category/films/)
 
 ### Torrent Apps
+- [/r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) User modified Android App(s).
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
 - [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) Free, open source torrent client for Android phone, tablet, Chromebook, & Android TV
@@ -1477,6 +1495,7 @@ See also:
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy focused keyboard.
 
 ## Discord Servers, Bots & Tools
+- [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
@@ -1487,6 +1506,7 @@ See also:
 
 
 ## IPTV + DVR
+- [antennas](https://github.com/TheJF/antennas) HDHomeRun emulator for Plex DVR to connect to Tvheadend.
 - [telly](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang.
 - [tvheadend](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
 - [/r/IPTV](https://www.reddit.com/r/IPTV) Subreddit some may find helpful for gauging the current state of IPTV providers.
@@ -1701,3 +1721,12 @@ See also:
 - [Minds](https://www.minds.com) Minds is a open source and decentralized platform for Internet freedom. 
 - [PeerTube](https://joinpeertube.org/en/) A decentralized video hosting network, based on free/libre software.
 - [DTube](https://d.tube) D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
+
+### Telegram Privacy Discussion Channels
+- [piracy Telegram](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of over 400 pirates.
+- [@itorrentsearchbot](https://t.me/itorrentsearchbot) Searchbot which finds torrent and magnet links on 1337x.to by keyword search
+- [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song (uses vkmusic search engine)
+- [@RickyChristanto Chan](https://t.me/RickyChristanto) Movie releases channel provides usually stuff from YTS.
+- [iMediaShare](https://t.me/iMediaShare) Provides links to Movies, TV shows, apps & and more.
+- [@movies_inc](https://t.me/movies_inc) Another Telegram channel for downloading several movies in different quality.
+- [@Qualitymovies](https://t.me/Qualitymovies) Lots of 720p Blu-Ray movie releases.
