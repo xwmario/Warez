@@ -1696,3 +1696,8 @@ See also:
 
 ## Detect Fake Torrents
 - [Solid Torrents](https://solidtorrents.net/) A torrent index search engine, which checks if the torrent has known "fake" seeders/leechers based on a predefined database.
+
+## YouTube Alternatives
+- [Minds](https://www.minds.com) Minds is a open source and decentralized platform for Internet freedom. 
+- [PeerTube](https://joinpeertube.org/en/) A decentralized video hosting network, based on free/libre software.
+- [DTube](https://d.tube) D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
