@@ -19,6 +19,7 @@ See also:
 * [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/)   ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
 * [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
 * [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
+* [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
 
 
 # Todo
