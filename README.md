@@ -74,6 +74,14 @@ See also:
 - [Microsoft Playready](https://www.microsoft.com/playready/overview/)
 - [Verimatrix](https://www.verimatrix.com)
 - [VMProtect](http://vmpsoft.com)
+- [Enigma Protector](https://enigmaprotector.com)
+- [VMProtect](http://vmpsoft.com)
+
+## Public Cracking Forums
+- [Reverse Club](http://crack.vc/forum/) ([needs invite code](http://forum.crack.vc/?thread-22.htm))
+- [Crackmes.cf](http://crackmes.cf/) (mirror of crackmes.de + [reboot](https://crackmes.one/))
+- [Tuts 4 You](https://tuts4you.com)
+
 
 ### NFO Viewers and KeyGen Music
 - [NFO Force](http://nfforce.temari.fr)
