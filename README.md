@@ -80,6 +80,12 @@ See also:
 - [Defacto2](https://defacto2.net/welcome)
 - [KeyGen Music](http://keygenmusic.net)
 
+### Anti-DRM Protects, Plugins & Source Code
+- [[C++] Steamless - SteamStub DRM Remover](https://github.com/atom0s/Steamless) + [Homepage](http://atom0s.com/forums/viewforum.php?f=25)
+- [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools)
+- [Microsoft Research Detours Package](https://github.com/Microsoft/Detours)
+
+
 ### VPN Guides & Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of "That One Privacy Site" with VPN comparisons.
 - [Choosing the best VPN (for you) /r/VPN](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
