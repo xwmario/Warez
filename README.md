@@ -60,20 +60,25 @@ See also:
 - [Release Watcher](http://extremedownload.org/)
 
 ### Basic "starter info"
+- [What is the scene?](https://defacto2.net/defacto2/subculture)
 - [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
 - [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
 
 ## Anti-tamper systems
 - [Valeroa](https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
 - [Denuvo](https://old.reddit.com/r/CrackStatus/comments/43dgej/how_denuvo_works_and_why_its_so_hard_to_crack/)
-- CENC ClearKey
-- Adobe Primetime
-- Google Widevine Modular DRM
-- Marlin
-- Microsoft Playready
-- Verimatrix
-- VMProtect
+- [CENC ClearKey](http://bitmovin.com/docs/encoding/faqs/what-is-mpeg-cenc-clearkey-encryption)
+- [Ad[obe Primetime](https://www.adobe.com/marketing/primetime.html)
+- [Google Widevine Modular DRM](https://castlabs.com/company/partners/google-widevine/)
+- [Marlin](https://en.wikipedia.org/wiki/Marlin_(DRM))
+- [Microsoft Playready](https://www.microsoft.com/playready/overview/)
+- [Verimatrix](https://www.verimatrix.com)
+- [VMProtect](http://vmpsoft.com)
 
+### NFO Viewers and KeyGen Music
+- [NFO Force](http://nfforce.temari.fr)
+- [Defacto2](https://defacto2.net/welcome)
+- [KeyGen Music](http://keygenmusic.net)
 
 ### VPN Guides & Tutorials
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of "That One Privacy Site" with VPN comparisons.
