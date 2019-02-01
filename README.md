@@ -551,7 +551,6 @@ See also:
 - [UpTown](https://en.uptodown.com/)
 - [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) Windows ISO Downloads Mirrors.
 - [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
-- [2Baksa](http://2baksa.net/)
 - [PCPortal](https://pcportal.org/)
 - [ZeroBoard](https://zeroboard.org/)
 - [RuTracker](https://rutracker.cr/)
