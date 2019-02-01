@@ -68,7 +68,7 @@ See also:
 - [Valeroa](https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
 - [Denuvo](https://old.reddit.com/r/CrackStatus/comments/43dgej/how_denuvo_works_and_why_its_so_hard_to_crack/)
 - [CENC ClearKey](http://bitmovin.com/docs/encoding/faqs/what-is-mpeg-cenc-clearkey-encryption)
-- [Ad[obe Primetime](https://www.adobe.com/marketing/primetime.html)
+- [Adobe Primetime](https://www.adobe.com/marketing/primetime.html)
 - [Google Widevine Modular DRM](https://castlabs.com/company/partners/google-widevine/)
 - [Marlin](https://en.wikipedia.org/wiki/Marlin_(DRM))
 - [Microsoft Playready](https://www.microsoft.com/playready/overview/)
