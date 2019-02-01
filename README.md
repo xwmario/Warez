@@ -1500,18 +1500,18 @@ See also:
 
 ### APKs
 - [Aptoide](http://www.aptoide.com/) Cracked and legit apk's. 
-- [Mobilism Forum](https://forum.mobilism.org/index.php) Large forum of mobile apps and books
-- [On HAX](https://onhax.me/) APK mirrors
+- [Mobilism Forum](https://forum.mobilism.org/index.php) Large forum of mobile apps and books.
+- [On HAX](https://onhax.me/) APK mirrors for paid and free applications, the website also provides modded APK's.
 - [APKMirror](https://www.apkmirror.com/) Download free Android APKs
-- [ApkPure](https://apkpure.com/) Another free APK mirror site
-- [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
-- [BlackMod](https://blackmod.net/) Lots of cracked Android games
-- [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
+- [ApkPure](https://apkpure.com/) Another free APK mirror site.
+- [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free.
+- [BlackMod](https://blackmod.net/) Lots of cracked Android games.
+- [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs.
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
 - [APKmb](https://apkmb.com/) Download paid Apps & Android Games for free.
 - [Androeed](https://www.androeed.ru/) (RU) Russian APK site.
 - [libre.io](https://boards.libre.io) (requires login) A small forum with some exclusive apps & games.
-- [iHackedit](http://ihackedit.com/) Provides Android apps & games including Mods.
+- [iHackedit](http://ihackedit.com/) Provides Android Apps & Games including Mods.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy focused keyboard.
 
 ## Discord Servers, Bots & Tools
@@ -1522,7 +1522,7 @@ See also:
 - [WarezBot for Discord](https://github.com/enzobes/WarezBot) A Discord Bot which crawls scene releases.
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
 - [wtfnzb](https://wtfnzb.pw/) Open dir for Software.
-- [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
+- [The Ratio](https://discordapp.com/invite/wab3Qag) A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 
 
 ## IPTV + DVR
