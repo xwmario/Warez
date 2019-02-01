@@ -1,4 +1,4 @@
-Imposter, crypto mining etc:
+## Imposter, crypto mining etc:
 
 * skidrowgamesreloaded.co
 * skidrowgames.in
@@ -29,7 +29,7 @@ Imposter, crypto mining etc:
 * CMRG
 
 
-Other reasons (sell-out, under surveillance etc)
+## Other reasons (sell-out, under surveillance etc)
 * Kino.to
 * 2conv.com
 * Flv2mp3.by
@@ -138,6 +138,10 @@ Other reasons (sell-out, under surveillance etc)
 * kickassanime.io
 * nwanime.tv
 * toonget.net
+
+## Faker
+
+* 2baksa.net
 
 
 Banned search engines:
