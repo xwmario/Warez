@@ -8,8 +8,42 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - buildfeed.net ([source code](https://gitlab.com/buildfeed/BuildFeed))
 
 
-# Anime
+## Anime
 - AnimeHeaven.eu
+
+## Boards (offline, abandoned or compromised) 
+- 3dl.am
+- scenedownloads.pw
+- ww1.load-it.cc
+- mov-world.net
+- ddl-share.biz
+- mov-world.net
+- warez-heaven.ws
+- rapidstream.to
+- xd-movie.nl
+- atomload.to
+- ww1.musicboerse.org
+- chili-warez.net
+- 4k-hd-movies.tv
+- dnmedia.biz
+- 320k.in
+- warezseek.to
+- sharing-devils.org
+- freshmusic.download
+- rnbxclusive.top
+- kraftwerk.to
+- ddload.tv
+- marvin-vibez.to
+- view4u.co
+- hiphopisdream.bid
+- rapidstream.to
+- letsdl.biz
+- umusic.me
+- kinow.to
+- freealbums.co
+- boerse.sx
+- view4u.co
+- streamdream.ws
 
 
 ## Others 
