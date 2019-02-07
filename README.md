@@ -288,6 +288,8 @@ See also:
 - [WebOas](https://weboas.is/) A search engine designed to find warez, music and other stuff in public dirs.
 - [RARBG](https://rarbg.to/) Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
 - [Rustorka](http://rustorka.com) (RU) Software, Games & More.
+- [Goldesel.to](http://goldesel.to/) (Ger) Games, Movies, Audio & eBooks. 
+
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
@@ -494,6 +496,7 @@ See also:
 - [Davos](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
 - [Napalm FTP Indexer](https://www.searchftps.net/) NAPALM FTP Indexer lets you search and download files located on public FTP servers.
 - [Mamont's open FTP Index](http://www.mmnt.net/) Browsable directory listing of publicly available FTP-sites.
+- [pftp](http://www.pftp.de/) pftp means Port-File-Transfer-Program not to muddle up with standard FTP which is quite different, it allows you to send and receive directories recursively and move the dirs.
 
 ### DDL Search Engines and Crawlers
 - [ololo](https://ololo.to/) ololo is a video streaming link search engine.
@@ -756,6 +759,7 @@ See also:
 - [libertyVF](https://ww1.libertyvf.org/)
 - [DP Stream](https://www.dpstream.net/)
 - [MKVHub](https://www.mkvhub.com/)
+- [Nox](https://nox.tv/) German Movies & Videos. 
 
 ### Video Game Music (OST)
 - [FFShine Forum](http://forums.ffshrine.org/forumdisplay.php?f=72) A place for game and video game music.
@@ -936,6 +940,8 @@ See also:
 - [gazellegames](https://gazellegames.net/) Another xBox 360 collection.
 - [Up2date list for Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) An up2date list for Xbox 360 games.
 - [PleasureDome Tracker](https://www.pleasuredome.org.uk/) MAME torrents.
+- [SPEEDLounge](http://speedlounge.in/) (Ger) XBox360, XBox, PlayStation and other Games.
+
 
 ### PC Games
 - [CS.Rin.RU](https://cs.rin.ru) NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) 
