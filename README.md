@@ -556,19 +556,25 @@ See also:
 - [RuTracker](https://rutracker.cr/)
 - [BetaArchive](https://www.betaarchive.com/)
 - [Mutaz](https://www.mutaz.net/free-programs/)
-- [NGB.to](https://ngb.to/) (German)
-- [RSLinks](https://rslinks.org/)
+- [NGB.to](https://ngb.to/) (Ger)
+- [RSLinks](https://rslinks.org/) (EN)
 - [Radixx11](https://radixx11rce.blogspot.com/)
 - [AVXHome](http://avxhome.se/) Best of eBooks, Software, Mag, ...
 - [LavTeam](http://www.lavteam.org/)
-- [Onkyo4k](http://onkyo4k.com/)
+- [Onkyo4k](http://onkyo4k.com/) (EN)
+- [DDL-Warez](https://ddl-warez.to/) (EN)
 - [DownloadLY.IR](http://downloadly.ir/) (IR)
 - [Mawto](https://www.mawtoload.com/)
-- [rsload](https://rsload.net/)
+- [Boerse.to](http://boerse.to/) (Ger)
+- [MyGully](http://mygully.com/) (Ger)
+- [Audioz](https://audioz.download/) (EN) All about Audio. 
+- [SilentGround](http://www.silentground.org/index.php) (EN)
+- [rsload](https://rsload.net/) (RU/EN)
+- [PuZo.org](http://www.puzo.org/) (EN) 
 - [GLOAD.cc](https://gload.cc/) (Ger)
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
-- [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
-- [Releaselog](http://www.rlslog.net/) Website for eBooks, Games & more.
+- [Serials](http://www.serials.ws/) Serial keys for software that may or may not work.
+- [Releaselog](http://www.rlslog.net/) (EN) Website for eBooks, Games & more.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
