@@ -301,6 +301,7 @@ See also:
 - [High Resolution Music](https://highresolutionmusic.com/) FLAC Music!
 
 ### Tracker Proxies
+- [NewzLeech](https://www.newzleech.com/) Newzleech is a Usenet file search engine.
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers, it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, DuckieTV, qBittorrent, etc) into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software.
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers.
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) Primarily a Usenet meta search engine but also supports Torznab.
@@ -578,6 +579,8 @@ See also:
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
 - [Serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 - [Releaselog](http://www.rlslog.net/) (EN) Website for eBooks, Games & more.
+- [NFOHump](http://www.nfohump.com/forum/index.php) (EN) Gaming, Apps, Help & more.
+
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -1380,6 +1383,7 @@ See also:
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, random streaming sites
 - [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
 - [TORRENTDOWNLOADS](https://www.torrentdownloads.me/) It’s a no-nonsense index that provides torrents to millions of users each month.
+
 
 ### TV & Sports Streaming
 - [M4uFree.tv](https://tinyurl.com/y7hf9et8)
