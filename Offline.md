@@ -45,6 +45,14 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - view4u.co
 - streamdream.ws
 
+## NFO
+- vcdquality.com + vcdq.com
+
+## PRE Databases
+- orlydb.com
+- doopes.com
+- swedupe.com
+
 
 ## Others 
 - mac-torrents.me
@@ -61,8 +69,11 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - macgames-download.com
 - warezscene.org
 - smartwarez.org
-
-
+- newtorrents.info
+- leechers.info
+- aboutthescene.com
+- rapidshare-king.info
+- cdcovers.cc
 
 
 ## Tracker
