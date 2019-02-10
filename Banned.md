@@ -142,6 +142,7 @@
 ## Faker
 
 * 2baksa.net
+* NORO repacks
 
 
 ## Banned search engines:
