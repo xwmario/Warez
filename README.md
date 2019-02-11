@@ -556,8 +556,8 @@ See also:
 - [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) Windows ISO Downloads Mirrors.
 - [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
 - [PCPortal](https://pcportal.org/)
-- [ZeroBoard](https://zeroboard.org/)
-- [RuTracker](https://rutracker.cr/)
+- [ZeroBoard](https://zeroboard.org/) (EN)
+- [RuTracker](https://rutracker.cr/) (RU)
 - [BetaArchive](https://www.betaarchive.com/)
 - [Mutaz](https://www.mutaz.net/free-programs/)
 - [NGB.to](https://ngb.to/) (Ger)
@@ -580,7 +580,7 @@ See also:
 - [Serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 - [Releaselog](http://www.rlslog.net/) (EN) Website for eBooks, Games & more.
 - [NFOHump](http://www.nfohump.com/forum/index.php) (EN) Gaming, Apps, Help & more.
-- [NulledTeam Underground](https://www.nulledteam.com/threads/windows-10-digital-license-ultimate-1-0.33533/) Software forum. 
+- [NulledTeam Underground](https://www.nulledteam.com/) (EN) Software forum. 
 
 
 ### Premium Link Generators
