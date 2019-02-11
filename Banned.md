@@ -138,6 +138,7 @@
 * kickassanime.io
 * nwanime.tv
 * toonget.net
+* softwarez.us
 
 ## Faker
 
