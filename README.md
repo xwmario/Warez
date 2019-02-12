@@ -1349,12 +1349,26 @@ See also:
 
 
 ### Streaming Apps
+- [ApolloTV](https://apollotv.xyz/) + [Discord](https://discordapp.com/invite/DT9SgYE)
+- [AniméGlare](https://animeglare.xyz/) + [Discord](https://discordapp.com/invite/RMjHm4F1)
+- [AniméVibe](http://animevibe.tv/) + [Discord](https://discordapp.com/invite/4QGvkw8) 
 - [CotoMovies](https://cotomovies.com/) Stream movies and TV shows online/offline for Android/iOS.
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
 - [Fildo](https://fildo.net/android/en/) Music streaming app
-- [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
+- [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
+- [BeeTV](http://beetvapk.me/) 
+- [CinemaHD](https://cinemaapk.com/)
+- [CKayTV](http://ckaytv.com/)
+- [CoToMovies](https://cotomovies.com/)
+- [Morph TV (Morpheus Fork)](https://discordapp.com/invite/VHYGtA9)
+- [DreamTV (Terrarium Clone) unfaked](http://dream-tv.xyz/) + [Discord](https://discordapp.com/invite/FQkQz6g)
+- PhoenixTV (Morpheus Fork
+- [TitaniumTV (Terrarium Clone)](http://titaniumtv.xyz/)
+- [TVZion](https://tvzionapp.live/) + [Reddit](https://www.reddit.com/r/TVZionApp/)
+- [UnlockMyTV (Cinema Clone AdFree)](https://unlockmytv.com/)
+
 
 ### Big Media Libraries
 - [Primewire](http://www.primewire.is/)
