@@ -1347,6 +1347,7 @@ See also:
 - [Trashbox](https://trashbox.ru/) Trashbox is the russian Mobilism.
 - [ProSmart](http://prosmart.by/) ProSmart is a russian site which provides several apks, mods and games.
 - [Baltagy's Website](https://baltagy1.blogspot.com/) Apps, Mods, RePacks and portable releases. 
+- [AiOwares.com](https://www.aiowares.com/) RePacks, mods and other software. 
 
 
 ### Streaming Apps
