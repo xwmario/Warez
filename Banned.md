@@ -139,6 +139,7 @@
 * nwanime.tv
 * toonget.net
 * softwarez.us
+* 1xbet.com
 
 ## Faker
 
