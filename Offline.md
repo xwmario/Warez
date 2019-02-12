@@ -44,6 +44,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - boerse.sx
 - view4u.co
 - streamdream.ws
+- dl4all.ws
 
 ## NFO
 - vcdquality.com + vcdq.com
