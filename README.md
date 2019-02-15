@@ -1374,7 +1374,7 @@ See also:
 - [TitaniumTV (Terrarium Clone)](http://titaniumtv.xyz/)
 - [TVZion](https://tvzionapp.live/) + [Reddit](https://www.reddit.com/r/TVZionApp/)
 - [UnlockMyTV (Cinema Clone AdFree)](https://unlockmytv.com/)
-
+- [Liveflix](https://store.ioob.pw/) The app allows to watch your favorite channels easily, with a very simple UI.
 
 ### Big Media Libraries
 - [Primewire](http://www.primewire.is/)
