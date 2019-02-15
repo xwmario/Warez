@@ -457,6 +457,10 @@ See also:
 - [Persepolis Download Manager](https://persepolisdm.github.io/) Open source alternative to IDM. 
 
 
+### Portable & Repack
+- [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) Windows Software repacks and portables. 
+
+
 ### DDL Tools
 - [youtube-dl](https://rg3.github.io/youtube-dl/) YouTube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross platform front-end GUI of the popular youtube-dl written in wxPython.
