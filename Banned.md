@@ -27,6 +27,7 @@
 * steampunksgames (same like shitrow imposter - same person)
 * CRAVERS
 * CMRG
+* CracksNow
 
 
 ## Other reasons (sell-out, under surveillance etc)
