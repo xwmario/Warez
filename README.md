@@ -301,6 +301,10 @@ See also:
 - [High Resolution Music](https://highresolutionmusic.com/) FLAC Music!
 
 ### Tracker Proxies
+- [Radarr](https://github.com/Radarr/Radarr) A fork of Sonarr to work with movies à la Couchpotato.
+- [SickRage](https://git.sickrage.ca/SiCKRAGE/sickrage) Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+- [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and bittorrent users.
+- [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents.
 - [NewzLeech](https://www.newzleech.com/) Newzleech is a Usenet file search engine.
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers, it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, DuckieTV, qBittorrent, etc) into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software.
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers.
