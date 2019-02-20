@@ -1795,3 +1795,4 @@ See also:
 ### Social Media
 - [Random AI generated profile pictures](http://notarealhuman.com/)
 - [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) Deletes Twitter and Reddit content based on your terms.
+- [TweetDelete](https://www.tweetdelete.net/) Protect your privacy by automatically deleting posts older than a specified age from your Twitter feed.
