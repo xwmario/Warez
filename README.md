@@ -1792,7 +1792,10 @@ See also:
 - [@movies_inc](https://t.me/movies_inc) Another Telegram channel for downloading several movies in different quality.
 - [@Qualitymovies](https://t.me/Qualitymovies) Lots of 720p Blu-Ray movie releases.
 
-### Social Media
+### Social Media 'Tools'
 - [Random AI generated profile pictures](http://notarealhuman.com/)
 - [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) Deletes Twitter and Reddit content based on your terms.
 - [TweetDelete](https://www.tweetdelete.net/) Protect your privacy by automatically deleting posts older than a specified age from your Twitter feed.
+- [Nuke Reddit History](https://github.com/sr33/Nuke-Reddit-History) [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) + [Chrome extension](https://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
+- [ShadowCrypt](https://shadowcrypt-release.weebly.com/about.html) Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages). 
+- [Keybase](https://keybase.io/docs/extension) Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
