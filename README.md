@@ -1794,3 +1794,4 @@ See also:
 
 ### Social Media
 - [Random AI generated profile pictures](http://notarealhuman.com/)
+- [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) Deletes Twitter and Reddit content based on your terms.
