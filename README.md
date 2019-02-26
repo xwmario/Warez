@@ -222,6 +222,8 @@ See also:
 - [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies (requires login).
 - [PrivateHD](https://privatehd.to/) (PHD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
+- [PolishTracker](https://pte.nu/) (PT) PolishTracker is the oldest private Polish tracker.
+- [PolishSource](https://polishsource.cz/) (PS) PolishSource is a big private Polish ratio-less tracker.
 - [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
 - [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
 - [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
@@ -1562,7 +1564,7 @@ See also:
 - [WarezBot for Discord](https://github.com/enzobes/WarezBot) A Discord Bot which crawls scene releases.
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
 - [wtfnzb](https://wtfnzb.pw/) Open dir for Software.
-- [The Ratio](https://discordapp.com/invite/wab3Qag) A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
+- [The Ratio](https://discord.gg/qkRCehC) A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 
 
 ## IPTV + DVR
