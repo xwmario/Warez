@@ -931,7 +931,6 @@ See also:
 
 ### ROMs
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) Nintendo, Sony, Microsoft, Romsets, Arcade and other ROm collections.
-- [All the FullSets from EmuParadise](http://od.phirephly.design/lib/emuparadise/fullsets/) Link discovered by /u/PhirePhly on /r/opendirectories.
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links to ROM and ISO websites.
 - [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs.
