@@ -1800,3 +1800,6 @@ See also:
 - [Nuke Reddit History](https://github.com/sr33/Nuke-Reddit-History) [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) + [Chrome extension](https://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
 - [ShadowCrypt](https://shadowcrypt-release.weebly.com/about.html) Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages). 
 - [Keybase](https://keybase.io/docs/extension) Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
+
+### VPS Hosting
+- [SporeStack](https://sporestack.com/news/#2019-02-27) Truly Hidden Hosting.
