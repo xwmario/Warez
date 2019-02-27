@@ -1801,5 +1801,5 @@ See also:
 - [ShadowCrypt](https://shadowcrypt-release.weebly.com/about.html) Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages). 
 - [Keybase](https://keybase.io/docs/extension) Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
 
-### VPS Hosting
+### VPS Hosting Providers
 - [SporeStack](https://sporestack.com/news/#2019-02-27) Truly Hidden Hosting.
