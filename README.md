@@ -1381,6 +1381,8 @@ See also:
 - [UnlockMyTV (Cinema Clone AdFree)](https://unlockmytv.com/)
 - [Liveflix](https://store.ioob.pw/) The app allows to watch your favorite channels easily, with a very simple UI.
 - [Mega Shows](https://megashowsapk.com/) Watch & Download your favorite movies and TV shows.
+- [TVPato2](https://tvpato2.com/) (es-ES) Spanish Live TV App.
+
 
 ### Big Media Libraries
 - [Primewire](http://www.primewire.is/)
