@@ -141,6 +141,7 @@
 * toonget.net
 * softwarez.us
 * 1xbet.com
+* seeHD.WS
 
 ## Faker
 
