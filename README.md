@@ -1381,6 +1381,7 @@ See also:
 - [Liveflix](https://store.ioob.pw/) The app allows to watch your favorite channels easily, with a very simple UI.
 - [Mega Shows](https://megashowsapk.com/) Watch & Download your favorite movies and TV shows.
 - [TVPato2](https://tvpato2.com/) (es-ES) Spanish Live TV App.
+- [Evolve TV](http://evolvetv.info/) (EN-US) Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
 
 
 ### Big Media Libraries
