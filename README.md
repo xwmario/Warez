@@ -179,7 +179,6 @@ See also:
 - [Njalla](https://njal.la/) A privacy-aware domain registration service.
 - [xip.io](http://xip.io/) Magic domain name that provides wildcard DNS for any IP address.
 - [Domainr](https://domainr.com/) Domainr allows you to find domain names and short URLs. Instantly check availability and register for all top-level domains.
-- [OpenLeaf](https://openleaf.net.ru/) Domain registrar for anonymous TLD purchases.
 
 ## Torrenting
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related.
