@@ -77,5 +77,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - cdcovers.cc
 
 
+## Domain registrar
+- openleaf.net.ru
+
+
 ## Tracker
 - [Leechers Paradise](https://torrentfreak.com/huge-torrent-tracker-calls-it-quits-after-12-years-citing-article-13-181207/)
