@@ -1382,6 +1382,7 @@ See also:
 - [Mega Shows](https://megashowsapk.com/) Watch & Download your favorite movies and TV shows.
 - [TVPato2](https://tvpato2.com/) (es-ES) Spanish Live TV App.
 - [Evolve TV](http://evolvetv.info/) (EN-US) Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
+- [Filmix](https://filmix.site) (EN-US) Watch movies and TV shows using AndroidTV and mobile devices.
 
 
 ### Big Media Libraries
