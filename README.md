@@ -589,7 +589,8 @@ See also:
 - [Serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 - [Releaselog](http://www.rlslog.net/) (EN) Website for eBooks, Games & more.
 - [NFOHump](http://www.nfohump.com/forum/index.php) (EN) Gaming, Apps, Help & more.
-- [NulledTeam Underground](https://www.nulledteam.com/) (EN) Software forum. 
+- [NulledTeam Underground](https://www.nulledteam.com/) (EN) Software forum.
+- [SoftOBase](http://softobase.com/) (RU) Software forum.
 
 
 ### Premium Link Generators
