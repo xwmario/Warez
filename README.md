@@ -571,7 +571,6 @@ See also:
 - [Mutaz](https://www.mutaz.net/free-programs/)
 - [NGB.to](https://ngb.to/) (Ger)
 - [RSLinks](https://rslinks.org/) (EN)
-- [Radixx11](https://radixx11rce.blogspot.com/)
 - [AVXHome](http://avxhome.se/) Best of eBooks, Software, Mag, ...
 - [LavTeam](http://www.lavteam.org/)
 - [Onkyo4k](http://onkyo4k.com/) (EN)
