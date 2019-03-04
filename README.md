@@ -590,6 +590,7 @@ See also:
 - [NFOHump](http://www.nfohump.com/forum/index.php) (EN) Gaming, Apps, Help & more.
 - [NulledTeam Underground](https://www.nulledteam.com/) (EN) Software forum.
 - [SoftOBase](http://softobase.com/) (RU) Software forum.
+- [Tekspert](https://tekspert.se/) (EN-US) Software forum. 
 
 
 ### Premium Link Generators
