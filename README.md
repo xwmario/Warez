@@ -237,7 +237,6 @@ See also:
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date).
 - [HD4Free](https://hd4.xyz) (HD4F) HD4Free is a general HD tracker with a good range of content.
 
- 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) RuTracker is a huge Russian torrent site with a thriving file-sharing community.
 - [Zamunda.net](http://zamunda.net) A Bulgarian tracker with English and Russian translations available.
@@ -289,7 +288,8 @@ See also:
 - [WebOas](https://weboas.is/) A search engine designed to find warez, music and other stuff in public dirs.
 - [RARBG](https://rarbg.to/) Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
 - [Rustorka](http://rustorka.com) (RU) Software, Games & More.
-- [Goldesel.to](http://goldesel.to/) (Ger) Games, Movies, Audio & eBooks. 
+- [Goldesel](http://goldesel.to/) (Ger) Games, Movies, Audio & eBooks.
+- [g4u](https://g4u.me/) (Ger) Movies, TV Shows & Games.
 
 
 ### Tracker Aggregators
