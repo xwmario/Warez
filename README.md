@@ -51,8 +51,8 @@ See also:
 ## Scene Release Info
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
 - [predb.pw](https://predb.pw) + [predb.org](https://predb.org/)
-- [xrel.to](https://www.xrel.to/)
-- [SrrDB](https://www.srrdb.com/)
+- [xrel.to](https://www.xrel.to/) Scene and P2P release database.
+- [SrrDB](https://www.srrdb.com/) Scene and P2P release database.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [SCNLOG.me](https://scnlog.me)
@@ -1684,7 +1684,7 @@ See also:
 - [MetaCritic](https://www.metacritic.com) website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
 - [popular-movies](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
 - [Letterboxd](https://letterboxd.com/) Your life in film
-- [Squawkr.io](https://www.squawkr.io/) sends notifications when movies are available for download.
+- [Squawkr.io](https://www.squawkr.io/) Sends you a notifications when movies are available for download.
 - [What is my movie?](https://www.whatismymovie.com/) AI-powered movie search. "Use your own words, or search with titles, actors, directors, genres etc. We find movies for you to watch."
 - [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) Complete list of all available 2160p remuxes
 - [Flox](https://github.com/devfake/flox) Flox is a self-hosted movie, series and nime watch list.
