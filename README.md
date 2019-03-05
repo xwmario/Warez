@@ -39,7 +39,7 @@ See also:
 - [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them.
 - [x] No drama or bitch fighting, if a page is involved into such things it automatically lands on the banned list.  
 
-### Submitting a PR
+### Submitting a Pull request
 * Fork the repo on GitHub
 * Clone the project to your own machine
 * Commit changes to your own branch
@@ -1808,3 +1808,7 @@ See also:
 
 ### VPS Hosting Providers
 - [SporeStack](https://sporestack.com/news/#2019-02-27) Truly Hidden Hosting.
+
+### Homework
+- [Slader](https://www.slader.com/) Find textbooks with answers.
+- [Lit Answers](https://litanswers.org/) Find homework answers.
