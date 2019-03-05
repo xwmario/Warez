@@ -54,7 +54,6 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - doopes.com
 - swedupe.com
 
-
 ## Others 
 - mac-torrents.me
 - ondailytvfix.com
@@ -75,6 +74,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - aboutthescene.com
 - rapidshare-king.info
 - cdcovers.cc
+- textsheet.com
 
 
 ## Domain registrar

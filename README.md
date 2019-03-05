@@ -1207,6 +1207,8 @@ See also:
 - [Unlimited Mega.nz-IDM-downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Download Mega.nz without any limits.
 - [Tuts4You](https://forum.tuts4you.com/) Tuts4You provides cracktros, information and more.
 - [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
+- [Freetutorials.eu](https://www.freetutorials.eu/) Download Udemy Paid Courses 4 free.
+
 
 ## Direct Download Streaming
 - [filechef](http://filechef.com/)
