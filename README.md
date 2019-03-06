@@ -1388,6 +1388,7 @@ See also:
 - [Evolve TV](http://evolvetv.info/) (EN-US) Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
 - [Filmix](https://filmix.site) (EN-US) Watch movies and TV shows using AndroidTV and mobile devices.
 - [KinoTor](http://tiardev.ru/) (RU) Provides movies and videos from several russian directories.
+- [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) (SH) Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV). 
 
 
 ### Big Media Libraries
