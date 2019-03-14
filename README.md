@@ -592,7 +592,9 @@ See also:
 - [NulledTeam Underground](https://www.nulledteam.com/) (EN) Software forum.
 - [SoftOBase](http://softobase.com/) (RU) Software forum.
 - [Tekspert](https://tekspert.se/) (EN-US) Software forum. 
-- [RADIXX11](https://radixx11rce2.blogspot.com) (EN-US) Software forum. 
+- [RADIXX11](https://radixx11rce2.blogspot.com) (EN-US) Software forum.
+- [Team-IRA [TIRA]](https://team-ira.com/) (EN-US) Software, Tutorials, eBooks, Android and reversing Forum.
+- [Traning Circle](https://trainingcircle.in/) (EN-US) Coding, reversing & other tutorials.
 
 
 ### Premium Link Generators
