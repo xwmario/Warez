@@ -594,6 +594,7 @@ See also:
 - [Tekspert](https://tekspert.se/) (EN-US) Software forum. 
 - [RADIXX11](https://radixx11rce2.blogspot.com) (EN-US) Software forum.
 - [Team-IRA [TIRA]](https://team-ira.com/) (EN-US) Software, Tutorials, eBooks, Android and reversing Forum.
+- [Soft9](http://soft9.ru/) (RU) Russian Software Portal.
 
 
 ### Premium Link Generators
