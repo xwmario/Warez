@@ -532,9 +532,9 @@ See also:
 - [Movie Glide](https://www.movieglide.com/)
 - [Release BB](http://rlsbb.ru)
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
-- [AdiT-HD](http://adit-hd.com/) direct download site
-- [TwoDDL](http://2ddl.ws) Direct download links
-- [RapidMoviez](http://rmz.cr/)
+- [AdiT-HD](http://adit-hd.com/) Direct movie download site.
+- [TwoDDL](http://2ddl.ws) Direct software download links.
+- [RapidMoviez](http://rmz.cr/) Direct movie website.
 - [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [MkvCage](https://www.mkvcage.ws/)
@@ -563,7 +563,7 @@ See also:
 - [Board4All](https://www.board4all.biz/)
 - [OSZone](http://www.oszone.net/)
 - [UpTown](https://en.uptodown.com/)
-- [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) Windows ISO Downloads Mirrors.
+- [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) Windows ISO Downloads Mirrors (ftp links not visible in MarkDown!)
 - [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
 - [PCPortal](https://pcportal.org/)
 - [ZeroBoard](https://zeroboard.org/) (EN)
@@ -594,7 +594,6 @@ See also:
 - [Tekspert](https://tekspert.se/) (EN-US) Software forum. 
 - [RADIXX11](https://radixx11rce2.blogspot.com) (EN-US) Software forum.
 - [Team-IRA [TIRA]](https://team-ira.com/) (EN-US) Software, Tutorials, eBooks, Android and reversing Forum.
-- [Traning Circle](https://trainingcircle.in/) (EN-US) Coding, reversing & other tutorials.
 
 
 ### Premium Link Generators
@@ -1211,6 +1210,7 @@ See also:
 - [Tuts4You](https://forum.tuts4you.com/) Tuts4You provides cracktros, information and more.
 - [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 - [Freetutorials.eu](https://www.freetutorials.eu/) Download Udemy Paid Courses 4 free.
+- [Traning Circle](https://trainingcircle.in/) (EN-US) Coding, reversing & other tutorials.
 
 
 ## Direct Download Streaming
@@ -1604,10 +1604,10 @@ See also:
 - [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
 
 ## IRC
-- [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
+- [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro!
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 - [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a host service.
-- [ZNC](https://github.com/znc/znc) An advanced IRC bouncer
+- [ZNC](https://github.com/znc/znc) An advanced IRC bouncer.
 
 ### IRC Clients
 - [weechat](https://github.com/weechat/weechat) The extensible chat client.
