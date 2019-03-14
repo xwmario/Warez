@@ -10,7 +10,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
-**I or GitHub do not support warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
+**I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
 See also:
 * [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
@@ -1387,9 +1387,10 @@ See also:
 - [Mega Shows](https://megashowsapk.com/) Watch & Download your favorite movies and TV shows.
 - [TVPato2](https://tvpato2.com/) (es-ES) Spanish Live TV App.
 - [Evolve TV](http://evolvetv.info/) (EN-US) Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
-- [Filmix](https://filmix.site) (EN-US) Watch movies and TV shows using AndroidTV and mobile devices.
+- [Filmix](https://filmix.site) (EN-US) Watch movies and TV shows using AndroidTV or mobile devices.
 - [KinoTor](http://tiardev.ru/) (RU) Provides movies and videos from several russian directories.
-- [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) (SH) Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV). 
+- [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) (SH) Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
+- [Newest Movies HD](http://newestmovieshd.com) (en-US) Watch movies and TV shows using AndroidTV or mobile devices.
 
 
 ### Big Media Libraries
