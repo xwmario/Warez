@@ -59,6 +59,7 @@ See also:
 - [SCNLOG.me](https://scnlog.me)
 - [SweTracker](https://swetracker.org/releases)
 - [Release Watcher](http://extremedownload.org/)
+- [NSWDB](http://nswdb.com/)
 
 ### Basic "starter info"
 - [What is the scene?](https://defacto2.net/defacto2/subculture)
