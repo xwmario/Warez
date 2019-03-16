@@ -1282,6 +1282,7 @@ See also:
 - [How to download paid Fonts for free](https://old.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
 
 ## Automation
+- [File & Image Uploader](http://z-o-o-m.eu/) The most comprehensive program to upload files and images to different file-/image-hoster. 
 - [MacGuffin](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
