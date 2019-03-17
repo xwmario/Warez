@@ -600,6 +600,7 @@ See also:
 - [RADIXX11](https://radixx11rce2.blogspot.com) (EN-US) Software forum.
 - [Team-IRA [TIRA]](https://team-ira.com/) (EN-US) Software, Tutorials, eBooks, Android and reversing Forum.
 - [Soft9](http://soft9.ru/) (RU) Russian Software Portal.
+- [ReleaseBB](https://rlsbb.ru/) (RU) Russian Software Portal.
 
 
 ### Premium Link Generators
@@ -1399,7 +1400,6 @@ See also:
 - [ApolloTV](https://apollotv.xyz/) + [Discord](https://discordapp.com/invite/DT9SgYE)
 - [AniméGlare](https://animeglare.xyz/) + [Discord](https://discordapp.com/invite/RMjHm4F1)
 - [AniméVibe](http://animevibe.tv/) + [Discord](https://discordapp.com/invite/4QGvkw8) 
-- [CotoMovies](https://cotomovies.com/) Stream movies and TV shows online/offline for Android/iOS.
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
@@ -1408,7 +1408,6 @@ See also:
 - [BeeTV](http://beetvapk.me/) 
 - [CinemaHD](https://cinemaapk.com/)
 - [CKayTV](http://ckaytv.com/)
-- [CoToMovies](https://cotomovies.com/)
 - [Morph TV (Morpheus Fork)](https://discordapp.com/invite/VHYGtA9)
 - [DreamTV (Terrarium Clone) unfaked](http://dream-tv.xyz/) + [Discord](https://discordapp.com/invite/FQkQz6g)
 - PhoenixTV (Morpheus Fork
