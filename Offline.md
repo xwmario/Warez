@@ -11,7 +11,8 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 ## Anime
 - AnimeHeaven.eu
 
-## Boards (offline, abandoned or compromised) 
+## Boards (offline, abandoned or compromised)
+- dlcboot.com
 - 3dl.am
 - scenedownloads.pw
 - ww1.load-it.cc
