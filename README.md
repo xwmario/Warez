@@ -1611,6 +1611,9 @@ See also:
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez community server.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
 
+## Discord Tutorials
+- [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/)
+
 ## IPTV + DVR
 - [IPTV Providers list](https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) A recently created list of 40+ IPTV providers with notes.
 - [antennas](https://github.com/TheJF/antennas) HDHomeRun emulator for Plex DVR to connect to Tvheadend.
