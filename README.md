@@ -457,7 +457,7 @@ See also:
 - [Newsbin](http://newsbin.com/about.php) Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
 
 ## Direct Download Directories
-- [/r/opendirectories](https://www.reddit.com/r/opendirectories/) Reddit community, which providing links to FTPs etc.
+- [/r/opendirectories](https://www.reddit.com/r/opendirectories/) Reddit community which provides links to FTPs, GDrive, Mega links & more, there is also a [search tool](https://opendirsearch.abifog.com/) available. 
 
 ### Download Managers
 - [JDownloader2](http://www.jdownloader.org/home/index) JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
