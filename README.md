@@ -1611,8 +1611,10 @@ See also:
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez community server.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
 
-## Discord Tutorials
-- [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/)
+## Discord Tutorials, Scripts & Bots
+- [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
+- [Discord WarezBot](https://github.com/enzobes/WarezBot) Public Version of Discord bot for scene release.
+- [Discord NSWDBot](https://github.com/HunterKing/NSWDBot) Discord bot to scrape NSWDB.com for scene releases.
 
 ## IPTV + DVR
 - [IPTV Providers list](https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) A recently created list of 40+ IPTV providers with notes.
