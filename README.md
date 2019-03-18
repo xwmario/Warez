@@ -1217,7 +1217,7 @@ See also:
 - [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
 - [forcoder](https://forcoder.su/) Ebooks & Elearning for Programming
 
-## Courses and Tutorials
+## Courses & Tutorials
 - [TUTSGALAXY](https://tutsgalaxy.com/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
@@ -1232,6 +1232,7 @@ See also:
 - [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 - [Freetutorials.eu](https://www.freetutorials.eu/) Download Udemy Paid Courses 4 free.
 - [Traning Circle](https://trainingcircle.in/) (EN-US) Coding, reversing & other tutorials.
+- [The Ultimate Noob Guide for Hacking your Nintendo Switch](https://guide.sdsetup.com/) Want to hack your Nintendo Switch but don’t know where to start? Just follow this guide!
 
 
 ## Direct Download Streaming
