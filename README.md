@@ -1604,14 +1604,14 @@ See also:
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
-- [WarezBot for Discord](https://github.com/enzobes/WarezBot) A Discord Bot which crawls scene releases.
-- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
 - [The Ratio](https://discord.gg/qkRCehC) A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez community server.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
+- [legal acquisition club](https://discordapp.com/invite/UmWJVvH) A piracy server to discuss and share movies, tv and apps.
 
 ## Discord Tutorials, Scripts & Bots
+- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
 - [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
 - [Discord WarezBot](https://github.com/enzobes/WarezBot) Public Version of Discord bot for scene release.
 - [Discord NSWDBot](https://github.com/HunterKing/NSWDBot) Discord bot to scrape NSWDB.com for scene releases.
