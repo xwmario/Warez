@@ -502,6 +502,7 @@ See also:
 ### Custom Google Search Engines
 - [FileChef](http://filechef.com/) Get direct download links for almost anything!!
 - [The Eye CGS Engine](https://cgs.the-eye.eu/) The Eye - CGS Engine
+- [wtfnzb](https://wtfnzb.pw/) Open dir for Software.
 - [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) Get direct download links for almost anything.
 - [lumpySoft.com](https://lumpysoft.com/) Google index search
 - [mattpalm.com/search](https://mattpalm.com/search/) Get direct download links for almost anything.
@@ -1598,16 +1599,17 @@ See also:
 - [iHackedit](http://ihackedit.com/) Provides Android Apps & Games including Mods.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy focused keyboard.
 
-## Discord Servers, Bots & Tools
+## Discord Servers
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
 - [WarezBot for Discord](https://github.com/enzobes/WarezBot) A Discord Bot which crawls scene releases.
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
-- [wtfnzb](https://wtfnzb.pw/) Open dir for Software.
 - [The Ratio](https://discord.gg/qkRCehC) A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
-
+- [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
+- [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez community server.
+- [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
 
 ## IPTV + DVR
 - [IPTV Providers list](https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) A recently created list of 40+ IPTV providers with notes.
