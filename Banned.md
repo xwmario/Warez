@@ -28,6 +28,7 @@
 * CRAVERS
 * CMRG
 * CracksNow
+* FRY!TV
 
 
 ## Other reasons (sell-out, under surveillance etc)
