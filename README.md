@@ -1609,6 +1609,8 @@ See also:
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez community server.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) A piracy server to discuss and share movies, tv and apps.
+- [piratesonline](https://discord.me/piratesonline) Official piratesonline.us Discord Server.
+
 
 ## Discord Tutorials, Scripts & Bots
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
