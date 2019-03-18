@@ -1830,16 +1830,17 @@ See also:
 - [DTube](https://d.tube) D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
 
 ### Telegram Privacy Discussion Channels
-- [piracy Telegram](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of over 400 pirates.
+- [@piracy](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) A modest group of over 400 pirates.
 - [@itorrentsearchbot](https://t.me/itorrentsearchbot) Searchbot which finds torrent and magnet links on 1337x.to by keyword search
 - [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song (uses vkmusic search engine)
 - [@RickyChristanto Chan](https://t.me/RickyChristanto) Movie releases channel provides usually stuff from YTS.
-- [iMediaShare](https://t.me/iMediaShare) Provides links to Movies, TV shows, apps & and more.
+- [@iMediaShare](https://t.me/iMediaShare) Provides links to Movies, TV shows, apps & and more.
 - [@movies_inc](https://t.me/movies_inc) Another Telegram channel for downloading several movies in different quality.
 - [@Qualitymovies](https://t.me/Qualitymovies) Lots of 720p Blu-Ray movie releases.
 - [@MusicHuntersBot](https://t.me/MusicHuntersBot) Another music downloader bot for Telegram.
 - [@DeezerMusicBot](https://t.me/DeezerMusicBot) Music bot which downloads tracks from Deezer.
-- [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr.
+- [@SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr.
+- [@piratebazaar](https://t.me/piratebazaar) Telegram Channel with provides warez information, lists etc.
 
 ### Social Media 'Tools'
 - [Random AI generated profile pictures](http://notarealhuman.com/)
