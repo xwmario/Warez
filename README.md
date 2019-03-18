@@ -1190,12 +1190,13 @@ See also:
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
-- [Calibre](https://calibre-ebook.com/) eBook Management Tool
+- [Calibre](https://calibre-ebook.com/) An open source eBook Management Tool.
 - [Calibre-Web](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks.
 - [LibGen](http://libgen.io/) eBook search. ([Mirror](http://gen.lib.rus.ec/)) + ([another Mirror](https://libgen.pw/))
 - [TehParadox](http://www.tehparadox.co/) eBooks, Apps, Games & more.
 - [/r/DHExchange](https://old.reddit.com/r/DHExchange/) PDF/eBooks trading.
+- [FicSave](http://ficsave.xyz/) An Open-Source Online Fanfiction Downloader.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
