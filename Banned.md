@@ -28,7 +28,7 @@
 * CRAVERS
 * CMRG
 * CracksNow
-* FRY!TV
+* FRY!TV + Cinemax Mov - Free HD Movies Online (same dev)
 
 
 ## Other reasons (sell-out, under surveillance etc)
