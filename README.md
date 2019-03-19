@@ -24,10 +24,9 @@ See also:
 
 
 # Todo
-- [ ] Release a Homepage and include a search index
-- [ ] Filter (index) for language, category etc.
+- [ ] Release a Homepage and include a search index for language, category etc.
 - [ ] Sort providers alphabetically to avoid stuff like "what's the best" (there is no best) ...
-- [ ] (optional) Add more services, websites, information
+- [ ] (_optional_) Add more services, websites, information
 - [x] Sort entries
 - [x] Add a bookmark
 
@@ -1610,6 +1609,10 @@ See also:
 - [Discord NSWDBot](https://github.com/HunterKing/NSWDBot) Discord bot to scrape NSWDB.com for scene releases.
 - [Discord WarezBot](https://github.com/enzobes/WarezBot) Public Version of Discord bot for scene release.
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Provides end-to-end encryption for Discord.
+- [BetterDiscord](https://betterdiscord.net/home/) Pimp Discord with better Themes and add some nice Plugins/Scripts.
+- [Do Not Track for Discord](https://betterdocs.us/plugins/do-not-track/) A plugin for BD to prevent Discord tracking.
+- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Encrypt Discord - there is also [Simple DiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) which works with the Web version of Discord (both are not compatible to each other!).
+
 
 ## IPTV + DVR
 - [/r/IPTV](https://www.reddit.com/r/IPTV) Subreddit some may find helpful for gauging the current state of IPTV providers.
@@ -1684,7 +1687,7 @@ See also:
 - [Riot](https://matrix.org/blog/home/)
 - [Threema](https://threema.ch/en)
 - [Wire](https://wire.com/)
-- [XMPP (protocol)](https://xmpp.org/)
+- [Signal](https://signal.org/)
 
 ## Full Movies On
 - [/r/1080pMoviesOnline](https://www.reddit.com/r/1080pMoviesOnline)
