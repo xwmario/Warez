@@ -79,6 +79,26 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - textsheet.com
 
 
+## TV / Torrent
+spacemov.io
+streamm4u.tv
+www.adit-hd.com
+appnee.com
+downloadly.ir
+www.silentground.org
+tekspert.se
+app.appvalley.vip
+adit-hd.com
+m4ufree.tv
+movie123.club
+time2watch.in
+darkumbra.netforumsforum192-3ds-cia-games
+dxroms.jimdo.comromssnes
+theromdepot.comroms
+www.dpstream.net
+isohunt2.net
+
+
 ## Domain registrar
 - openleaf.net.ru
 
