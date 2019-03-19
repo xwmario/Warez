@@ -1865,3 +1865,15 @@ See also:
 ### Homework
 - [Lit Answers](https://litanswers.org/) Find homework answers.
 - [Slader](https://www.slader.com/) Find textbooks with answers.
+
+### Password Cracking
+- [Aircrack-NG](http://www.aircrack-ng.org/%20%C2%A0) Aircrack-NG is a tool for cracking of WiFi passwords that can crack WPA or WEP passwords.
+- [Cain & Abel](http://www.oxid.it/ca_um/) It can function as a sniffer on the network, for cracking of encrypted passwords by the dictionary attack, uncovering cached passwords, decoding scrambled passwords, brute attacks, recording VoIP conversations, password boxes revelation, cryptanalysis attacks, and analysing protocols of routing.
+- [Elcomsoft](https://www.elcomsoft.com/index.html) Elcomsoft provides several solution for Windows, file etc password cracking.
+- [HasCat](https://hashcat.net/hashcat/) HashCat claims to be the world's open source fastest password cracker.
+- [John the Ripper](http://http//www.openwall.com/john/) John the Ripper is yet another popular free open source tool for password cracking in Linux, Mac OS X and Unix.
+- [L0phtCrack](http://http//www.l0phtcrack.com/download.html%C2%A0) It makes various attempts on cracking Windows passwords from hashes.
+- [Medusa](http://www.foofus.net/) Medusa is another tool for password cracking like THC Hydra. 
+- [OphCrack](http://ophcrack.sourceforge.net/) OphCrack is available for free which is a rainbow-table based tool for password cracking on Windows. It is a popular Windows password cracking tool which can also be used on Linux or Mac.
+- [RainbowCrack](http://project-rainbowcrack.com/table.htm) It falls in the hash cracker tool category that utilizes a large-scale time-memory trade off process for faster password cracking compared to traditional brute force tools.
+- [THC Hydra](http://https//www.thc.org/thc-hydra/) THC Hydra can be said to be the fast paced network logon tool for password cracking.
