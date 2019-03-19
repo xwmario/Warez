@@ -50,16 +50,16 @@ See also:
 **NOTE**: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## Scene Release Info
-- [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
+- [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS) Bunch of scripts to monitor scene releases.
 - [predb.pw](https://predb.pw) + [predb.org](https://predb.org/)
 - [xrel.to](https://www.xrel.to/) Scene and P2P release database.
 - [SrrDB](https://www.srrdb.com/) Scene and P2P release database.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
-- [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
-- [SCNLOG.me](https://scnlog.me)
-- [SweTracker](https://swetracker.org/releases)
-- [Release Watcher](http://extremedownload.org/)
-- [NSWDB](http://nswdb.com/)
+- [DVD ReleaseDates](https://www.dvdsreleasedates.com/) Scene and P2P release database.
+- [SCNLOG.me](https://scnlog.me) Scene and P2P release database.
+- [SweTracker](https://swetracker.org/releases) Scene and P2P release database.
+- [Release Watcher](http://extremedownload.org/) Scene and P2P release database.
+- [NSWDB](http://nswdb.com/) Scene and P2P release database.
 
 ### Basic "starter info"
 - [What is the scene?](https://defacto2.net/defacto2/subculture)
@@ -534,9 +534,9 @@ See also:
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare (_blocked in the UK_).
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) (EN-US) Popular warez forum with films, TV shows, ebooks, anime, games, and more.
 - [snahp.it](https://snahp.it/) Replaces the old /r/megalinks directory.
-- [hdencode](https://hdencode.com/) Video's/Movie's in HD Quality.
-- [Movie Glide](https://www.movieglide.com/)
-- [Release BB](http://rlsbb.ru)
+- [hdencode](https://hdencode.com/) (EN) Videos/Movies in HD Quality.
+- [Movie Glide](https://www.movieglide.com/) (EN) Videos/Movies & TV Shows in HD Quality.
+- [Release BB](http://rlsbb.ru) (RU) Russian software and Android portal.
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [AdiT-HD](http://adit-hd.com/) Direct movie download site.
 - [TwoDDL](http://2ddl.ws) Direct software download links.
@@ -550,14 +550,13 @@ See also:
 - [PSARips](https://psarips.com/) Popular site for movies and TV shows, includes torrent files
 - [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) Pastebin user who uploads premium links for TV shows
 - [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [Moviesleak](https://moviesleak.net/)
-- [Dospelis](https://www.dospelis.net) Spanish DDL indexer
-- [Vidics](https://www.vidics.to/)
-- [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
-- [Watch Series](http://watchseries.ag/)
+- [Moviesleak](https://moviesleak.net/) (EN) Yet another movie page, the focus is in IMDB annoucements. 
+- [Dospelis](https://www.dospelis.net) Spanish DDL indexer.
+- [Vidics](https://www.vidics.to/) (EN) Vidics provides Tv shows and movie releases.
+- [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/) Watch Episode Series provides TV Shows releases from the scene.
+- [Watch Series](http://watchseries.ag/) (EN) WatchSeries provides TV Shows (as the name might already suggests).
 - [WatchTVSeries](http://watchtvseries.unblckd.club/)
-- [DownTurk](https://www.downturk.net/)
-- [ScnLog](https://scnlog.me/)
+- [DownTurk](https://www.downturk.net/) (EN) Software portal.
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
 - [WarezBB.org](http://warezbb.org/) (EN) Invite-only elite forum. 
 - [Warez-BB-org](https://warez-bb.org/) (EN) Elite warez forum. [![(invite needed)][inviteneeded]](#)
@@ -565,25 +564,25 @@ See also:
 - [Nsane Forum](https://www.nsaneforums.com/)
 - [Adit-HD Forum](http://www.adit-hd.com/index.php) (EN) Forum which provides links to HD rips.
 - [Snahp Forum](https://forum.snahp.it/index.php) (EN) Forum which provides links to HD rips & software.
-- [KickassWarez](https://kickasswarez.info/) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [Board4All](https://www.board4all.biz/)
-- [OSZone](http://www.oszone.net/)
-- [UpTown](https://en.uptodown.com/)
-- [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) Windows ISO Downloads Mirrors (ftp links not visible in MarkDown!)
+- [KickassWarez](https://kickasswarez.info/) (EN/RU) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
+- [Board4All](https://www.board4all.biz/) (EN) A forum which provides and shares all sorts of stuff.
+- [OSZone](http://www.oszone.net/) (RU) Software portal.
+- [UpTown](https://en.uptodown.com/) (EN) Software portal.
+- [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) Windows ISO Downloads Mirrors (ftp links not visible in GitHub's Markdown!)
 - [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
-- [PCPortal](https://pcportal.org/)
-- [ZeroBoard](https://zeroboard.org/) (EN)
-- [RuTracker](https://rutracker.cr/) (RU)
-- [BetaArchive](https://www.betaarchive.com/)
-- [Mutaz](https://www.mutaz.net/free-programs/)
-- [NGB.to](https://ngb.to/) (Ger)
-- [RSLinks](https://rslinks.org/) (EN)
-- [AVXHome](http://avxhome.se/) Best of eBooks, Software, Mag, ...
-- [LavTeam](http://www.lavteam.org/)
-- [Onkyo4k](http://onkyo4k.com/) (EN)
-- [DDL-Warez](https://ddl-warez.to/) (EN)
+- [PCPortal](https://pcportal.org/) (RU) One of the biggest russian software forums.
+- [ZeroBoard](https://zeroboard.org/) (EN) A board which provides Windows related stuff.
+- [RuTracker](https://rutracker.cr/) (RU) If you didn't alreay knew RUTracker you never heard of Warez at all.
+- [BetaArchive](https://www.betaarchive.com/) (EN) Windows ISOs, Windows tools & more.
+- [Mutaz](https://www.mutaz.net/free-programs/) Tracks scene software releases.
+- [NGB.to](https://ngb.to/) (Ger) Another Gulli/MyGully clone.
+- [RSLinks](https://rslinks.org/) (EN) Tracks scene software releases and mirrors them.
+- [AVXHome](http://avxhome.se/) (EN) Best of eBooks, Software, Mag, ...
+- [LavTeam](http://www.lavteam.org/) (RU) Another russian software portal. Like dust in the desert!
+- [Onkyo4k](http://onkyo4k.com/) (EN) Tracks movies and tv shows.
+- [DDL-Warez](https://ddl-warez.to/) (Ger) German software, movies & tv board. 
 - [DownloadLY.IR](http://downloadly.ir/) (IR)
-- [Mawto](https://www.mawtoload.com/)
+- [Mawto](https://www.mawtoload.com/) (EN)
 - [Boerse.to](http://boerse.to/) (Ger)
 - [MyGully](http://mygully.com/) (Ger)
 - [Audioz](https://audioz.download/) (EN) All about Audio. 
@@ -1607,7 +1606,7 @@ See also:
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
 - [The Ratio](https://discord.gg/qkRCehC) A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
-- [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
+- Snahp.it Official Discord server for snahp.it. (link?)
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez community server.
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) A piracy server to discuss and share movies, tv and apps.
