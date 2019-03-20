@@ -10,7 +10,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
-**I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner or hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
+**I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
 See also:
 * [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
@@ -21,6 +21,12 @@ See also:
 * [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
 * [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
 * [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
+
+
+### Basic "starter info"
+- [What is the scene?](https://defacto2.net/defacto2/subculture)
+- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
+- [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
 
 
 ## Scene Release Info
@@ -35,10 +41,6 @@ See also:
 - [SweTracker](https://swetracker.org/releases) Scene and P2P release database.
 - [xrel.to](https://www.xrel.to/) Scene and P2P release database.
 
-### Basic "starter info"
-- [What is the scene?](https://defacto2.net/defacto2/subculture)
-- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
-- [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
 
 ## Anti-tamper systems
 - [Adobe Primetime](https://www.adobe.com/marketing/primetime.html)
@@ -57,6 +59,15 @@ See also:
 - [Reverse Club](http://crack.vc/forum/) ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://tuts4you.com)
 
+## Demoscene
+- [What is the Demoscene?](https://en.wikipedia.org/wiki/Demoscene) 
+- [pouët.net](http://www.pouet.net/)
+- [Scene.org](https://www.scene.org/)
+- [DemoParty](https://www.demoparty.net/)
+- [demoscene.info](http://www.demoscene.info/the-demoscene)
+- [Scene.org Awards](http://awards.scene.org/)
+- [Demoo](http://calodox.scene.org/demoo/)
+- [Monostep](http://demo.monostep.org/)
 
 ### NFO Viewers and KeyGen Music
 - [Defacto2](https://defacto2.net/welcome)
