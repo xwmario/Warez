@@ -482,6 +482,9 @@ See also:
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [youtube-dl](https://rg3.github.io/youtube-dl/) YouTube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 
+### Netflix Tools
+- [FlixGrab](https://freegrabapp.com/product/flixgrab/) Unique and powerful application for downloading NetFlix videos fast and for free.
+
 ### Custom Google Search Engines
 - [FileChef](http://filechef.com/) Get direct download links for almost anything!!
 - [Jimmyr](http://www.jimmyr.com/mp3_search.php) Music search engine.
