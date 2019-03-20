@@ -78,7 +78,6 @@ See also:
 - [Valeroa](https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
 - [Verimatrix](https://www.verimatrix.com)
 - [VMProtect](http://vmpsoft.com)
-- [VMProtect](http://vmpsoft.com)
 
 ## Public Cracking Forums
 - [Crackmes.cf](http://crackmes.cf/) (mirror of crackmes.de + [reboot](https://crackmes.one/))
@@ -137,12 +136,18 @@ See also:
 - [ThePirateBay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS and more...
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2.
 
-### Windows 10 pseudo-Privacy Tools
+### Windows 10 pseudo-Privacy Tools & scripts
+- [BlackBird](https://www.getblackbird.net/) Blocks telemetry, Ads etc. 
+- [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) Uses some known methods that attempt to disable tracking in Windows 10.
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+- [W10Privacy](https://www.winprivacy.de/english-home/) Yet another little utility similar to O&O ShutUp.
+- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) A customizable script to setup script via PowerShell/CMD. 
 - [Winaero](https://winaero.com/download.php) Free, small and useful software for Windows.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows.
+
+### Windows 10 Guides (privacy/security related)
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 
 ## Password Vaults
 - [1Password](https://1password.com/) Popular cloud-hosted password manager.
