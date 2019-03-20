@@ -135,17 +135,21 @@ See also:
 - [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
 - [Psono](https://psono.com/) Open source and self-hosted password manager for teams.
 
-## Privacy focused discussions 
+## Privacy focused discussion Channels
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
-- [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
+- [Prism Break](https://prism-break.org/en/) Opt-out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 
 ## eMail Providers
 - [10 Minute Mail](https://10minutemail.net/) Disposable, Private mailboxes.
-- [Cock.li](https://cock.li/) Yeah it's mail with cocks.
+- [Cock.li](https://cock.li/) Yeah, it's mail with cocks.
 - [Mailbox](https://mailbox.org/en/) Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
 - [ProtonMail](https://protonmail.com/) Secure Email Based made in Switzerland.
 - [Tutanota](https://tutanota.com) A secure and open source eMail provider.
+
+## eMail GUI Clients
+- [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) Well-known open source eMail Client from Mozilla.
+- [ElectronMail](https://github.com/vladimiry/ElectronMail) Electron based wrapper for ProtonMail & Tutanota.
 
 ## Decentralized Networks
 - [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
