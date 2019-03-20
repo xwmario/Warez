@@ -584,7 +584,9 @@ See also:
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/) Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](http://watchtvseries.unblckd.club/)
 - [ZeroBoard](https://zeroboard.org/) (EN) A board which provides Windows related stuff.
-
+- [Win7DL](http://win7dl.org/) (EN) Software, Movies, eBooks & more.
+- [DL4All](http://dl4all.org/) (EN) Various Games, Tutorials, TV Shows, Music and mobile stuff.
+- [Reduson](https://www.reduson.com/) (EN/RU) Another software portal for various type of releases like software, magazines, games and many more.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -853,6 +855,7 @@ See also:
 - [redump.org](http://redump.org/) Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 
 ### Plex Scripts and Tools
+- [killstream](https://github.com/blacktwin/JBOPS/tree/master/killstream) Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
 - ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi and NVIDIA Shield.
 - [DocDownloader](https://docdownloader.com/)
 - [Gaps](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server.
@@ -1147,6 +1150,10 @@ See also:
 - [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) fonts online.
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
 
+### Linux Guides
+- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress project!
+
+
 ### Windows
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [Krakatoa](https://krakatoa.www3.cz/)
@@ -1175,6 +1182,11 @@ See also:
 ### Windows 10 Guides (privacy/security related)
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 
+## Windows Resources
+- [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) RCC, check your system's trusted root certificate store.
+- [Simplix Blog](https://blog.simplix.info/update7/) Windows Hotfix repository.
+- [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's
+
 ## eBooks
 - [/r/DHExchange](https://old.reddit.com/r/DHExchange/) PDF/eBooks trading.
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
@@ -1190,7 +1202,8 @@ See also:
 - [LibGen](http://libgen.io/) eBook search. ([Mirror](http://gen.lib.rus.ec/)) + ([another Mirror](https://libgen.pw/))
 - [TehParadox](http://www.tehparadox.co/) eBooks, Apps, Games & more.
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
-- [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
+- [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library.
+- [DLEBook.me](http://dlebook.me/)
 
 ## Magazines
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
@@ -1284,6 +1297,7 @@ See also:
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
 - [MacGuffin](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
+- [Massivedl](https://github.com/dimkouv/massivedl) A command line tool which helps to download a large number of files from the web in a short time.
 - [Mylar](https://github.com/evilhero/mylar) An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
 - [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
 - [Piracy and automation, an overview](https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools.
@@ -1522,6 +1536,7 @@ See also:
 - [TimeToWatch](https://www.timetowatch.video/)
 - [Tubi](https://tubitv.com/home)
 - [TVMovies](https://tvmovies.to/)
+- [ULMovies](https://ulmovies.com/) (EN) 
 - [VidCloud](https://vidcloud.icu/)
 - [WatchFree.ac](https://www3.watchfree.ac/watchfree.html)
 - [Watchfree.at](https://watchfree.at/watchfree.html)
@@ -1602,7 +1617,7 @@ See also:
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [The Ratio](https://discord.gg/qkRCehC) A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez community server.
-- Snahp.it Official Discord server for snahp.it. (link?)
+- [Snahp.it] Official Discord server for snahp.it. (**needs invite link**)
 
 
 ## Discord Tutorials, Scripts & Bots
@@ -1613,6 +1628,9 @@ See also:
 - [BetterDiscord](https://betterdiscord.net/home/) Pimp Discord with better Themes and add some nice Plugins/Scripts.
 - [Do Not Track for Discord](https://betterdocs.us/plugins/do-not-track/) A plugin for BD to prevent Discord tracking.
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) Encrypt Discord - there is also [Simple DiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) which works with the Web version of Discord (both are not compatible to each other!).
+- [Discord Channel scraper](https://github.com/simon987/Discord-Channel-scraper) Scrapes an arbitrary number of lines from a Discord channel.
+- [Running a full deletion](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) Powerful script to delete full Discord message history.
+- [Discord toolkit](https://notabug.org/johndoe5436/discord-toolkit) Discord batch account creator.
 
 
 ## IPTV + DVR
@@ -1789,11 +1807,6 @@ See also:
 ## URL Shortener
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 
-## Windows Resources
-- [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) RCC, check your system's trusted root certificate store.
-- [Simplix Blog](https://blog.simplix.info/update7/) Windows Hotfix repository.
-- [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's
-
 ## Premium Link Generators
 - [Deepbrid](https://www.deepbrid.com/downloader) 1,2GB premium links, a "pro" version is also avbl. without any download limits.
 - [Free Rapidleech](http://freerapidleechlist.blogspot.com/) Daily updated free premium hoster logins. **Be Warned**: Fake pages are looking similar!
@@ -1851,6 +1864,9 @@ See also:
 - [@SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr.
 - [@vkmusic_bot](https://t.me/vkmusic_bot) Find and download pretty much any song (uses vkmusic search engine)
 - [@warez](https://t.me/warez) Yet another warez channel.
+
+### Telegram Tools & Scripts
+- [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) Block spam + XP leaderboard for Telegram.
 
 ### Social Media 'Tools'
 - [Keybase](https://keybase.io/docs/extension) Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
