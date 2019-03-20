@@ -1153,7 +1153,7 @@ See also:
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
 
 ### Windows
-- [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
+- [Official Microsoft Toolkit Website](https://forums.mydigitallife.net/threads/microsoft-toolkit-2-6-2-official.72155/)
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [Krakatoa](https://krakatoa.www3.cz/)
 - [MDL Forums](https://forums.mydigitallife.net/) Windows topics, hotfixes, self-made tools.
