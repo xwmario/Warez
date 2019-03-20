@@ -25,6 +25,7 @@ See also:
 
 ### Basic "starter info"
 - [What is the scene?](https://defacto2.net/defacto2/subculture)
+- [Scene Rules](https://scenerules.org/)
 - [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
 - [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
 
@@ -113,12 +114,14 @@ See also:
 - [Emuparadise ROMs:easy download](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) Make Emuparadise great again!
 - [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive.
 - [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Add "View Image" button.
+- [IGG GAMES Direct Download](https://gitlab.com/CHEF-KOCH/igg-games-direct-download-reviewed) Remove the download jump from igg-games.com and go directly to the download site to avoid waiting time and advertising harassment.
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites, easy downloading from IMDb
 - [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [openload](https://greasyfork.org/en/scripts/17665-openload) Remove Anti-Adblock, ads, popups, and timer waits, and show direct download link on OpenLoad.
 - [ThePirateBay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS and more...
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2.
+
 
 ### Windows 10 pseudo-Privacy Tools & scripts
 - [BlackBird](https://www.getblackbird.net/) Blocks telemetry, Ads etc. 
@@ -601,7 +604,8 @@ See also:
 
 ### Premium Link Hoster
 - [4shared](https://www.4shared.com/)
-- [K!M](https://k.im/) Replaces Megaupload (_one day_).
+- [DBREE](https://dbr.ee/)
+- [K!M](https://k.im/) Might replaces the original Megaupload (_one day_).
 - [Mediafire](https://www.mediafire.com/)
 - [Mega.nz](https://mega.nz/)
 - [NitroFlare](http://nitroflare.net/)
