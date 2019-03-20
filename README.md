@@ -123,19 +123,6 @@ See also:
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2.
 
 
-### Windows 10 pseudo-Privacy Tools & scripts
-- [BlackBird](https://www.getblackbird.net/) Blocks telemetry, Ads etc. 
-- [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) Uses some known methods that attempt to disable tracking in Windows 10.
-- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
-- [W10Privacy](https://www.winprivacy.de/english-home/) Yet another little utility similar to O&O ShutUp.
-- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) A customizable script to setup script via PowerShell/CMD. 
-- [Winaero](https://winaero.com/download.php) Free, small and useful software for Windows.
-- [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io.
-- [WPD](https://wpd.app/) The real privacy dashboard for Windows.
-
-### Windows 10 Guides (privacy/security related)
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
-
 ## Password Vaults
 - [1Password](https://1password.com/) Popular cloud-hosted password manager.
 - [BitWarden](https://bitwarden.com/) Open source password management solution, which can be self-hosted.
@@ -1164,12 +1151,25 @@ See also:
 - [PCBeta](http://bbs.pcbeta.com)
 - [SamLab](http://samlab.ws/)
 - [Shadow-Trooperz](http://shadow-trooperz.xyz/sw/) Provides Windows ISO's and other Windows related software links.
-- [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
+- [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10.
 - [UUPDump](https://uupdump.ml/) In-official Windows Hotfix repository + Windows dumps.
 
 ## Windows Integration Tools
 - [NTLite](https://www.ntlite.com/) Paid program to remove integrated telemetry, integrate updates & more.
 - [MSGM ToolKit](https://www.majorgeeks.com/files/details/msmg_toolkit.html) Free program to customize Windows similar like NTLite bu without a nice looking GUI.
+
+### Windows 10 pseudo-Privacy Tools & scripts
+- [BlackBird](https://www.getblackbird.net/) Blocks telemetry, Ads etc. 
+- [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) Uses some known methods that attempt to disable tracking in Windows 10.
+- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+- [W10Privacy](https://www.winprivacy.de/english-home/) Yet another little utility similar to O&O ShutUp.
+- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) A customizable script to setup script via PowerShell/CMD. 
+- [Winaero](https://winaero.com/download.php) Free, small and useful software for Windows.
+- [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io.
+- [WPD](https://wpd.app/) The real privacy dashboard for Windows.
+
+### Windows 10 Guides (privacy/security related)
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 
 ## eBooks
 - [/r/DHExchange](https://old.reddit.com/r/DHExchange/) PDF/eBooks trading.
