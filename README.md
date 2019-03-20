@@ -1897,3 +1897,7 @@ See also:
 - [OphCrack](http://ophcrack.sourceforge.net/) OphCrack is available for free which is a rainbow-table based tool for password cracking on Windows. It is a popular Windows password cracking tool which can also be used on Linux or Mac.
 - [RainbowCrack](http://project-rainbowcrack.com/table.htm) It falls in the hash cracker tool category that utilizes a large-scale time-memory trade off process for faster password cracking compared to traditional brute force tools.
 - [THC Hydra](http://https//www.thc.org/thc-hydra/) THC Hydra can be said to be the fast paced network logon tool for password cracking.
+
+### Social Media Alternatives
+- [Raddle](https://raddle.me/) Reddit alternative.
+- [MeWe](https://mewe.com/) Google+ replacement.
