@@ -42,6 +42,8 @@ See also:
 - [SweTracker](https://swetracker.org/releases) Scene and P2P release database.
 - [xrel.to](https://www.xrel.to/) Scene and P2P release database.
 
+## Public piracy discussion channels
+- [/f/Piracy](https://raddle.me/f/Piracy) Raddle Forum - Piracy is not theft.
 
 ## Anti-tamper systems
 - [Adobe Primetime](https://www.adobe.com/marketing/primetime.html)
@@ -1164,7 +1166,6 @@ See also:
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [Krakatoa](https://krakatoa.www3.cz/)
 - [MDL Forums](https://forums.mydigitallife.net/) Windows topics, hotfixes, self-made tools.
-- [Official Microsoft Toolkit Website](https://forums.mydigitallife.net/threads/microsoft-toolkit-2-6-2-official.72155/)
 - [PCBeta](http://bbs.pcbeta.com)
 - [SamLab](http://samlab.ws/)
 - [Shadow-Trooperz](http://shadow-trooperz.xyz/sw/) Provides Windows ISO's and other Windows related software links.
