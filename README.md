@@ -479,6 +479,7 @@ See also:
 - [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid.
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites.
+- [Swiss Transfer](https://www.swisstransfer.com/en) Share Files up to 25GB.
 - [uGet](https://ugetdm.com/) Open Source Download Manager.
 - [wget - a noob's guide](https://chris.partridge.tech/data/wget-noobs.pdf) A beginner guide on how to use `wget`.
 - [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
@@ -1233,6 +1234,9 @@ See also:
 - [The Online Books Page](http://digital.library.upenn.edu/books/) (EN) You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
 - [Ubooquity](http://vaemendis.net/ubooquity/) (EN) Ubooquity is a free home server for your comics and ebooks library.
 
+## eBook Search Indexer
+- [Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) Preset of indexed websites to search for comics.
+
 ## eBook Readers
 - [Abacci eBooks](http://www.abacci.com/msreader/default.aspx) All the books here are for Microsoft Reader.
 - [Amazon Kindle](http://www.amazon.com/Kindle-Amazons-Original-Wireless-generation/dp/B000FI73MA) Learn about, shop, and discover titles for the Kindle here.
@@ -1266,6 +1270,7 @@ See also:
 - [PDF/Ebook trackers for college textbooks](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities
 
 ## Courses & Tutorials
+- [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
 - [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 - [FreeTutorial](https://www.freetutorials.eu/) Free tutorials page, hacking courses & more.
@@ -1297,10 +1302,9 @@ See also:
 - [Tokybook](https://tokybook.com/) Yet anothjer free audiobook streaming site.
 
 ## Comicbooks
+- [getcomics.info](http://getcomics.info/) Comics, release info & more.
 - [Comic Extra](http://www.comicextra.com/) General Comic informations.
-- [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI.
 - [Gazee!](https://hub.docker.com/r/linuxserver/gazee/) A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web connected device with a modern web browser.
-- [GetComics](http://getcomics.info/) General Comic information.
 - [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic. files, particularly US based comics published by DC and Marvel.
 - [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally.
 - [readcomiconline.to](https://readcomiconline.to/) Manga and comics which are been uploaded daily.
