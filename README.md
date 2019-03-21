@@ -44,6 +44,7 @@ See also:
 
 ## Public piracy discussion channels & FAQs
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle Forum - Piracy is not theft.
+- [s/piracy](https://saidit.net/s/piracy) Saidit Forum
 - [Welcome to the f/privacy FAQ](https://raddle.me/wiki/Privacy) Proudly ripped this FAQ off from a non-privacy-friendly site!
 
 ## Anti-tamper systems
