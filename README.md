@@ -42,8 +42,9 @@ See also:
 - [SweTracker](https://swetracker.org/releases) Scene and P2P release database.
 - [xrel.to](https://www.xrel.to/) Scene and P2P release database.
 
-## Public piracy discussion channels
+## Public piracy discussion channels & FAQs
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle Forum - Piracy is not theft.
+- [Welcome to the f/privacy FAQ](https://raddle.me/wiki/Privacy) Proudly ripped this FAQ off from a non-privacy-friendly site!
 
 ## Anti-tamper systems
 - [Adobe Primetime](https://www.adobe.com/marketing/primetime.html)
@@ -1195,22 +1196,53 @@ See also:
 - [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's
 
 ## eBooks
-- [/r/DHExchange](https://old.reddit.com/r/DHExchange/) PDF/eBooks trading.
-- [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
-- [b-ok](http://b-ok.xyz/) Free ebook library
-- [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
-- [Calibre-Web](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [Calibre](https://calibre-ebook.com/) An open source eBook Management Tool.
-- [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
-- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks.
-- [FicSave](http://ficsave.xyz/) An Open-Source Online Fanfiction Downloader.
-- [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
+- [/r/DHExchange](https://old.reddit.com/r/DHExchange/) (EN) PDF/eBooks trading.
+- [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) (EN) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
+- [Authorama](http://www.authorama.com/) (EN) This public domain book site has a wide variety of ebooks for free, by Lewis Carroll, Emerson, Kafka, and more.
+- [b-ok](http://b-ok.xyz/) (EN) Free ebook library
+- [Baen Free Library](http://www.baen.com/library/) (EN) You can download ebooks for HTML, RTF, Microsoft Reader and for Palm, Psion, and Window CE.
+- [Bartleby](http://www.bartleby.com/ebook/) (EN) While Bartleby charges for some titles, it has a free ebook store here.
+- [bibliomania](http://www.bibliomania.com/) (EN) You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
+- [BookStack](https://www.bookstackapp.com/) (EN) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
+- [Bookyards](http://www.bookyards.com/) (EN) This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
+- [Calibre-Web](https://github.com/janeczku/calibre-web) (EN) Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [COPS](https://github.com/seblucas/cops) (EN) Calibre OPDS (and HTML) PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
+- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) (EN) A Google custom search engine specifically for ebooks.
+- [DailyLit](http://www.dailylit.com/) (EN) Get free downloads sent to your email by RSS feed.
+- [DLEBook.me](http://dlebook.me/)(EN) 
+- [ebook Directory](http://www.ebookdirectory.com/) (EN) From children's books to IT books to literature to reference, you'll find lots of free titles and book packages here.
+- [ebookee.org](https://ebookee.org/) (EN) PDF/eBooks trading.
+- [eBookLobby](http://www.ebooklobby.com/) (EN) You'll find lost of self-help, hobby and reference books here, plus children's fiction and more.
+- [eReader.com](http://www.ereader.com/servlet/mw?t=freebooks&si=59) eReader.com has many classic lit selections for free.
+- [FicSave](http://ficsave.xyz/) (EN) An Open-Source Online Fanfiction Downloader.
+- [Free-eBooks.net](http://www.free-ebooks.net/) (EN) Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
+- [freebookspot.es](http://www.freebookspot.es/) (EN) Various eBook's.
+- [Get Free Ebooks](http://www.getfreeebooks.com/) (EN) This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
+- [Globusz](http://www.globusz.com/) (EN) There are no limits on the number of free books you can download on this online publishing site.
+- [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) (EN) 
+- [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) (EN) Project Gutenberg was the first to supply free ebooks, and today they have almost 30,000 free titles in stock.
 - [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
+- [iBiblio](http://www.ibiblio.org/index.html) (EN) Find archives, ebooks, tutorials, language books, and more from iBiblio.
 - [LibGen](http://libgen.io/) eBook search. ([Mirror](http://gen.lib.rus.ec/)) + ([another Mirror](https://libgen.pw/))
-- [TehParadox](http://www.tehparadox.co/) eBooks, Apps, Games & more.
-- [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
-- [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library.
-- [DLEBook.me](http://dlebook.me/)
+- [ManyBooks.net](http://manybooks.net/) (EN) You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
+- [Planet PDF](http://www.planetpdf.com/free_pdf_ebooks.asp) (EN) Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
+- [Read Print Library](http://www.readprint.com/) (EN) These novels and poems are all free.
+- [Starry.com](http://www.starry.com/free-online-novels/index.htm) (EN) These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
+- [TehParadox](http://www.tehparadox.co/) (EN) eBooks, Apps, Games & more.
+- [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) (EN) Posted by /u/Servaplur
+- [The Online Books Page](http://digital.library.upenn.edu/books/) (EN) You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
+- [Ubooquity](http://vaemendis.net/ubooquity/) (EN) Ubooquity is a free home server for your comics and ebooks library.
+
+## eBook Readers
+- [Abacci eBooks](http://www.abacci.com/msreader/default.aspx) All the books here are for Microsoft Reader.
+- [Amazon Kindle](http://www.amazon.com/Kindle-Amazons-Original-Wireless-generation/dp/B000FI73MA) Learn about, shop, and discover titles for the Kindle here.
+- [Calibre](https://calibre-ebook.com/) An open source eBook Management Tool.
+- [E-book Reader Matrix](http://wiki.mobileread.com/wiki/E-book_Reader_Matrix) This wiki makes it easy to compare ebook reader sizes, battery life, supported formats, and other qualifications.
+- [E-book readers at a glance](http://www.wired.com/gadgetlab/2007/11/e-book-readers/) This guide reviews and compares the new, cool readers.
+- [eBook Reader Review](http://ebook-reader-review.toptenreviews.com/) TopTenReviews lists reader reviews from 2009.
+- [Free iPhone ebook readers head-to-head](http://mac.elated.com/2009/02/12/free-iphone-ebook-readers-head-to-head/) Reality Distortion ranks iPhone ebook readers.
+- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
+- [Wikipedia - List of e-book readers](http://en.wikipedia.org/wiki/List_of_e-book_readers) Learn about all of the different ebook readers from Wikipedia.
 
 ## Magazines
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
