@@ -103,6 +103,10 @@ See also:
 - [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
 - [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
+### Browser Userscript engines
+- [Tapermonkey](https://tampermonkey.net/) Tampermonkey is the most popular userscript manager, with over 10 million users
+- [Violentmonkey](https://violentmonkey.github.io/) An open source userscript manager.
+
 ## Userscripts
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) Anti-Adblock Killer helps you keep your Ad-Blocker active when you visit a website and it asks you to disable.
@@ -308,20 +312,17 @@ See also:
 - [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
 - [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing.
 
-### Torrent Clients (should be used in combination with a VPN)
-- [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client.
-- [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video.
-- [Deluge](https://www.deluge-torrent.org/) Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
-- [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
-- [LibTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) Mobile torrent client.
-- [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js.
-- [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows.
-- [popcorn-time-desktop](https://github.com/amilajack/popcorn-time-desktop) A modern open source Popcorn Time Client.
-- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent.
-- [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client.
-- [RTorrent](https://github.com/rakshasa/rtorrent/wiki#download-links) Open source Torrent client. 
-- [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux.
-- [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
+### Torrent Clients
+- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular torrent trackers and download rss/torrents. 
+
+## Torrent DMCA prevention
+- Open QB advance settings
+- Bind the network interface to your VPN network adapter (TAP) e.g. PIA/Proton [see here example](https://i.imgur.com/pD7atey.jpg).
+
+### Torrent Plugins for e.g. Deluge
+- [Deluge Plugins Overview](https://dev.deluge-torrent.org/wiki/Plugins) A list of official and third-party plugins for Deluge.
+- [Auto removing of deluge torrents](https://github.com/omaralvarez/deluge-autoremoveplus) Auto removal of deluge torrents after they are finished.
+- [deluge-ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases) ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
 
 #### rTorrent
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
@@ -346,6 +347,7 @@ See also:
 - [Furk.net](https://www.furk.net/) Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
 - [Put.io automator](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers and files on Put.IO
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link.
+- [SeedSync](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 - [SeedSync](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 - [Torrent Safe](https://www.torrentsafe.com/) Free-plan includes 1GB max file size, 2 days file lifetime.
 - [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
@@ -543,7 +545,7 @@ See also:
 - [KickassWarez](https://kickasswarez.info/) (EN/RU) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [LavTeam](http://www.lavteam.org/) (RU) Another russian software portal. Like dust in the desert!
 - [Mawto](https://www.mawtoload.com/) (EN)
-- [MkvCage](https://www.mkvcage.ws/)
+- [MkvCage](https://www.mkvcage.ws/)  (EN) Big tracker for TV shows & movies. 
 - [Movie Glide](https://www.movieglide.com/) (EN) Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://moviefiles.org/) Direct download search engine which generates Google Drive links
 - [Moviesleak](https://moviesleak.net/) (EN) Yet another movie page, the focus is in IMDB annoucements. 
@@ -791,13 +793,13 @@ See also:
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/)
 - [720pStream](http://www.720pstream.me/)
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services.
-- [Cricfree](https://crickfree.org/) Offers popular sports streams
+- [Cricfree](https://crickfree.org/) Offers popular sports streams.
 - [footybite](https://www.footybite.com/) Soccer streaming site.
-- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
-- [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
+- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting.
+- [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams offers a clean UI.
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me)
-- [VIPBox](https://www.vipbox.live/) (Spanish) Many sport streams, TV, friendly UI
+- [VIPBox](https://www.vipbox.live/) (Spanish) Many sport streams, TV which as a friendly UI.
 
 ## Media Centre Applications
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
@@ -844,9 +846,9 @@ See also:
 - [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
 - [SS Plex](https://mikew.github.io/ss-plex.bundle/) Imagine if all the media scattered around the internet could be found in one collection.
 - [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
-- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) A website dedicated to Plex Plugins.
-- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
-- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
+- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) A website dedicated to Plex plugins.
+- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server.
+- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) A collection of several tools for Plex Media Server. Like the Unsupported AppStore (UAS).
 
 ### Plex Requests
 - [CDRomance](https://cdromance.com/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
@@ -1150,8 +1152,9 @@ See also:
 - [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) A full in-depth guide to installing and cracking any application (Windows) by sjain_guides.
 - [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](https://old.reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) A full in-depth guide to installing and cracking any application (Windows) by sjain_guides.
 - [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications
+- [gallery-dl](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites.
 - [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) fonts online.
-- [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows
+- [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) detailed guide about pirating Adobe CC for Windows.
 
 ### Linux Guides
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress project!
@@ -1281,7 +1284,7 @@ See also:
 - [MangaZone](http://mangazoneapp.com/) A manga reader app.
 
 ## Documentaries
-- [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
+- [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit.
 - [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) An old post by /u/whatwhat888 that may still be useful
 
 ## Fonts, Icons & Graphics
@@ -1301,6 +1304,7 @@ See also:
 - [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
 - [MacGuffin](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
 - [Massivedl](https://github.com/dimkouv/massivedl) A command line tool which helps to download a large number of files from the web in a short time.
+- [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
 - [Mylar](https://github.com/evilhero/mylar) An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents
 - [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
 - [Piracy and automation, an overview](https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools.
@@ -1418,14 +1422,14 @@ See also:
 - [CKayTV](http://ckaytv.com/)
 - [DreamTV (Terrarium Clone) unfaked](http://dream-tv.xyz/) + [Discord](https://discordapp.com/invite/FQkQz6g)
 - [Evolve TV](http://evolvetv.info/) (EN-US) Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
-- [Fildo](https://fildo.net/android/en/) Music streaming app
+- [Fildo](https://fildo.net/android/en/) Music streaming app.
 - [Filmix](https://filmix.site) (EN-US) Watch movies and TV shows using AndroidTV or mobile devices.
 - [KinoTor](http://tiardev.ru/) (RU) Provides movies and videos from several russian directories.
 - [Kokotime](https://www.kokotime.tv/) Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design
 - [Liveflix](https://store.ioob.pw/) The app allows to watch your favorite channels easily, with a very simple UI.
 - [Mega Shows](https://megashowsapk.com/) Watch & Download your favorite movies and TV shows.
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
-- [Morph TV (Morpheus Fork)](https://discordapp.com/invite/VHYGtA9)
+- [Morph TV (Morpheus Fork)](http://titaniumtv.xyz/) + ([Discord](https://discordapp.com/invite/VHYGtA9))
 - [Newest Movies HD](http://newestmovieshd.com) (en-US) Watch movies and TV shows using AndroidTV or mobile devices.
 - [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) (SH) Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
@@ -1433,7 +1437,7 @@ See also:
 - [TVPato2](https://tvpato2.com/) (es-ES) Spanish Live TV App.
 - [TVZion](https://tvzionapp.live/) + [Reddit](https://www.reddit.com/r/TVZionApp/)
 - [UnlockMyTV (Cinema Clone AdFree)](https://unlockmytv.com/)
-- PhoenixTV (Morpheus Fork
+- [PhoenixTV](https://www.phoenixtv-distribution.com/) Morpheus Fork
 
 
 ### Big Media Libraries
@@ -1502,53 +1506,54 @@ See also:
 - [WatchKobe](http://watchkobe.info/)
 
 ### 720p Streaming
-- [123GoMovies](https://123gomovies.net/)
-- [123Moviesuk](https://www.123moviesuk.to/) 
-- [123NetflixPro](https://www2.123netflix.pro/)
-- [1movies](https://www1.1movies.is/)
-- [CafeMovie](https://cafemovie.live/)
-- [ddlhub](https://ddlhub.xyz/)
-- [FFilms](http://ffilms.org/)
-- [flixtor.to](https://flixtor.to/)
-- [Flixtor](https://flixtor.to/)
-- [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html)
-- [GOMovieshub](https://www.gomovieshub.se/)
-- [HackIMDb](https://hackimdb.com/)
-- [HDeuropix](https://hdeuropix.io/)
-- [HDFlix](http://hdflix.net/)
-- [HDO](https://hdo.to/) 
-- [HDVix](https://hdvix.com/)
-- [ILoveToWatch](https://ilovetowatch.online/)
-- [IWannaWatch](https://www.iwannawatch.is/)
-- [Khaanflix](https://khaanflix.com/)
+- [123GoMovies](https://123gomovies.net/) (EN) 
+- [123Moviesuk](https://www.123moviesuk.to/) (EN)  
+- [123NetflixPro](https://www2.123netflix.pro/) (EN) 
+- [1movies](https://www1.1movies.is/) (EN) 
+- [CafeMovie](https://cafemovie.live/) (EN) 
+- [ddlhub](https://ddlhub.xyz/) (EN) 
+- [FFilms](http://ffilms.org/) (EN) 
+- [flixtor.to](https://flixtor.to/) (EN) 
+- [Flixtor](https://flixtor.to/) (EN) 
+- [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) (EN) 
+- [GOMovieshub](https://www.gomovieshub.se/) (EN) 
+- [HackIMDb](https://hackimdb.com/) (EN) 
+- [HDeuropix](https://hdeuropix.io/) (EN) 
+- [HDFlix](http://hdflix.net/) (EN) 
+- [HDO](https://hdo.to/) (EN) 
+- [HDVix](https://hdvix.com/) (EN) 
+- [ILoveToWatch](https://ilovetowatch.online/) (EN) 
+- [IWannaWatch](https://www.iwannawatch.is/) (EN) 
+- [Khaanflix](https://khaanflix.com/) (EN) 
 - [MegaDDL](https://megaddl.co) (EN) Various movies via Mega, 1Fitcher, Openload and other file-hoster.
-- [MovieGlide](https://www.movieglide.com/)
-- [Movies24](https://movies24.top/)
-- [MovieZion](https://www.nicemoviezion.pro/)
-- [Niter](https://niter-movies.com/)
-- [Oakmovies](http://oakmovies.com/)
-- [Openloadmovies.tv](http://openloadmovies.tv/)
-- [ProSpice](https://prospice.surge.sh/)
-- [Putlockers.fm](http://www7.putlockers.fm/)
-- [Solarmoviefreez](http://solarmoviefreez.com/)
-- [Solarmoviez](https://solarmoviez.ru/)
-- [Spacemov](http://spacemov.io/)
-- [StreamDreams](https://streamdreams.org/)
-- [Streamlord](http://www.streamlord.com/)
-- [Streamm4u](http://streamm4u.tv/)
-- [TimeToWatch](https://www.timetowatch.video/)
-- [Tubi](https://tubitv.com/home)
-- [TVMovies](https://tvmovies.to/)
+- [MovieGlide](https://www.movieglide.com/) (EN) 
+- [Movies24](https://movies24.top/) (EN) 
+- [MovieZion](https://www.nicemoviezion.pro/) (EN) 
+- [Niter](https://niter-movies.com/) (EN) 
+- [Oakmovies](http://oakmovies.com/) (EN) 
+- [Openloadmovies.tv](http://openloadmovies.tv/) (EN) 
+- [pahe.in](https://pahe.in/) (EN) Streams via Uptostream, Google Drive, Openload or Mega.
+- [ProSpice](https://prospice.surge.sh/) (EN) 
+- [Putlockers.fm](http://www7.putlockers.fm/) (EN) 
+- [Solarmoviefreez](http://solarmoviefreez.com/) (EN) 
+- [Solarmoviez](https://solarmoviez.ru/) (EN) 
+- [Spacemov](http://spacemov.io/) (EN) 
+- [StreamDreams](https://streamdreams.org/) (EN) 
+- [Streamlord](http://www.streamlord.com/) (EN) 
+- [Streamm4u](http://streamm4u.tv/) (EN) 
+- [TimeToWatch](https://www.timetowatch.video/) (EN) 
+- [Tubi](https://tubitv.com/home) (EN) 
+- [TVMovies](https://tvmovies.to/) (EN) 
 - [ULMovies](https://ulmovies.com/) (EN) 
-- [VidCloud](https://vidcloud.icu/)
-- [WatchFree.ac](https://www3.watchfree.ac/watchfree.html)
-- [Watchfree.at](https://watchfree.at/watchfree.html)
-- [Watchfree.movie](https://www1.watchfree.movie/)
-- [WatchOnline.al](https://watchonline.al/)
-- [XMovies8](https://xmovies8.ru/)
-- [Yes! Movies](https://yesmovies.to/)
-- [YesMovies.fun](https://yesmovies.fun/)
-- [ZMovies](https://zmovies.top/)
+- [VidCloud](https://vidcloud.icu/) (EN) 
+- [WatchFree.ac](https://www3.watchfree.ac/watchfree.html) (EN) 
+- [Watchfree.at](https://watchfree.at/watchfree.html) (EN) 
+- [Watchfree.movie](https://www1.watchfree.movie/) (EN) 
+- [WatchOnline.al](https://watchonline.al/) (EN) 
+- [XMovies8](https://xmovies8.ru/) (EN) 
+- [Yes! Movies](https://yesmovies.to/) (EN) 
+- [YesMovies.fun](https://yesmovies.fun/) (EN) 
+- [ZMovies](https://zmovies.top/) (EN) 
 
 ### 1080p Streaming
 - [1Movies](http://1movies.nl/1movies)
