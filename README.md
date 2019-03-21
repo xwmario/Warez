@@ -1245,8 +1245,10 @@ See also:
 - [Wikipedia - List of e-book readers](http://en.wikipedia.org/wiki/List_of_e-book_readers) Learn about all of the different ebook readers from Wikipedia.
 
 ## Magazines
-- [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
-- [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
+- [ebook3000.com](http://ebook3000.com/) Various magazines.
+- [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines.
+- [magazinesdownload.org](https://magazinesdownload.org/) Magazines hosted on free, fast, file hosting sites.
+- [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs.
 
 ## Academic Papers and Material
 - [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
