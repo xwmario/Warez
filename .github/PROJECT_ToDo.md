@@ -1,7 +1,10 @@
 # Project ToDo
 
-- [ ] Release a Homepage and include a search index for language, category etc.
-- [ ] Sort providers alphabetically to avoid stuff like "what's the best" (there is no best) ...
-- [ ] (_optional_) Add more services, websites, information
+- [ ] Include a search index or filter to search for language specific conntent or categories etc.
+- [ ] Add more services, websites, information
+- [ ] Convert the HTML file automatically to a bookmark and markdown file and vice versa 
+- [ ] _Maybe_ fully replace the Readme.md file to use only the HTML one (better import/export possabilities compared to .md)
+- [ ] Check dead links automatically and store it into a proper file banned/offline
 - [x] Sort entries
-- [x] Add a bookmark
+- [x] Add a bookmark file
+- [x] Add a website
