@@ -2,21 +2,28 @@
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
 
-The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics, discussions and background information.
+The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! This list is an overview of Warez related topics, discussions and provides some background information.
 
 ## Disclaimer
 **I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
 
 ### Why was the list created?
-* Research reasons!
+* Research reasons
 * Freedom of information
-* Most lists you find are outdated, not actively maintained or full of malware links
+* Most lists you find are outdated, not actively maintained or full of malware links.
 
 ### What **does not** belong on this list?
 * Illegal programs or direct links to copyright material.
 * Insecure programs (no audit or (code) review
-* Why is program x not listed e.g. K-9 mail it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
+* Why is program _x_ not listed e.g. K-9 mail it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
+
+### How can I contribute to this list?
+* You can [submit a pull request](https://github.com/CHEF-KOCH/Warez/pulls) after you [read the contributions guidelines](https://github.com/CHEF-KOCH/Warez/blob/master/.github/CONTRIBUTING.md).
+
+## How search in this?
+* A search function is planned, [among other small features](https://github.com/CHEF-KOCH/Warez/blob/master/.github/PROJECT_ToDo.md).
+* Since there is (currently) no filter or search you can navigate trough the page from within your Browser via `Ctrl + F` or `Cmd + F`.
 
 ### Contact
 
@@ -1968,4 +1975,3 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [OphCrack](http://ophcrack.sourceforge.net/) OphCrack is available for free which is a rainbow-table based tool for password cracking on Windows. It is a popular Windows password cracking tool which can also be used on Linux or Mac.
 - [RainbowCrack](http://project-rainbowcrack.com/table.htm) It falls in the hash cracker tool category that utilizes a large-scale time-memory trade off process for faster password cracking compared to traditional brute force tools.
 - [THC Hydra](http://https//www.thc.org/thc-hydra/) THC Hydra can be said to be the fast paced network logon tool for password cracking.
-
