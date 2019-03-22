@@ -1,18 +1,20 @@
-# Warez
-
-The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
-
 <p align="center">
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
 
+The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
+
+
+**I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
+
+
+### Contact
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
-**I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
-See also:
+## Liability for Contents 
 * [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
 * [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
 * [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
@@ -23,12 +25,21 @@ See also:
 * [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
 
 
-### Basic "starter info"
+### Basic Piracy & Scene "starter" info
 - [What is the scene?](https://defacto2.net/defacto2/subculture)
 - [Scene Rules](https://scenerules.org/)
 - [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
 - [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
 
+## Demoscene
+- [What is the Demoscene?](https://en.wikipedia.org/wiki/Demoscene) 
+- [pouët.net](http://www.pouet.net/)
+- [Scene.org](https://www.scene.org/)
+- [DemoParty](https://www.demoparty.net/)
+- [demoscene.info](http://www.demoscene.info/the-demoscene)
+- [Scene.org Awards](http://awards.scene.org/)
+- [Demoo](http://calodox.scene.org/demoo/)
+- [Monostep](http://demo.monostep.org/)
 
 ## Scene Release Info
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/) Scene and P2P release database.
@@ -47,6 +58,11 @@ See also:
 - [s/piracy](https://saidit.net/s/piracy) Saidit Forum
 - [Welcome to the f/privacy FAQ](https://raddle.me/wiki/Privacy) Proudly ripped this FAQ off from a non-privacy-friendly site!
 
+### Social Media Alternatives
+- [MeWe](https://mewe.com/) Google+ replacement.
+- [Pleroma](https://pleroma.social/) Host your own social media.
+- [mastodon](https://joinmastodon.org/) Like decentealized Twitter.
+
 ## Anti-tamper systems
 - [Adobe Primetime](https://www.adobe.com/marketing/primetime.html)
 - [CENC ClearKey](http://bitmovin.com/docs/encoding/faqs/what-is-mpeg-cenc-clearkey-encryption)
@@ -64,17 +80,7 @@ See also:
 - [Reverse Club](http://crack.vc/forum/) ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://tuts4you.com)
 
-## Demoscene
-- [What is the Demoscene?](https://en.wikipedia.org/wiki/Demoscene) 
-- [pouët.net](http://www.pouet.net/)
-- [Scene.org](https://www.scene.org/)
-- [DemoParty](https://www.demoparty.net/)
-- [demoscene.info](http://www.demoscene.info/the-demoscene)
-- [Scene.org Awards](http://awards.scene.org/)
-- [Demoo](http://calodox.scene.org/demoo/)
-- [Monostep](http://demo.monostep.org/)
-
-### NFO Viewers and KeyGen Music
+### NFO Viewers & KeyGen Music
 - [Defacto2](https://defacto2.net/welcome)
 - [KeyGen Music](http://keygenmusic.net)
 - [NFO Force](http://nfforce.temari.fr)
@@ -94,7 +100,7 @@ See also:
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak article by Ernesto.
 
 ### VPN Subscription Services (no-logs)
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. Also rated one of the fastest VPNs out there.
+- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
 - [NordVPN](https://nordvpn.com/) Protect your privacy online and access media content with no regional restrictions, and audit can be found [here](https://github.com/CHEF-KOCH/NSABlocklist/blob/5371276f7411ab64530f421ed88d21dda28b0dbc/Documents/VPN/profile-nordvpn2.pdf)
 - [Private Internet Access](https://www.privateinternetaccess.com/) Popular subscription-based VPN provider with a proven track record for not keeping logs.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss made VPN that safeguards your privacy.
@@ -133,15 +139,11 @@ See also:
 
 ## Password Vaults
 - [1Password](https://1password.com/) Popular cloud-hosted password manager.
-- [BitWarden](https://bitwarden.com/) Open source password management solution, which can be self-hosted.
-- [Buttercup](https://buttercup.pw/) Another open source password manager with desktop, mobile, and browser clients.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
 - [KeePass](https://keepass.info/) A free and open source, light-weight, and easy-to-use password manager.
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
-- [LessPass](https://lesspass.com/) Stateless open source password manager.
-- [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
-- [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
-- [Psono](https://psono.com/) Open source and self-hosted password manager for teams.
+- [Wikipedia's list of Password Managers](https://en.wikipedia.org/wiki/List_of_password_managers)
+
 
 ## Privacy focused discussion Channels
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy.
@@ -1943,6 +1945,4 @@ See also:
 - [RainbowCrack](http://project-rainbowcrack.com/table.htm) It falls in the hash cracker tool category that utilizes a large-scale time-memory trade off process for faster password cracking compared to traditional brute force tools.
 - [THC Hydra](http://https//www.thc.org/thc-hydra/) THC Hydra can be said to be the fast paced network logon tool for password cracking.
 
-### Social Media Alternatives
-- [Raddle](https://raddle.me/) Reddit alternative.
-- [MeWe](https://mewe.com/) Google+ replacement.
+
