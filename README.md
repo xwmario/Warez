@@ -1126,6 +1126,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Slsknet](http://www.slsknet.org/news/node/1) Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux. 
 - [YouTube DL GUI](https://github.com/MrS0m30n3/youtube-dl-gui) Open source YouTube Music downloader.
 
+## iOS
 
 ### iOS Firmware
 - [IPSW](https://ipsw.me/?_escaped_fragment_=/version) Provides Jailbreak firmware.
@@ -1198,7 +1199,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress project!
 
 
-### Windows
+## Windows
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [Krakatoa](https://krakatoa.www3.cz/)
 - [MDL Forums](https://forums.mydigitallife.net/) Windows topics, hotfixes, self-made tools.
@@ -1208,7 +1209,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10.
 - [UUPDump](https://uupdump.ml/) In-official Windows Hotfix repository + Windows dumps.
 
-## Windows Integration Tools
+### Windows Integration Tools
 - [NTLite](https://www.ntlite.com/) Paid program to remove integrated telemetry, integrate updates & more.
 - [MSGM ToolKit](https://www.majorgeeks.com/files/details/msmg_toolkit.html) Free program to customize Windows similar like NTLite bu without a nice looking GUI.
 
@@ -1225,7 +1226,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 ### Windows 10 Guides (privacy/security related)
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 
-## Windows Resources
+### Windows Resources
 - [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) RCC, check your system's trusted root certificate store.
 - [Simplix Blog](https://blog.simplix.info/update7/) Windows Hotfix repository.
 - [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's
@@ -1390,7 +1391,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
 - [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
-
 - [subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video.
 
 ### Movie Automation
@@ -1593,7 +1593,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [HackIMDb](https://hackimdb.com/) 
 - [HDeuropix](https://hdeuropix.io/) 
 - [HDFlix](http://hdflix.net/) 
-
 - [HDVix](https://hdvix.com/) 
 - [ILoveToWatch](https://ilovetowatch.online/) 
 - [IWannaWatch](https://www.iwannawatch.is/) 
@@ -1630,7 +1629,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 
 ### 1080p Streaming
 - [1Movies](http://1movies.nl/1movies)
-
 - [CineBloom](https://www2.cinebloom.com/)
 - [Crackle](https://www.sonycrackle.com/out-of-region.html)
 - [crawler](https://crawler.to/)
@@ -1640,9 +1638,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [IceFilms](http://www.icefilms.info/)
 - [Kodi](https://kodi.tv/) + ([Setup guide](https://www.reddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/))
 - [LeonFlix](https://leonflix.net/)
-
 - [Megashare9](http://megashare9.su/)
-
 - [MovieJagg](https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://moviestreams.org/)
 - [OneMov](https://onemov.net/)
@@ -1651,7 +1647,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [RainierLand](http://www.rainierland.is/) Openload, Streamango
 - [SceneSource](http://www.scnsrc.me/category/films/)
 - [Stream Likers](http://www.streamlikers.com/)
-
 - [TeaTV](https://teatv.net/download/)
 - [TopEuroPix](https://topeuropix.net/)
 - [UWatchfree](https://www.uwatchfree.tv/)
@@ -1690,7 +1685,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 
 ## Discord Servers
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
-
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) A piracy server to discuss and share movies, tv and apps.
 - [piratesonline](https://discord.me/piratesonline) Official piratesonline.us Discord Server.
@@ -1698,8 +1692,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
 - [The Ratio](https://discord.gg/qkRCehC) A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez community server.
-- [Snahp.it] Official Discord server for snahp.it. (**needs invite link**)
-
+- [Snahp.it] Official Discord server for snahp.it. (_needs a new invite link_)
 
 ## Discord Tutorials, Scripts & Bots
 - [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
