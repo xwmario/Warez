@@ -2,11 +2,21 @@
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
 
-The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics and provides only information for research reasons!
+The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entire internet! The overview of Warez related topics, discussions and background information.
 
-
+## Disclaimer
 **I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
+
+### Why was the list created?
+* Research reasons!
+* Freedom of information
+* Most lists you find are outdated, not actively maintained or full of malware links
+
+### What **does not** belong on this list?
+* Illegal programs or direct links to copyright material.
+* Insecure programs (no audit or (code) review
+* Why is program x not listed e.g. K-9 mail it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
 
 ### Contact
 
@@ -42,10 +52,10 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Monostep](http://demo.monostep.org/)
 
 ## Scene Release Info
-- [DVD ReleaseDates](https://www.dvdsreleasedates.com/) Scene and P2P release database.
+- [DVD ReleaseDates](https://www.dvdsreleasedates.com/) A big scene & P2P release database.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 - [NSWDB](http://nswdb.com/) Scene and P2P release database.
-- [predb.pw](https://predb.pw) + [predb.org](https://predb.org/)
+- [predb.pw](https://predb.pw) + [predb.org](https://predb.org/) Maybe the biggest scene release database.
 - [Release Watcher](http://extremedownload.org/) Scene and P2P release database.
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS) Bunch of scripts to monitor scene releases.
 - [SCNLOG.me](https://scnlog.me) Scene and P2P release database.
@@ -55,7 +65,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 
 ## Public piracy discussion channels & FAQs
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle Forum - Piracy is not theft.
-- [s/piracy](https://saidit.net/s/piracy) Saidit Forum
+- [s/piracy](https://saidit.net/s/piracy) Saidit Forum - Yet another reddit alternative.
 - [Welcome to the f/privacy FAQ](https://raddle.me/wiki/Privacy) Proudly ripped this FAQ off from a non-privacy-friendly site!
 
 ### Social Media Alternatives
@@ -137,29 +147,41 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2.
 
 
-## Password Vaults
+## Password Managers (Desktop/Mobile)
 - [1Password](https://1password.com/) Popular cloud-hosted password manager.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
 - [KeePass](https://keepass.info/) A free and open source, light-weight, and easy-to-use password manager.
+- [KeeVault](https://keevault.pm/) Secure, Open Source Password Management.
 - [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 - [Wikipedia's list of Password Managers](https://en.wikipedia.org/wiki/List_of_password_managers)
-
 
 ## Privacy focused discussion Channels
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Prism Break](https://prism-break.org/en/) Opt-out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 
+## Collaborative editors
+- [cryptpad](https://github.com/xwiki-labs/cryptpad)
+
 ## eMail Providers
-- [10 Minute Mail](https://10minutemail.net/) Disposable, Private mailboxes.
-- [Cock.li](https://cock.li/) Yeah, it's mail with cocks.
 - [Mailbox](https://mailbox.org/en/) Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
 - [ProtonMail](https://protonmail.com/) Secure Email Based made in Switzerland.
 - [Tutanota](https://tutanota.com) A secure and open source eMail provider.
 
-## eMail GUI Clients
+### Temp eMail Provider
+- [10 Minute Mail](https://10minutemail.net/) Disposable, Private mailboxes.
+- [Cock.li](https://cock.li/) Yeah, it's mail with cocks.
+- [Disposable](https://github.com/0x19/disposable) Disposable is arobust disposable email (burner emails) API designed to help you verify whenever email address is coming from disposable service.
+- [Nada](https://getnada.com/) Fast & free.
+- [Temp Mail](https://temp-mail.org/en/) Keep spam out of your mail and stay safe - just use a disposable temporary email address!
+
+### eMail Clients (Desktop/Mobile)
 - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) Well-known open source eMail Client from Mozilla.
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) Electron based wrapper for ProtonMail & Tutanota.
+- [p≡p](https://www.pep.security/) Pretty Easy Privacy (p=p) email client encrypts all communications in your email without the need for you to create new accounts.
+
+## Android
+- [Wikipedia's list of free and open-source applications](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
 
 ## Decentralized Networks
 - [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
@@ -354,7 +376,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Put.io automator](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers and files on Put.IO
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link.
 - [SeedSync](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
-- [SeedSync](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
+
 - [Torrent Safe](https://www.torrentsafe.com/) Free-plan includes 1GB max file size, 2 days file lifetime.
 - [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
 
@@ -524,17 +546,17 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) Good-Old-Downloads mirror page.
 
 ### DDL Link Sites
-- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links.
-- [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare (_blocked in the UK_).
-- [Adit-HD Forum](http://www.adit-hd.com/index.php) (EN) Forum which provides links to HD rips.
+- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) (Multi) Google Drive Download Links.
+- [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) (Multi) DL links hosted on ZippyShare (_blocked in the UK_).
+- [Adit-HD Forum](http://www.adit-hd.com/index.php) Forum which provides links to HD rips.
 - [AdiT-HD](http://adit-hd.com/) Direct movie download site.
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
-- [Audioz](https://audioz.download/) (EN) All about Audio. 
+- [Audioz](https://audioz.download/) All about Audio. 
 - [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [AVXHome](http://avxhome.se/) (EN) Best of eBooks, Software, Mag, ...
-- [BetaArchive](https://www.betaarchive.com/) (EN) Windows ISOs, Windows tools & more.
-- [Board4All](https://www.board4all.biz/) (EN) A forum which provides and shares all sorts of stuff.
-- [Boerse.to](http://boerse.to/) (Ger)
+- [AVXHome](http://avxhome.se/) Best of eBooks, Software, Mag & more.
+- [BetaArchive](https://www.betaarchive.com/) Windows ISOs, Windows tools & more.
+- [Board4All](https://www.board4all.biz/) A forum which provides and shares all sorts of stuff.
+- [Boerse.to](http://boerse.to/) (GER) A german warez forum.
 - [DDL-Warez](https://ddl-warez.to/) (Ger) German software, movies & tv board. 
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) Pastebin user who uploads premium links for TV shows
@@ -542,70 +564,74 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Dospelis](https://www.dospelis.net) Spanish DDL indexer.
 - [DownArchive](http://downarchive.org/) DDL blog with premium links on a number of hosts. Lots of software
 - [DownloadLY.IR](http://downloadly.ir/) (IR)
-- [DownTurk](https://www.downturk.net/) (EN) Software portal.
+- [DownTurk](https://www.downturk.net/) Software portal.
 - [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
 - [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) Windows ISO Downloads Mirrors (ftp links not visible in GitHub's Markdown!)
 - [GLOAD.cc](https://gload.cc/) (Ger)
-- [hdencode](https://hdencode.com/) (EN) Videos/Movies in HD Quality.
+- [hdencode](https://hdencode.com/) Videos/Movies in HD Quality.
 - [IceFilms.info](https://www.icefilms.info/) Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
 - [KickassWarez](https://kickasswarez.info/) (EN/RU) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [LavTeam](http://www.lavteam.org/) (RU) Another russian software portal. Like dust in the desert!
 - [Mawto](https://www.mawtoload.com/) (EN)
-- [MkvCage](https://www.mkvcage.ws/)  (EN) Big tracker for TV shows & movies. 
-- [Movie Glide](https://www.movieglide.com/) (EN) Videos/Movies & TV Shows in HD Quality.
+- [MkvCage](https://www.mkvcage.ws/)  Big tracker for TV shows & movies. 
+- [Movie Glide](https://www.movieglide.com/) Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://moviefiles.org/) Direct download search engine which generates Google Drive links
-- [Moviesleak](https://moviesleak.net/) (EN) Yet another movie page, the focus is in IMDB annoucements. 
+- [Moviesleak](https://moviesleak.net/) Yet another movie page, the focus is in IMDB annoucements. 
 - [Mutaz](https://www.mutaz.net/free-programs/) Tracks scene software releases.
 - [MyGully](http://mygully.com/) (Ger)
 - [NaMaMe Club](http://nnmclub.to/) Software for Windows.
-- [NFOHump](http://www.nfohump.com/forum/index.php) (EN) Gaming, Apps, Help & more.
+- [NFOHump](http://www.nfohump.com/forum/index.php) Gaming, Apps, Help & more.
 - [NGB.to](https://ngb.to/) (Ger) Another Gulli/MyGully clone.
 - [Nsane Forum](https://www.nsaneforums.com/)
-- [NulledTeam Underground](https://www.nulledteam.com/) (EN) Software forum.
-- [Onkyo4k](http://onkyo4k.com/) (EN) Tracks movies and tv shows.
+- [NulledTeam Underground](https://www.nulledteam.com/) Software forum.
+- [Onkyo4k](http://onkyo4k.com/) Tracks movies and tv shows.
 - [OSZone](http://www.oszone.net/) (RU) Software portal.
 - [PCPortal](https://pcportal.org/) (RU) One of the biggest russian software forums.
 - [PSARips](https://psarips.com/) Popular site for movies and TV shows, includes torrent files
-- [PuZo.org](http://www.puzo.org/) (EN) 
+- [PuZo.org](http://www.puzo.org/) 
 - [RADIXX11](https://radixx11rce2.blogspot.com) (EN-US) Software forum.
 - [RapidMoviez](http://rmz.cr/) Direct movie website.
 - [Release BB](http://rlsbb.ru) (RU) Russian software and Android portal.
 - [ReleaseBB](https://rlsbb.ru/) (RU) Russian Software Portal.
-- [Releaselog](http://www.rlslog.net/) (EN) Website for eBooks, Games & more.
-- [RSLinks](https://rslinks.org/) (EN) Tracks scene software releases and mirrors them.
+- [Releaselog](http://www.rlslog.net/) Website for eBooks, Games & more.
+- [RSLinks](https://rslinks.org/) Tracks scene software releases and mirrors them.
 - [rsload](https://rsload.net/) (RU/EN)
 - [RU-Board](http://forum.ru-board.com/) (RU) Well-known warez board.
 - [RuTracker](https://rutracker.cr/) (RU) If you didn't alreay knew RUTracker you never heard of Warez at all.
 - [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [Serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 - [SilentGround](http://www.silentground.org/index.php) (EN)
-- [Snahp Forum](https://forum.snahp.it/index.php) (EN) Forum which provides links to HD rips & software.
+- [Snahp Forum](https://forum.snahp.it/index.php) Forum which provides links to HD rips & software.
 - [snahp.it](https://snahp.it/) Replaces the old /r/megalinks directory.
 - [Soft9](http://soft9.ru/) (RU) Russian Software Portal.
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [SoftOBase](http://softobase.com/) (RU) Software forum.
 - [Team-IRA [TIRA]](https://team-ira.com/) (EN-US) Software, Tutorials, eBooks, Android and reversing Forum.
-- [Tekspert](https://tekspert.se/) (EN-US) Software forum. 
+- [Tekspert](https://tekspert.se/) (EN/US) Software forum. 
 - [TwoDDL](http://2ddl.ws) Direct software download links.
-- [UpTown](https://en.uptodown.com/) (EN) Software portal.
-- [Vidics](https://www.vidics.to/) (EN) Vidics provides Tv shows and movie releases.
-- [Warez-BB-org](https://warez-bb.org/) (EN) Elite warez forum. [![(invite needed)][inviteneeded]](#)
-- [WarezBB.org](http://warezbb.org/) (EN) Invite-only elite forum. 
-- [Watch Series](http://watchseries.ag/) (EN) WatchSeries provides TV Shows (as the name might already suggests).
+- [UpTown](https://en.uptodown.com/) Software portal.
+- [Vidics](https://www.vidics.to/) Vidics provides Tv shows and movie releases.
+- [Warez-BB-org](https://warez-bb.org/) Elite warez forum. [![(invite needed)][inviteneeded]](#)
+- [WarezBB.org](http://warezbb.org/) Invite-only elite forum. 
+- [Watch Series](http://watchseries.ag/) WatchSeries provides TV Shows (as the name might already suggests).
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/) Watch Episode Series provides TV Shows releases from the scene.
-- [WatchTVSeries](http://watchtvseries.unblckd.club/)
-- [ZeroBoard](https://zeroboard.org/) (EN) A board which provides Windows related stuff.
-- [Win7DL](http://win7dl.org/) (EN) Software, Movies, eBooks & more.
-- [DL4All](http://dl4all.org/) (EN) Various Games, Tutorials, TV Shows, Music and mobile stuff.
+- [WatchTVSeries](https://watchtvseries.unblocked.krd/) Watch TV shows online.
+- [ZeroBoard](https://zeroboard.org/) A board which provides Windows related stuff.
+- [Win7DL](http://win7dl.org/) Software, Movies, eBooks & more.
+- [DL4All](http://dl4all.org/) Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Reduson](https://www.reduson.com/) (EN/RU) Another software portal for various type of releases like software, magazines, games and many more.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
+- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) Search up for the website you want to download from and pick from a massive list. 
 - [OffCloud](https://offcloud.com/?=85a8b709) A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
+- [Mega-Debrid](https://www.mega-debrid.eu/) 207 Hosters supported.
 - [Premiumize](https://www.premiumize.me/) Combine direct and secure access to premium services.
+- [Premium Link Generator](https://ww.premiumlinkgenerator.com/) Over 26 hosts to choose from (needs paid account).
 - [Real-Debrid](https://real-debrid.com/) Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player.
 - [Reevown](https://reevown.com/) A free download service with which you can perform premium downloads.
+- [UploadedPremiumLink.xyz](https://www.uploadedpremiumlink.xyz/) Generate online premium links.
 
 ### Premium Link Hoster
 - [4shared](https://www.4shared.com/)
@@ -619,7 +645,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [RapidGator](https://rapidgator.net/)
 - [Sendspace](https://www.sendspace.com/)
 - [Uploaded](https://uploaded.net/)
-- [Zippyshare](https://www.zippyshare.com/) - Blocked in the UK, use a proxy/VPN
+- [Zippyshare](https://www.zippyshare.com/) - Blocked in the UK, use a proxy or VPN.
 
 ### Open Directories
 - ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Thorough post from /u/ElectroXexual.
@@ -632,44 +658,44 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [The Eye](https://the-eye.eu/public/) The Eye is a non-profit website dedicated towards content archival and long-term preservation.
 - [The Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) Posted by /u/shadow_hunter104.
 
-### Anime & Cartoon Streaming
+### Anime & Cartoon Streaming (720p+)
 - [480mkv](http://480mkv.com/)
 - [9Anime](https://www2.9anime.to/)
-- [Anime HD 47](http://animehd47.com/) 720p
-- [Anime Land](http://www.animeland.tv/) 720p
-- [Anime Rush](http://www.animerush.tv/) 720p
+- [Anime HD 47](http://animehd47.com/)
+- [Anime Land](http://www.animeland.tv/)
+- [Anime Rush](http://www.animerush.tv/)
 - [Anime Show](http://www.animeshow.tv/)
 - [Anime8](https://anime8.me/)
 - [AnimeBam](https://www.animebam.net/)
 - [AnimeDao](https://animedao21.stream/)
-- [Animeflv](https://animeflv.net/) 720p 
-- [AnimeFreak](http://animefreak.tv/) 720p 
+- [Animeflv](https://animeflv.net/)
+- [AnimeFreak](http://animefreak.tv/)
 - [AnimeHeaven](http://animeheaven.eu/)
 - [AnimeHub](https://animehub.ac/)
 - [AnimePahe](https://animepahe.com/)
-- [AnimePie](https://www.animepie.to/index) 720p
-- [Animer Reborn](http://www.animereborn.io/) 720p
-- [AnimeSeries](https://animeseries.co/) 720p
-- [AnimeVibe](https://animevibe.xyz/) 720p
-- [AnimeWorldBD](https://animeworldbd.com/) 720p
-- [AnimeXD](http://www.animexd.me/) 720p 
-- [Cartoon Crazy](https://www.cartooncrazy.tv/) Cartoons & Anime
+- [AnimePie](https://www.animepie.to/index)
+- [Animer Reborn](http://www.animereborn.io/)
+- [AnimeSeries](https://animeseries.co/)
+- [AnimeVibe](https://animevibe.xyz/)
+- [AnimeWorldBD](https://animeworldbd.com/)
+- [AnimeXD](http://www.animexd.me/)
+- [Cartoon Crazy](https://www.cartooncrazy.tv/)
 - [CartoonWire](https://cartoonwire.to/)
-- [Chia-Anime](http://ww2.chia-anime.tv/) 720p
-- [Club Anime](http://clubani.me/) 720p
-- [DarkAnime](https://darkanime.stream/) 720p
-- [Dubbed Anime](https://ww5.dubbedanime.net/) 720p
-- [EyeOnAnime](https://eyeonanime.tv/) 720p
+- [Chia-Anime](http://ww2.chia-anime.tv/)
+- [Club Anime](http://clubani.me/)
+- [DarkAnime](https://darkanime.stream/)
+- [Dubbed Anime](https://ww5.dubbedanime.net/)
+- [EyeOnAnime](https://eyeonanime.tv/)
 - [GoGoAnime](https://www1.gogoanime.sh/)
 - [Hi10Anime](https://hi10anime.com/)
-- [HotAnime](http://w1.hotanime.me/) 720p
-- [Justdubs](http://justdubs.org/) 720p
-- [Kawaiifu](http://kawaiifu.com/) 720p
+- [HotAnime](http://w1.hotanime.me/)
+- [Justdubs](http://justdubs.org/)
+- [Kawaiifu](http://kawaiifu.com/)
 - [KickAssAnime](https://www11.kickassanime.io/)
-- [KimCartoon](https://kimcartoon.co/) Big Cartoon Library
-- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/)
+- [KimCartoon](https://kimcartoon.co/)
+- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac (mirror)](https://kissanime.ac/)
 - [KissCartoon](https://kisscartoon.ac/) 
-- [Mangarock](https://mangarock.com/) (EN)
+- [Mangarock](https://mangarock.com/)
 - [MasterAni](https://www.masterani.me)
 - [Masterani](https://www.masterani.me/)
 - [Mejor Torrent](http://www.mejortorrent.org/) (ES)
@@ -678,57 +704,55 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [MoviesEver](https://moviesever.com/)
 - [NineAnime](https://www.nineanime.com/)
 - [Online WatchCartoon](https://www.watchcartoononline.com/)
-- [Otakustream](https://otakustream.tv/) 720p
+- [Otakustream](https://otakustream.tv/)
 - [PutlockerSeries](http://putlockerseries.to/)
-- [Randaris-Anime](http://randaris-anime.net/) 720p
+- [Randaris-Anime](http://randaris-anime.net/)
 - [Ryuanime](https://www3.ryuanime.com/)
-- [Serienjunkies](http://serienjunkies.org/) 720p (German)
-- [SGAnime](https://sganime.org/) 720p
-- [Supercartoons](http://www.supercartoons.net/) Big Cartoon Library
+- [Serienjunkies](http://serienjunkies.org/) (GER)
+- [SGAnime](https://sganime.org/)
+- [Supercartoons](http://www.supercartoons.net/)
 - [Toonova](http://www.toonova.net/)
 - [TVBox](https://tvbox.unblocked.gdn/)
 - [TVRaven](https://www.onetvraven.pro/)
-- [Twist.most](http://twist.moe/) 720p 
-- [WatchCartoon](https://www.watchcartoononline.io/) Big Cartoon Library
-- [WatchCartoonsOnline](https://watchcartoonsonline.la/) Big Cartoon Library
+- [Twist.most](http://twist.moe/)
+- [WatchCartoon](https://www.watchcartoononline.io/)
+- [WatchCartoonsOnline](https://watchcartoonsonline.la/)
 - [WatchSeries 2.0](https://watch-series.io/)
 - [WatchSeries](http://dwatchseries.to/)
 
 ### Specialty Sites
-- [1Liberty](https://libertyvf.co/) French
-- [6VoierFilms](https://www.voirfilms.mx/) French
-- [Archive.org](https://archive.org/) Classic Films & more
-- [Classic Cinema Online](http://www.classiccinemaonline.com/) Classic Films
-- [Classic Movies Channel](http://www.classiccinemaonline.com/) Youtube Classic Films
+- [1Liberty](https://libertyvf.co/) (fr-FR)
+- [6VoierFilms](https://www.voirfilms.mx/) (fr-FR)
+- [Classic Cinema Online](http://www.classiccinemaonline.com/) - Classic Films
+- [Classic Movies Channel](http://www.classiccinemaonline.com/) - Youtube Classic Films
 - [Cliver](http://www.cliver.tv/) Espanol
 - [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
 - [Cuevana2](https://www.cuevana2.com/) Espanol
 - [DaebakDrama](https://daebakdrama.com/) Korean
 - [Danimados](https://danimados.com/) Espanol
-- [DPStream](https://www.dpstream.info/) French
+- [DPStream](https://www.dpstream.info/) (fr-FR)
 - [DramaCool](http://www1.dramacoolfirst.com/) Foreign
-- [Dramago](http://www.dramago.com/) Foreign
+- [Dramago](http://www.dramago.com/) (fr-FR)
 - [Einthusan](https://einthusan.tv/intro/) Foreign
-- [EmuleIsland](https://ww5.emule-island.ru/) French
-- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with nudity
-- [Filmz.cc](https://www.tfarjo.cc/) French
-- [FilmZen](http://filmzenstream.online/) French
-- [FrenchStream](http://french-stream.top/) French
-- [K-Streaming](https://www2.k-streaming.tv/) French
-- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) Youtube Horror
+- [EmuleIsland](https://ww5.emule-island.ru/) (fr-FR)
+- [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) - Movies with nudity
+- [Filmz.cc](https://www.tfarjo.cc/) (fr-FR)
+- [FilmZen](http://filmzenstream.online/) (fr-FR)
+- [FrenchStream](http://french-stream.top/) (fr-FR)
+- [K-Streaming](https://www2.k-streaming.tv/) (fr-FR)
+- [KingsofHorror](https://www.youtube.com/user/TheKingsofHorror/) - Youtube Horror
 - [Layarkaca](http://layarkaca21.ru/) Foreign
-- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) Youtube Horror
+- [MutantSorority](https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) - Youtube Horror
 - [Pelisplus](http://pelisplus.co/) Espanol
 - [Rulu](https://www.rulu.co/) Youtube Red Series
-- [SokoStream](https://sokrostream.pw/) French
-- [StreamComplete](https://streamcomplet.xyz/) French
-- [Time2Watch](https://time2watch.in/) French
-- [Top Documentary Films](https://topdocumentaryfilms.com/) Documentaries
-- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) Youtube Horror
-- [VFStream](https://www.vf-stream.org/) French
-- [Videoneat](https://videoneat.com/) Documentaries/Science Movies
-- [WatchAsian](https://www2.watchasian.co/) Foreign
-- [WTvF!](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) Youtube Grindhouse
+- [StreamComplete](https://streamcomplet.xyz/) (fr-FR)
+- [Time2Watch](https://time2watch.in/) (fr-FR)
+- [Top Documentary Films](https://topdocumentaryfilms.com/) - Documentaries
+- [TromaMovies](https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) - Youtube Horror
+- [VFStream](https://www.vf-stream.org/) (fr-FR)
+- [Videoneat](https://videoneat.com/) - Documentaries/Science Movies
+- [WatchAsian](https://www2.watchasian.co/)
+- [WTvF!](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - Youtube Grindhouse
 
 ### Random Streaming Sites
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
@@ -761,7 +785,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [MKVHub](https://www.mkvhub.com/)
 - [Movie123](http://movie123.club/)
 - [movies2k](http://www.movie2k.st)
-- [Nox](https://nox.tv/) German Movies & Videos. 
+- [Nox](https://nox.tv/) (Ger) 
 - [onemov](https://onemov.net/)
 - [openloadmovies.net](https://openloadmovies.net/) Reliable movie streaming site which uses OpenLoad
 - [QQMovies](http://qqmovies.co)
@@ -1200,42 +1224,42 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's
 
 ## eBooks
-- [/r/DHExchange](https://old.reddit.com/r/DHExchange/) (EN) PDF/eBooks trading.
-- [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) (EN) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
-- [Authorama](http://www.authorama.com/) (EN) This public domain book site has a wide variety of ebooks for free, by Lewis Carroll, Emerson, Kafka, and more.
-- [b-ok](http://b-ok.xyz/) (EN) Free ebook library
-- [Baen Free Library](http://www.baen.com/library/) (EN) You can download ebooks for HTML, RTF, Microsoft Reader and for Palm, Psion, and Window CE.
-- [Bartleby](http://www.bartleby.com/ebook/) (EN) While Bartleby charges for some titles, it has a free ebook store here.
-- [bibliomania](http://www.bibliomania.com/) (EN) You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
-- [BookStack](https://www.bookstackapp.com/) (EN) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
-- [Bookyards](http://www.bookyards.com/) (EN) This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
-- [Calibre-Web](https://github.com/janeczku/calibre-web) (EN) Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [COPS](https://github.com/seblucas/cops) (EN) Calibre OPDS (and HTML) PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
-- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) (EN) A Google custom search engine specifically for ebooks.
-- [DailyLit](http://www.dailylit.com/) (EN) Get free downloads sent to your email by RSS feed.
+- [/r/DHExchange](https://old.reddit.com/r/DHExchange/) PDF/eBooks trading.
+- [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
+- [Authorama](http://www.authorama.com/) This public domain book site has a wide variety of ebooks for free, by Lewis Carroll, Emerson, Kafka, and more.
+- [b-ok](http://b-ok.xyz/) Free ebook library
+- [Baen Free Library](http://www.baen.com/library/) You can download ebooks for HTML, RTF, Microsoft Reader and for Palm, Psion, and Window CE.
+- [Bartleby](http://www.bartleby.com/ebook/) While Bartleby charges for some titles, it has a free ebook store here.
+- [bibliomania](http://www.bibliomania.com/) You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
+- [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
+- [Bookyards](http://www.bookyards.com/) This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
+- [Calibre-Web](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
+- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks.
+- [DailyLit](http://www.dailylit.com/) Get free downloads sent to your email by RSS feed.
 - [DLEBook.me](http://dlebook.me/)(EN) 
-- [ebook Directory](http://www.ebookdirectory.com/) (EN) From children's books to IT books to literature to reference, you'll find lots of free titles and book packages here.
-- [ebookee.org](https://ebookee.org/) (EN) PDF/eBooks trading.
-- [eBookLobby](http://www.ebooklobby.com/) (EN) You'll find lost of self-help, hobby and reference books here, plus children's fiction and more.
+- [ebook Directory](http://www.ebookdirectory.com/) From children's books to IT books to literature to reference, you'll find lots of free titles and book packages here.
+- [ebookee.org](https://ebookee.org/) PDF/eBooks trading.
+- [eBookLobby](http://www.ebooklobby.com/) You'll find lost of self-help, hobby and reference books here, plus children's fiction and more.
 - [eReader.com](http://www.ereader.com/servlet/mw?t=freebooks&si=59) eReader.com has many classic lit selections for free.
-- [FicSave](http://ficsave.xyz/) (EN) An Open-Source Online Fanfiction Downloader.
-- [Free-eBooks.net](http://www.free-ebooks.net/) (EN) Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
-- [freebookspot.es](http://www.freebookspot.es/) (EN) Various eBook's.
-- [Get Free Ebooks](http://www.getfreeebooks.com/) (EN) This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
-- [Globusz](http://www.globusz.com/) (EN) There are no limits on the number of free books you can download on this online publishing site.
-- [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) (EN) 
-- [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) (EN) Project Gutenberg was the first to supply free ebooks, and today they have almost 30,000 free titles in stock.
+- [FicSave](http://ficsave.xyz/) An Open-Source Online Fanfiction Downloader.
+- [Free-eBooks.net](http://www.free-ebooks.net/) Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
+- [freebookspot.es](http://www.freebookspot.es/) Various eBook's.
+- [Get Free Ebooks](http://www.getfreeebooks.com/) This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
+- [Globusz](http://www.globusz.com/) There are no limits on the number of free books you can download on this online publishing site.
+- [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) 
+- [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) Project Gutenberg was the first to supply free ebooks, and today they have almost 30,000 free titles in stock.
 - [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
-- [iBiblio](http://www.ibiblio.org/index.html) (EN) Find archives, ebooks, tutorials, language books, and more from iBiblio.
+- [iBiblio](http://www.ibiblio.org/index.html) Find archives, ebooks, tutorials, language books, and more from iBiblio.
 - [LibGen](http://libgen.io/) eBook search. ([Mirror](http://gen.lib.rus.ec/)) + ([another Mirror](https://libgen.pw/))
-- [ManyBooks.net](http://manybooks.net/) (EN) You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
-- [Planet PDF](http://www.planetpdf.com/free_pdf_ebooks.asp) (EN) Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
-- [Read Print Library](http://www.readprint.com/) (EN) These novels and poems are all free.
-- [Starry.com](http://www.starry.com/free-online-novels/index.htm) (EN) These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
-- [TehParadox](http://www.tehparadox.co/) (EN) eBooks, Apps, Games & more.
-- [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) (EN) Posted by /u/Servaplur
-- [The Online Books Page](http://digital.library.upenn.edu/books/) (EN) You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
-- [Ubooquity](http://vaemendis.net/ubooquity/) (EN) Ubooquity is a free home server for your comics and ebooks library.
+- [ManyBooks.net](http://manybooks.net/) You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
+- [Planet PDF](http://www.planetpdf.com/free_pdf_ebooks.asp) Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
+- [Read Print Library](http://www.readprint.com/) These novels and poems are all free.
+- [Starry.com](http://www.starry.com/free-online-novels/index.htm) These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
+- [TehParadox](http://www.tehparadox.co/) eBooks, Apps, Games & more.
+- [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
+- [The Online Books Page](http://digital.library.upenn.edu/books/) You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
+- [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library.
 
 ## eBook Search Indexer
 - [Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) Preset of indexed websites to search for comics.
@@ -1359,7 +1383,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
 - [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
-- [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and bittorrent users.
+
 - [subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video.
 
 ### Movie Automation
@@ -1492,7 +1516,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Afdah](http://afdah.to/)
 - [BS.to](https://bs.to/) (GER)
 - [CafeHulu](http://cafehulu.com/)
-- [EZTV (EZTV.AG)](https://eztv.io/) (EN) Well known group for movies and series.
+- [EZTV (EZTV.AG)](https://eztv.io/) Well known group for movies and series.
 - [filechef](http://filechef.com/) Search Direct Downloads
 - [FreeMoviez](https://freemoviesz/)
 - [Los-Movies](http://los-movies.com/)
@@ -1548,58 +1572,58 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [WatchKobe](http://watchkobe.info/)
 
 ### 720p Streaming
-- [123GoMovies](https://123gomovies.net/) (EN) 
-- [123Moviesuk](https://www.123moviesuk.to/) (EN)  
-- [123NetflixPro](https://www2.123netflix.pro/) (EN) 
-- [1movies](https://www1.1movies.is/) (EN) 
-- [CafeMovie](https://cafemovie.live/) (EN) 
-- [ddlhub](https://ddlhub.xyz/) (EN) 
-- [FFilms](http://ffilms.org/) (EN) 
-- [flixtor.to](https://flixtor.to/) (EN) 
-- [Flixtor](https://flixtor.to/) (EN) 
-- [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) (EN) 
-- [GOMovieshub](https://www.gomovieshub.se/) (EN) 
-- [HackIMDb](https://hackimdb.com/) (EN) 
-- [HDeuropix](https://hdeuropix.io/) (EN) 
-- [HDFlix](http://hdflix.net/) (EN) 
-- [HDO](https://hdo.to/) (EN) 
-- [HDVix](https://hdvix.com/) (EN) 
-- [ILoveToWatch](https://ilovetowatch.online/) (EN) 
-- [IWannaWatch](https://www.iwannawatch.is/) (EN) 
-- [Khaanflix](https://khaanflix.com/) (EN) 
-- [MegaDDL](https://megaddl.co) (EN) Various movies via Mega, 1Fitcher, Openload and other file-hoster.
-- [MovieGlide](https://www.movieglide.com/) (EN) 
-- [Movies24](https://movies24.top/) (EN) 
-- [MovieZion](https://www.nicemoviezion.pro/) (EN) 
-- [Niter](https://niter-movies.com/) (EN) 
-- [Oakmovies](http://oakmovies.com/) (EN) 
-- [Openloadmovies.tv](http://openloadmovies.tv/) (EN) 
-- [pahe.in](https://pahe.in/) (EN) Streams via Uptostream, Google Drive, Openload or Mega.
-- [ProSpice](https://prospice.surge.sh/) (EN) 
-- [Putlockers.fm](http://www7.putlockers.fm/) (EN) 
-- [Solarmoviefreez](http://solarmoviefreez.com/) (EN) 
-- [Solarmoviez](https://solarmoviez.ru/) (EN) 
-- [Spacemov](http://spacemov.io/) (EN) 
-- [StreamDreams](https://streamdreams.org/) (EN) 
-- [Streamlord](http://www.streamlord.com/) (EN) 
-- [Streamm4u](http://streamm4u.tv/) (EN) 
-- [TimeToWatch](https://www.timetowatch.video/) (EN) 
-- [Tubi](https://tubitv.com/home) (EN) 
-- [TVMovies](https://tvmovies.to/) (EN) 
-- [ULMovies](https://ulmovies.com/) (EN) 
-- [VidCloud](https://vidcloud.icu/) (EN) 
-- [WatchFree.ac](https://www3.watchfree.ac/watchfree.html) (EN) 
-- [Watchfree.at](https://watchfree.at/watchfree.html) (EN) 
-- [Watchfree.movie](https://www1.watchfree.movie/) (EN) 
-- [WatchOnline.al](https://watchonline.al/) (EN) 
-- [XMovies8](https://xmovies8.ru/) (EN) 
-- [Yes! Movies](https://yesmovies.to/) (EN) 
-- [YesMovies.fun](https://yesmovies.fun/) (EN) 
-- [ZMovies](https://zmovies.top/) (EN) 
+- [123GoMovies](https://123gomovies.net/) 
+- [123Moviesuk](https://www.123moviesuk.to/)  
+- [123NetflixPro](https://www2.123netflix.pro/) 
+- [1movies](https://www1.1movies.is/) 
+- [CafeMovie](https://cafemovie.live/) 
+- [ddlhub](https://ddlhub.xyz/) 
+- [FFilms](http://ffilms.org/) 
+- [flixtor.to](https://flixtor.to/) 
+- [Flixtor](https://flixtor.to/) 
+- [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) 
+- [GOMovieshub](https://www.gomovieshub.se/) 
+- [HackIMDb](https://hackimdb.com/) 
+- [HDeuropix](https://hdeuropix.io/) 
+- [HDFlix](http://hdflix.net/) 
+
+- [HDVix](https://hdvix.com/) 
+- [ILoveToWatch](https://ilovetowatch.online/) 
+- [IWannaWatch](https://www.iwannawatch.is/) 
+- [Khaanflix](https://khaanflix.com/) 
+- [MegaDDL](https://megaddl.co) Various movies via Mega, 1Fitcher, Openload and other file-hoster.
+- [MovieGlide](https://www.movieglide.com/) 
+- [Movies24](https://movies24.top/) 
+- [MovieZion](https://www.nicemoviezion.pro/) 
+- [Niter](https://niter-movies.com/) 
+- [Oakmovies](http://oakmovies.com/) 
+- [Openloadmovies.tv](http://openloadmovies.tv/) 
+- [pahe.in](https://pahe.in/) Streams via Uptostream, Google Drive, Openload or Mega.
+- [ProSpice](https://prospice.surge.sh/) 
+- [Putlockers.fm](http://www7.putlockers.fm/) 
+- [Solarmoviefreez](http://solarmoviefreez.com/) 
+- [Solarmoviez](https://solarmoviez.ru/) 
+- [Spacemov](http://spacemov.io/) 
+- [StreamDreams](https://streamdreams.org/) 
+- [Streamlord](http://www.streamlord.com/) 
+- [Streamm4u](http://streamm4u.tv/) 
+- [TimeToWatch](https://www.timetowatch.video/) 
+- [Tubi](https://tubitv.com/home) 
+- [TVMovies](https://tvmovies.to/) 
+- [ULMovies](https://ulmovies.com/) 
+- [VidCloud](https://vidcloud.icu/) 
+- [WatchFree.ac](https://www3.watchfree.ac/watchfree.html) 
+- [Watchfree.at](https://watchfree.at/watchfree.html) 
+- [Watchfree.movie](https://www1.watchfree.movie/) 
+- [WatchOnline.al](https://watchonline.al/) 
+- [XMovies8](https://xmovies8.ru/) 
+- [Yes! Movies](https://yesmovies.to/) 
+- [YesMovies.fun](https://yesmovies.fun/) 
+- [ZMovies](https://zmovies.top/) 
 
 ### 1080p Streaming
 - [1Movies](http://1movies.nl/1movies)
-- [AZMovies](https://azmovies.xyz/)
+
 - [CineBloom](https://www2.cinebloom.com/)
 - [Crackle](https://www.sonycrackle.com/out-of-region.html)
 - [crawler](https://crawler.to/)
@@ -1609,9 +1633,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [IceFilms](http://www.icefilms.info/)
 - [Kodi](https://kodi.tv/) + ([Setup guide](https://www.reddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/))
 - [LeonFlix](https://leonflix.net/)
-- [LookMovie](https://lookmovie.ag/)
+
 - [Megashare9](http://megashare9.su/)
-- [Movie Files](https://moviefiles.org/)
+
 - [MovieJagg](https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://moviestreams.org/)
 - [OneMov](https://onemov.net/)
@@ -1620,7 +1644,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [RainierLand](http://www.rainierland.is/) Openload, Streamango
 - [SceneSource](http://www.scnsrc.me/category/films/)
 - [Stream Likers](http://www.streamlikers.com/)
-- [StreamCR](https://scr.cr/)
+
 - [TeaTV](https://teatv.net/download/)
 - [TopEuroPix](https://topeuropix.net/)
 - [UWatchfree](https://www.uwatchfree.tv/)
@@ -1659,7 +1683,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 
 ## Discord Servers
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
-- [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
+
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) A piracy server to discuss and share movies, tv and apps.
 - [piratesonline](https://discord.me/piratesonline) Official piratesonline.us Discord Server.
@@ -1777,7 +1801,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 ## Full TV Shows On
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones.
 - [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want proshots instead of bootlegs to be seen.
-- [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019.
+
 - [castnow](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) Posted by /u/huldre99, new NetFlix releases.
@@ -1801,7 +1825,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [nulled.cc](https://www.nulled.cc/) Warez Scripts and a forum for Warez resources.
 - [popular-movies](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
 - [SIMKL](https://simkl.org/?gi=f7bbecee5cd0) Similar like traktv but offers a Chrome app for Netflix. 
-- [Sonarr](https://github.com/Sonarr/Sonarr) Smart PVR for newsgroup and bittorrent users.
+
 - [Squawkr.io](https://www.squawkr.io/) Sends you a notifications when movies are available for download.
 - [Trakt.tv](https://trakt.tv/) A platform that does many things, but primarily keeps track of TV shows and movies you watch.
 - [TVmaze](https://www.tvmaze.com/) TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
@@ -1944,5 +1968,4 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [OphCrack](http://ophcrack.sourceforge.net/) OphCrack is available for free which is a rainbow-table based tool for password cracking on Windows. It is a popular Windows password cracking tool which can also be used on Linux or Mac.
 - [RainbowCrack](http://project-rainbowcrack.com/table.htm) It falls in the hash cracker tool category that utilizes a large-scale time-memory trade off process for faster password cracking compared to traditional brute force tools.
 - [THC Hydra](http://https//www.thc.org/thc-hydra/) THC Hydra can be said to be the fast paced network logon tool for password cracking.
-
 
