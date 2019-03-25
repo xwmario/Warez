@@ -157,6 +157,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [openload](https://greasyfork.org/en/scripts/17665-openload) - Remove Anti-Adblock, ads, popups, and timer waits, and show direct download link on OpenLoad.
 - [RARBG Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
 - [RYM google current album](https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
+- [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
 - [ThePirateBay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) - Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS & more.
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
 - [Various torrent links to Episodecalendar](https://greasyfork.org/en/scripts/27367-various-torrent-links-to-episodecalendar) - Adds various torrent links next to every episode in calendar, unwatched and season overview sections.
@@ -579,6 +580,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 ### DDL Link Sites
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) - (Multi) - Google Drive Download Links.
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_).
+- [0DayDown](https://www.0daydown.com/) (CN/EN) MacOS, Music & other links (works with JDownloader).
 - [Adit-HD Forum](http://www.adit-hd.com/index.php) - Forum which provides links to HD rips.
 - [AdiT-HD](http://adit-hd.com/) - Direct movie download database.
 - [AppNee Freeware Group](https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
