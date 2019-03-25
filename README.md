@@ -9,13 +9,13 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 
 
 ### Why was the list created?
-* Research reasons
-* Freedom of information
+* Research reasons!
+* Freedom of information!
 * Most lists you find are outdated, not actively maintained or full of malware links.
 
 ### What **does not** belong on this list?
 * Illegal programs or direct links to copyright material.
-* Insecure programs (no audit or (code) review
+* Insecure programs (no audit or (code) review).
 * Why is program _x_ not listed e.g. K-9 mail it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
 
 ### How can I contribute to this list?
@@ -92,11 +92,12 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Verimatrix](https://www.verimatrix.com)
 - [VMProtect](http://vmpsoft.com)
 
-## Public Reverse & Cracking Forums
+## Public Reverse & Cracking Discussion Forums
 - [Crackmes.cf](http://crackmes.cf/) (mirror of crackmes.de + [reboot](https://crackmes.one/))
+- [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 - [Reverse Club](http://crack.vc/forum/) ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Team-IRA [TIRA]](https://team-ira.com/) ([needs invite code](http://forum.crack.vc/?thread-22.htm))
-- [Tuts 4 You](https://tuts4you.com)
+- [Tuts 4 You](https://tuts4you.com) One of the oldest forums to discuss reversing related stuff.
 
 ### NFO Viewers & KeyGen Music
 - [Defacto2](https://defacto2.net/welcome)
@@ -854,7 +855,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 
 ### Stremio Addons
 - [Juan Carlos Torrents](https://jct.best4stremio.space/stremio/v1) Allows streaming from torrents collected from KAT.cr and others.
-- [Open Directories addon](https://www.reddit.com/r/opendirectories/comments/9n8ig8/stremio_open_directories/) Finds HTTP streams for movies/shows from open directories
+- [Open Directories addon](https://www.reddit.com/r/opendirectories/comments/9n8ig8/stremio_open_directories/) Finds HTTP streams for movies/shows from open directories.
 - [PirateBay addon](https://piratebay-stremio-addon.herokuapp.com/stremio/v1) Fetch PirateBay entries on a single episode or series.
 - [Popcorn Time addon](https://pct.best4stremio.space/stremioget/stremio/v1) Watch from YTS and EZTV in Stremio
 - [RAR addon](https://rarbg.best4stremio.space/stremio/v1) Watch content from RARBG in Stremio
@@ -864,7 +865,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
 - [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
-- [PlexGuide.com](https://plexguide.com/) Deploy a multi-app supported Plex Server with an HD or GDrive
+- [PGBlitz.com](https://pgblitz.com/) Deploy a multi-app supported Plex Server with an HD or GDrive
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
 - [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
 
@@ -982,14 +983,16 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 
 ### ROMs
 - [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) Nintendo 3ds CIA files.
+- [Doperoms](https://www.doperoms.com/) A huge collection with over 170,000 ROM files.
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) List of Xbox, Nintendo etc games. 
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) Nintendo, Sony, Microsoft, Romsets, Arcade and other ROm collections.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links to ROM and ISO websites.
-- [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs.
+- [Romulation.net](https://www.romulation.net/) Collection of over ~28,000 console game ROMs.
+- [Romsmania](https://romsmania.cc/) Another great ROMs collection with a decent UI to find stuff quick.
 - [The Eye ROMs](http://the-eye.eu/public/rom/) Open directory of ROMs from The Eye.
-- [The ROM Depot](https://theromdepot.com/roms/) Around 3 TB of ROMs.
+- [The ROM Depot](https://theromdepot.com/roms/) Around 3 TB of ROMs (requires a VPN).
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs.
 - [Ziperto](https://www.ziperto.com/) Nintendo 3ds CIA files, especially for JRPGs.
 
@@ -1307,7 +1310,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 ## Courses & Tutorials
 - [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
 - [coursehunter](https://www.coursehunters.net/) Watch paid tutorials online for free
-- [Forum ExeTools](https://forum.exetools.com/) The original oldschool forum to share cracking knowledge.
 - [FreeTutorial](https://www.freetutorials.eu/) Free tutorials page, hacking courses & more.
 - [Freetutorials.eu](https://www.freetutorials.eu/) Download Udemy Paid Courses 4 free.
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free, has adblock detector
@@ -1684,8 +1686,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
 
 ## Discord Servers
+- [9YearOldPirates](https://discord.gg/3YCF8u) Official Discord server for the 9YearOldPirates relaese group.
 - [/r/soccerstreams](https://discord.gg/geyTtth) Official Discord server for the recently-killed /r/soccerstreams subreddit.
-- [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
+- [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music & games.
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) A piracy server to discuss and share movies, tv and apps.
 - [piratesonline](https://discord.me/piratesonline) Official piratesonline.us Discord Server.
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
