@@ -1849,10 +1849,12 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [ByPassed](https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 - [Unblocked](https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites
 
-## Proxies
-- [GnUNet](https://gnunet.org/)
-- [Psiphon](https://www.psiphon.ca/)
-- [Shadowsocks](https://shadowsocks.org/)
+## Proxies & alternative Protocols/Networks
+- [cjdns](https://github.com/cjdelisle/cjdns) - Cjdns (Caleb James DeLisle's Network Suite) is a networking protocol and reference implementation, founded on the ideology that networks should be easy to set up
+- [Freenet](https://freenetproject.org/) - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
+- [GnUNet](https://gnunet.org/) - GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services
+- [Psiphon](https://www.psiphon.ca/) - Run your own server, invite your friends, build a community, provide free and unfiltered Internet access to the world.
+- [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
 
 ## File Sharing Tools
 - [DBREE](https://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
