@@ -1508,15 +1508,14 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 
 
 ### Streaming Apps
-- [AniméGlare](https://animeglare.xyz/) - + [Discord](https://discordapp.com/invite/RMjHm4F1)
-- [AniméVibe](http://animevibe.tv/) - + [Discord](https://discordapp.com/invite/4QGvkw8) - 
-- [APK'S 2 Day](https://discord.gg/2qWqzN8) - This is a discord server that acts as a hub for numerous streaming apps.
-- [ApolloTV](https://apollotv.xyz/) - + [Discord](https://discordapp.com/invite/DT9SgYE)
-- [BeeTV](http://beetvapk.me/) - 
+- [AniméGlare](https://animeglare.xyz/)
+- [AniméVibe](http://animevibe.tv/)
+- [ApolloTV](https://apollotv.xyz/)
+- [BeeTV](http://beetvapk.me/)
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) - a lot of Movies & TV/Shows to watch and download.
 - [CinemaHD](https://cinemaapk.com/)
 - [CKayTV](http://ckaytv.com/)
-- [DreamTV (Terrarium Clone) - unfaked](http://dream-tv.xyz/) - + [Discord](https://discordapp.com/invite/FQkQz6g)
+- [DreamTV (Terrarium Clone) - unfaked](http://dream-tv.xyz/)
 - [Evolve TV](http://evolvetv.info/) - (EN-US) - Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
 - [Fildo](https://fildo.net/android/en/) - Music streaming app.
 - [Filmix](https://filmix.site) - (EN-US) - Watch movies and TV shows using AndroidTV or mobile devices.
@@ -1525,7 +1524,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Liveflix](https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
 - [Mega Shows](https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your device.
-- [Morph TV (Morpheus Fork)](http://titaniumtv.xyz/) - + ([Discord](https://discordapp.com/invite/VHYGtA9))
+- [Morph TV (Morpheus Fork)](http://titaniumtv.xyz/)
 - [Newest Movies HD](http://newestmovieshd.com) - (en-US) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
 - [TeaTV](https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
@@ -1707,16 +1706,22 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [RevDl](https://www.revdl.com/) - Direct download site for Android apps & games.
 
 ## Discord Servers
-- [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
 - [/r/soccerstreams](https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
+- [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
+- [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
+- [AniméVibe](https://discordapp.com/invite/4QGvkw8) - Official AniméVibe Discord channel.
+- [APK'S 2 Day](https://discord.gg/2qWqzN8) - This is a discord server that acts as a hub for numerous streaming apps.
+- [ApolloTV](https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
 - [DoujinStyle](https://discord.gg/z2QDFdA) - Discord server with Doujin related materials. Things such as Japanese doujin music & games.
+- [DreamTV](https://discordapp.com/invite/FQkQz6g) - A Discord server for the DreamTV Android app.
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
+- [Morph TV (Morpheus Fork)](https://discordapp.com/invite/VHYGtA9) - Morph TV (Morpheus Fork) official Discord channel.
 - [piratesonline](https://discord.me/piratesonline) - Official piratesonline.us Discord Server.
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Home of /r/ps3homebrew and /r/ps4homebrew.
+- [Snahp.it] Official Discord server for snahp.it. (_needs a new invite link_)
 - [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for the-eye.eu
 - [The Ratio](https://discord.gg/qkRCehC) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
-- [Snahp.it] Official Discord server for snahp.it. (_needs a new invite link_)
 
 ## Discord Tutorials, Scripts & Bots
 - [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
