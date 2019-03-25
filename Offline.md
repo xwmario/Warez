@@ -12,6 +12,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - AnimeHeaven.eu
 
 ## Boards (offline, abandoned or compromised)
+- ultim-zone.in
+- maniacw4r3z.com
+- forum.wawa-mania.ec
 - dlcboot.com
 - 3dl.am
 - scenedownloads.pw
