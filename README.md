@@ -393,14 +393,16 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) - A place to discuss seedboxes and everything related to them.
 - [2Giga.link](https://www.2giga.link/) - Free file hoster, Torrent caching & Premium link generator.
+- [DediSeedBox](https://dediseedbox.com/) - Netherlands located Seeedbox service.
 - [FileStream.me](https://filestream.me/) - Free subscription offers 200Mb max file size and 200GB storage total.
 - [Foxleech](https://www.foxleech.com/) - Doesn't have any free trial, their paid plans start at $3 per month.
 - [Furk.net](https://www.furk.net/) - Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
 - [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.IO.
 - [Seedr](https://www.seedr.cc/) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
+- [Seedbox.io](https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [SeedSync](https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
-
 - [Torrent Safe](https://www.torrentsafe.com/) - Free-plan includes 1GB max file size, 2 days file lifetime.
+- [UltraSeedbox](https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
 - [ZXCFiles](http://www.zxcfiles.net) - A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
 
 #### Seedbox Hosting Providers
