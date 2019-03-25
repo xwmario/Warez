@@ -1951,9 +1951,13 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [@RickyChristanto Chan](https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
 - [@SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
 - [@vkmusic_bot](https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine)
-- [@warez](https://t.me/warez) - Yet another warez channel.
+- [@warez](https://t.me/warez) - Yet another warez channel on Telegram.
 
 ### Telegram Tools & Scripts
+- [Be careful using bots on telegram](https://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
+- [Manybot](https://manybot.io/) - Create your own telegram bot without coding skills.
+- [Overview of Telegram Bots](https://www.qwasap.com/en/bots.php) - There are many Telegram bots, but here are only the best.
+- [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
 - [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 
 ### Social Media 'Tools'
