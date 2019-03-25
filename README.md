@@ -121,7 +121,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - Helpful guide from EFF.org.
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) - VPN section of "That One Privacy Site" with VPN comparisons.
 - [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page which explains how to achieve a poor man's VPN via SSH tunneling.
-- [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) - TorrentFreak article by Ernesto.
+- [Which VPN Services Keep You Anonymous in 2019?](https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019/) - TorrentFreak article by Ernesto about which VPN you _could_ use.
 
 ### VPN Subscription Services (no-logs)
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) - VPN with 256-bit encryption, 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
