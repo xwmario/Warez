@@ -161,6 +161,8 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
 - [Various torrent links to Episodecalendar](https://greasyfork.org/en/scripts/27367-various-torrent-links-to-episodecalendar) - Adds various torrent links next to every episode in calendar, unwatched and season overview sections.
 
+## Extensions
+- [Google unlocked](https://github.com/Ibit-to/google-unlocked) - + [Website](https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results. 
 
 ## Password Managers (Desktop/Mobile)
 - [1Password](https://1password.com/) - Popular cloud-hosted password manager.
