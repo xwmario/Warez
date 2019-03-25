@@ -92,9 +92,10 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Verimatrix](https://www.verimatrix.com)
 - [VMProtect](http://vmpsoft.com)
 
-## Public Cracking Forums
+## Public Reverse & Cracking Forums
 - [Crackmes.cf](http://crackmes.cf/) (mirror of crackmes.de + [reboot](https://crackmes.one/))
 - [Reverse Club](http://crack.vc/forum/) ([needs invite code](http://forum.crack.vc/?thread-22.htm))
+- [Team-IRA [TIRA]](https://team-ira.com/) ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://tuts4you.com)
 
 ### NFO Viewers & KeyGen Music
@@ -614,7 +615,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list in the entir
 - [Soft9](http://soft9.ru/) (RU) Russian Software Portal.
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [SoftOBase](http://softobase.com/) (RU) Software forum.
-- [Team-IRA [TIRA]](https://team-ira.com/) (EN-US) Software, Tutorials, eBooks, Android and reversing Forum.
 - [Tekspert](https://tekspert.se/) (EN/US) Software forum. 
 - [TwoDDL](http://2ddl.ws) Direct software download links.
 - [UpTown](https://en.uptodown.com/) Software portal.
