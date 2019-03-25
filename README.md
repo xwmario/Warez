@@ -1828,17 +1828,16 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 
 ## Content Discovery
-- [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) - Complete list of all available 2160p remuxes
+- [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) - Complete list of all available 2160p remuxes.
 - [Flox](https://github.com/devfake/flox) - Flox is a self-hosted movie, series and nime watch list.
 - [IMDb](https://www.imdb.com/) - Find movies, TV shows, celebrities, and more.
 - [JustWatch](https://www.justwatch.com/) - On JustWatch you are able to find out where to watch your favorite movies & TV series
-- [Letterboxd](https://letterboxd.com/) - Your life in film
+- [Letterboxd](https://letterboxd.com/) - Your life in film, the social network for film lovers.
 - [MetaCritic](https://www.metacritic.com) - website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
 - [Movieo](https://movieo.me/) - Discover, organize and track over 250,000 movies.
-- [nulled.cc](https://www.nulled.cc/) - Warez Scripts and a forum for Warez resources.
+- [nulled.cc](https://www.nulled.cc/) - Warez Scripts and a forum for additional piracy related resources.
 - [popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
 - [SIMKL](https://simkl.org/?gi=f7bbecee5cd0) - Similar like traktv but offers a Chrome app for Netflix. 
-
 - [Squawkr.io](https://www.squawkr.io/) - Sends you a notifications when movies are available for download.
 - [Trakt.tv](https://trakt.tv/) - A platform that does many things, but primarily keeps track of TV shows and movies you watch.
 - [TVmaze](https://www.tvmaze.com/) - TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
@@ -1856,9 +1855,10 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [weboas.is](http://weboas.is/) - Another website for pirates.
 
-## Proxy Sites
+## Proxy Sites to bypass filters and unblock blocked Websites
 - [ByPassed](https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
-- [Unblocked](https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites
+- [ProxySite.cc](https://proxysite.cc/) + ([Mirror](https://proxysite.site/)) + ([for Videos](https://proxysite.video/)) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
+- [Unblocked](https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites.
 
 ## Proxies & alternative Protocols/Networks
 - [cjdns](https://github.com/cjdelisle/cjdns) - Cjdns (Caleb James DeLisle's Network Suite) is a networking protocol and reference implementation, founded on the ideology that networks should be easy to set up
