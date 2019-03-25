@@ -15,6 +15,8 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 
 ### What **does not** belong on this list?
 * Illegal programs or direct links to copyright material.
+* Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
+* Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
 * Insecure programs (no audit or (code) - review).
 * Why is program _x_ not listed e.g. K-9 mail it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
 
