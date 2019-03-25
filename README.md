@@ -23,7 +23,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 ### How can I contribute to this list?
 * You can [submit a pull request](https://github.com/CHEF-KOCH/Warez/pulls) - after you [read the contributions guidelines](https://github.com/CHEF-KOCH/Warez/blob/master/.github/CONTRIBUTING.md).
 
-## How search in this?
+## How to search on this page?
 * A search function is planned, [among other small features](https://github.com/CHEF-KOCH/Warez/blob/master/.github/PROJECT_ToDo.md).
 * Since there is (currently) - no filter or search you can navigate trough the page from within your Browser via `Ctrl + F` or `Cmd + F`.
 
@@ -162,7 +162,10 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Various torrent links to Episodecalendar](https://greasyfork.org/en/scripts/27367-various-torrent-links-to-episodecalendar) - Adds various torrent links next to every episode in calendar, unwatched and season overview sections.
 
 ## Extensions
-- [Google unlocked](https://github.com/Ibit-to/google-unlocked) - + [Website](https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results. 
+- [Google unlocked](https://github.com/Ibit-to/google-unlocked) - + [Website](https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
+- [Hide Fake Torrents on TPB](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
+- [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
+- [Burlesco](https://burles.co/en/) - Read news without subscribing, bypass the paywall.
 
 ## Password Managers (Desktop/Mobile)
 - [1Password](https://1password.com/) - Popular cloud-hosted password manager.
@@ -235,6 +238,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
 - [Trackers List](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 
+
+## TV-Show Calendar
+- [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like
 
 #### Private Trackers
 - [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) - List of private trackers
@@ -363,10 +369,11 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - Open QB advance settings
 - Bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [see here example](https://i.imgur.com/pD7atey.jpg).
 
-### Torrent Plugins for e.g. Deluge
-- [Deluge Plugins Overview](https://dev.deluge-torrent.org/wiki/Plugins) - A list of official and third-party plugins for Deluge.
+### Torrent Plugins for e.g. for Deluge
 - [Auto removing of deluge torrents](https://github.com/omaralvarez/deluge-autoremoveplus) - Auto removal of deluge torrents after they are finished.
 - [deluge-ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases) - ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
+- [Deluge Plugins Overview](https://dev.deluge-torrent.org/wiki/Plugins) - An official list of third-party plugins for Deluge.
+
 
 #### rTorrent
 - [flood](https://github.com/jfurrow/flood) - A web UI for rTorrent with a Node.js backend and React frontend.
