@@ -1999,3 +1999,13 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [OphCrack](http://ophcrack.sourceforge.net/) - OphCrack is available for free which is a rainbow-table based tool for password cracking on Windows. It is a popular Windows password cracking tool which can also be used on Linux or Mac.
 - [RainbowCrack](http://project-rainbowcrack.com/table.htm) - It falls in the hash cracker tool category that utilizes a large-scale time-memory trade off process for faster password cracking compared to traditional brute force tools.
 - [THC Hydra](http://https//www.thc.org/thc-hydra/) - THC Hydra can be said to be the fast paced network logon tool for password cracking.
+
+
+### Bypass Paywalls
+- [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
+- [Bypass Paywalls](https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
+- [[Guide] Bypassing paywalls on iOS apps](https://zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
+- [Get Around Paywalls with Incognito Mode](https://lifehacker.com/get-around-paywalls-with-incognito-mode-1679310015) - Tutorial how to get around a Paywall with Incognito Mode.
+- [Outline](https://outline.com/) - Read & annotate without distractions.
+- [Unpaywall](https://unpaywall.org/) - An open database of 20 million free scholarly articles.
+- [How to Get Around Newspaper Paywalls in 2019](https://medium.com/black-edge-consulting/how-to-bypass-virtually-every-news-paywall-705602c4c2ce?source=linkShare-ccf1b677570b-1549597061&_branch_match_id=638842629899229780) - How to bypass newspaper paywalls and access the WSJ, NYT, Washington Post, Business Insider, Financial Times for free.
