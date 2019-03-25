@@ -1816,13 +1816,11 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 ## Full TV Shows On
 - [/r/freefolk](https://www.reddit.com/r/freefolk) - Streams for new episodes of Game of Thrones.
 - [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) - Subreddit for all those theatre obsessed people who want proshots instead of bootlegs to be seen.
-
 - [castnow](https://github.com/xat/castnow) - Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) - Posted by /u/huldre99
 - [How To Get Everything On Netflix](https://www.reddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv) - Posted by /u/huldre99, new NetFlix releases.
 - [iNFekt](https://infekt.ws/) - A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [SceneLinkList](https://www.scenelinklist.com/) - SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
-- [scenerules](https://scenerules.org/) - NFOs with rules and guidelines for scene releasing standards.
 - [TheTrove](https://thetrove.net/) - The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 
 ## Piracy Blogs and News
