@@ -469,7 +469,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) - Requests and offers for Usenet indexers.
 - [NZBLINK](https://nzblnk.info/) - The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
 - [QuickPar](http://www.quickpar.org.uk/index.htm) - Tool for reconstructing damaged/missing/corrupt Usenet binaries.
-- [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) - A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
+- [Wikipedia's Usenet newsgroup article](https://en.wikipedia.org/wiki/Usenet_newsgroup) - A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
 - [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Table of applications for uploading content to Usenet.
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) - Usenet is a worldwide distributed discussion system available on computers.
 
@@ -480,6 +480,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Premiumizer](https://github.com/piejanssens/premiumizer) - A download management tool for premiumize.me cloud downloads.
 - [Usenet Express](http://usenetexpress.com/) - UsenetExpress is a powerful new tier-1 Usenet provider which offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) - This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
+- [Usenet Crawler](www.usenet-crawler.com) - Movies, eBooks, TV Series, Anime & more.
 - [Usenet.Farm](https://usenet.farm/) - Usenet reseller with 1000+ days retention.
 - [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
 
@@ -1331,7 +1332,11 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Ubooquity](http://vaemendis.net/ubooquity/) - Ubooquity is a free home server for your comics and ebooks library.
 
 ## eBook Search Indexer
+- [ABook](http://abook.ws/) - One of the oldest book search indexers.
+- [BinSearch](http://binsearch.info/) - Binary Usenet search engine which can be used for eBooks and other stuff.
+- [GingaDaddy](http://www.gingadaddy.com) - A usenet newsgroup for eBooks. (needs login)
 - [Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - Preset of indexed websites to search for comics.
+- [oznzb](https://www.oznzb.com ) Yet another search engine.
 
 ## eBook Readers
 - [Abacci eBooks](http://www.abacci.com/msreader/default.aspx) - All the books here are for Microsoft Reader.
@@ -1380,6 +1385,8 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [TUTSGALAXY](https://tutsgalaxy.com/) - Learn HTML5 and CSS3 fundamentals.
 - [Unlimited Mega.nz-IDM-downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Download Mega.nz without any limits.
+- [[Updated][Guide] How to bypass the adblock ban on KissAnime](https://old.reddit.com/r/KissAnime/comments/awmkrz/updatedguide_how_to_bypass_the_adblock_ban/) - An Ad blocker guide for KissAnime.
+- [What are magnet links and trackers?](https://gist.github.com/nektro/788ba921b51bedbbea07a04fb123b21a) Short explanation of magnet and trackers and how they work.
 
 ## Direct Download Streaming
 - [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
