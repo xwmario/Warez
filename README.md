@@ -17,6 +17,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 * Illegal programs or direct links to copyright material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
+* Software which is outdated or not actively maintained.
 * Insecure programs (no audit or (code) - review).
 * Why is program _x_ not listed e.g. K-9 mail it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
 
@@ -37,7 +38,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 * [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
 * [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
 * [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
-* [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) -   ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
+* [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
 * [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
 * [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
 * [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
@@ -77,6 +78,10 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [/f/Piracy](https://raddle.me/f/Piracy) - Raddle Forum - Piracy is not theft.
 - [s/piracy](https://saidit.net/s/piracy) - Saidit Forum - Yet another reddit alternative.
 - [Welcome to the f/privacy FAQ](https://raddle.me/wiki/Privacy) - Proudly ripped this FAQ off from a non-privacy-friendly site!
+
+## Piracy Archive
+- [Piracy Archive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit r/Piracy sub.
+
 
 ### Social Media Alternatives
 - [MeWe](https://mewe.com/) - Google+ replacement.
@@ -373,17 +378,23 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Opentrackers.org](https://opentrackers.org/) - Private Torrent Trackers & File Sharing.
 
 ### Torrent Clients
-- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) - Allows you to search popular torrent trackers and download rss/torrents. 
+- [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent&hl=en) - A modern Android application with new modern design!
+- [TorrDroid](https://play.google.com/store/apps/details?id=intelligems.torrdroid&hl=en) - TorrDroid is a Android torrent client cum search engine that features a hassle free way of searching and downloading torrents.
+- [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
+- [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+
 
 ## Torrent DMCA prevention
 - Open QB advance settings
 - Bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [see here example](https://i.imgur.com/pD7atey.jpg).
 
-### Torrent Plugins for e.g. for Deluge
+### Torrent Plugins for e.g. for Deluge or qB
 - [Auto removing of deluge torrents](https://github.com/omaralvarez/deluge-autoremoveplus) - Auto removal of deluge torrents after they are finished.
 - [deluge-ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases) - ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
 - [Deluge Plugins Overview](https://dev.deluge-torrent.org/wiki/Plugins) - An official list of third-party plugins for Deluge.
-
+- [Plugin list for qBittorrent](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) - Plugins for Public sites (requires Python).
+- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) - Allows you to search popular torrent trackers and download rss/torrents.
+- [rutorrent-all-seeders](https://github.com/AkdM/rutorrent-all-seeders) - This ruTorrent plugin adds the columns 'All Seeders' the torrents list.
 
 #### rTorrent
 - [flood](https://github.com/jfurrow/flood) - A web UI for rTorrent with a Node.js backend and React frontend.
@@ -606,17 +617,18 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [IceFilms.info](https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
 - [KickassWarez](https://kickasswarez.info/) - (EN/RU) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!
-- [Mawto](https://www.mawtoload.com/) - (EN)
+- [Mawto](https://www.mawtoload.com/) - (IR) Android apps, Windows Software & Games.
 - [MkvCage](https://www.mkvcage.ws/) -  Big tracker for TV shows & movies. 
 - [Movie Glide](https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://moviefiles.org/) - Direct download search engine which generates Google Drive links
 - [Moviesleak](https://moviesleak.net/) - Yet another movie page, the focus is in IMDB annoucements. 
 - [Mutaz](https://www.mutaz.net/free-programs/) - Tracks scene software releases.
-- [MyGully](http://mygully.com/) - (Ger)
-- [NaMaMe Club](http://nnmclub.to/) - Software for Windows.
+- [MyGully](http://mygully.com/) - (Ger) - Replacement for the old gulli board.
+- [NaMaMe Club](http://nnmclub.to/) - Provides software for Windows.
 - [NFOHump](http://www.nfohump.com/forum/index.php) - Gaming, Apps, Help & more.
+- [NFForce](http://nfforce.temari.fr/) - The old NForce group and it's small website.
 - [NGB.to](https://ngb.to/) - (Ger) - Another Gulli/MyGully clone.
-- [Nsane Forum](https://www.nsaneforums.com/)
+- [Nsane Forum](https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
 - [NulledTeam Underground](https://www.nulledteam.com/) - Software forum.
 - [Onkyo4k](http://onkyo4k.com/) - Tracks movies and tv shows.
 - [OSZone](http://www.oszone.net/) - (RU) - Software portal.
@@ -640,7 +652,8 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Soft9](http://soft9.ru/) - (RU) - Russian Software Portal.
 - [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [SoftOBase](http://softobase.com/) - (RU) - Software forum.
-- [Tekspert](https://tekspert.se/) - (EN/US) - Software forum. 
+- [Tekspert](https://tekspert.se/) - (EN/US) - Software forum.
+- [TheWarezFolder](http://thewarezfolder.com/) - 
 - [TwoDDL](http://2ddl.ws) - Direct software download links.
 - [UpTown](https://en.uptodown.com/) - Software portal.
 - [Vidics](https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
@@ -656,7 +669,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
-- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Search up for the website you want to download from and pick from a massive list. 
+- [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Search up for the website you want to download from and pick from a massive list.
+- [Small File sharing table](https://nafanz.github.io/filesharing.html) - Small File sharing table which shows maximum file limit, language etc.
+- [Small cloud storage table](https://nafanz.github.io/cloudstorage.html) - Small cloud storage table which shows maximum file limit, language etc.
 - [OffCloud](https://offcloud.com/?=85a8b709) - A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
 - [Mega-Debrid](https://www.mega-debrid.eu/) - 207 Hosters supported.
 - [Premiumize](https://www.premiumize.me/) - Combine direct and secure access to premium services.
@@ -692,38 +707,50 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 
 ### Anime & Cartoon Streaming (720p+)
 - [480mkv](http://480mkv.com/)
-- [9Anime](https://www2.9anime.to/)
-- [Anime HD 47](http://animehd47.com/)
-- [Anime Land](http://www.animeland.tv/)
+- [AnimeKisa](https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
+- [Animelon](https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
+- [Aniwatcher](https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
+- [AnimeFreak.TV](https://www.animefreak.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
+- [9Anime](https://www2.9anime.to/) - Subs and dubs, many ads, many player alternatives, videos hosted by Google.
+- [Animehd47](http://animehd47.com/) - Subs and dubs, banner ads, videos hosted by Google, multiple sources.
+- [Animeboys](https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
+- [Animefever](https://www.animefever.tv/) - Subs only, multilingual, banner ads, self-hosted.
+- [AnimeLand](http://www.animeland.tv/) - Dubs only, banner ads, pop-ins, videos hosted by Google (proxy), only 1 source, downloadable.
 - [Anime Rush](http://www.animerush.tv/)
 - [Anime Show](http://www.animeshow.tv/)
+- [Anime Streams](https://www.anime2you.de/streams/) - Sub and dub, banner ads.
 - [Anime8](https://anime8.me/)
-- [AnimeBam](https://www.animebam.net/)
-- [AnimeDao](https://animedao21.stream/)
+- [AnimeBam](https://www.animebam.net/) - Subs only, banner ads, only one source.
+- [AnimeDao](https://animedao.com/) - No ads, subs only, multiple sources, videos hosted by Google.
 - [Animeflv](https://animeflv.net/)
 - [AnimeFreak](http://animefreak.tv/)
 - [AnimeHeaven](http://animeheaven.eu/)
-- [AnimeHub](https://animehub.ac/)
-- [AnimePahe](https://animepahe.com/)
-- [AnimePie](https://www.animepie.to/index)
+- [AnimeHub](https://animehub.ac/) - Sub and dub, banner ads.
+- [AnimePahe](https://animepahe.com/) - Subs only, pop-up ads, doesn't show videos with adblocker on, downloadable, only one source.
+- [AnimePie](https://www.animepie.to/index) - Subs and dubs, no ads, multiple sources(including from other anime sites).
 - [Animer Reborn](http://www.animereborn.io/)
+- [AnimeRush](https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
 - [AnimeSeries](https://animeseries.co/)
-- [AnimeVibe](https://animevibe.xyz/)
-- [AnimeWorldBD](https://animeworldbd.com/)
+- [Anime Simple](https://ww1.animesimple.com/) - Subs and dubs, banner ads, multiple sources.
+- [AnimeTV](https://animetv.ge/) - Subs and dubs, banner ads, many player alternatives.
+- [animeultima](https://twitter.com/animeultimav2?lang=en) - Subs and dubs, banner and pop-up ads, multiple sources.
+- [AnimeVibe](https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
+- [AnimeWorldBD](https://animeworldbd.com/) - Banner ads, some videos can only be downloaded, small list.
 - [AnimeXD](http://www.animexd.me/)
 - [Cartoon Crazy](https://www.cartooncrazy.tv/)
 - [CartoonWire](https://cartoonwire.to/)
 - [Chia-Anime](http://ww2.chia-anime.tv/)
 - [Club Anime](http://clubani.me/)
-- [DarkAnime](https://darkanime.stream/)
-- [Dubbed Anime](https://ww5.dubbedanime.net/)
-- [EyeOnAnime](https://eyeonanime.tv/)
-- [GoGoAnime](https://www1.gogoanime.sh/)
+- [DaiWEEB](https://www.daiweeb.org/) - Subs only (EN and JP), no ads, only one source, self-hosted, aimed for Japanese learners.
+- [DarkAnime.stream](https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
+- [DubbedAnime](https://ww5.dubbedanime.net/) - Subs and dubs, banner and pop-up ads, multiple sources.
+- [EyeOnAnime](https://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
+- [GoGoAnime](https://www1.gogoanime.sh/) - Subs and dubs, many ads, many player alternatives.
 - [Hi10Anime](https://hi10anime.com/)
-- [HotAnime](http://w1.hotanime.me/)
+- [HotAnime](http://w1.hotanime.me/) - Subs and dubs, lots of banner ads, pop-ins, possibly self-hosted videos, downloadable (via OpenLoad).
 - [Justdubs](http://justdubs.org/)
-- [Kawaiifu](http://kawaiifu.com/)
-- [KickAssAnime](https://www11.kickassanime.io/)
+- [Kawaiifu](http://kawaiifu.com/) - Videos hosted by Google, only one source, style similar to niconico, missing multiple anime.
+- [KickAssAnime](https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
 - [KimCartoon](https://kimcartoon.co/)
 - [Kissanime.ru](http://kissanime.ru/) - or [Kissanime.ac (mirror)](https://kissanime.ac/)
 - [KissCartoon](https://kisscartoon.ac/)
@@ -735,13 +762,14 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Monimo](https://monimoapp.netlify.com/)
 - [MoviesEver](https://moviesever.com/)
 - [NineAnime](https://www.nineanime.com/)
+- [OtakuStream](https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
 - [Online WatchCartoon](https://www.watchcartoononline.com/)
 - [Otakustream](https://otakustream.tv/)
 - [PutlockerSeries](http://putlockerseries.to/)
-- [Randaris-Anime](http://randaris-anime.net/)
-- [Ryuanime](https://www3.ryuanime.com/)
+- [Randaris Anime](http://randaris-anime.net/) - Banner ads, multiple sources, eng & german subs, captcha.
+- [RyuAnime](https://www4.ryuanime.com/)
 - [Serienjunkies](http://serienjunkies.org/) - (GER)
-- [SGAnime](https://sganime.org/)
+- [SGAnime](https://sganime.org/) - Subs only, no ads, few sources.
 - [Supercartoons](http://www.supercartoons.net/)
 - [Toonova](http://www.toonova.net/)
 - [TVBox](https://tvbox.unblocked.gdn/)
@@ -749,6 +777,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Twist.most](http://twist.moe/)
 - [WatchCartoon](https://www.watchcartoononline.io/)
 - [WatchCartoonsOnline](https://watchcartoonsonline.la/)
+- [WatchAnime](http://watch-anime.org/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [WatchSeries 2.0](https://watch-series.io/)
 - [WatchSeries](http://dwatchseries.to/)
 
@@ -890,6 +919,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - LinuxServer.io Plex Media Server docker image.
 - [Plex](https://www.plex.tv/) - Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [PGBlitz.com](https://pgblitz.com/) - Deploy a multi-app supported Plex Server with an HD or GDrive.
+- [Plexi](http://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Official Plex docker image.
 - [timhaak/plex](https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
 
@@ -921,6 +951,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Plex Requests](http://plexrequests.8bits.ca/) - Simple automated way for users to request new content for Plex
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
 - [redump.org](http://redump.org/) - Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
+- [Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM packed files. Steamless aims to support as many games as possible.
 
 ### Plex Scripts and Tools
 - [killstream](https://github.com/blacktwin/JBOPS/tree/master/killstream) - Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
@@ -1006,6 +1037,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Xatab Repacks](https://xatab-repack.net) - Russian game repacker, primarily torrents.
 
 ### ROMs
+- [3DSISO](http://www.3dsiso.com/) - A community based ROM database.
 - [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) - Nintendo 3ds CIA files.
 - [Doperoms](https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
 - [myabandonware](https://www.myabandonware.com/) - More than 14000 old games to download for free!
@@ -1051,15 +1083,15 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [GDrive](https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR)
 
 ### 3DS
-- [3DS Decrypter utility](https://github.com/matiffeder/stuff)
+- [3DS Decrypter utility](https://github.com/matiffeder/stuff) - Decrypt 3DS files.
 - [3dscia](https://www.3dscia.com/) - Nintendo 3ds CIA files.
-- [GDrive](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd)
-- [GDrive](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) -  All regions collection.
+- [GDrive](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - EN/US based ROMs.
+- [GDrive](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - All regions collection.
 - [GDrive](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
 - [MEga.nz](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection
 - [Mega.nz](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console
 - [Nintendo 3DSISO](http://www.3dsiso.com) - A forum which shares 3DS Roms.
-- [ziperto.com](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/)
+- [ziperto.com](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - 3DS CIA collection.
 
 
 ### GameBoy Advance
@@ -1118,7 +1150,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [AniDex](https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
 - [AniLinkz](https://anilinkz.to/) - Large database of streaming anime episodes.
 - [Anime Kaizoku](https://www2.animekaizoku.com/) - Up to 1080p DDL links, mostly Google Drive.
-- [Anime Twist](https://twist.moe/) - An anime direct streaming site with a decent UI and video player
+- [Anime Twist](https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
 - [anime-sharing](http://www.anime-sharing.com/forum/) - Forum for sharing anime series.
 - [animeEncodes](https://www.animencodes.com/) - Anime sharing page.
 - [AnimeOut](https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
@@ -1126,7 +1158,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [GoGoAnimes](https://gogoanimes.co) - Dubs and up2date animes.
 - [Hi10 Anime](https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
 - [HorribleSubs](https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
-- [KissAnime](http://kissanime.ru/) - Watch anime online free in HD.
+- [KissAnime](http://kissanime.ru/) - Subs and dubs, many ads, many player alternatives, captcha, anti adblocker, videos hosted by Google & Facebook.
 - [Kissanime](https://kissanime.ru) - Dubs and up2date animes.
 - [Monimo](https://monimoapp.netlify.com/) - Netflix like web app for watching animes.
 - [Nyaa](https://nyaa.si/) - BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa).
@@ -1244,6 +1276,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [BlackBird](https://www.getblackbird.net/) - Blocks telemetry, Ads etc. 
 - [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to disable tracking in Windows 10.
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) - O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+- [Tallow - Transparent Tor for Windows](https://github.com/basil00/TorWall) - Tallow is a small program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
 - [W10Privacy](https://www.winprivacy.de/english-home/) - Yet another little utility similar to O&O ShutUp.
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - A customizable script to setup script via PowerShell/CMD. 
 - [Winaero](https://winaero.com/download.php) - Free, small and useful software for Windows.
@@ -1272,7 +1305,8 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
 - [DailyLit](http://www.dailylit.com/) - Get free downloads sent to your email by RSS feed.
-- [DLEBook.me](http://dlebook.me/)(EN) - 
+- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) A github repository of all the scripts and other tools for removing DRM from ebooks.
+- [DLEBook.me](http://dlebook.me/) - eBooks, Magazines & software.
 - [ebook Directory](http://www.ebookdirectory.com/) - From children's books to IT books to literature to reference, you'll find lots of free titles and book packages here.
 - [ebookee.org](https://ebookee.org/) - PDF/eBooks trading.
 - [eBookLobby](http://www.ebooklobby.com/) - You'll find lost of self-help, hobby and reference books here, plus children's fiction and more.
@@ -1384,7 +1418,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) - Popular documentaries subreddit.
-- [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) - An old post by /u/whatwhat888 that may still be useful
+- [DocuWiki-net](http://docuwiki.net/index.php?title=Main_Page) - DocuWiki.net serves as an index of documentary films on the Edonkey Network.
+- [MVGroup](http://forums.mvgroup.org/) - A forum which shares documentaries via P2P.
+- [whatwhat888 big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) - An old post by /u/whatwhat888 that may still be useful.
 
 ## Fonts, Icons & Graphics
 - [Get the Font](https://www.getthefont.com/) - Searches through GitHub for fonts
@@ -1417,6 +1453,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
+- [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 
 ### Movie Automation
 - [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
@@ -1431,7 +1468,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition
 - [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
 - [SubScenes](https://subscene.com/) - Subtitle Scene, provdes subtitles and tools.
+- [JustDubs](https://ww5.justdubs.me/) - Watch English Dubbed Anime And Movies For Free Online.
 - [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
+- [WonderfulSubs](https://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
 
 
 ## P2P-Networks
@@ -1974,6 +2013,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Overview of Telegram Bots](https://www.qwasap.com/en/bots.php) - There are many Telegram bots, but here are only the best.
 - [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
 - [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
+- [Telegram CrackWatch tracker Bot](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
 
 ### Social Media 'Tools'
 - [Keybase](https://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
