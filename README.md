@@ -5,7 +5,7 @@
 The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list on the entire internet! This list is an overview of Warez related topics, discussions and provides some background informationabout the scene.
 
 ## Disclaimer
-**I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) - request.**
+**I or GitHub do not supporting warez - we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
 ### Why was the list created?
 * Research reasons!
