@@ -395,6 +395,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [LimeTorrents](https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
 - [MagnetDL](http://www.magnetdl.com/) - Magnet link only search engine.
 - [metal-tracker.com](http://en.metal-tracker.com/) - Heavy metal music tracker.
+- [Monitor Shodan](https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
 - [moviemagnet](http://moviemagnet.co/) - Verified torrents for movies.
 - [OTorrents](https://otorrents.com/) - Yet another public torrent tracker.
 - [Pirateiro](https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
