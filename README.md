@@ -2125,7 +2125,19 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [TweetDelete](https://www.tweetdelete.net/) - Protect your privacy by automatically deleting posts older than a specified age from your Twitter feed.
 
 ### VPS Hosting Providers
+- [24Shells](https://www.24shells.net/) - Get High performance dedicated servers with cheap unmetered bandwidth and managed server hosting options.
+- [2x4.ru](http://www.2x4.ru/index.php) - A fast and reliable russian VPS hoster.
+- [AlexHost.md](http://ru.alexhost.md) - Yet another russian VPS hoster service.
+- [CyberHour](https://www.cyberhour.com/) - Rusian based host provider which allows Warez.
+- [Datasource.ch](http://www.datasource.ch/) - Swiss made offshore vps provider.
+- [Hostkey](https://www.hostkey.com/) - Dedicated Servers & more.
+- [KnownSRV.com](https://knownsrv.com/) - They use offshore data centers in Romania, Luxembourg and the Netherlands.
+- [NetEngi](https://netengi.com/) - Rent professional web hosting of high quality and cheap price with cPanel.
+- [RapidLeechHost.com](https://www.estrowebservices.com/) - RapidLeechHost only allows warez linking on their offshore plans, using servers based in Netherlands.
 - [SporeStack](https://sporestack.com/news/#2019-02-27) - Truly Hidden Hosting.
+- [Warez Hosting](https://warezhosting.ru/) - Private & Anonymous VPS Hosting!
+- [WebCare360](https://webcare360.com/) - Powerful Offshore cpanel shared hosting provider.
+- [WRZHost.com](http://wrzhost.com/) - WrzHost specializes in allowing warez, and acts as a safe-haven for people wanting to start warez-related projects with anonymity. They offer shared hosting, Linux VPS’s and dedicated servers.
 
 ### Homework
 - [Lit Answers](https://litanswers.org/) - Find homework answers.
