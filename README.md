@@ -34,15 +34,15 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 
 
 ## Liability for Contents 
-* [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive) 
-* [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
-* [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
-* [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
-* [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
-* [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
-* [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
-* [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
-* [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
+- [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive) 
+- [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
+- [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
+- [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
+- [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
+- [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
+- [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
+- [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
+- [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
 
 
 ### Basic Piracy & Scene "starter" info
@@ -128,12 +128,17 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 * [T50](https://gitlab.com/fredericopissarra/t50/) - Faster network stress tool.
 * [UFONet](https://github.com/epsylon/ufonet) - Abuses OSI layer 7 HTTP to create/manage 'zombies' and to conduct different attacks using; `GET`/`POST`, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
 
-
 ## Public Reverse & Cracking Discussion Forums
+- [Cracked.to](https://cracked.to/) - Cracked.to is a cracking forum and community.
+- [Cracked](https://forums.cracked.com/) A forum for cracking related stuff.
+- [Crackia | Cracking Begins](https://crackia.com/) - Crackia Cracking Forum.Find the latest Cracking info, Premium Account Cracking Forum.
+- [Cracking Forums](https://cracking.org/) - GeoIP Ban - Cracking Forum, Cracking Tutorials, Free Premium Accounts.
+- [Cracking Pro](https://www.crackingpro.com/)  - Cracking Tutorials, Free Premium Accounts, Cracking Configs, Combolists & Proxylists.
+- [CrackingGOD Forum](https://crackingod.com/) -  Cracking. Hack. Graphics. Webmaster. Marketplace.
 - [Crackmes.cf](http://crackmes.cf/) - (mirror of crackmes.de + [reboot](https://crackmes.one/))
 - [Forum ExeTools](https://forum.exetools.com/) - The original oldschool forum to share cracking knowledge.
 - [Reverse Club](http://crack.vc/forum/) - ([needs invite code](http://forum.crack.vc/?thread-22.htm))
-- [Team-IRA [TIRA]](https://team-ira.com/) - ([needs invite code](http://forum.crack.vc/?thread-22.htm))
+- [Team-IRA [TIRA]](https://team-ira.com/) - TIRA Team International Reversers Alliance ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
 
 ### Network vulnerability scanners
