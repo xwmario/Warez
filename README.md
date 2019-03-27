@@ -1338,7 +1338,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 
 ## Windows
-- [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [Krakatoa](https://krakatoa.www3.cz/)
 - [MDL Forums](https://forums.mydigitallife.net/) - Windows topics, hotfixes, self-made tools.
 - [PCBeta](http://bbs.pcbeta.com)
@@ -1363,12 +1362,15 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [WPD](https://wpd.app/) - The real privacy dashboard for Windows.
 
 ### Windows 10 Guides (privacy/security related)
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - An In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
+- [How to download and install Windows 10 LTSB/LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez on how to download and install Windows 10 LTSB/LTSC.
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 
-### Windows Resources
+### Windows Resources (Activation, Hotfixes & Patches)
+- [AskWoody](https://www.askwoody.com/) - News, tips, advice, support for Windows, Office, PCs & more.
 - [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, check your system's trusted root certificate store.
 - [Simplix Blog](https://blog.simplix.info/update7/) - Windows Hotfix repository.
-- [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) - AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's
+- [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) - AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's.
+- [KMS Activator](https://github.com/CHEF-KOCH/KMS-activator) - The original repo for KMS related activation.
 
 ## eBooks
 - [/r/DHExchange](https://old.reddit.com/r/DHExchange/) - PDF/eBooks trading.
