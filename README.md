@@ -106,18 +106,29 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
 
 ### Penetration Testing Distributions
-
-* [Kali](https://www.kali.org/) - GNU/Linux distribution designed for digital forensics and penetration testing.
-* [ArchStrike](https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
-* [BlackArch](https://www.blackarch.org/) - Arch GNU/Linux-based distribution for penetration testers and security researchers.
-* [Network Security Toolkit (NST)](http://networksecuritytoolkit.org/) - Fedora-based bootable live operating system designed to provide easy access to best-of-breed open source network security applications.
-* [BackBox](https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments.
-* [Parrot](https://www.parrotsec.org/) - Distribution similar to Kali, with multiple architecture.
-* [Buscador](https://inteltechniques.com/buscador/) - GNU/Linux virtual machine that is pre-configured for online investigators.
-* [The Pentesters Framework](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
-* [AttifyOS](https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
-* [PentestBox](https://pentestbox.org/) - Opensource pre-configured portable penetration testing environment for Windows OS.
 * [Android Tamer](https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for Android security testing.
+* [ArchStrike](https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
+* [AttifyOS](https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
+* [BackBox](https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments.
+* [BlackArch](https://www.blackarch.org/) - Arch GNU/Linux-based distribution for penetration testers and security researchers.
+* [Buscador](https://inteltechniques.com/buscador/) - GNU/Linux virtual machine that is pre-configured for online investigators.
+* [Kali](https://www.kali.org/) - GNU/Linux distribution designed for digital forensics and penetration testing.
+* [Network Security Toolkit (NST)](http://networksecuritytoolkit.org/) - Fedora-based bootable live operating system designed to provide easy access to best-of-breed open source network security applications.
+* [Parrot](https://www.parrotsec.org/) - Distribution similar to Kali, with multiple architecture.
+* [PentestBox](https://pentestbox.org/) - Opensource pre-configured portable penetration testing environment for Windows OS.
+* [The Pentesters Framework](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
+
+
+## DDoS Tools
+* [Anevicon](https://github.com/Gymmasssorla/anevicon) - The most powerful UDP-based load generator, written in Rust.
+* [HOIC](https://sourceforge.net/projects/high-orbit-ion-cannon/) - Updated version of Low Orbit Ion Cannon, has 'boosters' to get around common counter measures.
+* [JS LOIC](http://metacortexsecurity.com/tools/anon/LOIC/LOICv1.html) - JavaScript in-browser version of LOIC.
+* [LOIC](https://github.com/NewEraCracker/LOIC/) - Open source network stress tool for Windows.
+* [Memcrashed](https://github.com/649/Memcrashed-DDoS-Exploit) - DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API.
+* [SlowLoris](https://github.com/gkbrk/slowloris) - DoS tool that uses low bandwidth on the attacking side.
+* [T50](https://gitlab.com/fredericopissarra/t50/) - Faster network stress tool.
+* [UFONet](https://github.com/epsylon/ufonet) - Abuses OSI layer 7 HTTP to create/manage 'zombies' and to conduct different attacks using; `GET`/`POST`, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
+
 
 ## Public Reverse & Cracking Discussion Forums
 - [Crackmes.cf](http://crackmes.cf/) - (mirror of crackmes.de + [reboot](https://crackmes.one/))
