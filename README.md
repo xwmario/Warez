@@ -329,6 +329,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
 - [Trackers List](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 
+#### Malware in Trackers (Info)
+- [Pirate matryoshka](https://securelist.com/piratebay-malware/89740/) - Pirate matryoshka: Malware infection via trackers
 
 ## TV-Show Calendar
 - [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like
