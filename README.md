@@ -397,8 +397,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [metal-tracker.com](http://en.metal-tracker.com/) - Heavy metal music tracker.
 - [moviemagnet](http://moviemagnet.co/) - Verified torrents for movies.
 - [OTorrents](https://otorrents.com/) - Yet another public torrent tracker.
-- [Pirateiro](http://pirateiro.com/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
-- [Pirateiro](https://pirateiro.unblocked.gdn/)
+- [Pirateiro](https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [RARBG](https://rarbg.to/) - Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
 - [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) - Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
 - [Rustorka](http://rustorka.com) - (RU) - Software, Games & More.
@@ -2129,7 +2128,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [2x4.ru](http://www.2x4.ru/index.php) - A fast and reliable russian VPS hoster.
 - [AlexHost.md](http://ru.alexhost.md) - Yet another russian VPS hoster service.
 - [CyberHour](https://www.cyberhour.com/) - Rusian based host provider which allows Warez.
-- [Datasource.ch](http://www.datasource.ch/) - Swiss made offshore vps provider.
+- [Datasource.ch](http://www.datasource.ch/) - Swiss made offshore VPS provider.
 - [Hostkey](https://www.hostkey.com/) - Dedicated Servers & more.
 - [KnownSRV.com](https://knownsrv.com/) - They use offshore data centers in Romania, Luxembourg and the Netherlands.
 - [NetEngi](https://netengi.com/) - Rent professional web hosting of high quality and cheap price with cPanel.
