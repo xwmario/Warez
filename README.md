@@ -7,7 +7,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 ## Disclaimer
 **I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) - request.**
 
-
 ### Why was the list created?
 * Research reasons!
 * Freedom of information!
@@ -185,7 +184,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 
 ## Userscripts
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Some websites prevent you from copying text, this script bypasses it.
-- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites
+- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 - [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) - Redirect Google reCAPTCHA to new search.
 - [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
 - [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
@@ -210,7 +209,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Filterlists](https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
 - [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficent Ad Blocker.
 - [Nano Adblocker / Defender](https://jspenguin2017.github.io/uBlockProtector/) - Fork of uBlock with sme gimmicks, the defender addon is an anti-adblock defuser for Nano Adblocker and uBlock Origin.
-- [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking)
+- [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's website about ad blockers.
 
 
 ## Extensions
@@ -219,7 +218,7 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
 - [Burlesco](https://burles.co/en/) - Read news without subscribing, bypass the paywall.
 
-## Password Managers (Desktop/Mobile)
+## Password Managers (Desktop & Mobile)
 - [1Password](https://1password.com/) - Popular cloud-hosted password manager.
 - [Dashlane](https://www.dashlane.com/) - An intuitive password manager with over with over 8 million users worldwide.
 - [KeePass](https://keepass.info/) - A free and open source, light-weight, and easy-to-use password manager.
@@ -2063,8 +2062,23 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
 
-### Social Engineering Resources
+### Social Engineering Resources & Tools
+- [Beelogger](https://github.com/4w4k3/BeeLogger) - A little tool for generating keyloogers.
+- [Catphish](https://github.com/ring0lab/catphish) - A tool for phishing and corporate espionage written in Ruby.
+- [Evilginx](https://github.com/kgretzky/evilginx) - MITM attack framework used for phishing credentials and session cookies from any Web service.
+- [Evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework.
+- [FiercePhish](https://github.com/Raikia/FiercePhish) - Full-fledged phishing framework to manage all phishing engagements.
+- [Gophish](https://getgophish.com) - Open-source phishing framework.
+- [King Phisher](https://github.com/securestate/king-phisher) - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
+- [Modlishka](https://github.com/drk1wi/Modlishka) - Flexible and powerful reverse proxy with real-time two-factor authentication.
+- [phishery](https://github.com/ryhanson/phishery) - TLS/SSL enabled Basic Auth credential harvester.
+- [ReelPhish](https://github.com/fireeye/ReelPhish) - Real-time two-factor phishing tool.
+- [ShellPhish](https://github.com/thelinuxchoice/shellphish) - Social media site cloner and phishing tool built atop SocialFish.
+- [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
 - [Social Engineering Framework](http://www.social-engineer.org/framework/general-discussion/) - Information resource for social engineers.
+- [SocialFish](https://github.com/UndeadSec/SocialFish) - Social media phishing framework that can run on an Android phone or in a Docker container.
+- [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against WiFi networks.
+
 
 ### Social Media 'Tools'
 - [Keybase](https://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
