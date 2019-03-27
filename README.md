@@ -2118,7 +2118,7 @@ Since the list is huge I can't name each and every single one of you, but here i
 
 ### Social Media 'Tools'
 - [Keybase](https://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
-- [Nuke Reddit History](https://github.com/sr33/Nuke-Reddit-History) - [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) - + [Chrome extension](https://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
+- [Nuke Reddit History](https://github.com/sr33/Nuke-Reddit-History) - [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) + [Chrome extension](https://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
 - [Random AI generated profile pictures](http://notarealhuman.com/) - Random AI generated profile pictures.
 - [ShadowCrypt](https://shadowcrypt-release.weebly.com/about.html) - Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages). 
 - [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Deletes Twitter and Reddit content based on your terms.
