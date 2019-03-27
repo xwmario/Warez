@@ -12,6 +12,14 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 * Freedom of information!
 * Most lists you find are outdated, not actively maintained or full of malware links.
 
+### Credits
+Since the list is huge I can't name each and every single one of you, but here is a short credit list which hopefully covers all of them:
+
+* All demoscene people which helped to build the demoscene.
+* All developers which build the mentioned programs on this list.
+* All other people which helped to push this little project forward.
+* All people which are involved into the piracy & netsec scene.
+
 ### What **does not** belong on this list?
 * Illegal programs or direct links to copyright material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
