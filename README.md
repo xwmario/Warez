@@ -1422,8 +1422,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [E-book readers at a glance](http://www.wired.com/gadgetlab/2007/11/e-book-readers/) - This guide reviews and compares the new, cool readers.
 - [eBook Reader Review](http://ebook-reader-review.toptenreviews.com/) - TopTenReviews lists reader reviews from 2009.
 - [Free iPhone ebook readers head-to-head](http://mac.elated.com/2009/02/12/free-iphone-ebook-readers-head-to-head/) - Reality Distortion ranks iPhone ebook readers.
-- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) - reader for Windows.
 - [Wikipedia - List of e-book readers](http://en.wikipedia.org/wiki/List_of_e-book_readers) - Learn about all of the different ebook readers from Wikipedia.
+
+### PDF Reader + Tools
+- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) - reader for Windows.
+- [QPDF](https://sourceforge.net/projects/qpdf/) - PDF transformation/manipulation program + library.
 
 ## Magazines
 - [ebook3000.com](http://ebook3000.com/) - Various magazines.
@@ -2007,6 +2010,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## File Sharing Tools
 - [DBREE](https://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
 - [FilePizza](https://file.pizza/) - Free peer-to-peer file transfers in your browser.
+- [Fopnu](https://fopnu.com/) - Fopnu is a new and decentralized network tool to share files over P2P.
 - [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
 
 ## Stream Synchronisation
