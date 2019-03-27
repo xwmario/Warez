@@ -83,7 +83,6 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 ## Piracy Archive
 - [Piracy Archive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit r/Piracy sub.
 
-
 ### Social Media Alternatives
 - [MeWe](https://mewe.com/) - Google+ replacement.
 - [Pleroma](https://pleroma.social/) - Host your own social media.
@@ -101,12 +100,38 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Verimatrix](https://www.verimatrix.com)
 - [VMProtect](http://vmpsoft.com)
 
+### Exploit Development
+- [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
+- [Shellcode Examples](http://shell-storm.org/shellcode/) - A big shellcodes database.
+- [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
+
+### Penetration Testing Distributions
+
+* [Kali](https://www.kali.org/) - GNU/Linux distribution designed for digital forensics and penetration testing.
+* [ArchStrike](https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
+* [BlackArch](https://www.blackarch.org/) - Arch GNU/Linux-based distribution for penetration testers and security researchers.
+* [Network Security Toolkit (NST)](http://networksecuritytoolkit.org/) - Fedora-based bootable live operating system designed to provide easy access to best-of-breed open source network security applications.
+* [BackBox](https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments.
+* [Parrot](https://www.parrotsec.org/) - Distribution similar to Kali, with multiple architecture.
+* [Buscador](https://inteltechniques.com/buscador/) - GNU/Linux virtual machine that is pre-configured for online investigators.
+* [The Pentesters Framework](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
+* [AttifyOS](https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
+* [PentestBox](https://pentestbox.org/) - Opensource pre-configured portable penetration testing environment for Windows OS.
+* [Android Tamer](https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for Android security testing.
+
 ## Public Reverse & Cracking Discussion Forums
 - [Crackmes.cf](http://crackmes.cf/) - (mirror of crackmes.de + [reboot](https://crackmes.one/))
 - [Forum ExeTools](https://forum.exetools.com/) - The original oldschool forum to share cracking knowledge.
 - [Reverse Club](http://crack.vc/forum/) - ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Team-IRA [TIRA]](https://team-ira.com/) - ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
+
+### Network vulnerability scanners
+- [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
+- [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
+- [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner) - Commercial vulnerability management, configuration, and compliance assessment platform, sold by Tenable.
+- [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
+- [Vuls](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
 
 ### NFO Viewers & KeyGen Music
 - [Defacto2](https://defacto2.net/welcome)
@@ -225,9 +250,13 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis.
 - [Zeronet](https://zeronet.io/) - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network.
 
-## Hardened Operating Systems
+## Hardened Operating Systems & Resources
+- [cuckoo](https://github.com/cuckoosandbox/cuckoo) - Open source automated malware analysis system.
 - [Overview of Security-focused operating system on Wikipedia](https://en.wikipedia.org/wiki/Security-focused_operating_system)
 - [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a security-oriented operating system.
+- [SIFT](https://digital-forensics.sans.org/community/downloads) - Forensic workstation made by SANS.
+- [Security related Operating Systems @ Rawsec](http://list.rawsec.ml/operating_systems.html) - Complete list of security related operating systems.
+- [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing, and keeping up to date with open source operating systems.
 - [Tails](https://tails.boum.org/) - Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 
 ## Domain Names
@@ -2023,6 +2052,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
 
+### Social Engineering Resources
+- [Social Engineering Framework](http://www.social-engineer.org/framework/general-discussion/) - Information resource for social engineers.
+
 ### Social Media 'Tools'
 - [Keybase](https://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
 - [Nuke Reddit History](https://github.com/sr33/Nuke-Reddit-History) - [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) - + [Chrome extension](https://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
@@ -2059,3 +2091,39 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Outline](https://outline.com/) - Read & annotate without distractions.
 - [Unpaywall](https://unpaywall.org/) - An open database of 20 million free scholarly articles.
 - [How to Get Around Newspaper Paywalls in 2019](https://medium.com/black-edge-consulting/how-to-bypass-virtually-every-news-paywall-705602c4c2ce?source=linkShare-ccf1b677570b-1549597061&_branch_match_id=638842629899229780) - How to bypass newspaper paywalls and access the WSJ, NYT, Washington Post, Business Insider, Financial Times for free.
+
+### Web Exploitation
+- [autochrome](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome/) - Easy to install a test browser with all the appropriate setting needed for web application testing with native Burp support, from NCCGroup.
+- [badtouch](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker.
+- [BlindElephant](http://blindelephant.sourceforge.net/) - Web application fingerprinter.
+- [Browser Exploitation Framework (BeEF)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
+- [Burp Suite](https://portswigger.net/burp/) - Integrated platform for performing security testing of web applications.
+- [Commix](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
+- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR.
+- [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [Fiddler](https://www.telerik.com/fiddler) - Free cross-platform web debugging proxy with user-friendly companion tools.
+- [fimap](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
+- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+- [GitTools](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
+- [Kadabra](https://github.com/D35m0nd142/Kadabra) - Automatic LFI exploiter and scanner.
+- [Kadimus](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
+- [liffy](https://github.com/hvqzao/liffy) - LFI exploitation tool.
+- [NoSQLmap](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
+- [Offensive Web Testing Framework (OWTF)](https://www.owasp.org/index.php/OWASP_OWTF) - Python-based framework for pentesting Web applications based on the OWASP Testing Guide.
+- [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - Feature-rich, scriptable HTTP intercepting proxy and fuzzer for penetration testing web applications.
+- [Raccoon](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning.
+- [recursebuster](https://github.com/c-sto/recursebuster) - Content discovery tool to perform directory and file bruteforcing.
+- [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
+- [sslstrip](https://www.thoughtcrime.org/software/sslstrip/) - Demonstration of the HTTPS stripping attacks.
+- [sslstrip2](https://github.com/LeonardoNve/sslstrip2) - SSLStrip version to defeat HSTS.
+- [tplmap](https://github.com/epinna/tplmap) - Automatic server-side template injection and Web server takeover tool.
+- [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+- [wafw00f](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
+- [Wappalyzer](https://www.wappalyzer.com/) - Wappalyzer uncovers the technologies used on websites.
+- [webscreenshot](https://github.com/maaaaz/webscreenshot) - A simple script to take screenshots of list of websites.
+- [weevely3](https://github.com/epinna/weevely3) - Weaponized web shell.
+- [WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
+- [Wordpress Exploit Framework](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
+- [WPSploit](https://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
+
