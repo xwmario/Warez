@@ -1224,7 +1224,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
 - [/r/sjain_guides](https://www.reddit.com/r/sjain_guides/) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
-- [9Anime](https://9anime.to) - Watch anime online. English anime, dubbed, subbed.
+- [9Anime Downloader](https://anonembed.xyz/9anime/) - Download Full Seasons from 9anime.
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) - /r/KissCartoon wiki page with lots of anime sites.
 - [AniDex](https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
 - [AniLinkz](https://anilinkz.to/) - Large database of streaming anime episodes.
