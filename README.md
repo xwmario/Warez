@@ -2,7 +2,7 @@
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
 
-The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the entire internet! This list is an overview of Warez related topics, discussions and provides some background information.
+The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list on the entire internet! This list is an overview of Warez related topics, discussions and provides some background informationabout the scene.
 
 ## Disclaimer
 **I nor GitHub supporting warez, we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) - request.**
@@ -13,9 +13,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 * Most lists you find are outdated, not actively maintained or full of malware links.
 
 ### Credits
-Since the list is huge I can't name each and every single one of you, but here is a short credit list which hopefully covers all of them:
+Since this list is huge I can't name each and every single one of you, but here is a short credit list which hopefully covers all of them:
 
-* All demoscene people which helped to build the demoscene.
+* All demoscene people which helped to build the _scene_.
 * All developers which build the mentioned programs on this list.
 * All other people which helped to push this little project forward.
 * All people which are involved into the piracy & netsec scene.
@@ -691,7 +691,7 @@ Since the list is huge I can't name each and every single one of you, but here i
 - [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) - Windows ISO Downloads Mirrors (ftp links not visible in GitHub's Markdown!)
 - [GLOAD.cc](https://gload.cc/) - (Ger)
 - [hdencode](https://hdencode.com/) - Videos/Movies in HD Quality.
-- [IceFilms.info](https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
+- [IceFilms.info](https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more.
 - [KickassWarez](https://kickasswarez.info/) - (EN/RU) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!
 - [Mawto](https://www.mawtoload.com/) - (IR) Android apps, Windows Software & Games.
@@ -711,10 +711,9 @@ Since the list is huge I can't name each and every single one of you, but here i
 - [OSZone](http://www.oszone.net/) - (RU) - Software portal.
 - [PCPortal](https://pcportal.org/) - (RU) - One of the biggest russian software forums.
 - [PSARips](https://psarips.com/) - Popular site for movies and TV shows, includes torrent files
-- [PuZo.org](http://www.puzo.org/) - 
+- [PuZo.org](http://www.puzo.org/) - Direct Download (DDL) Websites for sofwtare.
 - [RADIXX11](https://radixx11rce2.blogspot.com) - (EN-US) - Software forum.
 - [RapidMoviez](http://rmz.cr/) - Direct movie website.
-- [Release BB](http://rlsbb.ru) - (RU) - Russian software and Android portal.
 - [ReleaseBB](https://rlsbb.ru/) - (RU) - Russian Software Portal.
 - [Releaselog](http://www.rlslog.net/) - Website for eBooks, Games & more.
 - [RSLinks](https://rslinks.org/) - Tracks scene software releases and mirrors them.
@@ -743,6 +742,7 @@ Since the list is huge I can't name each and every single one of you, but here i
 - [Win7DL](http://win7dl.org/) - Software, Movies, eBooks & more.
 - [DL4All](http://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
+- [https://raddle.me/f/MEGAlinks](https://raddle.me/f/MEGAlinks) Aims to replace the old /r/megalinks directory.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
