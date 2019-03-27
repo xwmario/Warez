@@ -18,7 +18,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 * All demoscene people which helped to build the _scene_.
 * All developers which build the mentioned programs on this list.
 * All other people which helped to push this little project forward.
-* All people which are involved into the piracy & netsec scene.
+* All people which are involved into the piracy & netsec scene or created forums to talk about such topics.
 
 ### What **does not** belong on this list?
 * Illegal programs (cracks, keygens etc) or direct links to copyright material.
