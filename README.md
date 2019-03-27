@@ -21,11 +21,11 @@ Since the list is huge I can't name each and every single one of you, but here i
 * All people which are involved into the piracy & netsec scene.
 
 ### What **does not** belong on this list?
-* Illegal programs or direct links to copyright material.
+* Illegal programs (cracks, keygens etc) or direct links to copyright material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
-* Software which is outdated or not actively maintained.
-* Insecure programs (no audit or (code) - review).
+* Software which is outdated or not actively maintained, open source software is preferred.
+* Insecure programs (no audit- or code-review).
 * Why is program _x_ not listed e.g. K-9 mail it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
 
 ### How can I contribute to this list?
