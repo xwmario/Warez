@@ -100,9 +100,9 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [VMProtect](http://vmpsoft.com)
 
 ### Exploit Development
-- [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
-- [Shellcode Examples](http://shell-storm.org/shellcode/) - A big shellcodes database.
 - [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
+- [Shellcode Examples](http://shell-storm.org/shellcode/) - A big shellcodes database.
+- [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
 
 ### Penetration Testing Distributions
 * [Android Tamer](https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for Android security testing.
@@ -140,6 +140,29 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) - list in the ent
 - [Reverse Club](http://crack.vc/forum/) - ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Team-IRA [TIRA]](https://team-ira.com/) - TIRA Team International Reversers Alliance ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
+
+## Reverse Engineering Tools
+* [binwalk](https://github.com/devttys0/binwalk) - Fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+* [boxxy](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+* [Capstone](http://www.capstone-engine.org/) - Lightweight multi-platform, multi-architecture disassembly framework.
+* [dnSpy](https://github.com/0xd4d/dnSpy) - Tool to reverse engineer .NET assemblies.
+* [Evan's Debugger](http://www.codef00.com/projects#debugger) - OllyDbg-like debugger for GNU/Linux.
+* [Frida](https://www.frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [Ghidra](https://www.ghidra-sre.org/) - Suite of free software reverse engineering tools developed by NSA's Research Directorate originally exposed in WikiLeaks's "Vault 7" publication and now maintained as open source software.
+* [Immunity Debugger](http://debugger.immunityinc.com/) - Powerful way to write exploits and analyze malware.
+* [Interactive Disassembler (IDA Pro)](https://www.hex-rays.com/products/ida/) - Proprietary multi-processor disassembler and debugger for Windows, GNU/Linux, macOS & Android. Hey-Rays also offers a free version.
+* [Medusa](https://github.com/wisk/medusa) - Open source, cross-platform interactive disassembler.
+* [OllyDbg](http://www.ollydbg.de/) - x86 debugger for Windows binaries that emphasizes binary code analysis.
+* [peda](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
+* [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+* [pwndbg](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
+* [PyREBox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
+* [Radare2](http://rada.re/r/index.html) - Open source, crossplatform reverse engineering framework.
+* [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
+* [UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor.
+* [Voltron](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+* [WDK/WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx) - Windows Driver Kit and WinDbg.
+* [x64_dbg](http://x64dbg.com/) - Open source x64 & x86 debugger for Windows.
 
 ### Network vulnerability scanners
 - [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
