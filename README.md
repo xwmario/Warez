@@ -744,7 +744,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Win7DL](http://win7dl.org/) - Software, Movies, eBooks & more.
 - [DL4All](http://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
-- [https://raddle.me/f/MEGAlinks](https://raddle.me/f/MEGAlinks) Aims to replace the old /r/megalinks directory.
+- [/f/MEGAlinks](https://raddle.me/f/MEGAlinks) Aims to replace the old /r/megalinks directory.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
@@ -1179,7 +1179,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 
 ### Mame Games
-- [PleasureDome](http://www.pleasuredome.org.uk/index.php)
+- [PleasureDome](http://www.pleasuredome.org.uk/index.php) - Various Mame games.
   
 
 ### Nintendo Switch Games
@@ -1195,7 +1195,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-) - EU only games.
 - [GDrive](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - Wiiware and VC collection
 - [GDrive](https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) - Wii Scrubbed ISOs retail Collection NTSC
-- [GDrive (Mirror from abolve link](https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0)
+- [GDrive](https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0) - Mirror from abolve link.
 
 
 ### CD Key Sellers
@@ -1218,7 +1218,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - This reddit is for people interested in modifying their Wii.
 - [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) - Links for Yuzu, the open-source Nintendo Switch emulator.
 - [3DS Hacks Guide](https://3ds.hacks.guide/) - A complete guide to 3DS custom firmware, from stock to boot9strap.
-- [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) - Posted by /u/crazy5
+- [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) - 3DS piracy guide by /u/crazy5.
 
 ## Anime
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
@@ -1837,6 +1837,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [RevDl](https://www.revdl.com/) - Direct download site for Android apps & games.
 
 ## Discord Servers
+- [/f/MEGAlinks (Snahp)](https://discordapp.com/invite/xk7HEE3) - Official /f/MEGAlinks Discord server.
 - [/r/soccerstreams](https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
 - [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
@@ -1844,14 +1845,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [APK'S 2 Day](https://discord.gg/2qWqzN8) - This is a discord server that acts as a hub for numerous streaming apps.
 - [ApolloTV](https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
 - [DoujinStyle](https://discord.gg/z2QDFdA) - Discord server with Doujin related materials. Things such as Japanese doujin music & games.
-- [DreamTV](https://discordapp.com/invite/FQkQz6g) - A Discord server for the DreamTV Android app.
+- [DreamTV](https://discordapp.com/invite/FQkQz6g) - A Discord server for the official DreamTV Android app.
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
 - [Morph TV (Morpheus Fork)](https://discordapp.com/invite/VHYGtA9) - Morph TV (Morpheus Fork) official Discord channel.
 - [piratesonline](https://discord.me/piratesonline) - Official piratesonline.us Discord Server.
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Home of /r/ps3homebrew and /r/ps4homebrew.
-- [Snahp.it] Official Discord server for snahp.it. (_needs a new invite link_)
+- Snahp.it - Official Discord server for snahp.it. (_needs a new invite link_)
 - [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for the-eye.eu
-- [The Ratio](https://discord.gg/qkRCehC) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
+- [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
 
 ## Discord Tutorials, Scripts & Bots
@@ -1909,11 +1910,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 
 ### IRC Networks
-- _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` One more XDCC source
-- _irc.irchighway.net/ebooks_ `irc://irc.irchighway.net/ebooks` A nice, friendly irc channel for trading ebooks
-- _irc.undernet.org/bookz_ `irc://irc.undernet.org/bookz` For downloading ebooks (use `@search <book name>` for a list of available ebooks)
-- _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` XDCC file sharing network, join #mg-chat to continue downloading
-- _The Source_ `irc://irc.scenep2p.net/THE.SOURCE` Another XDCC source
+- _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` - One more XDCC source
+- _irc.irchighway.net/ebooks_ `irc://irc.irchighway.net/ebooks` - A nice, friendly irc channel for trading ebooks
+- _irc.undernet.org/bookz_ `irc://irc.undernet.org/bookz` - For downloading ebooks (use `@search <book name>` for a list of available ebooks)
+- _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` - XDCC file sharing network, join #mg-chat to continue downloading
+- _The Source_ `irc://irc.scenep2p.net/THE.SOURCE` - Another XDCC source
 - [irc.p2p-network.net](https://p2p-network.net/) - P2P file sharing network
 - [Orpheus](https://orpheus.network/) - Formerly known as Apollo
 - [p2p-network.net channel list](https://search.mibbit.com/channels/p2p-network) - List of all channels on the p2p-network.net IRC network
@@ -1999,7 +2000,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [weboas.is](http://weboas.is/) - Another website for pirates.
 
-## Proxy Sites to bypass filters and unblock blocked Websites
+## Proxy Sites to bypass filters to unblock blocked Websites
 - [ByPassed](https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 - [ProxySite.cc](https://proxysite.cc/) + ([Mirror](https://proxysite.site/)) + ([for Videos](https://proxysite.video/)) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
 - [Unblocked](https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites.
@@ -2054,7 +2055,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Configure YubiKey with Google, LastPass and KeePass](https://www.raymond.cc/blog/setting-up-yubikey-with-lastpass-as-second-factor-authentication/)
 - [How to use GPG with YubiKey (bonus: WSL)](https://codingnest.com/how-to-use-gpg-with-yubikey-wsl/)
 
-## Reverse Proxy 
+## Reverse Proxies 
 - [bitmitigate.com](https://bitmitigate.com)
 - [blazingfast.io](https://blazingfast.io)
 - [Cloudflare](https://www.cloudflare.com)
@@ -2095,7 +2096,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [@Qualitymovies](https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto Chan](https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
 - [@SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
-- [@vkmusic_bot](https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine)
+- [@vkmusic_bot](https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
 - [@warez](https://t.me/warez) - Yet another warez channel on Telegram.
 
 ### Telegram Tools & Scripts
@@ -2208,5 +2209,13 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Wordpress Exploit Framework](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - [WPSploit](https://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
 
+## CAPTCHA solver helper
+- [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
+
 ## Web Page testing
 - [wptagent](https://github.com/WPO-Foundation/wptagent) - Cross-platform WebPageTest agent which supports allmost all current OS.
+
+## Search Engines
+- [DavidWon.com](http://davidwon.com/) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
+- [Mega.nz Search Engine](http://megasearch.co/) - A search engine for Mega.nz files.
+- [Startpage.com](https://www.startpage.com/) - The world's most private search engine.
