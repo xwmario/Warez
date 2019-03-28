@@ -700,6 +700,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [KickassWarez](https://kickasswarez.info/) - (EN/RU) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!
 - [Mawto](https://www.mawtoload.com/) - (IR) Android apps, Windows Software & Games.
+- [MaxRelease](http://max-rls.com/) - Games, software, magazines, movies, music & tv shows.
 - [MkvCage](https://www.mkvcage.ws/) -  Big tracker for TV shows & movies. 
 - [Movie Glide](https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://moviefiles.org/) - Direct download search engine which generates Google Drive links
