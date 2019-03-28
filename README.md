@@ -15,10 +15,11 @@ The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list on the entir
 ### Credits
 Since this list is huge I can't name each and every single one of you, but here is a short credit list which hopefully covers all of them:
 
+* All [contributors](https://github.com/CHEF-KOCH/Warez/graphs/contributors).
 * All demoscene people which helped to build the _scene_.
 * All developers which build the mentioned programs on this list.
 * All other people which helped to push this little project forward.
-* All people which are involved into the piracy & netsec scene or created forums to talk about such topics.
+* All people which are involved in the piracy & netsec scene or created forums to talk about such topics.
 
 ### What **does not** belong on this list?
 * Illegal programs (cracks, keygens etc) or direct links to copyright material.
