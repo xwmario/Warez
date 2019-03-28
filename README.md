@@ -83,12 +83,15 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [xrel.to](https://www.xrel.to/) - Another bigger Scene and P2P release database.
 
 ## Public piracy discussion channels & FAQs
-- [/f/Piracy](https://raddle.me/f/Piracy) - Raddle Forum - Piracy is not theft.
+- [f/Piracy](https://raddle.me/f/Piracy) - Raddle Forum - Piracy is not theft.
 - [s/piracy](https://saidit.net/s/piracy) - Saidit Forum - Yet another reddit alternative.
 - [Welcome to the f/privacy FAQ](https://raddle.me/wiki/Privacy) - Proudly ripped this FAQ off from a non-privacy-friendly site!
 
 ## Piracy Archive
 - [Piracy Archive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit r/Piracy sub.
+
+## DarkWeb Overview
+- [ProjectX](https://github.com/CHEF-KOCH/ProjectX/blob/master/README.md) - DarkWeb pages overview (yet another one) is designed to show Deep Web specific pages, software and other information around the deeper web.
 
 ### Social Media Alternatives
 - [MeWe](https://mewe.com/) - Google+ replacement.
