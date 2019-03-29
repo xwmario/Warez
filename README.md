@@ -89,6 +89,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Welcome to the f/privacy FAQ](https://raddle.me/wiki/Privacy) - Proudly ripped this FAQ off from a non-privacy-friendly site!
 
 ## Piracy Archive
+- [Archive of r/Megalinks from 11th April 2018](https://pastebin.com/raw/7WrNLtZd) - A complete backup of the reddit r/Megalinks sub.
 - [Piracy Archive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit r/Piracy sub.
 
 ## DarkWeb Overview
