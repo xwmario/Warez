@@ -738,13 +738,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) - Good-Old-Downloads mirror page.
 
 ### DDL Link Sites
+- [/f/MEGAlinks](https://raddle.me/f/MEGAlinks) - Aims to replace the old /r/megalinks directory.
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) - (Multi) - Google Drive Download Links.
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_).
 - [0DayDown](https://www.0daydown.com/) (CN/EN) MacOS, Music & other links (works with JDownloader).
 - [Adit-HD Forum](http://www.adit-hd.com/index.php) - Forum which provides links to HD rips.
 - [AdiT-HD](http://adit-hd.com/) - Direct movie download database.
 - [AppNee Freeware Group](https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
-- [Audioz](https://audioz.download/) - All about Audio. 
+- [Audioz](https://audioz.download/) - Provides Audio stuff. 
 - [AvaxHome](https://avxhm.se) - Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [AVXHome](http://avxhome.se/) - Best of eBooks, Software, Mag & more.
 - [BetaArchive](https://www.betaarchive.com/) - Windows ISOs, Windows tools & more.
@@ -795,14 +796,13 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [RuTracker](https://rutracker.cr/) - (RU) - If you didn't alreay knew RUTracker you never heard of Warez at all.
 - [SceneSource](https://scnsrc.me/) - WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [Serials](http://www.serials.ws/) - Serial keys for software that may or may not work.
-- [SilentGround](http://www.silentground.org/index.php) - (EN)
-- [Snahp Forum](https://forum.snahp.it/index.php) - Forum which provides links to HD rips & software.
-- [snahp.it](https://snahp.it/) - Replaces the old /r/megalinks directory.
+- [SilentGround](http://www.silentground.org/) - (EN)
+- [Snahp Forum](https://forum.snahp.it/) - Forum which provides links to HD rips & software (only mega & zippyshare links are allowed).
 - [Soft9](http://soft9.ru/) - (RU) - Russian Software Portal.
 - [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [SoftOBase](http://softobase.com/) - (RU) - Software forum.
 - [Tekspert](https://tekspert.se/) - (EN/US) - Software forum.
-- [TheWarezFolder](http://thewarezfolder.com/) - 
+- [TheWarezFolder](http://thewarezfolder.com/) - For All Your Download Needs
 - [TwoDDL](http://2ddl.ws) - Direct software download links.
 - [UpTown](https://en.uptodown.com/) - Software portal.
 - [Vidics](https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
@@ -815,7 +815,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Win7DL](http://win7dl.org/) - Software, Movies, eBooks & more.
 - [DL4All](http://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
-- [/f/MEGAlinks](https://raddle.me/f/MEGAlinks) Aims to replace the old /r/megalinks directory.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
@@ -2246,10 +2245,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### Bypass Paywalls
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
+- [Burlesco](https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls](https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
 - [[Guide] Bypassing paywalls on iOS apps](https://zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
 - [Get Around Paywalls with Incognito Mode](https://lifehacker.com/get-around-paywalls-with-incognito-mode-1679310015) - Tutorial how to get around a Paywall with Incognito Mode.
-- [Outline](https://outline.com/) - Read & annotate without distractions.
+- [Outline](https://outline.com/) - Outline is a free service for reading and annotating news articles.
 - [Unpaywall](https://unpaywall.org/) - An open database of 20 million free scholarly articles.
 - [How to Get Around Newspaper Paywalls in 2019](https://medium.com/black-edge-consulting/how-to-bypass-virtually-every-news-paywall-705602c4c2ce?source=linkShare-ccf1b677570b-1549597061&_branch_match_id=638842629899229780) - How to bypass newspaper paywalls and access the WSJ, NYT, Washington Post, Business Insider, Financial Times for free.
 
