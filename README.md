@@ -2224,3 +2224,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [DavidWon.com](http://davidwon.com/) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
 - [Mega.nz Search Engine](http://megasearch.co/) - A search engine for Mega.nz files.
 - [Startpage.com](https://www.startpage.com/) - The world's most private search engine.
+
+## YouTube Downloader
+- [QDownloader.net](https://qdownloader.net/youtube-video-downloader) - Download videos from YouTube in MP4, FLV, 3GP, and other formats.
+- [SConverter.com](https://sconverter.com/) - Online Youtube Video Downloader.
+- [YouTubeNow.com](https://www.youtubnow.com/) - Claims to be the best online YouTube downloader 2019.
+- [onlinevideoconverter](https://www.onlinevideoconverter.com/youtube-converter) - Convert YouTube video links to MP4, MP3, AVI with our YouTube Converter & Downloader.
+- [y2mate.com](https://y2mate.com/) - Download Video and Audio from YouTube.
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
