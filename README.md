@@ -361,7 +361,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 * UK
 * US
 
-## Countries GeoIP block and/or shutdown the websites
+### Countries GeoIP block and/or shutdown the websites
 * Canada
 * China
 * Germany
@@ -1377,6 +1377,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.- [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
 - [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) - /r/Piracy Spotify-related discussion and future developments.
 - [Spytify](https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
+
+### SoundCloud
+- [scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader.
+- [scddlr.com](https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
 
 ### iTunes
 - [forked-daapd](https://ejurgensen.github.io/forked-daapd/) - Linux/FreeBSD DAAP (iTunes) - and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
