@@ -1477,8 +1477,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Direct Download Streaming
 - [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
-- [HDencode](https://hdencode.com/)
-- [Movie Files](https://moviefiles.org/)
+- [HDencode](https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
+- [Movie Files](https://moviefiles.org/) - Download Movies For Free.
 - [Movies "R" Us](https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 
 ## Audiobooks
