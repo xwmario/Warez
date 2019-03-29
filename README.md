@@ -314,6 +314,70 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Njalla](https://njal.la/) - A privacy-aware domain registration service.
 - [xip.io](http://xip.io/) - Magic domain name that provides wildcard DNS for any IP address.
 
+### Countries where downloading copyright content is legal (for personal use only) though publishing it & sharing it - is still illegal
+* Poland
+* Spain
+* Spain
+* Switzerland
+
+### Countries where both downloading & sharing is illegal
+* Argentina
+* Bangladesh
+* Brazil
+* Canada
+* Chile
+* Columbia
+* Czech Republic
+* Denmark
+* Egypt
+* Greece
+* India	
+* Iran
+* Israel
+* Malaysia
+* Mexico
+* Netherlands
+* Philippines
+* Romania
+* Singapore
+* Slovakia
+* Slovenia
+* South Korea
+* Uruguay
+
+### Countries where torrenting is highly illegal
+* Australia
+* China
+* Finland
+* France
+* Germany
+* Itlay
+* Japan
+* Korea
+* Latvia
+* Portugal
+* Russia
+* UAE
+* UK
+* US
+
+## Countries GeoIP block and/or shutdown the websites
+* Canada
+* China
+* Germany
+* India
+* Itlay
+* Japan
+* Latvia
+* Malaysia
+* Portugal
+* Russia
+* Singapore
+* South Korea
+* UAE
+* UK
+* US
+
 ## Torrenting
 - [/r/torrents](https://www.reddit.com/r/torrents) - Questions and discussion about all things torrent-related.
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Wikipedia's article on the BitTorrent file sharing protocol.
@@ -325,6 +389,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Torrage](https://torrage.info/) - Torrage is a free service for caching torrent files online.
 - [Torrents.csv](https://torrents-csv.ml/) - An [open source](https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
+- [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
 
 ### Trackers
 - [/r/trackers](https://www.reddit.com/r/trackers) - A subreddit for discussing public & private trackers.
