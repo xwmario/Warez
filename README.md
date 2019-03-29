@@ -1460,21 +1460,20 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Courses & Tutorials
 - [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
-- [coursehunter](https://www.coursehunters.net/) - Watch paid tutorials online for free
-- [FreeTutorial](https://www.freetutorials.eu/) - Free tutorials page, hacking courses & more.
-- [Freetutorials.eu](https://www.freetutorials.eu/) - Download Udemy Paid Courses 4 free.
-- [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free, has adblock detector
+- [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free, has adblock detector.
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) - 266+ Lynda courses
-- [The Ultimate Noob Guide for Hacking your Nintendo Switch](https://guide.sdsetup.com/) - Want to hack your Nintendo Switch but don’t know where to start? Just follow this guide!
-- [tpget](https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
-- [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [TUTSGALAXY](https://tutsgalaxy.com/) - Learn HTML5 and CSS3 fundamentals.
+- [The Ultimate Noob Guide for Hacking your Nintendo Switch](https://guide.sdsetup.com/) - Want to hack your Nintendo Switch but don’t know where to start? Just follow this guide!
+- [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [Unlimited Mega.nz-IDM-downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Download Mega.nz without any limits.
-- [[Updated][Guide] How to bypass the adblock ban on KissAnime](https://old.reddit.com/r/KissAnime/comments/awmkrz/updatedguide_how_to_bypass_the_adblock_ban/) - An Ad blocker guide for KissAnime.
 - [What are magnet links and trackers?](https://gist.github.com/nektro/788ba921b51bedbbea07a04fb123b21a) Short explanation of magnet and trackers and how they work.
+- [[Updated][Guide] How to bypass the adblock ban on KissAnime](https://old.reddit.com/r/KissAnime/comments/awmkrz/updatedguide_how_to_bypass_the_adblock_ban/) - An Ad blocker guide for KissAnime.
+- [coursehunter](https://www.coursehunters.net/) - Watch paid tutorials online for free
+- [learninglcom](https://learninglcom.com/) - Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more.
+- [tpget](https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
 
 ## Direct Download Streaming
 - [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
