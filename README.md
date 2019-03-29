@@ -1064,10 +1064,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Zooqle addon](https://stremio-zooqle.now.sh/stremio/v1) - Watch movies and series indexed by Zooqle from RARBG, KAT, YTS, MegaTorrents and other torrent trackers.
 
 ## Plex
-- [hoarding.me](https://hoarding.me/) - Unlimited and Automated. How to setup your own dream Plex server.
+- [hoarding.me](https://hoarding.me/) - Unlimited and automated. How to setup your own dream Plex server?!
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - LinuxServer.io Plex Media Server docker image.
 - [Plex](https://www.plex.tv/) - Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
-- [PGBlitz.com](https://pgblitz.com/) - Deploy a multi-app supported Plex Server with an HD or GDrive.
+- [PGBlitz.com](https://pgblitz.com/) - Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD.
 - [Plexi](http://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Official Plex docker image.
 - [timhaak/plex](https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
@@ -1326,6 +1326,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [newalbum.club](https://newalbum.club/) - Search and download free music & album arts. No account required!
 
 ## Music
+- [94hiphop](http://94hiphop.com/) - Download Free Hip Hop Albums!
 - [airsonic](https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [CDBao](https://www.cdbao.net/) - Chinese invite-only page for music.
@@ -1635,6 +1636,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Subtitles Automation
 - [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition
 - [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+- [HorribleSubs Bulkd Download](https://anonembed.xyz/horriblesubs/) - 9anime bulk subs download website.
 - [SubScenes](https://subscene.com/) - Subtitle Scene, provdes subtitles and tools.
 - [JustDubs](https://ww5.justdubs.me/) - Watch English Dubbed Anime And Movies For Free Online.
 - [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
@@ -2088,6 +2090,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Freenet](https://freenetproject.org/) - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
 - [GnUNet](https://gnunet.org/) - GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services
 - [Psiphon](https://www.psiphon.ca/) - Run your own server, invite your friends, build a community, provide free and unfiltered Internet access to the world.
+- [Scuttlebutt](https://www.scuttlebutt.nz/) - A decent(ralised) secure gossip platform that aims to harmonize four perspectives of life: Environment reflecting Technology reflecting Community reflecting Society.
 - [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
 
 ## File Sharing Tools
