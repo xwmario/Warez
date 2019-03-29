@@ -1321,6 +1321,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [watchcartoononline.com](https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site
 - [watchcartoononline.io](https://www.watchcartoononline.io/) - Large DDL site for cartoons as well as anime and movies
 
+## Album Art
+- [Album Art Downloader](https://sourceforge.net/projects/album-art/) - Find and update their album art for their music collection.
+- [newalbum.club](https://newalbum.club/) - Search and download free music & album arts. No account required!
+
 ## Music
 - [airsonic](https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
