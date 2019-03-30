@@ -149,6 +149,8 @@
 * 2baksa.net
 * NORO repacks
 
+## Insecure
+* foxleech.com
 
 ## Banned search engines:
 * DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
