@@ -1447,6 +1447,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### Windows Resources (Activation, Hotfixes & Patches)
 - [AskWoody](https://www.askwoody.com/) - News, tips, advice, support for Windows, Office, PCs & more.
+- [PIDChecker](https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product Keys.
 - [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, check your system's trusted root certificate store.
 - [Simplix Blog](https://blog.simplix.info/update7/) - Windows Hotfix repository.
 - [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) - AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's.
