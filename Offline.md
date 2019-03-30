@@ -11,6 +11,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 ## Anime
 - AnimeHeaven.eu
 
+## Music
+* mp3-monkey.com
+
 ## Boards (offline, abandoned or compromised)
 - avaxhm.com
 - getmywarez.com
