@@ -391,6 +391,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Torrents.csv](https://torrents-csv.ml/) - An [open source](https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
 - [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
+- [ZBIGZ](https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
 
 ### Trackers
 - [/r/trackers](https://www.reddit.com/r/trackers) - A subreddit for discussing public & private trackers.
@@ -453,7 +454,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 #### Public Trackers
 - [1337x](https://1337x.to/) - 1337x is a torrent site that offers verified torrent downloads.
 - [BTDB](https://btdb.to/) - Large BitTorrent DHT search engine.
-- [BytesLoader](https://www.bytesloader.com/)
 - [DIGBT](https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
 - [ETTV](https://www.ettv.tv/) + [EZTV](https://eztv.ag/) - ETTV is a torrent site specific for movie torrents.
 - [g4u](https://g4u.me/) - (Ger) - Movies, TV Shows & Games.
@@ -562,12 +562,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Seedboxes
 - [/r/seedboxes](https://www.reddit.com/r/seedboxes) - A place to discuss seedboxes and everything related to them.
 - [2Giga.link](https://www.2giga.link/) - Free file hoster, Torrent caching & Premium link generator.
+- [Bitport.io](https://bitport.io/) - Download torrents in the cloud and stream them online.
 - [DediSeedBox](https://dediseedbox.com/) - Netherlands located Seeedbox service.
 - [FileStream.me](https://filestream.me/) - Free subscription offers 200Mb max file size and 200GB storage total.
-- [Foxleech](https://www.foxleech.com/) - Doesn't have any free trial, their paid plans start at $3 per month.
 - [Furk.net](https://www.furk.net/) - Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
 - [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.IO.
-- [Seedr](https://www.seedr.cc/) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
+- [Seedr](https://seedr.cc/) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
 - [Seedbox.io](https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [SeedSync](https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 - [Torrent Safe](https://www.torrentsafe.com/) - Free-plan includes 1GB max file size, 2 days file lifetime.
@@ -1179,11 +1179,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Emulator.Games](https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - [FitGirl Repacks](http://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks.
 - [Kaoskrew](http://kaoskrew.org/) - Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
-- [Nicoblog](https://nicoblog.org/) - Plenty of ISOs, ROMs, and repacks
-- [Official Revolt Group Website](https://revolt.group/) - Revolt homepage.
+- [Nicoblog](https://nicoblog.org/) - Plenty of ISOs, ROMs & repacks.
+- [Revolt Group](https://revolt.group/) - Official Revolt website.
 - [qoob.name](http://qoob.name/) - Repacker site of popular cracker teams like CPY, PLEX etc.
-- [Skidrow Repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too.
-- [Xatab Repacks](https://xatab-repack.net) - Russian game repacker, primarily torrents.
+- [Skidrow Repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too!
+- [Xatab Repacks](https://xatab-repack.net) - Russian game repacker - primarily torrents.
 
 ### ROMs
 - [3DSISO](http://www.3dsiso.com/) - A community based ROM database.
