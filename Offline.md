@@ -12,7 +12,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - AnimeHeaven.eu
 
 ## Music
-* mp3-monkey.com
+- mp3-monkey.com
 
 ## Boards (offline, abandoned or compromised)
 - avaxhm.com
@@ -94,23 +94,23 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 
 
 ## TV / Torrent
-spacemov.io
-streamm4u.tv
-www.adit-hd.com
-appnee.com
-downloadly.ir
-www.silentground.org
-tekspert.se
-app.appvalley.vip
-adit-hd.com
-m4ufree.tv
-movie123.club
-time2watch.in
-darkumbra.netforumsforum192-3ds-cia-games
-dxroms.jimdo.comromssnes
-theromdepot.comroms
-www.dpstream.net
-isohunt2.net
+- spacemov.io
+- streamm4u.tv
+- adit-hd.com
+- appnee.com
+- downloadly.ir
+- silentground.org
+- tekspert.se
+- app.appvalley.vip
+- adit-hd.com
+- m4ufree.tv
+- movie123.club
+- time2watch.in
+- darkumbra.netforumsforum192-3ds-cia-games
+- dxroms.jimdo.comromssnes
+- theromdepot.comroms
+- dpstream.net
+- isohunt2.net
 
 
 ## Domain registrar
