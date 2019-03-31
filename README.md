@@ -815,6 +815,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Win7DL](http://win7dl.org/) - Software, Movies, eBooks & more.
 - [DL4All](http://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
+- [Soft98.iR](https://soft98.ir/software/) - (IR) - All Software Download in Only One Website.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
