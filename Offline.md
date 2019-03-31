@@ -67,6 +67,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - swedupe.com
 
 ## Others
+- bzinhogames2k18.blogspot.com
 - bytesloader.com
 - heavenplanet.net
 - pixa.club
