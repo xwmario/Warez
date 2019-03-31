@@ -1218,15 +1218,20 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [xbox360iso](http://www.xbox360iso.com/) - XBox 360 Game collection.
 
 
-### PC Games
+## PC Games
+- [Bzinho Games](https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
+- [CompucaliTV](https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
 - [CS.Rin.RU](https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - 
 - [DL2-DLFox](http://dl2.dlfox.com/96/4/) - FTP Mirror for various Games.
 - [GameBurnWorld](http://www.gameburnworld.com/) - Provides cracks for Games.
 - [GameCopyWorld](https://gamecopyworld.eu) - Provides cracks for Games.
+- [GamesFull](https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
 - [Games Turret](https://gamesturret.ga/) - Proves games via file hosters. 
 - [MegaGames](https://megagames.com/) - Same like GameCopyWorld, online since 20+ years, old but gold!
 - [OVA Games](http://www.ovagames.com/) - Cracks to latest Game Releases from PLAZA, CODEX & Co.
+- [PCMYMJuegos](https://pcmymjuegos.com/) - (SP) - Spanish website for SteamWorkFixs and other stuff. Mega, GDrive, MediaFire.
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) - Fanmade Skidrow & Reloaded mirror website.
+- [SpartaGames](https://spartagames.net/category/pc/) - (PT/BR) - Torrent links and direct server mirrors to various scene releases.
 - [Small-Games](http://small-games.info/) - (RU) - A russian website which provides their own releases. 
 - [Torrents Gamestorrent](http://gamestorrent.co/) - PC Game releases from CODEX, SKIDROW, PLAZA & Co.
 - [VseTop](https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
