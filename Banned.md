@@ -1,5 +1,6 @@
 ## Imposter, crypto mining etc
 
+* gamesfull.com
 * oceanofgames.com
 * nosteamgames.ro
 * cracked-games.org
