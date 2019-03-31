@@ -1,5 +1,9 @@
-## Imposter, crypto mining etc:
+## Imposter, crypto mining etc
 
+* oceanofgames.com
+* nosteamgames.ro
+* cracked-games.org
+* pcgamestorrents.com
 * skidrowgamesreloaded.co
 * skidrowgames.in
 * gamezprivat.ru
