@@ -78,7 +78,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [predb.pw](https://predb.pw) + [predb.org](https://predb.org/) - Maybe the biggest scene release database.
 - [Release Watcher](http://extremedownload.org/) - Scene and P2P release database.
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS) - Bunch of scripts to monitor scene releases.
-- [SCNLOG.me](https://scnlog.me) - Scene and P2P release database.
+- [SCNLOG.me](https://scnlog.me/) - Scene and P2P release database.
 - [SrrDB](https://www.srrdb.com/) - Scene and P2P release database.
 - [SweTracker](https://swetracker.org/releases) - Scene and P2P release database.
 - [xrel.to](https://www.xrel.to/) - Another bigger Scene and P2P release database.
@@ -762,7 +762,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
 - [filewarez.tv](https://filewarez.tv/) - Invite-only, hosts both Mega and Google Drive links for TV shows
 - [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) - Windows ISO Downloads Mirrors (ftp links not visible in GitHub's Markdown!)
-- [GLOAD.cc](https://gload.cc/) - (Ger)
+- [GLOAD.cc](https://gload.cc/) - (Ger) - Provides Zippyshare and Openload as download-friendly mirrors.
 - [hdencode](https://hdencode.com/) - Videos/Movies in HD Quality.
 - [IceFilms.info](https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more.
 - [KickassWarez](https://kickasswarez.info/) - (EN/RU) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
@@ -1174,15 +1174,20 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### Repacks
 - ["A simple script for easily downloading emulator.games ROMs"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
+- [BlackBox](http://www.blackboxrepack.com/)
 - [Dark Umbra](https://darkumbra.net/) - Forum for sourcing games.
+- [DODI](http://dodi-repacks.site/)
 - [ElAmigos Games](https://www.elamigos-games.com/) - Premium links to cracked games.
 - [Emulator.Games](https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - [FitGirl Repacks](http://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks.
 - [Kaoskrew](http://kaoskrew.org/) - Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
+- [Kapital Sin](http://www.kapitalsin.com/forum/) - 
 - [Nicoblog](https://nicoblog.org/) - Plenty of ISOs, ROMs & repacks.
 - [Revolt Group](https://revolt.group/) - Official Revolt website.
+- [R.G Mechanics](https://rg-mechanics.org/) - Various repacks.
 - [qoob.name](http://qoob.name/) - Repacker site of popular cracker teams like CPY, PLEX etc.
 - [Skidrow Repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too!
+- [Tapochek](http://tapochek.net/) - Official R.G Mechanics repacks can be found here.
 - [Xatab Repacks](https://xatab-repack.net) - Russian game repacker - primarily torrents.
 
 ### ROMs
