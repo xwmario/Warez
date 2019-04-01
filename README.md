@@ -55,6 +55,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 
 ### Basic Piracy & Scene "starter" info
+- [Down For Everyone Or Just Me - Check if the website is offline](https://downforeveryoneorjustme.com/)
 - [What is the scene?](https://defacto2.net/defacto2/subculture)
 - [Scene Rules](https://scenerules.org/)
 - [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
@@ -2325,4 +2326,4 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Movies & Play Scripts
 - [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
 - [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
-- [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android
+- [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
