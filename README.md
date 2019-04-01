@@ -2321,3 +2321,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [onlinevideoconverter](https://www.onlinevideoconverter.com/youtube-converter) - Convert YouTube video links to MP4, MP3, AVI with our YouTube Converter & Downloader.
 - [y2mate.com](https://y2mate.com/) - Download Video and Audio from YouTube.
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+
+## Movies & Play Scripts
+- [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
+- [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
+- [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android
