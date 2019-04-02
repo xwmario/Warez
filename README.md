@@ -1758,6 +1758,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [TVZion](https://tvzionapp.live/) - + [Reddit](https://www.reddit.com/r/TVZionApp/)
 - [UnlockMyTV (Cinema Clone AdFree)](https://unlockmytv.com/)
 - [PhoenixTV](https://www.phoenixtv-distribution.com/) - Morpheus Fork
+- [ZippyTv HD](http://www.zippytv.mobi/) - ZippyTv is one of the largest online TV platform with over 500 Live TV Channels.
 
 
 ### Big Media Libraries
