@@ -1717,12 +1717,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [AiOwares.com](https://www.aiowares.com/) - RePacks, mods and other software. 
 - [Android Republic](https://androidrepublic.org/forums/public-mods.24/) - Android Republic is similar to Mobilism, provides mirrors to various apks.
 - [Android Zone](https://android-zone.ws/) - koumkouat website for Android APK's/Games/GPS.
-- [Android-1](https://android-1.com/en/programmy/) - Provides apps and mods.
-- [AnYme](https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList
+- [Android-1](https://android-1.com/en/programmy/) - Provides apps & app mods.
+- [AnYme](https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
+- [AppCake](http://www.appcake.net/) - AppCake is also known as AC Market and provides free apks.
 - [apk4free](https://apk4free.net/) - Android apk mirrors and patches.
 - [APKDot](https://apkdot.com/) - APKMirror clone website.
-- [AppCake](http://www.appcake.net/) - AppCake is also known as AC Market and provides free apks.
-- [Baltagy Official Homepage](https://baltagy1.blogspot.com/) - Android & Windows Software.
+- [Apkmos](https://apkmos.com/) - The Best App Store For Download Android Apps, Android Games, Android Themes, Android Wallpapers And Much More For Your Android Smartphone.
 - [Baltagy's Website](https://baltagy1.blogspot.com/) - Apps, Mods, RePacks and portable releases. 
 - [Blokada](https://blokada.org) - Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances.
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) - Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
