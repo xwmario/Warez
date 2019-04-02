@@ -278,6 +278,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## eMail Providers
 - [Mailbox](https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
+- [Posteo](https://posteo.de/) - Email green, secure, simple and ad-free!
 - [ProtonMail](https://protonmail.com/) - Secure Email Based made in Switzerland.
 - [Tutanota](https://tutanota.com) - A secure and open source eMail provider.
 
@@ -292,6 +293,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Well-known open source eMail Client from Mozilla.
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron based wrapper for ProtonMail & Tutanota.
 - [p≡p](https://www.pep.security/) - Pretty Easy Privacy (p=p) - email client encrypts all communications in your email without the need for you to create new accounts.
+
+### eMail self-hosting
+- [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+- [FastMail](https://www.fastmail.com/?STKI=16785160) - Email, calendars and contacts done right.
+- [Rainloop](https://www.rainloop.net/) - SIMPLE, MODERN & FAST WEB-BASED EMAIL CLIENT.
+- [Roundcube](https://roundcube.net/) - MIME support, address book, folder manipulation, message searching and spell checking.
 
 ## Android
 - [Wikipedia's list of free and open-source applications](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
