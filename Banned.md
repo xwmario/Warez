@@ -37,6 +37,43 @@
 
 
 ## Other reasons (sell-out, under surveillance etc)
+* cinesilip.su
+* pariwikitv.su
+* pinoyhd.su
+* dilsediltakdrama.net
+* dramaofw.su
+* dramaofw.ch
+* filikulamo.tk
+* filipinoshows.su
+* filipinotvshows.su
+* ofwpinoytambayan.su
+* fullpinoymovies.net
+* lambingansu.net
+* pariwiki.su
+* vidco.su
+* pinoy1tvhd.su
+* pinoyako.co
+* pinoychannelflix.su
+* pinoychannelofw.su
+* pinoyflixtv.com
+* pinoylambingan.info
+* pinoymovies.site
+* pinoytambayanchannel.com
+* pinoytambayanlambingans.com
+* pinoytambayanlive.su
+* cinesilipsu.net
+* pinoytvb.com
+* pinoytvlovershd.com
+* pinoytvplus.com
+* pinoytvreplay.su
+* pinoytvreplays.co
+* sunjerhd.com
+* tambayand.com
+* lqnabc.info
+* tambayane.com
+* telebesyon.com
+* yztv.online
+* yztv.pw
 * Kino.to
 * 2conv.com
 * Flv2mp3.by
