@@ -1746,6 +1746,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [KinoTor](http://tiardev.ru/) - (RU) - Provides movies and videos from several russian directories.
 - [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design
 - [Liveflix](https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
+- [Live TV](http://livetv24x7.tk) - Watch Indian TV Channels live on your mobile free.
 - [Mega Shows](https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Morph TV (Morpheus Fork)](http://titaniumtv.xyz/)
