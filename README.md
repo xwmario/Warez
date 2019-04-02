@@ -2,7 +2,7 @@
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
 
-The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list on the entire internet! This list is an overview of Warez related topics, discussions and provides some background informationabout the scene.
+The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list on the entire internet! This list is an overview of Warez related topics, discussions and provides some background information about the scene.
 
 ## Disclaimer
 **I or GitHub do not supporting warez - we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
@@ -1432,10 +1432,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 
 ## Windows
-- [Krakatoa](https://krakatoa.www3.cz/)
-- [MDL Forums](https://forums.mydigitallife.net/) - Windows topics, hotfixes, self-made tools.
-- [PCBeta](http://bbs.pcbeta.com)
-- [SamLab](http://samlab.ws/)
+- [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
+- [MDL Forums](https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
+- [PCBeta](http://bbs.pcbeta.com) - Windows ISOs, hotfixes and discussions.
+- [SamLab](http://samlab.ws/) - (RU) - Windows Board, ISOs, Hotfixes & more.
 - [Shadow-Trooperz](http://shadow-trooperz.xyz/sw/) - Provides Windows ISO's and other Windows related software links.
 - [TechBench](https://tb.rg-adguard.net/public.php) - Find official Windows isos for Windows 7/8/10.
 - [UUPDump](https://uupdump.ml/) - In-official Windows Hotfix repository + Windows dumps.
