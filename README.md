@@ -1207,6 +1207,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Vimm's Lair](https://vimm.net/?p=vault) - Large collection of ROMs.
 - [Ziperto](https://www.ziperto.com/) - Nintendo 3ds CIA files, especially for JRPGs.
 
+### Good Old Downloads
+- [GOD Games](https://god-games.com/) - GOD is alive.
+- [GOD Project](http://god.freevar.com) - Work in Progress Project, aims to reboot the old GOD project.
 
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) - A place to share working Playstation 4 PKGs.
