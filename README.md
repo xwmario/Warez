@@ -532,7 +532,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 - [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 
-
 ## Torrent DMCA prevention
 - Open QB advance settings
 - Bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [see here example](https://i.imgur.com/pD7atey.jpg).
@@ -1550,7 +1549,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free, has adblock detector.
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
-- [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is
+- [How to bypass Mega Quota limit via JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
+- [How to Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Lynda Courses](https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) - 266+ Lynda courses
 - [TUTSGALAXY](https://tutsgalaxy.com/) - Learn HTML5 and CSS3 fundamentals.
