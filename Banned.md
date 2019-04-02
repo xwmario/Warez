@@ -204,3 +204,6 @@
 * OneDrive
 * DropBox
 * upload.ee
+
+## Apps
+* [Taraftar Tv](https://play.google.com/store/apps/details?id=com.tebilisim.android.taraftar)
