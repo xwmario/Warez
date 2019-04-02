@@ -809,7 +809,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [SoftOBase](http://softobase.com/) - (RU) - Software forum.
 - [Tekspert](https://tekspert.se/) - (EN/US) - Software forum.
-- [TheWarezFolder](http://thewarezfolder.com/) - For All Your Download Needs
+- [TheWarezFolder](http://thewarezfolder.com/) - For All Your Download needs.
+- [TNCTR](https://www.tnctr.com/) - (TR) - Turkish Network Community for software, ebooks, apps, portable, AIO & coding.
 - [TwoDDL](http://2ddl.ws) - Direct software download links.
 - [UpTown](https://en.uptodown.com/) - Software portal.
 - [Vidics](https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
