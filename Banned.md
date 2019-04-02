@@ -187,7 +187,6 @@
 * seeHD.WS
 
 ## Faker
-
 * 2baksa.net
 * NORO repacks
 
@@ -197,7 +196,11 @@
 ## Banned search engines:
 * DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
   
-
 ## Apps with malware, ads etc in it (possible honeypot apps to steal your data or to monitor you):
-
 * OLA TV
+
+## File/Cloud Hoster which scanning your files (via bots)
+* github.com
+* OneDrive
+* DropBox
+* upload.ee
