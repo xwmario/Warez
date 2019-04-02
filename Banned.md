@@ -1,5 +1,5 @@
 ## Imposter, crypto mining etc
-
+* solarmovie.to
 * gamesfull.com
 * oceanofgames.com
 * nosteamgames.ro
