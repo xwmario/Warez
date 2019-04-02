@@ -1885,6 +1885,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [crawler](https://crawler.to/)
 - [Daxiv](https://daxiv.com/)
 - [Filmxy](https://www.filmxy.one/)
+- [HD Europix](https://europixhd.net/) + [Mirror](https://topeuropix.net/)
 - [HD Multireddit](https://old.reddit.com/user/nbatman/m/streaming2/) - 1080p Openload, Google Video & Vimeo,..
 - [IceFilms](http://www.icefilms.info/)
 - [Kodi](https://kodi.tv/) - + ([Setup guide](https://www.reddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/))
