@@ -979,54 +979,54 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Random Streaming Sites
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
-- [#1 Movies Website](https://www1.1movies.is)
-- [1Movies](http://1movies.nl)
-- [AZMovies](https://azmovies.xyz/)
-- [cine.to](https://cine.to/)
-- [cinebloom](https://www2.cinebloom.com)
+- [#1 Movies Website](https://www1.1movies.is) - Watch movies online for free in HD quality without downloading or signing up.
+- [1Movies](http://1movies.nl) - Watch Free HD movies online & free download movies at 1movies.pl.
+- [Arabseed](https://arabseed.tv/) - (AR) - 
+- [AZMovies](https://azmovies.xyz/) - AZMovies your best source for watching movies online, with High Quality 1080p movies, you can stream anytime.
+- [cine.to](https://cine.to/) -  Sit back and relax while watching the newest Cinema or your favorite Movie for free. Just cine.to & chill.
+- [cinebloom](https://www2.cinebloom.com) - Action Adventure Animation Biography Comedy Crime Documentary Drama Family Fantasy History Horror Music Musical Mystery Romance Sci-Fi Sport Thriller War Western.
 - [Daxiv Video](https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
-- [DP Stream](https://www.dpstream.net/)
-- [eMule Island.ru](https://www2.emule-island.ru/)
-- [Filmstream.online](http://filmzenstream.online/)
-- [FilmXY](https://www.filmxy.one/)
-- [Filmz.cc](https://www.filmz.cc/)
-- [Flixanity](https://flixanity.xyz/)
-- [FlixGo](https://flixgo.net/)
+- [DP Stream](https://www.dpstream.net/) - (FR) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
+- [eMule Island.ru](https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
+- [Filmstream.online](http://filmzenstream.online/) - (FR) - Regarder des films gratuits illimités de sur Filmzenstream. Regarder complet des films en streaming hd gratuitement vf sans inscription en française.
+- [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more
+- [Filmz.cc](https://www.filmz.cc/) - (FR) - 
+- [Flixanity](https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
+- [FlixGo](https://flixgo.net/) - Ralph Breaks the Internet. Avengers: Infinity War. Incredibles 2. Ant-Man and the Wasp ... Dawn of Justice. Captain America: Civil War. FlixGo.
 - [FMOVIES](https://www3.fmovies.to/) - Openload, MyCloud, RapidVideo, Streamango
-- [French Stream](http://wwv.french-stream.co/)
-- [HD MOVIES](https://hdm.to/) - Another streaming site which uses OpenLoad
-- [HDEUROPIX](https://topeuropix.net/)
-- [HDO](https://hdo.to/)
-- [HDOnline](https://www1.hdonline.eu)
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
-- [KStreaming](https://www.k-streaming.tv/)
-- [libertyVF](https://ww1.libertyvf.org/)
-- [LookMovie](https://lookmovie.ag/)
-- [M4UFree.TV](http://m4ufree.tv/)
-- [MegaShare](http://megashare9.su)
-- [MKVHub](https://www.mkvhub.com/)
-- [Movie123](http://movie123.club/)
-- [movies2k](http://www.movie2k.st)
-- [Nox](https://nox.tv/) - (Ger) - 
+- [French Stream](http://wwv.french-stream.co/) - (FR) - Regarder Facilement et Gratuitement Les Meilleurs Films et Séries en Streaming HD Sans aucune Publicité Gênante ...
+- [HD MOVIES](https://hdm.to/) - Watch free movies online in 1080p at HDM.to - Stream & download the latest HD movies online for free without registration.
+- [HDEUROPIX](https://topeuropix.net/) - Free Streaming HD Movies Online with captions. Full Movies Streaming Popular TV Series Watch Free HD topeuropix.net.
+- [HDO](https://hdo.to/) - Watch HD Movies Online For Free the latest movies, tv-series without Registration at hdonline.to.
+- [HDOnline](https://www3.hdonline.eu/) - Free Movies Online
+- [KStreaming](https://www.k-streaming.tv/) - (FR) - Film Streaming et Série Streaming Gratuit.
+- [libertyVF](https://ww1.libertyvf.org/) - (FR) - 
+- [LookMovie](https://lookmovie.ag/) - Watch Movies and TV Shows for Free in 1080p and 720p. New Movies and Episodes are added every hour.
+- [M4UFree.TV](http://m4ufree.tv/) - Free Movies Online. Watch Movies Online Free. Watch all your favorite movies and tv shows online for free on M4ufree .
+- [MegaShare](http://megashare9.su/) - Watch Full Movies and TV Series Online Free.
+- [MKVHub](https://www.mkvhub.com/) - MkvHub is the best website to download high-quality 720p, 1080p WEB-DL HDRip BluRay Movies and TV Shows with Single Direct Download Link.
+- [Movie123](http://movie123.club/) - Look no further than Movie123 if you are looking for the best sites to watch free movies online.
+- [Nox](https://nox.tv/) - (Ger) - Filme, HD-Filme, 3D-Filme, Serien und Spiele - News. Reporters Without Borders.
 - [onemov](https://onemov.net/)
 - [openloadmovies.net](https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad
-- [QQMovies](http://qqmovies.co)
-- [Qwemovies](https://www3.qwemovies.com/)
-- [Rainierland](https://rainierland.is/)
-- [Sokrostream.vip](https://sokrostream.vip/)
-- [Solarmovie](https://solarmoviez.ru/solar.html)
-- [Streamcomplete](https://streamcomplet.me/)
-- [StreamCouch](https://www2.streamcouch.com/)
-- [StreamCR](https://scr.cr/)
-- [Time2Watch](https://time2watch.in/)
-- [VF-Streaming](https://www.vf-stream.org/)
-- [VodLocker](https://vodlocker.tv/)
-- [VoirFilms.ws](https://ww6.voirfilms.ws/)
-- [WatchFree](https://watchfree.at/)
-- [WatchFullMovie](http://watchfullmovie.co)
-- [xPau.se](http://xpau.se/)
-- [Yes! Movies](https://yesmovies.to)
-- [YMovies](https://ymovies.tv/) - Streaming site full of YIFY and other releases
+- [QQMovies](http://qqmovies.co/) - Stream Movies and TV Shows online in HD quality, 1080p, 4K.
+- [Qwemovies](https://www3.qwemovies.com/) - Watch HD Movies Online For Free and Download the latest movies without Registration at qwemovies.to.
+- [Rainierland](https://rainierland.is/) - Official home of rainierland - no ads and only good movies.
+- [Sokrostream.vip](https://sokrostream.vip/) - (FR) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport
+- [Solarmovie](https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
+- [Streamcomplete](https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
+- [StreamCouch](https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
+- [StreamCR](https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
+- [Time2Watch](https://time2watch.in/) - (FR) -Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
+- [VF-Streaming](https://www.vf-stream.org/) - (FR) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
+- [VodLocker](https://vodlocker.tv/) - Official home of vodlocker - no ads and only good movies.
+- [VoirFilms.ws](https://ww6.voirfilms.ws/) - (FR) -Voir Film Streaming, Streaming Film, telecharger, Films, regarder film streaming, dvdrip, film en streaming, voirfilms, gratuit.
+- [WatchFree](https://watchfree.at/) - Watch Movies Online Free. Watch your favorite movies and tv-series in hd quality on watchfree.to + putlocker.
+- [WatchFullMovie](http://watchfullmovie.co/) - Watch 1000 Free full Movies on IMVBox. Free Live TV, Serials and Theatre on IMVBox
+- [xPau.se](http://xpau.se/) - Movies, TV Shows & more.
+- [Yes! Movies](https://yesmovies.to) - Watch movies full HD online free. Watch latests episode series online. Over 9000 free streaming movies, documentaries & TV shows.
+- [XMovies8](http://www1.xmovies8.io/) - Best site to watch free movies online, just search your favorite movies and Enjoy.
+- [YMovies](https://ymovies.tv/) - Watch Free Full Length yify Movies Online on Yify TV. Torrents, Watch Films online in HD 720p and 1080p quality yts on Yify TV.
 
 ### Video Game Music (OST)
 - [FFShine Forum](http://forums.ffshrine.org/forumdisplay.php?f=72) - A place for game and video game music.
@@ -1562,7 +1562,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Courses & Tutorials
 - [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free, has adblock detector.
-- [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
+- [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
 - [How to bypass Mega Quota limit via JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
 - [How to Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
@@ -1934,11 +1935,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [ACMARKET](https://acmarket.net/) - Download cracked & modified android apps & games free.
 - [Androeed](https://www.androeed.ru/) - (RU) - Russian APK site.
 - [Android Zone](https://android-zone.ws/) - Another place to find premium links for APKs.
-- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - A privacy focused keyboard.
 - [APKmb](https://apkmb.com/) - Download paid Apps & Android Games for free.
-- [APKMirror](https://www.apkmirror.com/) - Download free Android APKs
+- [APKMirror](https://www.apkmirror.com/) - Provides legit mirrors with checksums for various apps.
 - [ApkPure](https://apkpure.com/) - Another free APK mirror site.
-- [Aptoide](http://www.aptoide.com/) - Cracked and legit apk's. 
+- [Aptoide](http://www.aptoide.com/) - Cracked and legit apk's.
 - [BlackMod](https://blackmod.net/) - Lots of cracked Android games.
 - [iHackedit](http://ihackedit.com/) - Provides Android Apps & Games including Mods.
 - [libre.io](https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
