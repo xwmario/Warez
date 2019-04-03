@@ -1764,6 +1764,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Trashbox](https://trashbox.ru/) - Trashbox is the russian Mobilism.
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - YouTube Music Player & Downloader
 
+### XPosed + Magisk
+- [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) - Root & Universal Systemless Interface.
+- [Systemless Xposed For SDK 27 (Android 8.1)](https://github.com/Magisk-Modules-Repo/xposed_27) - Magisk Xposed version (needs Magsik).
+- [VirtualXposed](https://virtualxposed.com/) - Xposed version for non-rooted devices.
+
+### Mobile Patcher
+- [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification. 
+- [Jasi Patcher (also known as Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
 
 ### Streaming Apps
 - [AniméGlare](https://animeglare.xyz/)
