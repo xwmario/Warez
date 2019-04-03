@@ -821,6 +821,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [SilentGround](http://www.silentground.org/) - (EN)
 - [Snahp Forum](https://forum.snahp.it/) - Forum which provides links to HD rips & software (only mega & zippyshare links are allowed).
 - [Soft9](http://soft9.ru/) - (RU) - Russian Software Portal.
+- [SolidShare](https://www.solidshare.net/) - (TR) - Software Portal.
 - [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [SoftOBase](http://softobase.com/) - (RU) - Software forum.
 - [Tekspert](https://tekspert.se/) - (EN/US) - Software forum.
