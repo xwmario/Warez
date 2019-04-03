@@ -61,7 +61,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
 - [Wikipedia's Definition of Pubstro](https://en.wikipedia.org/wiki/Pubstro)
 - [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
-- [Wiktionary's Definition of piracy](https://en.wiktionary.org/wiki/piracy
+- [Wiktionary's Definition of piracy](https://en.wiktionary.org/wiki/piracy)
 
 ## Demoscene
 - [What is the Demoscene?](https://en.wikipedia.org/wiki/Demoscene)
@@ -106,7 +106,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Social Media Alternatives
 - [MeWe](https://mewe.com/) - Google+ replacement.
 - [Pleroma](https://pleroma.social/) - Host your own social media.
-- [mastodon](https://joinmastodon.org/) - Like a decentealized Twitter.
+- [Mastodon](https://joinmastodon.org/) - Like a decentealized Twitter.
 
 ## Anti-tamper systems
 - [Adobe Primetime](https://www.adobe.com/marketing/primetime.html)
