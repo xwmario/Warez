@@ -1635,7 +1635,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Automation
 - [Bonarr](https://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
 - [CloudBox](https://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
-- [File & Image Uploader](http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster. 
 - [FlexGet](https://flexget.com/) - FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
 - [MacGuffin](https://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
@@ -2128,10 +2127,33 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
 
 ## File Sharing Tools
+- [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
+- [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
+- [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
 - [DBREE](https://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
+- [File & Image Uploader](http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster. 
 - [FilePizza](https://file.pizza/) - Free peer-to-peer file transfers in your browser.
+- [Filezilla](https://filezilla-project.org/) - The free & open source (S)FTP solution.
+- [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
 - [Fopnu](https://fopnu.com/) - Fopnu is a new and decentralized network tool to share files over P2P.
+- [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
+- [Meiga](https://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
+- [nextCloud](https://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
+- [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
+- [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
+- [ownCloud](https://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
+- [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
+- [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
+- [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.
+- [Seafile](https://www.seafile.com/en/home/) - Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
+- [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy.
+- [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+- [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
+- [Tixati](https://www.tixati.com/) - Freeware, advanced featured torrent client, a web user interface is included.
 - [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
+- [uGet](https://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
+- [Vuze](https://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs.
+- [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.
 
 ## Stream Synchronisation
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) - Where you can get together with strangers and watch a great movie every week!
@@ -2161,9 +2183,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Free Rapidleech](http://freerapidleechlist.blogspot.com/) - Daily updated free premium hoster logins. **Be Warned**: Fake pages are looking similar!
 
 ## Antivirus alternatives
-- [FireJail](https://firejail.wordpress.com/download-2/) - A Sandbox for Linux.
+- [FireJail](https://firejail.wordpress.com/download-2/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
+- [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
 - [FlatPak](https://flatpak.org/getting) - Standalone apps for Linux are here!
 - [Sandboxie](https://www.sandboxie.com/) - Install and run programs in a virtual sandbox environment without writing to the hard drive.
+- [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - irtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 
 ## Hardware Security Token
 - [Adding two factor authentication to KeePass & KeePass2Android](http://nidkil.me/2014/12/10/adding-two-factor-authentication-to-keepass-keepass2android/)
