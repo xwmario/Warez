@@ -1438,9 +1438,13 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - detailed guide about pirating Adobe CC for Windows.
 
-### Linux Guides
-- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress project!
+## Linux
 
+### Linux Guides
+- [The practical linux hardening guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress project!
+
+#### Linux Hardening
+- [kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
 
 ## Windows
 - [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
