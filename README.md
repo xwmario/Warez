@@ -1463,6 +1463,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
 
 ## Windows
+- [AME](https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively. 
 - [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
 - [MDL Forums](https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
 - [PCBeta](http://bbs.pcbeta.com) - Windows ISOs, hotfixes and discussions.
