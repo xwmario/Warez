@@ -266,6 +266,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Hide Fake Torrents on TPB](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
 - [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
 - [Burlesco](https://burles.co/en/) - Read news without subscribing, bypass the paywall.
+- [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
 
 ## Password Managers (Desktop & Mobile)
 - [1Password](https://1password.com/) - Popular cloud-hosted password manager.
