@@ -53,14 +53,15 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
 - [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
 
-
 ### Basic Piracy & Scene "starter" info
 - [Down For Everyone Or Just Me - Check if the website is offline](https://downforeveryoneorjustme.com/)
-- [What is the scene?](https://defacto2.net/defacto2/subculture)
 - [Scene Rules](https://scenerules.org/)
-- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
+- [The Warez Scene: How it works](https://old.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/)
+- [What is the scene?](https://defacto2.net/defacto2/subculture)
 - [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
-- [Wiktionary's definition of piracy](https://en.wiktionary.org/wiki/piracy)
+- [Wikipedia's Definition of Pubstro](https://en.wikipedia.org/wiki/Pubstro)
+- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
+- [Wiktionary's Definition of piracy](https://en.wiktionary.org/wiki/piracy
 
 ## Demoscene
 - [What is the Demoscene?](https://en.wikipedia.org/wiki/Demoscene)
@@ -72,12 +73,16 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Demoo](http://calodox.scene.org/demoo/)
 - [Monostep](http://demo.monostep.org/)
 
-## Scene Release Info
+## Scene Release Info (Pre databases)
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/) - A big scene & P2P release database.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) - Table of common movie release types, their labels, and descriptions.
 - [NSWDB](http://nswdb.com/) - Scene and P2P release database.
+- [PRE & Trace](http://pre.c-burns.co.uk/)
+- [pre.corrupt-net.org](https://pre.corrupt-net.org/)
+- [predb.me](https://predb.me/)
 - [predb.pw](https://predb.pw) + [predb.org](https://predb.org/) - Maybe the biggest scene release database.
 - [Release Watcher](http://extremedownload.org/) - Scene and P2P release database.
+- [Scene Group List](http://scenegrouplist.com/scene_info_About_the_scene_tsh.php) - The warez scene hierarchy.
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS) - Bunch of scripts to monitor scene releases.
 - [SCNLOG.me](https://scnlog.me/) - Scene and P2P release database.
 - [SrrDB](https://www.srrdb.com/) - Scene and P2P release database.
@@ -90,8 +95,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Welcome to the f/privacy FAQ](https://raddle.me/wiki/Privacy) - Proudly ripped this FAQ off from a non-privacy-friendly site!
 
 ## Piracy Archive
+- [27 Years of Warez Scene Release Info Leaked in Giant Database](https://archive.org/details/predb) 
 - [Archive of r/Megalinks from 11th April 2018](https://pastebin.com/raw/7WrNLtZd) - A complete backup of the reddit r/Megalinks sub.
 - [Piracy Archive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit r/Piracy sub.
+- [OpenTrackers](https://archive.fo/kuKOb) - Opentrackers.org Warez Scene Overview.
 
 ## DarkWeb Overview
 - [ProjectX](https://github.com/CHEF-KOCH/ProjectX/blob/master/README.md) - DarkWeb pages overview (yet another one) is designed to show Deep Web specific pages, software and other information around the deeper web.
@@ -724,6 +731,13 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
 - [The Eye CGS Engine](https://cgs.the-eye.eu/) - The-Eye - CGS Engine
 - [wtfnzb](https://wtfnzb.pw/) - Open dir for Software.
+
+### FTP Deamons
+- [glFTPd](https://glftpd.io/) - A great FTP server for anyone on a *NIX platform.
+- [DrFTPD](https://github.com/drftpd-ng/drftpd3) - Distributed Daemon FTP Server v3.
+- [FlashFXP](https://www.flashfxp.com/) -  Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
+- [ioFTPD](https://www.flashfxp.com/forum/ioftpd/ioftpd/) - Fast & Lightweight FTP Daemon for Windows.
+- [RaidenFTPD](http://www.raidenftpd.com/en/) - FTP server software for Windows 7: RaidenFTPD is a widely used FTP server software. It works with Windows/Mac/Linux FTP clients and IE.
 
 ### FTP Indexers
 - [Davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
@@ -1633,6 +1647,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Web4Sync](https://web4sync.com/) - Forum with DDL links catering to web development, graphics design, 3D animation, and photography
 
 ## Automation
+- [Awesome Uploader](https://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
 - [Bonarr](https://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
 - [CloudBox](https://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
 - [FlexGet](https://flexget.com/) - FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
