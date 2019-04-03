@@ -9,6 +9,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 
 ## Movies
 - hdeuropix.com
+- movie2k.st
 
 ## Anime
 - AnimeHeaven.eu
