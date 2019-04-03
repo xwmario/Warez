@@ -825,6 +825,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
 - [Soft98.iR](https://soft98.ir/software/) - (IR) - All Software Download in Only One Website.
 
+### DVB
+- [DVBKing](https://skystar-2.com/) - SkyStar, SoftCam Key ProgDVB Satellite Receiver Dish Network DirecTV HD TV.
+
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
 - [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Search up for the website you want to download from and pick from a massive list.
