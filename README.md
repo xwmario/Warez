@@ -73,21 +73,25 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Demoo](http://calodox.scene.org/demoo/)
 - [Monostep](http://demo.monostep.org/)
 
-## Scene Release Info (Pre databases)
+## Scene Release Info & pre databases
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [Movie Release Types (as Image)](https://i.imgur.com/kEOrKJT.png)
+- [NGP](https://ngp.re/)
 - [NSWDB](http://nswdb.com/)
 - [PRE & Trace](http://pre.c-burns.co.uk/)
-- [pre.corrupt-net.org](https://pre.corrupt-net.org/)
-- [predb.me](https://predb.me/)
-- [predb.pw](https://predb.pw) + [predb.org](https://predb.org/)
+- [ProLikeWoah](http://prolikewoah.com/pre/)
 - [Release Watcher](http://extremedownload.org/)
-- [Scene Group List](http://scenegrouplist.com/scene_info_About_the_scene_tsh.php)
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
 - [SCNLOG.me](https://scnlog.me/)
+- [Scene Group List](http://scenegrouplist.com/scene_info_About_the_scene_tsh.php)
 - [SrrDB](https://www.srrdb.com/)
 - [SweTracker](https://swetracker.org/releases)
+- [d00per.com](https://www.d00per.com/dupe)
+- [pre.corrupt-net.org](https://pre.corrupt-net.org/) + [Mirror](https://pr3.us/)
+- [predb.me](https://predb.me/)
+- [predb.pw](https://predb.pw) + [predb.org](https://predb.org/)
 - [xrel.to](https://www.xrel.to/)
+
 
 ## Public piracy discussion channels & FAQs
 - [f/Piracy](https://raddle.me/f/Piracy) - Raddle Forum - Piracy is not theft.
