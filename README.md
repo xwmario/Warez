@@ -1658,18 +1658,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
 
-## Discord Scripts, Bots & Other Tools
-- [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
-- [Discord NSWDBot](https://github.com/HunterKing/NSWDBot) - Discord bot to scrape NSWDB.com for scene releases.
-- [Discord WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release.
-- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) - Provides end-to-end encryption for Discord.
-- [BetterDiscord](https://betterdiscord.net/home/) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
-- [Do Not Track for Discord](https://betterdocs.us/plugins/do-not-track/) - A plugin for BD to prevent Discord tracking.
-- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each other!).
-- [Discord Channel scraper](https://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
-- [Running a full deletion](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
-- [Discord toolkit](https://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
-
 
 ## IPTV + DVR
 - [/r/IPTV](https://www.reddit.com/r/IPTV) - Subreddit some may find helpful for gauging the current state of IPTV providers.
