@@ -128,10 +128,33 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - dpstream.net
 - isohunt2.net
 
-
 ## Domain registrar
 - openleaf.net.ru
 
-
 ## Tracker
 - [Leechers Paradise](https://torrentfreak.com/huge-torrent-tracker-calls-it-quits-after-12-years-citing-article-13-181207/)
+
+## IRC + Websites 
+- irc://irc.p2pirc.org/tracers
+- irc://irc.p2pirc.org/pre
+- d0pe0r.1go.dk/dp.htm
+- rlsrc.com
+- prelist.ws
+- doopes.com
+- releases.pocketheaven.com
+- prescene.tk
+- irc://irc.hounddawgs.org/prechan
+- layer13.it.cx
+- ircs://irc.layer13.net:7000/pre
+- ircs://irc.layer13.net:7000/tracers
+- pre.lethe.ca
+- audiop2p.com/pre.php
+- irc://irc.x4b.pw:11337/rlzNET
+- nforush.net
+- irc://irc.afkdb.com/PR3
+- irc://irc.afkdb.com/tracers
+- irc://irc.rizon.net/ultrapre
+- vcdq.com
+- nfo.cat
+- nfo.so
+- orlydb.com
