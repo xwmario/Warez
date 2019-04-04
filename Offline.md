@@ -14,6 +14,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - dats.romshepherd.com
 - prescene.tk
 - layer13.it.cx
+- shroo.ms
 
 ## Movies
 - hdeuropix.com
