@@ -575,6 +575,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) - (Multi) - Google Drive Download Links.
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_).
 - [0DayDown](https://www.0daydown.com/) (CN/EN) MacOS, Music & other links (works with JDownloader).
+- [3dl.tv](https://3dl.tv/) - (Ger) - Music, Movies, TV Shows, apps & more.
 - [Adit-HD Forum](http://www.adit-hd.com/index.php) - Forum which provides links to HD rips.
 - [AdiT-HD](http://adit-hd.com/) - Direct movie download database.
 - [AppNee Freeware Group](https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
@@ -584,10 +585,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [BetaArchive](https://www.betaarchive.com/) - Windows ISOs, Windows tools & more.
 - [Board4All](https://www.board4all.biz/) - A forum which provides and shares all sorts of stuff.
 - [Boerse.to](http://boerse.to/) - (GER) - A german warez forum.
-- [DDL-Warez](https://ddl-warez.to/) - (Ger) - German software, movies & tv board. 
+- [Byte.to](https://byte.to/) - (GER) - Movies (SD/HD/UHD), Docus, WWE & Series. 
+- [DDL-Warez](https://ddl-warez.to/) - (GER) - German software, movies & tv board. 
 - [DDLValley](https://www.ddlvalley.me/) - DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) - Pastebin user who uploads premium links for TV shows
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) - (EN-US) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
+- [DL4All](http://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Dospelis](https://www.dospelis.net) - Spanish DDL indexer.
 - [DownArchive](http://downarchive.org/) - DDL blog with premium links on a number of hosts. Lots of software
 - [DownloadLY.IR](http://downloadly.ir/) - (IR)
@@ -598,6 +601,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [GLOAD.cc](https://gload.cc/) - (Ger) - Provides Zippyshare and Openload as download-friendly mirrors.
 - [hdencode](https://hdencode.com/) - Videos/Movies in HD Quality.
 - [IceFilms.info](https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more.
+- [Intercambios Virtuales](http://www.intercambiosvirtuales.org/) - (ES) - Yet another software portal.
 - [KickassWarez](https://kickasswarez.info/) - (EN/RU) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!
 - [Mawto](https://www.mawtoload.com/) - (IR) Android apps, Windows Software & Games.
@@ -609,8 +613,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Mutaz](https://www.mutaz.net/free-programs/) - Tracks scene software releases.
 - [MyGully](http://mygully.com/) - (Ger) - Replacement for the old gulli board.
 - [NaMaMe Club](http://nnmclub.to/) - Provides software for Windows.
-- [NFOHump](http://www.nfohump.com/forum/index.php) - Gaming, Apps, Help & more.
 - [NFForce](http://nfforce.temari.fr/) - The old NForce group and it's small website.
+- [NFOHump](http://www.nfohump.com/forum/index.php) - Gaming, Apps, Help & more.
 - [NGB.to](https://ngb.to/) - (Ger) - Another Gulli/MyGully clone.
 - [Nsane Forum](https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
 - [NulledTeam Underground](https://www.nulledteam.com/) - Software forum.
@@ -620,11 +624,13 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [PSARips](https://psarips.com/) - Popular site for movies and TV shows, includes torrent files
 - [PuZo.org](http://www.puzo.org/) - Direct Download (DDL) Websites for sofwtare.
 - [RADIXX11](https://radixx11rce2.blogspot.com) - (EN-US) - Software forum.
+- [RapidLinks](http://rapidlinks.org/) - (RU) - Software, Movies & more.
 - [RapidMoviez](http://rmz.cr/) - Direct movie website.
+- [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
 - [ReleaseBB](https://rlsbb.ru/) - (RU) - Russian Software Portal.
 - [Releaselog](http://www.rlslog.net/) - Website for eBooks, Games & more.
 - [RSLinks](https://rslinks.org/) - Tracks scene software releases and mirrors them.
-- [rsload](https://rsload.net/) - (RU/EN)
+- [Rsload](https://rsload.net/) - (RU/EN) - A big software portal.
 - [RU-Board](http://forum.ru-board.com/) - (RU) - Well-known warez board.
 - [RuTracker](https://rutracker.cr/) - (RU) - If you didn't alreay knew RUTracker you never heard of Warez at all.
 - [SceneSource](https://scnsrc.me/) - WordPress powered website dedicated to bringing you the latest info on new scene releases
@@ -632,25 +638,26 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [SilentGround](http://www.silentground.org/) - (EN)
 - [Snahp Forum](https://forum.snahp.it/) - Forum which provides links to HD rips & software (only mega & zippyshare links are allowed).
 - [Soft9](http://soft9.ru/) - (RU) - Russian Software Portal.
-- [SolidShare](https://www.solidshare.net/) - (TR) - Software Portal.
+- [Soft98.iR](https://soft98.ir/software/) - (IR) - All Software Download in Only One Website.
+- [SoftArchive](http://softarchive.net/) - (RU/EN) - Software portal for various software.
 - [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [SoftOBase](http://softobase.com/) - (RU) - Software forum.
+- [SolidShare](https://www.solidshare.net/) - (TR) - Software Portal.
 - [Tekspert](https://tekspert.se/) - (EN/US) - Software forum.
 - [TheWarezFolder](http://thewarezfolder.com/) - For All Your Download needs.
 - [TNCTR](https://www.tnctr.com/) - (TR) - Turkish Network Community for software, ebooks, apps, portable, AIO & coding.
+- [Twighlight](http://twilight.ws/) - Warez release blog (sometimes offline!).
 - [TwoDDL](http://2ddl.ws) - Direct software download links.
 - [UpTown](https://en.uptodown.com/) - Software portal.
 - [Vidics](https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
 - [Warez-BB-org](https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]](#)
 - [WarezBB.org](http://warezbb.org/) - Invite-only elite forum. 
+- [Warezforum Asia](http://warezforum.asia/) - PDF's.
 - [Watch Series](http://watchseries.ag/) - WatchSeries provides TV Shows (as the name might already suggests).
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://watchtvseries.unblocked.krd/) - Watch TV shows online.
-- [ZeroBoard](https://zeroboard.org/) - A board which provides Windows related stuff.
 - [Win7DL](http://win7dl.org/) - Software, Movies, eBooks & more.
-- [DL4All](http://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
-- [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
-- [Soft98.iR](https://soft98.ir/software/) - (IR) - All Software Download in Only One Website.
+- [ZeroBoard](https://zeroboard.org/) - A board which provides Windows related stuff.
 
 ### DVB
 - [DVBKing](https://skystar-2.com/) - SkyStar, SoftCam Key ProgDVB Satellite Receiver Dish Network DirecTV HD TV.
@@ -1049,9 +1056,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### ROMs
 - [3DSISO](http://www.3dsiso.com/) - A community based ROM database.
+- [CoolRom](http://coolrom.com/) - Your #1 emulation choice.
 - [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) - Nintendo 3ds CIA files.
 - [Digiex](https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
 - [Doperoms](https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
+- [Emulanium](http://www.emulanium.com/) - Emulators, cheats & roms.
 - [myabandonware](https://www.myabandonware.com/) - More than 14000 old games to download for free!
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games. 
 - [Old Games Finder](http://www.oldgamesfinder.com/) - Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
@@ -1059,6 +1068,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
 - [Romulation.net](https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [Romsmania](https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
+- [ROMNation](romnation.net) - Lots of ROMs.
 - [The Eye ROMs](http://the-eye.eu/public/rom/) - Open directory of ROMs from The-Eye.
 - [The ROM Depot](https://theromdepot.com/roms/) - Around 3 TB of ROMs (requires a VPN).
 - [Vimm's Lair](https://vimm.net/?p=vault) - Large collection of ROMs.
@@ -1620,6 +1630,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Watchfree.at](https://watchfree.at/watchfree.html)
 - [Watchfree.movie](https://www1.watchfree.movie/)
 - [WatchOnline.al](https://watchonline.al/)
+- [WatchSeries 2.0](http://watchseries.si/)
 - [XMovies8](https://xmovies8.ru/)
 - [Yes! Movies](https://yesmovies.to/)
 - [YesMovies.fun](https://yesmovies.fun/)
@@ -1638,6 +1649,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Kodi](https://kodi.tv/) - + ([Setup guide](https://www.reddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/))
 - [LeonFlix](https://leonflix.net/)
 - [Megashare9](http://megashare9.su/)
+- [MovieNight](http://movienight.ws/)
 - [MovieJagg](https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://moviestreams.org/)
 - [OneMov](https://onemov.net/)
@@ -1655,6 +1667,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [WatchFullMovie](http://watchfullmovie.co/)
 - [xPause](http://xpau.se/)
 - [Ymovies](https://ymovies.tv/)
+
+### Wrestling & MMA
+- [Fight-BB](http://fight-bb.com/)
+- [MMA Releaselog](http://mma-releaselog.com/)
+- [WWE-TV](http://www.wwe-tv.com/) - (Ger)
 
 ### Torrent Apps (Android/iOS)
 - [/r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) - User modified Android App(s).
