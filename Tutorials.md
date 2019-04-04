@@ -1,4 +1,8 @@
-### VPN Guides & Tutorials
+## Ebooks & TextBooks
+- [How To find and download ebooks & textbooks](https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_)
+
+
+## VPN Guides & Tutorials
 - [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
 - [Choosing the best VPN (for you) - /r/VPN](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - Helpful guide from EFF.org.
@@ -6,7 +10,8 @@
 - [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page which explains how to achieve a poor man's VPN via SSH tunneling.
 - [Which VPN Services Keep You Anonymous in 2019?](https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019/) - TorrentFreak article by Ernesto about which VPN you _could_ use.
 
-## Courses & Tutorials
+
+## General courses & Tutorials
 - [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
 - [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free, has adblock detector.
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
@@ -26,11 +31,13 @@
 - [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
 - [tpget](https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
 
+
 ## Torrent DMCA prevention
 - Open QB advance settings
 - Bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [see here example](https://i.imgur.com/pD7atey.jpg).
 
-#### Seedbox Setup Tools and Guides
+
+## Seedbox Setup Tools and Guides
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) - Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc].
 - [QuickBox IO](https://quickbox.io/) - Seedbox installer script.
@@ -40,12 +47,14 @@
 - [swizzin](https://swizzin.ltd/) - A light, modular package management suite for media-oriented servers.
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) - Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
 
+
 ## Linux Hardening
 - [kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
 
 - [The practical linux hardening guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress project!
 
 
-## Windows 10 Guides (privacy/security focused)
+## Windows 10 Hardening
 - [How to download and install Windows 10 LTSB/LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez on how to download and install Windows 10 LTSB/LTSC.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
+
