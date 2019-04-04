@@ -1024,6 +1024,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### ROMs
 - [3DSISO](http://www.3dsiso.com/) - A community based ROM database.
 - [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) - Nintendo 3ds CIA files.
+- [Digiex](https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
 - [Doperoms](https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
 - [myabandonware](https://www.myabandonware.com/) - More than 14000 old games to download for free!
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games. 
