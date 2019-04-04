@@ -932,11 +932,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Kissanime.ru](http://kissanime.ru/) - or [Kissanime.ac (mirror)](https://kissanime.ac/)
 - [KissCartoon](https://kisscartoon.ac/)
 - [Mangarock](https://mangarock.com/)
-- [MasterAni](https://www.masterani.me)
-- [Masterani](https://www.masterani.me/)
 - [Mejor Torrent](http://www.mejortorrent.org/) - (ES)
 - [MioMio](http://www.miomio.tv/)
-- [Monimo](https://monimoapp.netlify.com/)
 - [MoviesEver](https://moviesever.com/)
 - [NineAnime](https://www.nineanime.com/)
 - [OtakuStream](https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
@@ -1345,7 +1342,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [animeEncodes](https://www.animencodes.com/) - Anime sharing page.
 - [AnimeOut](https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
 - [GoGo Anime](https://www3.gogoanime.in/) - Popular website for watching anime.
-- [GoGoAnimes](https://gogoanimes.co) - Dubs and up2date animes.
 - [Hi10 Anime](https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
 - [HorribleSubs](https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [KissAnime](http://kissanime.ru/) - Subs and dubs, many ads, many player alternatives, captcha, anti adblocker, videos hosted by Google & Facebook.
@@ -1356,11 +1352,13 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Series9](https://www2.series9.io/) - Search engine for movies and tv shows (incl. animes).
 
 ## Cartoons
-- [animetoon](http://www.animetoon.org/) - Lots of streaming via premium hosts for cartoons
-- [KissCartoon](https://kisscartoon.ac/) - Popular cartoon streaming site
-- [Toonova](http://www.toonova.net/) - Another site for streaming cartoons
-- [watchcartoononline.com](https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site
-- [watchcartoononline.io](https://www.watchcartoononline.io/) - Large DDL site for cartoons as well as anime and movies
+- [animetoon](http://www.animetoon.org/) - Lots of streaming via premium hosts for cartoons.
+- [KissCartoon](https://kisscartoon.ac/) - Popular cartoon streaming site.
+- [Toonova](http://www.toonova.net/) - Another site for streaming cartoons.
+- [watchcartoononline.com](https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site.
+- [watchcartoononline.io](https://www.watchcartoononline.io/) - Large DDL site for cartoons as well as anime and movies.
+- [KimCartoon](https://kimcartoon.co/) Large cartoon collection, primarily Openload.
+- [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload.
 
 ## Album Art
 - [Album Art Downloader](https://sourceforge.net/projects/album-art/) - Find and update their album art for their music collection.
@@ -1977,6 +1975,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Discord Servers
 - [/f/MEGAlinks (Snahp)](https://discordapp.com/invite/xk7HEE3) - Official /f/MEGAlinks Discord server.
+- [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares _newer_ Nintendo Switch Games.
 - [/r/soccerstreams](https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
 - [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
