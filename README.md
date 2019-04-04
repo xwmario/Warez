@@ -1595,6 +1595,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [[Updated][Guide] How to bypass the adblock ban on KissAnime](https://old.reddit.com/r/KissAnime/comments/awmkrz/updatedguide_how_to_bypass_the_adblock_ban/) - An Ad blocker guide for KissAnime.
 - [coursehunter](https://www.coursehunters.net/) - Watch paid tutorials online for free
 - [learninglcom](https://learninglcom.com/) - Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more.
+- [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
 - [tpget](https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
 
 ## Direct Download Streaming
