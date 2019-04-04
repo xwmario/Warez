@@ -1654,7 +1654,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Bonarr](https://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
 - [CloudBox](https://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
 - [FlexGet](https://flexget.com/) - FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
-- [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+- [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
 - [MacGuffin](https://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
 - [Massivedl](https://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
 - [Multiup](https://multiup.org/) - Website which allows you to upload files to several different file hosting websites.
