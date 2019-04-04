@@ -74,20 +74,20 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Monostep](http://demo.monostep.org/)
 
 ## Scene Release Info (Pre databases)
-- [DVD ReleaseDates](https://www.dvdsreleasedates.com/) - A big scene & P2P release database.
-- [Movie Release Types](https://i.imgur.com/kEOrKJT.png) - Table of common movie release types, their labels, and descriptions.
-- [NSWDB](http://nswdb.com/) - Scene and P2P release database.
+- [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
+- [Movie Release Types (as Image)](https://i.imgur.com/kEOrKJT.png)
+- [NSWDB](http://nswdb.com/)
 - [PRE & Trace](http://pre.c-burns.co.uk/)
 - [pre.corrupt-net.org](https://pre.corrupt-net.org/)
 - [predb.me](https://predb.me/)
-- [predb.pw](https://predb.pw) + [predb.org](https://predb.org/) - Maybe the biggest scene release database.
-- [Release Watcher](http://extremedownload.org/) - Scene and P2P release database.
-- [Scene Group List](http://scenegrouplist.com/scene_info_About_the_scene_tsh.php) - The warez scene hierarchy.
-- [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS) - Bunch of scripts to monitor scene releases.
-- [SCNLOG.me](https://scnlog.me/) - Scene and P2P release database.
-- [SrrDB](https://www.srrdb.com/) - Scene and P2P release database.
-- [SweTracker](https://swetracker.org/releases) - Scene and P2P release database.
-- [xrel.to](https://www.xrel.to/) - Another bigger Scene and P2P release database.
+- [predb.pw](https://predb.pw) + [predb.org](https://predb.org/)
+- [Release Watcher](http://extremedownload.org/)
+- [Scene Group List](http://scenegrouplist.com/scene_info_About_the_scene_tsh.php)
+- [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
+- [SCNLOG.me](https://scnlog.me/)
+- [SrrDB](https://www.srrdb.com/)
+- [SweTracker](https://swetracker.org/releases)
+- [xrel.to](https://www.xrel.to/)
 
 ## Public piracy discussion channels & FAQs
 - [f/Piracy](https://raddle.me/f/Piracy) - Raddle Forum - Piracy is not theft.
