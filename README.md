@@ -38,13 +38,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Project structure 
 
-- `Homepage` - General Overview (which gets a search/indexer)
-- `Readme.md` - Provides a smaller overview (includes only website links and no tutorials etc).
-- `Scene Info.md` - Beginner Info to get into the scene and warez.
-- `Tools.md` - Lists all programs related to warez.
-- `Tutorials.md` - Lists all warez related tools.
-- `Banned.md` - Lists all banned groups, programs and topics.
-- `Offline.md` - Lists all offline or compromised websites.
+- [Homepage](https://chef-koch.github.io/Warez/) - General Overview (_which gets a search/indexer_)
+- [Readme.md](https://github.com/CHEF-KOCH/Warez/blob/master/README.md) - _This file_, provides a smaller overview (includes only website links and no tutorials etc).
+- [Scene Info.md](https://github.com/CHEF-KOCH/Warez/blob/master/Scene%20Info.md) - Beginner Info to get into the scene and warez.
+- [Tools.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tools.md) - Lists all programs related to warez.
+- [Tutorials.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tutorials.md) - Lists all warez related tools.
+- [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics.
+- [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
+- [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
 
 ### Contact
 
@@ -132,10 +133,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 - [WireGuard VPN](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
-### Browser Userscript engines
-- [Tapermonkey](https://tampermonkey.net/) - Tampermonkey is the most popular userscript manager, with over 10 million users
-- [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager.
-
 ## Ad Blocker
 - [An Overview of Ad Blocking Technology](https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad Blocker works.
 - [AdGuard](https://adguard.com/en/welcome.html) - Claims to be the worlds most advance Ad Blocker.
@@ -152,6 +149,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
 - [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
 
+### Browser Script Engines
+- [Tapermonkey](https://tampermonkey.net/) - Tampermonkey is the most popular userscript manager, with over 10 million users
+- [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager.
+
 ## Piracy focused discussion Channels & Blogs
 - [/f/Piracy](https://raddle.me/f/Piracy) - Raddle forum for Piracy.
 - [/r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
@@ -159,16 +160,16 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [TechWorm](https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
 - [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 
-## Collaborative editors
+## Collaborative Editors
 - [cryptpad](https://github.com/xwiki-labs/cryptpad)
 
-## eMail Providers
+## Email Service Providers
 - [Mailbox](https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
 - [Posteo](https://posteo.de/) - Email green, secure, simple and ad-free!
 - [ProtonMail](https://protonmail.com/) - Secure Email Based made in Switzerland.
 - [Tutanota](https://tutanota.com) - A secure and open source eMail provider.
 
-### Temp eMail Provider
+### Temp eMail Service Providers
 - [10 Minute Mail](https://10minutemail.net/) - Disposable, Private mailboxes.
 - [Cock.li](https://cock.li/) - Yeah, it's mail with cocks.
 - [Disposable](https://github.com/0x19/disposable) - Disposable is arobust disposable email (burner emails) - API designed to help you verify whenever email address is coming from disposable service.
@@ -534,8 +535,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Portables & Repacks
 - [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) - Windows Software repacks and portables. 
 
-
-### Custom Google Search Engines
+### Custom "Google" Search Engines
 - [FileChef](http://filechef.com/) - Get direct download links for almost anything!
 - [Jimmyr](http://www.jimmyr.com/mp3_search.php) - Yet abother Music search engine.
 - [lumpySoft.com](https://lumpysoft.com/) - A Google index search with predefined tags.
@@ -544,13 +544,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
 - [The Eye CGS Engine](https://cgs.the-eye.eu/) - The-Eye - CGS Engine
 - [wtfnzb](https://wtfnzb.pw/) - Open dir for Software.
-
-### FTP Deamons
-- [glFTPd](https://glftpd.io/) - A great FTP server for anyone on a *NIX platform.
-- [DrFTPD](https://github.com/drftpd-ng/drftpd3) - Distributed Daemon FTP Server v3.
-- [FlashFXP](https://www.flashfxp.com/) -  Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
-- [ioFTPD](https://www.flashfxp.com/forum/ioftpd/ioftpd/) - Fast & Lightweight FTP Daemon for Windows.
-- [RaidenFTPD](http://www.raidenftpd.com/en/) - FTP server software for Windows 7: RaidenFTPD is a widely used FTP server software. It works with Windows/Mac/Linux FTP clients and IE.
 
 ### FTP Indexers
 - [Davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
