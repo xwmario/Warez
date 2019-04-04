@@ -38,7 +38,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Project structure 
 
-- `Homepage` - General Overview 
+- `Homepage` - General Overview (which gets a search/indexer)
 - `Readme.md` - Provides a smaller overview (includes only website links and no tutorials etc).
 - `Scene Info.md` - Beginner Info to get into the scene and warez.
 - `Tools.md` - Lists all programs related to warez.
@@ -183,6 +183,21 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Android
 - [Wikipedia's list of free and open-source applications](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
+
+### APK Forums & Platforms
+- [ACMARKET](https://acmarket.net/) - Download cracked & modified android apps & games free.
+- [Androeed](https://www.androeed.ru/) - (RU) - Russian APK site.
+- [Android Zone](https://android-zone.ws/) - Another place to find premium links for APKs.
+- [APKmb](https://apkmb.com/) - Download paid Apps & Android Games for free.
+- [APKMirror](https://www.apkmirror.com/) - Provides legit mirrors with checksums for various apps.
+- [ApkPure](https://apkpure.com/) - Another free APK mirror site.
+- [Aptoide](http://www.aptoide.com/) - Cracked and legit apk's.
+- [BlackMod](https://blackmod.net/) - Lots of cracked Android games.
+- [iHackedit](http://ihackedit.com/) - Provides Android Apps & Games including Mods.
+- [libre.io](https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
+- [Mobilism Forum](https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
+- [On HAX](https://onhax.me/) - APK mirrors for paid and free applications, the website also provides modded APK's.
+- [RevDl](https://www.revdl.com/) - Direct download site for Android apps & games.
 
 ## Decentralized Networks
 - [Freenet](https://freenetproject.org) - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) - and chat on forums, without fear of censorship.
@@ -1630,21 +1645,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) - A Deluge thin client for Android. Written in Flutter.
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - Lightweight & powerful BitTorrent app.
 
-### APK Forums & Platforms
-- [ACMARKET](https://acmarket.net/) - Download cracked & modified android apps & games free.
-- [Androeed](https://www.androeed.ru/) - (RU) - Russian APK site.
-- [Android Zone](https://android-zone.ws/) - Another place to find premium links for APKs.
-- [APKmb](https://apkmb.com/) - Download paid Apps & Android Games for free.
-- [APKMirror](https://www.apkmirror.com/) - Provides legit mirrors with checksums for various apps.
-- [ApkPure](https://apkpure.com/) - Another free APK mirror site.
-- [Aptoide](http://www.aptoide.com/) - Cracked and legit apk's.
-- [BlackMod](https://blackmod.net/) - Lots of cracked Android games.
-- [iHackedit](http://ihackedit.com/) - Provides Android Apps & Games including Mods.
-- [libre.io](https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
-- [Mobilism Forum](https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
-- [On HAX](https://onhax.me/) - APK mirrors for paid and free applications, the website also provides modded APK's.
-- [RevDl](https://www.revdl.com/) - Direct download site for Android apps & games.
-
 ## Discord Servers
 - [/f/MEGAlinks (Snahp)](https://discordapp.com/invite/xk7HEE3) - Official /f/MEGAlinks Discord server.
 - [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares _newer_ Nintendo Switch Games.
@@ -1878,15 +1878,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [@vkmusic_bot](https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
 - [@warez](https://t.me/warez) - Yet another warez channel on Telegram.
 
-### Telegram Tools & Scripts
-- [Be careful using bots on telegram](https://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
-- [Manybot](https://manybot.io/) - Create your own telegram bot without coding skills.
-- [Overview of Telegram Bots](https://www.qwasap.com/en/bots.php) - There are many Telegram bots, but here are only the best.
-- [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
-- [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
-- [Telegram CrackWatch tracker Bot](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
-
-### VPS Hosting Providers
+## VPS Hosting Providers
 - [24Shells](https://www.24shells.net/) - Get High performance dedicated servers with cheap unmetered bandwidth and managed server hosting options.
 - [2x4.ru](http://www.2x4.ru/index.php) - A fast and reliable russian VPS hoster.
 - [AlexHost.md](http://ru.alexhost.md) - Yet another russian VPS hoster service.
