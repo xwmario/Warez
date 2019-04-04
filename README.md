@@ -54,6 +54,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
 
 ### Basic Piracy & Scene "starter" info
+- [No Copy (2008) - YouTube Video](https://www.youtube.com/watch?v=BXBqUBAv1ek - A brief history of piracy/filesharing.
 - [Down For Everyone Or Just Me - Check if the website is offline](https://downforeveryoneorjustme.com/)
 - [Scene Rules](https://scenerules.org/)
 - [The Warez Scene: How it works](https://old.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/)
@@ -76,6 +77,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Scene Release Info & pre databases (predb)
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [Movie Release Types (as Image)](https://i.imgur.com/kEOrKJT.png)
+- [mp3 Scene](https://www.mp3scene.info/)
 - [NGP](https://ngp.re/)
 - [NSWDB](http://nswdb.com/)
 - [PRE & Trace](http://pre.c-burns.co.uk/)
