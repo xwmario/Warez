@@ -73,7 +73,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Demoo](http://calodox.scene.org/demoo/)
 - [Monostep](http://demo.monostep.org/)
 
-## Scene Release Info & pre databases
+## Scene Release Info & pre databases (predb)
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [Movie Release Types (as Image)](https://i.imgur.com/kEOrKJT.png)
 - [NGP](https://ngp.re/)
@@ -91,6 +91,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [predb.me](https://predb.me/)
 - [predb.pw](https://predb.pw) + [predb.org](https://predb.org/)
 - [xrel.to](https://www.xrel.to/)
+
+## Pre channel
+- [Corrupt-Net – New P2P Friendly IRC Network With Public Pre and Tracer Channels](http://filenetworks.blogspot.com/2010/09/corrupt-net-new-p2p-friendly-irc.html) - List of public IRC pre channels.
+- [List Of Public Pre & Trace Services To Track Latest Scene Releases (IRC + Web Based)](http://filenetworks.blogspot.com/2010/12/list-of-public-pre-trace-services-to.html)
+- [Warez (scene) Release Databases](https://opentrackers.org/links/warez-scene/#rlsdb)
 
 
 ## Public piracy discussion channels & FAQs
