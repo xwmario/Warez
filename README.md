@@ -176,7 +176,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Public Reverse & Cracking Discussion Forums
 - [Cracked.to](https://cracked.to/) - Cracked.to is a cracking forum and community.
 - [Cracked](https://forums.cracked.com/) A forum for cracking related stuff.
-- [Crackia | Cracking Begins](https://crackia.com/) - Crackia Cracking Forum.Find the latest Cracking info, Premium Account Cracking Forum.
+- [Crackia](https://crackia.com/) - Crackia Cracking Forum.Find the latest Cracking info, Premium Account Cracking Forum.
 - [Cracking Forums](https://cracking.org/) - GeoIP Ban - Cracking Forum, Cracking Tutorials, Free Premium Accounts.
 - [Cracking Pro](https://www.crackingpro.com/)  - Cracking Tutorials, Free Premium Accounts, Cracking Configs, Combolists & Proxylists.
 - [CrackingGOD Forum](https://crackingod.com/) -  Cracking. Hack. Graphics. Webmaster. Marketplace.
