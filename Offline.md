@@ -166,14 +166,34 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - orlydb.com
 
 ## Public Tracker
+- publicbt.com
+- r/illegaltorrents
+- i-tools.org
+- istole.it
 - kat.cr
 - extratorrent.com
 - 1337x.org
+- tinsurfer.tk
 - isohunt.to
+- indiumsurfer.tk
+- germaniumsurfer.tk
+- bismuthsurfer.tk
+- galliumsurfer.tk
+- torrage.com
 - demonoid.ph
 - btstorr.cc
 - btstorrent.cc
+- torcache.net
+- blackunicorn.xyz
 - glotorrents.com
+- blackunicorn.xyz
+- btzoo.eu
+- bittor.pw
+- poloniumsurfer.tk
+- berylliumsurfer.tk
+- rhodiumsurfer.tk
+- zoink.it
+- tracker.x4w.co
 - h33t.com
 - fenopy.se
 - torrents.fm
@@ -181,14 +201,18 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - torrentreactor.net
 - limetorrents.com
 - bitsnoop.com
+- desu.sh
+- zer0day.ch
 - torrentportal.com
 - pimp4003-torrents.me
+- trackon.org
 - divxhunt.me
 - bt-chat.com
 - absolutorrent.com
 - vertor.com
 - vertor.eu
 - torrenthound.com
+- torrentproject.com
 - bittorrent.am
 - jubeya.com
 - pornleech.me
@@ -220,3 +244,35 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - tosarang.net
 - etosarang.com
 - torrentkwon.com
+
+## Automated Downloaders
+- showrss.karmorra.info
+- tvoverlord.com
+- torrentwatcher.com
+
+## Streaming Services
+- getpopcornti.me
+- time4popcorn.eu
+- popcorntime.io
+- isoplex.isohunt.to
+- flixtor.com
+- btcloud.io
+
+## Torrent Search Engines
+- torrentz.eu
+- torrentproject.se
+- scrapetorrent.com
+- torrentlookup.com
+- btor.org
+- getstrike.net
+- torrents.to
+- torrenttree.com
+- bandit.to
+- ts.saahov.ru
+- thepirategoogle.com
+- kikibt.org
+- torrentkitty.ws
+- cilidaquan.net
+- btdigg.org
+- zhongzicili.com
+- btkitty.red
