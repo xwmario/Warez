@@ -1188,6 +1188,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Plexus](http://fusion.tvaddons.co/) - Plexus is used in conjunction with Sparkle to play Ace Stream links.
 - [Sparkle](https://github.com/iwannabelikemike/plugin.video.sparkle) - Kodi addon for finding acestream links.
 - [Tooonmania2](https://github.com/doko-desuka/doko.repository/releases) - lets you watch cartoons, dubbed anime and movies (from animetoon) - and subbed anime and movies (from animeplus).
+- [tvtorrentorganizer](https://github.com/tvtorrentorganizer/tvtorrentorganizer) - Bash 4 Script to Organize TV Show Downloads for Kodi
 - [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) - ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
 - [Yoda](http://supremacy.org.uk/zip/repo/) - Another solid Exodus/Covenant fork, and this time it's from S-media.
 
