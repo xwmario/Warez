@@ -142,10 +142,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Extensions
 - [Google unlocked](https://github.com/Ibit-to/google-unlocked) - + [Website](https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
 - [Hide Fake Torrents on TPB](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
+- [Reddit Enhancment Suite](http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
 - [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
-- [Burlesco](https://burles.co/en/) - Read news without subscribing, bypass the paywall.
-- [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
+- [RSS Subscription Extension by Google](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en) - Adds one-click subscription to your toolbar and brings back the possability to read RSS Feeds in Chrome.
 - [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
+- [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
+
 
 ### Browser Script Engines
 - [Tapermonkey](https://tampermonkey.net/) - Tampermonkey is the most popular userscript manager, with over 10 million users
@@ -868,13 +870,33 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/)
 - [720pStream](http://www.720pstream.me/)
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) - Site that rates sport streaming services.
+- [BossCast.net](http://www.bosscast.net/)
+- [cricfree.sx](http://cricfree.sc/)
 - [Cricfree](https://crickfree.org/) - Offers popular sports streams.
+- [cytu.be/r/heemstream](https://cytu.be/r/heemstream)
+- [Drakula Stream](http://drakulastream.eu/)
+- [EPCTV](http://www.epctv.com/)
+- [firstrownow.eu](http://firstrownow.eu/)
 - [footybite](https://www.footybite.com/) - Soccer streaming site.
+- [Giostreams](http://giostreams.eu/)
+- [Kickboxing](http://kickboxing24.pl/) - (PO)
 - [LiveTV](https://livesx.eu/) - Wide variety of sports, results/live scores, video archive and betting.
 - [MamaHD](https://www.mamahd.org/) - 24/7 feeds, sports streams offers a clean UI.
+- [myfeed2all.eu](http://myfeed2all.eu)
+- [MyP2P](http://myp2p.ec/)
+- [Rojadirect](http://www.rojadirecta.me/)
 - [Send It](https://sendit.gg/) - Live stream listings for sports, news, gaming, and more.
+- [serbiaplus.club](http://serbiaplus.club/)
 - [SportsHD](http://www.speedsports.me)
+- [Stream2Watch](https://www.stream2watch.ws/)
+- [Streamwoop](https://streamwoop.net/)
+- [taima.tv/r/mma](http://taima.tv/r/mma)
+- [Time4TV](http://www.time4tv.net/)
+- [TV Link](http://www.tv-link.in/)
+- [VIP Box Sports](http://vipbox.co/)
 - [VIPBox](https://www.vipbox.live/) - (Spanish) - Many sport streams, TV which as a friendly UI.
+- [vipleague.sx](http://www.vipleague.sx/)
+- [Wiziwig](http://www.wiz1.net)
 
 ## Media Centre Applications
 - [Emby](https://emby.media/) - A personal media server with apps on just about every device.
@@ -1268,6 +1290,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [bibliomania](http://www.bibliomania.com/) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 - [Bookyards](http://www.bookyards.com/) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
+- [Boundless](https://www.boundless.com/) - Affordable online textbooks & study materials.
 - [Calibre-Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
