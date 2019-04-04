@@ -1339,7 +1339,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Anime Kaizoku](https://www2.animekaizoku.com/) - Up to 1080p DDL links, mostly Google Drive.
 - [Anime Twist](https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
 - [anime-sharing](http://www.anime-sharing.com/forum/) - Forum for sharing anime series.
-- [animeEncodes](https://www.animencodes.com/) - Anime sharing page.
+- [animEncodes](https://www.animencodes.com/) - Anime sharing page.
 - [AnimeOut](https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
 - [GoGo Anime](https://www3.gogoanime.in/) - Popular website for watching anime.
 - [Hi10 Anime](https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
