@@ -54,7 +54,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
 
 ### Basic Piracy & Scene "starter" info
-- [No Copy (2008) - YouTube Video](https://www.youtube.com/watch?v=BXBqUBAv1ek - A brief history of piracy/filesharing.
+- [No Copy (2008) - YouTube Video](https://www.youtube.com/watch?v=BXBqUBAv1ek) - A brief history of piracy/filesharing.
 - [Down For Everyone Or Just Me - Check if the website is offline](https://downforeveryoneorjustme.com/)
 - [Scene Rules](https://scenerules.org/)
 - [The Warez Scene: How it works](https://old.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/)
