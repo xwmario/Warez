@@ -358,3 +358,12 @@
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
 - [Wordpress Exploit Framework](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - [WPSploit](https://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
+
+
+## Telegram Tools & Scripts
+- [Be careful using bots on telegram](https://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
+- [Manybot](https://manybot.io/) - Create your own telegram bot without coding skills.
+- [Overview of Telegram Bots](https://www.qwasap.com/en/bots.php) - There are many Telegram bots, but here are only the best.
+- [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
+- [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
+- [Telegram CrackWatch tracker Bot](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
