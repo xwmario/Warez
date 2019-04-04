@@ -367,3 +367,11 @@
 - [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
 - [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
+
+
+### FTP Deamons
+- [glFTPd](https://glftpd.io/) - A great FTP server for anyone on a *NIX platform.
+- [DrFTPD](https://github.com/drftpd-ng/drftpd3) - Distributed Daemon FTP Server v3.
+- [FlashFXP](https://www.flashfxp.com/) -  Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
+- [ioFTPD](https://www.flashfxp.com/forum/ioftpd/ioftpd/) - Fast & Lightweight FTP Daemon for Windows.
+- [RaidenFTPD](http://www.raidenftpd.com/en/) - FTP server software for Windows 7: RaidenFTPD is a widely used FTP server software. It works with Windows/Mac/Linux FTP clients and IE.
