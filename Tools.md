@@ -1,4 +1,4 @@
-## Automation
+## Automated Downloaders
 - [Awesome Uploader](https://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
 - [Bonarr](https://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
 - [CloudBox](https://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
@@ -11,6 +11,7 @@
 - [Nefarious](https://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
 - [Piracy and automation, an overview](https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) - Browser extension (currently Chrome & Firefox) - for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [SickRage](https://www.sickrage.ca/) - Automatic Video Library Manager for TV Shows.
 - [traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 
 
@@ -34,11 +35,13 @@
 - [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
 - [subsync](https://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
+- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or bittorent.
+- [TVShows 2](http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
 - [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 
 
 ## Movie Automation
-- [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
+- [Couchpotato](https://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
 - [Radarr](https://radarr.video/) - A fork of Sonarr to work with movies à la Couchpotato.
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
