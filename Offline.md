@@ -7,6 +7,14 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - worldwidetorrents.me
 - buildfeed.net ([source code](https://gitlab.com/buildfeed/BuildFeed))
 
+## predb
+- rlzlog.info
+- pre.zenet.org
+- tracers.zenet.org
+- dats.romshepherd.com
+- prescene.tk
+- layer13.it.cx
+
 ## Movies
 - hdeuropix.com
 - movie2k.st
