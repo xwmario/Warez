@@ -2333,6 +2333,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Burlesco](https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls](https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
+- [Bypass Paywalls for Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass New York Times among many other paywalls.
 - [[Guide] Bypassing paywalls on iOS apps](https://zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
 - [Get Around Paywalls with Incognito Mode](https://lifehacker.com/get-around-paywalls-with-incognito-mode-1679310015) - Tutorial how to get around a Paywall with Incognito Mode.
 - [Outline](https://outline.com/) - Outline is a free service for reading and annotating news articles.
