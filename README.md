@@ -37,7 +37,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 * Since there is (currently) - no filter or search you can navigate trough the page from within your Browser via `Ctrl + F` or `Cmd + F`.
 
 ## Project structure 
-
 - [Homepage](https://chef-koch.github.io/Warez/) - General Overview (_which gets a search/indexer_)
 - [Readme.md](https://github.com/CHEF-KOCH/Warez/blob/master/README.md) - _This file_, provides a smaller overview (includes only website links and no tutorials etc).
 - [Scene Info.md](https://github.com/CHEF-KOCH/Warez/blob/master/Scene%20Info.md) - Beginner Info to get into the scene and warez.
@@ -48,7 +47,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
 
 ### Contact
-
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
@@ -181,6 +179,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [FastMail](https://www.fastmail.com/?STKI=16785160) - Email, calendars and contacts done right.
 - [Rainloop](https://www.rainloop.net/) - SIMPLE, MODERN & FAST WEB-BASED EMAIL CLIENT.
 - [Roundcube](https://roundcube.net/) - MIME support, address book, folder manipulation, message searching and spell checking.
+
+## DarkNet
+- [DarkNet Stats](https://dnstats.net/) - Monitors DarkNet Forums & Markets.
+
+## Anti-Spammer
+- [Project Honey Pot](https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
 
 ## Android
 - [Wikipedia's list of free and open-source applications](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
