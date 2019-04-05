@@ -276,3 +276,6 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - btdigg.org
 - zhongzicili.com
 - btkitty.red
+
+## ISP blocked (needs VPN/proxy/DNS to bypass it)
+ - boerse.to (1&1 + Vodafone)
