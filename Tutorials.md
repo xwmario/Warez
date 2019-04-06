@@ -1,7 +1,3 @@
-## Ebooks & TextBooks
-- [How To find and download ebooks & textbooks](https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_)
-
-
 ## VPN Guides & Tutorials
 - [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
 - [Choosing the best VPN (for you) - /r/VPN](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
@@ -9,6 +5,20 @@
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) - VPN section of "That One Privacy Site" with VPN comparisons.
 - [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page which explains how to achieve a poor man's VPN via SSH tunneling.
 - [Which VPN Services Keep You Anonymous in 2019?](https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019/) - TorrentFreak article by Ernesto about which VPN you _could_ use.
+
+
+## ISP
+- [How to start your own ISP](https://startyourownisp.com/) - Start your own ISP, lists tools which you need and lots of background information.
+  
+
+## Ebooks & TextBooks
+- [How To find and download ebooks & textbooks](https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_)
+
+
+### Exploit Development
+- [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
+- [Shellcode Examples](http://shell-storm.org/shellcode/) - A big shellcodes database.
+- [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
 
 
 ## General courses & Tutorials
@@ -48,9 +58,25 @@
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) - Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
 
 
+## Plex
+- [hoarding.me](https://hoarding.me/) - Unlimited and automated. How to setup your own dream Plex server?!
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - LinuxServer.io Plex Media Server docker image.
+- [Plex](https://www.plex.tv/) - Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
+- [PGBlitz.com](https://pgblitz.com/) - Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD.
+- [Plexi](http://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Official Plex docker image.
+- [timhaak/plex](https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
+  
+
+### Plex Transcoding
+- [kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
+- [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) - A distributed transcoding backend for Plex.
+- [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - A remote transcoder for Plex Media Server.
+- [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) - Article describing how to bypass the artifical single-transcode limit.
+
+
 ## Linux Hardening
 - [kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
-
 - [The practical linux hardening guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress project!
 
 
@@ -58,3 +84,7 @@
 - [How to download and install Windows 10 LTSB/LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez on how to download and install Windows 10 LTSB/LTSC.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 
+## Bypass PayWall
+- [[Guide] Bypassing paywalls on iOS apps](https://zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
+- [Get Around Paywalls with Incognito Mode](https://lifehacker.com/get-around-paywalls-with-incognito-mode-1679310015) - Tutorial how to get around a Paywall with Incognito Mode.
+- [How to Get Around Newspaper Paywalls in 2019](https://medium.com/black-edge-consulting/how-to-bypass-virtually-every-news-paywall-705602c4c2ce?source=linkShare-ccf1b677570b-1549597061&_branch_match_id=638842629899229780) - How to bypass newspaper paywalls and access the WSJ, NYT, Washington Post, Business Insider, Financial Times for free.

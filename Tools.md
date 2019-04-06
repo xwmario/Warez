@@ -330,6 +330,12 @@
 - [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) - TheLounge (a fork of shoutIRC) - is a web IRC client that you host on your own server.
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 
+### Network vulnerability scanners
+- [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
+- [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
+- [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner) - Commercial vulnerability management, configuration, and compliance assessment platform, sold by Tenable.
+- [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
+- [Vuls](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
 
 ## Secure Messenger
 - [A comparison of messaging / communication services](Messaging-Services-Comparison)
@@ -339,8 +345,18 @@
 - [Wire](https://wire.com/)
 - [Signal](https://signal.org/)
 
+## Collaborative Editors
+- [cryptpad](https://github.com/xwiki-labs/cryptpad)
 
-### Web Exploitation
+## Download Managers
+- [Ant Download Manager](https://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
+- [Internet Download Manager](https://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
+- [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [Persepolis Download Manager](https://persepolisdm.github.io/) - Open source alternative to IDM. 
+- [pyLoad](https://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
+- [Xtreme Download Manager](https://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
+
+## Web Exploitation
 - [autochrome](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome/) - Easy to install a test browser with all the appropriate setting needed for web application testing with native Burp support, from NCCGroup.
 - [badtouch](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker.
 - [BlindElephant](http://blindelephant.sourceforge.net/) - Web application fingerprinter.
@@ -391,3 +407,28 @@
 - [FlashFXP](https://www.flashfxp.com/) -  Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
 - [ioFTPD](https://www.flashfxp.com/forum/ioftpd/ioftpd/) - Fast & Lightweight FTP Daemon for Windows.
 - [RaidenFTPD](http://www.raidenftpd.com/en/) - FTP server software for Windows 7: RaidenFTPD is a widely used FTP server software. It works with Windows/Mac/Linux FTP clients and IE.
+
+### Plex Plugins
+- [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks.
+- [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file.
+- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) - Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+- [HDGrandSlam.bundle](https://github.com/jumpmanjay/HDGrandSlam.bundle) - Interfaces with HDHomeRun tuners and DVRs.
+- [HDHRViewerV2.bundle](https://github.com/zynine-/HDHRViewerV2.bundle) - HDHomeRun + Plex
+- [IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) - The website plays live streams (like IPTV) from an M3U playlist.
+- [lmwt-kiss.bundle](https://github.com/Twoure/lmwt-kiss.bundle) - creates a new channel within Plex Media Server (PMS) - to view content from PrimeWire.
+- [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) - Textless movie posters from Moviemania.io.
+- [Official Plex Plugins](https://github.com/plexinc-plugins) - Repos for every official Plex Inc. plugin.
+- [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv.
+- [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) - Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play.
+- [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) - A Plex Channel to create requests.
+- [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) - Plex Agent that'll convert sidecar subtitle files into UTF-8.
+- [SS Plex](https://mikew.github.io/ss-plex.bundle/) - Imagine if all the media scattered around the internet could be found in one collection.
+- [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
+- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) - A website dedicated to Plex plugins.
+- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) - A Tvheadend Channel Plugin for PLEX Media Server.
+- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) - A collection of several tools for Plex Media Server. Like the Unsupported AppStore (UAS).
+
+### Plex Clients
+- [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
+- [PlexConnect](https://github.com/iBaa/PlexConnect) - Unofficial Plex app for Apple TV devices
+- [RasPlex](https://github.com/RasPlex/RasPlex) - Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi.

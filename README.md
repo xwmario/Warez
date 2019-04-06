@@ -22,12 +22,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 * All people which are involved in the piracy & netsec scene or created forums to talk about such topics.
 
 ### What **does not** belong on this list?
-* Illegal programs (cracks, keygens etc) or direct links to copyright material.
+* Illegal programs (cracks, keygens etc.) or direct links to copyright material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
 * Software which is outdated or not actively maintained, open source software is preferred.
 * Insecure programs (no audit- or code-review).
-* Why is program _x_ not listed e.g. K-9 mail it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
+* Why is program _x_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
 
 ### How can I contribute to this list?
 * You can [submit a pull request](https://github.com/CHEF-KOCH/Warez/pulls) - after you [read the contributions guidelines](https://github.com/CHEF-KOCH/Warez/blob/master/.github/CONTRIBUTING.md).
@@ -37,19 +37,20 @@ Since this list is huge I can't name each and every single one of you, but here 
 * Since there is (currently) - no filter or search you can navigate trough the page from within your Browser via `Ctrl + F` or `Cmd + F`.
 
 ## Project structure 
+- `.github` - Documents, Todo etc
 - [Homepage](https://chef-koch.github.io/Warez/) - General Overview (_which gets a search/indexer_)
 - [Readme.md](https://github.com/CHEF-KOCH/Warez/blob/master/README.md) - _This file_, provides a smaller overview (includes only website links and no tutorials etc).
 - [Scene Info.md](https://github.com/CHEF-KOCH/Warez/blob/master/Scene%20Info.md) - Beginner Info to get into the scene and warez.
 - [Tools.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tools.md) - Lists all programs related to warez.
+- [Extensions & Scripts.md] - Lists Browser Scripts + Extensions which might makes your pirate life a little bit easier.
 - [Tutorials.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tutorials.md) - Lists all warez related tools.
-- [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics.
+- [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
 
 ### Contact
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
-
 
 ## Liability for Contents 
 - [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive) 
@@ -65,12 +66,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Social Media Alternatives
 - [MeWe](https://mewe.com/) - Google+ replacement.
 - [Pleroma](https://pleroma.social/) - Host your own social media.
-- [Mastodon](https://joinmastodon.org/) - Like a decentealized Twitter.
-
-### Exploit Development
-- [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
-- [Shellcode Examples](http://shell-storm.org/shellcode/) - A big shellcodes database.
-- [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
+- [Mastodon](https://joinmastodon.org/) - Like a decentralized Twitter.
 
 ### Penetration Testing Distributions
 * [Android Tamer](https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for Android security testing.
@@ -93,17 +89,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Cracking Pro](https://www.crackingpro.com/)  - Cracking Tutorials, Free Premium Accounts, Cracking Configs, Combolists & Proxylists.
 - [CrackingGOD Forum](https://crackingod.com/) -  Cracking. Hack. Graphics. Webmaster. Marketplace.
 - [Crackmes.cf](http://crackmes.cf/) - (mirror of crackmes.de + [reboot](https://crackmes.one/))
-- [Forum ExeTools](https://forum.exetools.com/) - The original oldschool forum to share cracking knowledge.
+- [Forum ExeTools](https://forum.exetools.com/) - The original old school forum to share cracking knowledge.
 - [Reverse Club](http://crack.vc/forum/) - ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Team-IRA [TIRA]](https://team-ira.com/) - TIRA Team International Reversers Alliance ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
-
-### Network vulnerability scanners
-- [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
-- [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
-- [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner) - Commercial vulnerability management, configuration, and compliance assessment platform, sold by Tenable.
-- [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
-- [Vuls](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
 
 ### NFO Viewers & KeyGen Music
 - [Defacto2](https://defacto2.net/welcome)
@@ -135,23 +124,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [An Overview of Ad Blocking Technology](https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad Blocker works.
 - [AdGuard](https://adguard.com/en/welcome.html) - Claims to be the worlds most advance Ad Blocker.
 - [Filterlists](https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
-- [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficent Ad Blocker.
-- [Nano Adblocker / Defender](https://jspenguin2017.github.io/uBlockProtector/) - Fork of uBlock with sme gimmicks, the defender addon is an anti-adblock defuser for Nano Adblocker and uBlock Origin.
+- [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
+- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) - Fork of uBlock with sme gimmicks, the defender addon is an anti-adblock defuser for Nano Adblocker and uBlock Origin.
 - [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's website about ad blockers.
 
-## Extensions
-- [Google unlocked](https://github.com/Ibit-to/google-unlocked) - + [Website](https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
-- [Hide Fake Torrents on TPB](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
-- [Reddit Enhancment Suite](http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
-- [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
-- [RSS Subscription Extension by Google](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en) - Adds one-click subscription to your toolbar and brings back the possability to read RSS Feeds in Chrome.
-- [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
-- [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
-
-
-### Browser Script Engines
-- [Tapermonkey](https://tampermonkey.net/) - Tampermonkey is the most popular userscript manager, with over 10 million users
-- [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager.
 
 ## Piracy focused discussion Channels & Blogs
 - [/f/Piracy](https://raddle.me/f/Piracy) - Raddle forum for Piracy.
@@ -160,8 +136,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [TechWorm](https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
 - [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 
-## Collaborative Editors
-- [cryptpad](https://github.com/xwiki-labs/cryptpad)
 
 ## Email Service Providers
 - [Mailbox](https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
@@ -344,14 +318,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) - Guide on how to get into (and survive) - the world of private trackers.
 - [PrivateHD](https://privatehd.to/) - (PHD) - PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) - This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
-- [Redacted](https://redacted.ch/) - (RED) - Largest private music tracker at 1.5 million torrents.
+- [Redacted](https://redacted.ch/) - (CH) - Largest private music tracker at 1.5 million torrents.
 - [SceneTime](https://www.scenetime.com)
 - [TheGeeks](https://thegeeks.click/) - (TGBZ) - Private tracker for e-learning
 - [TorrentLeech](https://torrentleech.org/) - (TL) - Well-known popular private tracker
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) - Comprehensive spreadsheet of private trackers (somewhat out of date).
 - [TVChaos UK](https://www.tvchaosuk.com/) - (TVCUK) - Private tracker for British television
 - [UHDBits](https://uhdbits.org/) - (UHD) - UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
-- [WorldOfP2P](https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and General.
+- [WorldOfP2P](https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and general P2P stuff.
 
 #### Semi-Private Trackers
 - [ArenaBG](https://arenabg.com/) - A Bulgarian tracker with an English translation available.
@@ -370,7 +344,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Goldesel](http://goldesel.to/) - (Ger) - Games, Movies, Audio & eBooks.
 - [HDSector](http://udush.com/) - Bollywood / Hindi / Hollywood HD Movies.
 - [Idope (Clone)](https://idope.top/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
-- [Isohunt2](https://isohunt2.net/) - Clone of the original isoHunt torrent index and repository.
+- [Isohunt2](https://isohunt2.net/) - Clone of the original ISOHunt torrent index and repository.
 - [KickAss Torrents](https://katcr.co/) - Community-made reincarnation launched in 2016.
 - [LimeTorrents](https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
 - [MagnetDL](http://www.magnetdl.com/) - Magnet link only search engine.
@@ -423,7 +397,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) - Primarily a Usenet meta search engine but also supports Torznab.
 - [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [SickRage](https://git.sickrage.ca/SiCKRAGE/sickrage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
-- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and Bittorrent users.
 
 ### Tracker Invites
 - [/r/Invites](https://www.reddit.com/r/invites) - Post wanted ads for private tracker invites here.
@@ -488,17 +462,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages.
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) - The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use).
 
-## Usenet
-- [/r/Usenet](https://www.reddit.com/r/Usenet) - A thriving community dedicated to helping users old and new understand and use usenet.
-- [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) - Requests and offers for Usenet indexers.
-- [/r/Usenet wiki: indexers](https://www.reddit.com/r/Usenet/wiki/indexers) - Information about /r/Usenet's favourite indexing services.
-- [NZBLINK](https://nzblnk.info/) - The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
-- [QuickPar](http://www.quickpar.org.uk/index.htm) - Tool for reconstructing damaged/missing/corrupt Usenet binaries.
-- [Wikipedia's Usenet newsgroup article](https://en.wikipedia.org/wiki/Usenet_newsgroup) - A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
-- [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Table of applications for uploading content to Usenet.
-- [Usenet](https://en.wikipedia.org/wiki/Usenet) - Usenet is a worldwide distributed discussion system available on computers.
-
-### Usenet Providers
+# Usenet Providers
 - [Eweka](https://www.eweka.nl/) - Netherlands-based Usenet provider.
 - [Newsdemon](https://www.newsdemon.com/) - Cheap and cheerful Usenet provider with frequent discounts.
 - [Newsgroup Ninja](https://www.newsgroup.ninja/en) - Popular Usenet provider with a competitive subscription fee.
@@ -509,13 +473,13 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Usenet.Farm](https://usenet.farm/) - Usenet reseller with 1000+ days retention.
 - [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
 
-#### Usenet Indexing Software
+## Usenet Indexing Software
 - [newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer.
 - [newznab](http://www.newznab.com/) - Newznab is a usenet indexing application, that makes building a usenet community easy.
 - [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 - [nZEDb](https://github.com/nZEDb/nZEDb) - A fork of nnplus(2011) - | NNTP / Usenet / Newsgroup indexer.
 
-#### Usenet Paid Indexers
+### Usenet Paid Indexers
 - [DOGnzb](https://dognzb.cr/login) - Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) - at the moment)
 - [DrunkenSlug](https://drunkenslug.com/) - Popular NZB indexer with a free tier and decent retention.
 - [NZBCat](https://nzb.cat/) - NZBCat is an invite-only nZEDb NZB indexer.
@@ -523,20 +487,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [NZBgeek](https://nzbgeek.info/) - Affordable Usenet indexer operating since 2014.
 - [omgwtfnzbs](https://omgwtfnzbs.me/login) - Invite-only NZB indexer with a funny name.
 
-#### Usenet Free Indexers
+### Usenet Free Indexers
 - [6box](https://6box.me/) - A recently revived free Usenet indexing service with a generous API.
 - [Binsearch](https://www.binsearch.info/) - With this site you can search and browse binary Usenet newsgroups.
 - [NZBIndex](https://www.nzbindex.com) - The first free Usenet indexer you find in your Google search results.
 - [NZBKing](http://nzbking.com/) - The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 - [Usenet Crawler](https://usenet-crawler.com/) - Usenet indexer with API access for registered users.
-
-### Download Managers
-- [Ant Download Manager](https://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
-- [Internet Download Manager](https://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
-- [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
-- [Persepolis Download Manager](https://persepolisdm.github.io/) - Open source alternative to IDM. 
-- [pyLoad](https://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
-- [Xtreme Download Manager](https://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 
 ### Portables & Repacks
 - [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) - Windows Software repacks and portables. 
@@ -925,38 +881,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Popcorn Time addon](https://pct.best4stremio.space/stremioget/stremio/v1) - Watch from YTS and EZTV in Stremio
 - [RAR addon](https://rarbg.best4stremio.space/stremio/v1) - Watch content from RARBG in Stremio.
 - [Zooqle addon](https://stremio-zooqle.now.sh/stremio/v1) - Watch movies and series indexed by Zooqle from RARBG, KAT, YTS, MegaTorrents and other torrent trackers.
+  
 
-## Plex
-- [hoarding.me](https://hoarding.me/) - Unlimited and automated. How to setup your own dream Plex server?!
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - LinuxServer.io Plex Media Server docker image.
-- [Plex](https://www.plex.tv/) - Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
-- [PGBlitz.com](https://pgblitz.com/) - Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD.
-- [Plexi](http://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Official Plex docker image.
-- [timhaak/plex](https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
-
-### Plex Plugins
-- [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks.
-- [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file.
-- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) - Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
-- [HDGrandSlam.bundle](https://github.com/jumpmanjay/HDGrandSlam.bundle) - Interfaces with HDHomeRun tuners and DVRs.
-- [HDHRViewerV2.bundle](https://github.com/zynine-/HDHRViewerV2.bundle) - HDHomeRun + Plex
-- [IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) - The website plays live streams (like IPTV) from an M3U playlist.
-- [lmwt-kiss.bundle](https://github.com/Twoure/lmwt-kiss.bundle) - creates a new channel within Plex Media Server (PMS) - to view content from PrimeWire.
-- [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) - Textless movie posters from Moviemania.io.
-- [Official Plex Plugins](https://github.com/plexinc-plugins) - Repos for every official Plex Inc. plugin.
-- [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv.
-- [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) - Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play.
-- [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) - A Plex Channel to create requests.
-- [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) - Plex Agent that'll convert sidecar subtitle files into UTF-8.
-- [SS Plex](https://mikew.github.io/ss-plex.bundle/) - Imagine if all the media scattered around the internet could be found in one collection.
-- [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
-- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) - A website dedicated to Plex plugins.
-- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) - A Tvheadend Channel Plugin for PLEX Media Server.
-- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) - A collection of several tools for Plex Media Server. Like the Unsupported AppStore (UAS).
-
-### Plex Requests
+- [/r/plexshares](https://www.reddit.com/r/plexshares/) - A nice place to find Plex Media Server shares.
+- [BaconFeet](https://baconfeet.com/) - "Bringing a difference in streaming to the masses..." ([/r/BaconFeet](https://www.reddit.com/r/BaconFeet/))
 - [CDRomance](https://cdromance.com/) - PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
+- [Elysium](https://elysium.to/) - Plex media streaming service.
 - [MediaButler](https://github.com/physk/MediaButler) - Discord bot for use with PleX and several other apps that work with it.
 - [Mellow](https://github.com/v0idp/Mellow/) - Discord Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming.
 - [Ombi](http://ombi.io/) - Want a Movie or TV Show on Plex or Emby? Use Ombi!
@@ -965,54 +895,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [redump.org](http://redump.org/) - Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM packed files. Steamless aims to support as many games as possible.
 
-### Plex Scripts and Tools
-- [killstream](https://github.com/blacktwin/JBOPS/tree/master/killstream) - Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
-- ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi and NVIDIA Shield.
-- [DocDownloader](https://docdownloader.com/)
-- [Gaps](https://github.com/JasonHHouse/Gaps) - Find the missing movies in your Plex Server.
-- [JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
-- [Kitana](https://github.com/pannal/Kitana) - Kitana exposes your Plex plugin interfaces "to the outside world".
-- [NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
-- [Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
-- [Plaxt](https://plaxt.herokuapp.com/) - Webhook-based Trakt.tv scrobbling for Plex
-- [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) - Uses the metadata held in the PlexMediaServer to tag media files
-- [Plex Redirect](https://github.com/ITRav4/PlexRedirect) - a Plex landing page that redirects you to various sites.
-- [plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports.
-- [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) - A python script to get top weekly or top popular lists and put them in plex as playlists.
-- [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) - CLI tool to fix subtitles needed by Plex Media Center.
-- [plex-sync](https://github.com/jacobwgillespie/plex-sync) - A simple command-line utility to synchronize watched / seen status between different Plex Media Servers.
-- [plex2netflix](https://github.com/SpaceK33z/plex2netflix) - See how much of your media from Plex is available on Netflix.
-- [PlexAuth](https://github.com/hjone72/PlexAuth) - Plex based authentication using PHP.
-- [PlexEmail](https://github.com/jakewaldron/PlexEmail) - This script aggregates all new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
-- [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) - This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide a m3u8 playlist).
-- [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) - Scan Plex library for missing episodes using TheTVDB.
-- [PlexRecs](https://github.com/nwithan8/PlexRecs) - A Discord bot that provides movie and TV show recommendations from your Plex library.
-- [plexReport](https://github.com/bstascavage/plexReport) - Scripts to generate a weekly email of new additions to Plex.
-- [plexupdate](https://github.com/mrworf/plexupdate) - script to simplify the life of Linux Plex Media Server users.
-- [plxdwnld](https://piplong.run/plxdwnld/) - Bookmarklet for downloading original files from the Plex web interface
-- [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) - Python command line utility for creating and maintaining dynamic Plex libraries based on "recipes".
-- [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) - A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex.
-
-### Plex Shares
-- [/r/plexshares](https://www.reddit.com/r/plexshares/) - A nice place to find Plex Media Server shares.
-- [BaconFeet](https://baconfeet.com/) - "Bringing a difference in streaming to the masses..." ([/r/BaconFeet](https://www.reddit.com/r/BaconFeet/))
-- [Elysium](https://elysium.to/) - Plex media streaming service
-
-### Plex Transcoding
-- [kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
-- [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) - A distributed transcoding backend for Plex.
-- [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - A remote transcoder for Plex Media Server.
-- [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) - Article describing how to bypass the artifical single-transcode limit.
-
 ### Plex Logging and Metrics
 - [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) - Collects data about your Plex server and sends it to InfluxDB
 - [plexWatch](https://github.com/ljunkie/plexWatch) - Notify and Log watched content on a Plex Media Server
 - [Tautulli](https://tautulli.com/) - Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
 
-### Plex Clients
-- [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
-- [PlexConnect](https://github.com/iBaa/PlexConnect) - Unofficial Plex app for Apple TV devices
-- [RasPlex](https://github.com/RasPlex/RasPlex) - Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
 
 ## Kodi
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) - Discussion and links pertaining to unofficial addons for Kodi Media Center
@@ -1030,7 +917,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) - ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
 - [Yoda](http://supremacy.org.uk/zip/repo/) - Another solid Exodus/Covenant fork, and this time it's from S-media.
 
-## Gaming
+## Gaming Infos, Emus & More
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) - New video game crack releases are posted here.
 - [CreamAPI AutoInstaller](https://github.com/Douile/cream-api-autoinstaller) - A python script to auto install Cream API for Steam games in order to get all [DLCs for free](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
 - [Goldberg Steam Emu](https://www.reddit.com/r/CrackWatch/comments/979s5e/goldberg_steam_emu_lan_multiplayer_without_steam/) - The  project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
@@ -1047,9 +934,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Kaoskrew](http://kaoskrew.org/) - Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
 - [Kapital Sin](http://www.kapitalsin.com/forum/) - 
 - [Nicoblog](https://nicoblog.org/) - Plenty of ISOs, ROMs & repacks.
-- [Revolt Group](https://revolt.group/) - Official Revolt website.
-- [R.G Mechanics](https://rg-mechanics.org/) - Various repacks.
 - [qoob.name](http://qoob.name/) - Repacker site of popular cracker teams like CPY, PLEX etc.
+- [R.G Mechanics](https://rg-mechanics.org/) - Various repacks.
+- [Revolt Group](https://revolt.group/) - Official Revolt website.
 - [Skidrow Repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too!
 - [Tapochek](http://tapochek.net/) - Official R.G Mechanics repacks can be found here.
 - [Xatab Repacks](https://xatab-repack.net) - Russian game repacker - primarily torrents.
@@ -1078,7 +965,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [GOD Games](https://god-games.com/) - GOD is alive.
 - [GOD Project](http://god.freevar.com) - Work in Progress Project, aims to reboot the old GOD project.
 
-### Console Games
+### Console Games (various)
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) - A place to share working Playstation 4 PKGs.
 - [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) - Nintendo Switch games.
 - [gazellegames](https://gazellegames.net/) - Another xBox 360 collection.
@@ -1224,32 +1111,18 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Muxiv Music](https://muxiv.com/) - Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
 - [SongsPK](https://songs-pk.in/) - Mainly for downloading Bollywood songs. Domain changes frequently.
 
-## iOS
-
-### iOS Firmware
+### iOS JailBreak Firmware
 - [IPSW](https://ipsw.me/?_escaped_fragment_=/version) - Provides Jailbreak firmware.
 
 ### iOS Apps
 - [Cinema Time](https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902?mt=8) - Similar like Popcorn Time.
 - [Cotomovies](https://cotomovies.com/) - Streaming Movies and TVShows app.
 - [HDX Online](https://itunes.apple.com/us/app/hdx-online/id1386799497?mt=8) - Another alternative for Cinema Time.
-
-## iOS Download Manager
 - [Total files](https://itunes.apple.com/us/app/total-files/id557285579?mt=8) - Basically the IDM under the iOS Download Managern.
 
 ## iOS Stores
 - [App Valley](https://app.appvalley.vip/) - Basically the Aptoide under the iOS Stores.
-
-### Spotify
-- [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
-- [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
-- [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.- [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
-- [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) - /r/Piracy Spotify-related discussion and future developments.
-- [Spytify](https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
-
-### SoundCloud
-- [scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader.
-- [scddlr.com](https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
+- [Cydia](https://cydia.saurik.com/) - Cydia is an alternative to Apple's App Store for "jailbroken" devices.
 
 ### iTunes
 - [forked-daapd](https://ejurgensen.github.io/forked-daapd/) - Linux/FreeBSD DAAP (iTunes) - and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
@@ -1257,6 +1130,19 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Plus Premieres](https://www.pluspremieres.eu/) - Download newest iTunes music in M4A format.
 - [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) - Requiem is a program that removes Apple's DRM (called FairPlay) - from songs, videos, and books purchased on iTunes.
 - [TunesKit](https://www.tuneskit.com/) - iTunes DRM removal tool.
+
+### Spotify
+- [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
+- [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
+- [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
+- [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
+- [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) - /r/Piracy Spotify-related discussion and future developments.
+- [Spytify](https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
+
+### SoundCloud
+- [scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader.
+- [scddlr.com](https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
+
 
 ## Software
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
@@ -1267,8 +1153,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Nulled](https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software
 - [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
 - [Vestathemes](https://www.vestathemes.com/) - Vestathemes is a website for [WordPress](https://www.wordpress.com/) - themes and plugins.
-
-## Linux
 
 
 ## Windows
@@ -1487,7 +1371,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Systemless Xposed For SDK 27 (Android 8.1)](https://github.com/Magisk-Modules-Repo/xposed_27) - Magisk Xposed version (needs Magsik).
 - [VirtualXposed](https://virtualxposed.com/) - Xposed version for non-rooted devices.
 
-### Mobile Patcher
+### Android License Verification Patcher
 - [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification. 
 - [Jasi Patcher (also known as Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
 
@@ -1504,7 +1388,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Fildo](https://fildo.net/android/en/) - Music streaming app.
 - [Filmix](https://filmix.site) - (EN-US) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [KinoTor](http://tiardev.ru/) - (RU) - Provides movies and videos from several russian directories.
-- [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design
+- [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
+- [KrakenTV](https://krakentv.app/download/) - Watch dozens of different TV channels from the comfort of your Android device.
 - [Liveflix](https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
 - [Live TV](http://livetv24x7.tk) - Watch Indian TV Channels live on your mobile free.
 - [Mega Shows](https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
@@ -1923,19 +1808,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Lit Answers](https://litanswers.org/) - Find homework answers.
 - [Slader](https://www.slader.com/) - Find textbooks with answers.
 
-## Bypass Paywalls
-- [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
-- [Burlesco](https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
-- [Bypass Paywalls](https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
-- [Bypass Paywalls for Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass New York Times among many other paywalls.
-- [[Guide] Bypassing paywalls on iOS apps](https://zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
-- [Get Around Paywalls with Incognito Mode](https://lifehacker.com/get-around-paywalls-with-incognito-mode-1679310015) - Tutorial how to get around a Paywall with Incognito Mode.
-- [Outline](https://outline.com/) - Outline is a free service for reading and annotating news articles.
-- [Unpaywall](https://unpaywall.org/) - An open database of 20 million free scholarly articles.
-- [How to Get Around Newspaper Paywalls in 2019](https://medium.com/black-edge-consulting/how-to-bypass-virtually-every-news-paywall-705602c4c2ce?source=linkShare-ccf1b677570b-1549597061&_branch_match_id=638842629899229780) - How to bypass newspaper paywalls and access the WSJ, NYT, Washington Post, Business Insider, Financial Times for free.
-
-## CAPTCHA solver helper
-- [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 
 ## Web Page testing
 - [wptagent](https://github.com/WPO-Foundation/wptagent) - Cross-platform WebPageTest agent which supports allmost all current OS.
@@ -1944,8 +1816,4 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [DavidWon.com](http://davidwon.com/) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
 - [Mega.nz Search Engine](http://megasearch.co/) - A search engine for Mega.nz files.
 - [Startpage.com](https://www.startpage.com/) - The world's most private search engine.
-
-## Movies & Play Scripts
-- [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
-- [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
-- [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
+- [Jive Search](https://jivesearch.com/) - A search engine that doesn't track you.
