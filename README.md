@@ -67,6 +67,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [MeWe](https://mewe.com/) - Google+ replacement.
 - [Pleroma](https://pleroma.social/) - Host your own social media.
 - [Mastodon](https://joinmastodon.org/) - Like a decentralized Twitter.
+- [Movim](https://freedif.org/movim-the-decentralized-social-network) - Movim is a social network, based on XMPP, with Chat and chatrooms, news & communities features.
 
 ### Penetration Testing Distributions
 * [Android Tamer](https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for Android security testing.
