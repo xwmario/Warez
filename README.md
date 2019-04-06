@@ -881,10 +881,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Popcorn Time addon](https://pct.best4stremio.space/stremioget/stremio/v1) - Watch from YTS and EZTV in Stremio
 - [RAR addon](https://rarbg.best4stremio.space/stremio/v1) - Watch content from RARBG in Stremio.
 - [Zooqle addon](https://stremio-zooqle.now.sh/stremio/v1) - Watch movies and series indexed by Zooqle from RARBG, KAT, YTS, MegaTorrents and other torrent trackers.
-  
-
 - [/r/plexshares](https://www.reddit.com/r/plexshares/) - A nice place to find Plex Media Server shares.
-- [BaconFeet](https://baconfeet.com/) - "Bringing a difference in streaming to the masses..." ([/r/BaconFeet](https://www.reddit.com/r/BaconFeet/))
+- [BaconFeet](https://baconfeet.com/) - "Bringing a difference in streaming to the masses...".
 - [CDRomance](https://cdromance.com/) - PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [Elysium](https://elysium.to/) - Plex media streaming service.
 - [MediaButler](https://github.com/physk/MediaButler) - Discord bot for use with PleX and several other apps that work with it.
@@ -992,6 +990,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Small-Games](http://small-games.info/) - (RU) - A russian website which provides their own releases. 
 - [Torrents Gamestorrent](http://gamestorrent.co/) - PC Game releases from CODEX, SKIDROW, PLAZA & Co.
 - [VseTop](https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
+
+## Games Achievements
+- [SSElauncher](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator).
+- [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 
 ### GameCube Games
 - [Archive.org](https://archive.org/details/NCubeJ) - Gamecube NTSC-J: Your gonna need an account with archive.org but it should work, speeds are decent.
