@@ -1376,7 +1376,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### Android License Verification Patcher
 - [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification. 
-- [Jasi Patcher (also known as Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
+- [Jasi Patcher (also known as Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) + [[ToolKit](https://jaspreetsingh.store/index.php/jasi-toolkit/)] - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
 
 ### Streaming Apps
 - [AniméGlare](https://animeglare.xyz/)
