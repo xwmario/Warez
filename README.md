@@ -1785,10 +1785,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [@movies_inc](https://t.me/movies_inc) - Another Telegram channel for downloading several movies in different quality.
 - [@MusicHuntersBot](https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
 - [@piracy](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) - A modest group with over 400 pirates.
-- [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel which  provides warez information, lists & more.
+- [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel which provides warez information, lists & more.
 - [@Qualitymovies](https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto Chan](https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
 - [@SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
+- [Android Uret Patcher (now Jasi Patcher)](https://t.me/UretPatcherByJasi2169) - The official Uret Android patcher group.
 - [@vkmusic_bot](https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
 - [@warez](https://t.me/warez) - Yet another warez channel on Telegram.
 
