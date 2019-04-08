@@ -28,7 +28,7 @@
 - [Discord toolkit](https://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
 
 
-### TV Show Automation
+## TV Show Automation
 - [Medusa](https://pymedusa.com/) - Automatic Video Library Manager for TV Shows.
 - [SickBeard](http://sickbeard.com/) - The ultimate PVR application that searches for and manages your TV shows
 - [SickChill](https://sickchill.github.io/) - an automatic Video Library Manager for TV Shows.
@@ -71,12 +71,13 @@
 - [Filezilla](https://filezilla-project.org/) - The free & open source (S)FTP solution.
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
 - [Fopnu](https://fopnu.com/) - Fopnu is a new and decentralized network tool to share files over P2P.
-- [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
+- [Mega.nz Website](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
 - [Meiga](https://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
 - [nextCloud](https://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
 - [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
 - [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
 - [ownCloud](https://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
+- [Plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
 - [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
 - [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.
