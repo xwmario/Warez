@@ -524,6 +524,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
 
 ### GoG Repack & Releases + Retro Games
+- [Good-Old-Downloads/gg](https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
 - [Good-Old-Downloads (GitHub source code)](https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) - Good-Old-Downloads mirror page.
 
