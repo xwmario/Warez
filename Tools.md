@@ -189,7 +189,8 @@
 - [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against WiFi networks.
 
 
-### Social Media related tools & scripts
+### Social Media related services, tools & scripts
+- [Forget](https://forget.codl.fr/about/) - Automatically deletes your old posts that everyone has forgotten about.
 - [Keybase](https://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
 - [Nuke Reddit History](https://github.com/sr33/Nuke-Reddit-History) - [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) + [Chrome extension](https://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
 - [Random AI generated profile pictures](http://notarealhuman.com/) - Random AI generated profile pictures.
