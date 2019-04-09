@@ -137,8 +137,6 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 ## Domain registrar
 - openleaf.net.ru
 
-## Tracker
-- [Leechers Paradise](https://torrentfreak.com/huge-torrent-tracker-calls-it-quits-after-12-years-citing-article-13-181207/)
 
 ## IRC + Websites 
 - audiop2p.com/pre.php
@@ -185,7 +183,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - btzoo.eu
 - cyber12.com
 - d-addicts.com
-- demonoid.ph
+- demonoid.ph + - demonoid.pw
 - desu.sh
 - divxhunt.me
 - edmag.net
@@ -203,6 +201,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - japsori.info
 - jubeya.com
 - kat.cr
+- [Leechers Paradise](https://torrentfreak.com/huge-torrent-tracker-calls-it-quits-after-12-years-citing-article-13-181207/)
 - limetorrents.com
 - mohmo.net
 - onebigtorrent.org
