@@ -131,11 +131,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 
 ## Piracy focused discussion Channels & Blogs
-- [/f/Piracy](https://raddle.me/f/Piracy) - Raddle forum for Piracy.
+- [/f/Piracy](https://raddle.me/f/Piracy) - Raddle forum for piracy.
 - [/r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
 - [Prism Break](https://prism-break.org/en/) - Opt-out of global data surveillance programs like PRISM, XKeyscore and Tempora.
 - [TechWorm](https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
 - [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
+- [/v/piracy](https://voat.co/v/piracy) - Voat Forum for piracy.
 
 
 ## Email Service Providers
