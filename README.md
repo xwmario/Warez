@@ -288,6 +288,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Trackers List](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 
 ## TV-Show Calendar
+- [at.my TV](http://at-my.tv/) - TV Calendar, TV Episode Guide, TV Show Listings.
 - [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like
 
 #### Private Trackers
@@ -598,8 +599,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Snahp Forum](https://forum.snahp.it/) - Forum which provides links to HD rips & software (only mega & zippyshare links are allowed).
 - [Soft9](http://soft9.ru/) - (RU) - Russian Software Portal.
 - [Soft98.iR](https://soft98.ir/software/) - (IR) - All Software Download in Only One Website.
-- [SoftArchive](http://softarchive.net/) - (RU/EN) - Software portal for various software.
-- [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
+- [SoftArchive](http://softarchive.net/) - (RU/EN) - Software portal for various software and scene announcements.
 - [SoftOBase](http://softobase.com/) - (RU) - Software forum.
 - [SolidShare](https://www.solidshare.net/) - (TR) - Software Portal.
 - [Tekspert](https://tekspert.se/) - (EN/US) - Software forum.
