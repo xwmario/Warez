@@ -11,6 +11,7 @@
 - [Nefarious](https://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
 - [Piracy and automation, an overview](https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) - Browser extension (currently Chrome & Firefox) - for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [Snahp tool](https://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
 - [SickRage](https://www.sickrage.ca/) - Automatic Video Library Manager for TV Shows.
 - [traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 
