@@ -1578,6 +1578,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Discord Servers
 - [/f/MEGAlinks (Snahp)](https://discordapp.com/invite/xk7HEE3) - Official /f/MEGAlinks Discord server.
 - [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares _newer_ Nintendo Switch Games.
+- [r/PkgLinks](https://discord.io/PkgLinks) - Reddup game sharing Discord Server.
 - [/r/soccerstreams](https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [9YearOldPirates](https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
 - [AniméGlare](https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
