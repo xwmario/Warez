@@ -413,3 +413,8 @@
 - [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
 - [PlexConnect](https://github.com/iBaa/PlexConnect) - Unofficial Plex app for Apple TV devices
 - [RasPlex](https://github.com/RasPlex/RasPlex) - Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi.
+
+## Exif Data removal
+- [ExifTool by Phil Harvey](https://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, Write and Edit Meta Information!
+- [ExifTool GUI](http://u88.n24.queensu.ca/~bogdan/) - Adds a GUI to ExifTool by Phil Harvey. 
+- [Exif Purge](http://www.exifpurge.com/) - EXIF Purge is a small portable application to remove EXIF meta data from multiple images at once. 
