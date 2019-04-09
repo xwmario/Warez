@@ -1629,9 +1629,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [ZNC](https://github.com/znc/znc) - An advanced IRC bouncer.
 
 ### IRC Networks
-- _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` - One more XDCC source
-- _irc.irchighway.net/ebooks_ `irc://irc.irchighway.net/ebooks` - A nice, friendly irc channel for trading ebooks
+- _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` - One more XDCC source.
+- _irc.irchighway.net/ebooks_ `irc://irc.irchighway.net/ebooks` - A nice, friendly irc channel for trading ebooks.
 - _irc.undernet.org/bookz_ `irc://irc.undernet.org/bookz` - For downloading ebooks (use `@search <book name>` for a list of available ebooks)
+- _irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ_ `irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ` - Zombie Warez channel for various software.
 - _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` - XDCC file sharing network, join #mg-chat to continue downloading
 - _The Source_ `irc://irc.scenep2p.net/THE.SOURCE` - Another XDCC source
 - [irc.p2p-network.net](https://p2p-network.net/) - P2P file sharing network
