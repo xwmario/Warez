@@ -57,6 +57,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
 - [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
 - [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
+- [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](http://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))
 - [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
 - [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
 - [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
