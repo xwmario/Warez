@@ -139,28 +139,6 @@
 - [p≡p](https://www.pep.security/) - Pretty Easy Privacy (p=p) - email client encrypts all communications in your email without the need for you to create new accounts.
 
 
-## Userscripts
-- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Some websites prevent you from copying text, this script bypasses it.
-- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
-- [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) - Redirect Google reCAPTCHA to new search.
-- [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
-- [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
-- [Emuparadise ROMs:easy download](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) - Make Emuparadise great again!
-- [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) - Direct link functionality for Google Drive.
-- [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) - Add "View Image" button.
-- [IGG GAMES Direct Download](https://gitlab.com/CHEF-KOCH/igg-games-direct-download-reviewed) - Remove the download jump from igg-games.com and go directly to the download site to avoid waiting time and advertising harassment.
-- [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) - Add links from IMDb pages to torrent sites, easy downloading from IMDb
-- [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) - Integrates MyAnimeList into various sites, with auto episode tracking.
-- [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
-- [openload](https://greasyfork.org/en/scripts/17665-openload) - Remove Anti-Adblock, ads, popups, and timer waits, and show direct download link on OpenLoad.
-- [RARBG Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
-- [RYM google current album](https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
-- [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
-- [ThePirateBay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) - Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS & more.
-- [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
-- [Various torrent links to Episodecalendar](https://greasyfork.org/en/scripts/27367-various-torrent-links-to-episodecalendar) - Adds various torrent links next to every episode in calendar, unwatched and season overview sections.
-
-
 ## DDoS Tools
 - [Anevicon](https://github.com/Gymmasssorla/anevicon) - The most powerful UDP-based load generator, written in Rust.
 - [HOIC](https://sourceforge.net/projects/high-orbit-ion-cannon/) - Updated version of Low Orbit Ion Cannon, has 'boosters' to get around common counter measures.
