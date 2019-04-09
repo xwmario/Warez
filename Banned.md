@@ -52,7 +52,7 @@
 * afdah.to
 * anime1.com
 * animedao.com
-* Animeheaven.eu
+* animeheaven.eu
 * animehub.ac
 * animeland.cc
 * animeland.us
@@ -96,6 +96,7 @@
 * lambingansu.net
 * lqnabc.info
 * monova.to
+* movieo.info
 * movierulz.gd
 * movierulz.ht
 * movierulz.pl
