@@ -29,7 +29,7 @@
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [Google unlocked](https://github.com/Ibit-to/google-unlocked) - + [Website](https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
 - [Hide Fake Torrents on TPB](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
-- [MegaLinks & Snahp.it Forum Link Solver](https://github.com/samvk/snahp-it-forum-link-solver)
+- [MegaLinks & Snahp.it Forum Link Solver](https://github.com/samvk/snahp-it-forum-link-solver) - Simplify opening forum.snahp.it links.
 - [Reddit Enhancment Suite](http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
 - [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
 - [RSS Subscription Extension by Google](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en) - Adds one-click subscription to your toolbar and brings back the posability to read RSS Feeds in Chrome.
@@ -38,13 +38,7 @@
 - [Universal Bypass (for shortner links)](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj)
 
 
-## Movies & Play Scripts
-- [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
-- [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
-- [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
-
-
-## Bypass Paywalls
+### Bypass Paywalls
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Burlesco](https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls](https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
@@ -53,10 +47,16 @@
 - [Unpaywall](https://unpaywall.org/) - An open database of 20 million free scholarly articles.
 
 
+## Movies & Play Scripts
+- [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
+- [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
+- [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
+
+
 ### Plex Scripts and Tools
 - [killstream](https://github.com/blacktwin/JBOPS/tree/master/killstream) - Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
 - ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi and NVIDIA Shield.
-- [DocDownloader](https://docdownloader.com/)
+- [DocDownloader](https://docdownloader.com/) - Scribd Downloader; Issuu Downloader; Slideshare Downloader; Academia Downloader. Scribd Downloader.
 - [Gaps](https://github.com/JasonHHouse/Gaps) - Find the missing movies in your Plex Server.
 - [JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [Kitana](https://github.com/pannal/Kitana) - Kitana exposes your Plex plugin interfaces "to the outside world".
