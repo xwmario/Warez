@@ -186,6 +186,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Decentralized Networks
 - [Freenet](https://freenetproject.org) - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) - and chat on forums, without fear of censorship.
 - [I2P](https://geti2p.net/en/) - I2P is an anonymous overlay network - a network within a network. It's intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+- [Loki](https://loki.network/) - Decentralised network that allows users to transact and communicate privately over the internet.
+- [SILO](https://medium.com/arweave-updates/building-silo-a-truly-private-internet-556c860222ca) - Offers complete privacy across the network (work in progress project in cooperationship with Loki).
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis.
 - [Zeronet](https://zeronet.io/) - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network.
 
