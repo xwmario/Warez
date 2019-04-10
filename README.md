@@ -1385,16 +1385,17 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Jasi Patcher (also known as Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) + [[ToolKit](https://jaspreetsingh.store/index.php/jasi-toolkit/)] - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
 
 ### Streaming Apps
-- [AniméGlare](https://animeglare.xyz/)
-- [AniméVibe](http://animevibe.tv/)
-- [ApolloTV](https://apollotv.xyz/)
-- [BeeTV](http://beetvapk.me/)
-- [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) - a lot of Movies & TV/Shows to watch and download.
-- [CinemaHD](https://cinemaapk.com/)
-- [CKayTV](http://ckaytv.com/)
-- [DreamTV (Terrarium Clone) - unfaked](http://dream-tv.xyz/)
-- [Evolve TV](http://evolvetv.info/) - (EN-US) - Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
-- [Fildo](https://fildo.net/android/en/) - Music streaming app.
+- [99kubo](http://www.99kubo.tv) - (Ads) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
+- [AniméGlare](https://animeglare.xyz/) - (Ads) - lets you stream any anime for free.
+- [AniméVibe](http://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements! 
+- [ApolloTV](https://apollotv.xyz/) - Open-source aggregator for various online video content.
+- [BeeTV](http://beetvapk.me/) - (Ads) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
+- [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) - A lot of Movies & TV/Shows to watch and download.
+- [CinemaHD](https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
+- [CKayTV](http://ckaytv.com/) - (Ads) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
+- [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - Needs invite - Download various Movies.
+- [Evolve TV](http://evolvetv.info/) - (Ads) - Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
+- [Fildo](https://fildo.net/android/en/) - Yet another Music streaming app.
 - [Filmix](https://filmix.site) - (EN-US) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [KinoTor](http://tiardev.ru/) - (RU) - Provides movies and videos from several russian directories.
 - [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
