@@ -1133,6 +1133,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [App Valley](https://app.appvalley.vip/) - Basically the Aptoide under the iOS Stores.
 - [Cydia](https://cydia.saurik.com/) - Cydia is an alternative to Apple's App Store for "jailbroken" devices.
 
+### iOS Store Repos
+- [Xarold](https://repo.xarold.com/)
+
 ### iTunes
 - [forked-daapd](https://ejurgensen.github.io/forked-daapd/) - Linux/FreeBSD DAAP (iTunes) - and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem
@@ -1594,7 +1597,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Morph TV (Morpheus Fork)](https://discordapp.com/invite/VHYGtA9) - Morph TV (Morpheus Fork) official Discord channel.
 - [piratesonline](https://discord.me/piratesonline) - Official piratesonline.us Discord Server.
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Home of /r/ps3homebrew and /r/ps4homebrew.
-- Snahp.it - Official Discord server for snahp.it. (_needs a new invite link_)
 - [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for the-eye.eu
 - [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
@@ -1835,3 +1837,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Facebook Down](https://www.fbdown.net/) - Facebook Video Downloader.
 - [Online Video Converter](https://www.onlinevideoconverter.com/) - Free online video conversion tool.
 - [Twitter Video Downloader](http://twittervideodownloader.com/error) - Twitter Video Downloader.
+
+## Subtitles
+- [Addic7ed](https://www.addic7ed.com/) - Quality Subtitles for TV Shows and movies.
+- [Subscene](https://subscene.com/) - Quality Subtitles for Movies.
