@@ -373,7 +373,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Torrent9](https://www.torrent9.ph/) - French torrent search engine.
 - [TorrentFunk](https://www.torrentfunk.com/) - TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [TorrentGalaxy](https://torrentgalaxy.org/) - Public tracker with a clean UI.
-- [TorrentInvites](http://torrentinvites.org) - 
+- [TorrentInvites](http://torrentinvites.org) - #1 To Buy, Trade, Sell Or Find Free Tracker Invites!
 - [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
 - [Torrentz2](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
 - [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
@@ -381,9 +381,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [WorldWide Torrents](http://worldwidetorrents.to/) - Another public tracker with a reasonably nice UI.
 - [xbit.pw](http://xbit.pw/) - A Magnet site search engine.
 - [YggTorrent](https://www3.yggtorrent.to/) - French tracker and search engine (have a download/upload ratio limitation).
-- [YTS](https://yts.am/) - Small-size HD movies from YIFY.
+- [YTS](https://yts.am/) - Small-size HD movies in a good quality from YIFY.
 - [Zonatorrent](https://zonatorrent.tv/) - Spanish tracker.
 - [Zooqle](https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
+
 
 
 ### Tracker Aggregators
@@ -1489,9 +1490,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [123Moviesuk](https://www.123moviesuk.to/)
 - [123NetflixPro](https://www2.123netflix.pro/)
 - [1movies](https://www1.1movies.is/)
+- [bmovies](http://bmovies.to/) + ([Mirror](https://bmovies.life/bmovies.is)) + [Mirror](https://bmovies.se/))
 - [CafeMovie](https://cafemovie.live/)
 - [ddlhub](https://ddlhub.xyz/)
 - [FFilms](http://ffilms.org/)
+- [Fmovies](https://fmovie.info/fmovies.is) + ([Mirror](https://fmovie.info/fmovies.se)) + ([Mirror](https://www6.fmovies.to/))
 - [flixtor.to](https://flixtor.to/)
 - [Flixtor](https://flixtor.to/)
 - [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) - 
