@@ -449,7 +449,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Bytesized Hosting](https://bytesized-hosting.com/) - "The best Plex server hosting in town".
 - [Chmuranet](https://www.chmuranet.com/) - Chmuranet is a small private boutique seedbox provider.
 - [FeralHosting](https://www.feralhosting.com/pricing) - Shared seedbox hosting provider.
-- [Heztner](https://hetzner.co.za/) - Reliable and affordable server host.
+- [Hetzner](https://hetzner.co.za/) - Reliable and affordable server host.
 - [Kimsufi](https://www.kimsufi.com/uk/) - Affordable dedicated servers.
 - [NZB Monkey](https://nzblnk.info/nzb-monkey/) - NZB download helper utility.
 - [Online.net](https://www.online.net/en) - Seedbox-friendly, affordable, dedicated server host.
@@ -1782,7 +1782,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/f/SharedAcc](https://raddle.me/) - Share and use account logins to preserve your online privacy.
 
 ## Detect Fake Torrents
+- [Hide Fake Torrent on ThePirateBay](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
 - [Solid Torrents](https://solidtorrents.net/) - A torrent index search engine, which checks if the torrent has known "fake" seeders/leechers based on a predefined database.
+- [The Pirate Bay Tweaks](https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) (based on [this script](https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
 
 ## YouTube alternatives
 - [DTube](https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
