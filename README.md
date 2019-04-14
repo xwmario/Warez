@@ -1835,6 +1835,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Alternative Search Engines
 - [DavidWon.com](http://davidwon.com/) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
 - [Mega.nz Search Engine](http://megasearch.co/) - A search engine for Mega.nz files.
+- [Search Encrypt](https://www.searchencrypt.com/) - The Privacy Based Search Engine.
 - [Startpage.com](https://www.startpage.com/) - The world's most private search engine.
 - [Jive Search](https://jivesearch.com/) - A search engine that doesn't track you.
 
