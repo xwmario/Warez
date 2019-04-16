@@ -926,7 +926,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Gaming Infos, Emus & More
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) - New video game crack releases are posted here.
 - [CreamAPI AutoInstaller](https://github.com/Douile/cream-api-autoinstaller) - A python script to auto install Cream API for Steam games in order to get all [DLCs for free](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
-- [Goldberg Steam Emu](https://www.reddit.com/r/CrackWatch/comments/979s5e/goldberg_steam_emu_lan_multiplayer_without_steam/) - The  project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
+- [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - The  project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
 
 ### Game Repacks
