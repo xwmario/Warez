@@ -50,6 +50,7 @@
 * 9putlocker.io
 * afdah.info
 * afdah.to
+* afree.ir + ftp: sd.afree.ir
 * anime1.com
 * animedao.com
 * animeheaven.eu
