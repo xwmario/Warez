@@ -1179,14 +1179,19 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [UUPDump](https://uupdump.ml/) - In-official Windows Hotfix repository + Windows dumps.
 
 
-### Windows Resources (Activation, Hotfixes & Patches)
+### Windows Resources (Hotfixes & Patches)
 - [AskWoody](https://www.askwoody.com/) - News, tips, advice, support for Windows, Office, PCs & more.
-- [KMS Activator](https://github.com/CHEF-KOCH/KMS-activator) - The original repo for KMS related activation.
-- [PIDChecker](https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product Keys.
 - [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, check your system's trusted root certificate store.
 - [Simplix Blog](https://blog.simplix.info/update7/) - Windows Hotfix repository.
-- [Windows 10 1903 Build 18362.30 Final (May Update '19) download + checksum links](https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1)
 - [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) - AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's.
+
+### Windows Activation
+- [PIDChecker](https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product Keys.
+- [KMS Activator](https://github.com/CHEF-KOCH/KMS-activator) - The original repo for KMS related activation & research.
+
+### Windows 10 Downloads & Verification
+- [Windows 10 1903 Build 18362.30 Final (May Update '19)](https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1) - Download + checksum links.
+- [Windows and Office Genuine ISO Verifier](https://genuineisoverifier.weebly.com/) - Freeware tool to verify Windows & Office images.
 
 ## eBooks
 - [/r/DHExchange](https://old.reddit.com/r/DHExchange/) - PDF/eBooks trading.
