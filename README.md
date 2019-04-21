@@ -1400,7 +1400,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - Needs invite - Download various Movies.
 - [Evolve TV](http://evolvetv.info/) - (Ads) - Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
 - [Fildo](https://fildo.net/android/en/) - Yet another Music streaming app.
-- [Filmix](https://filmix.site) - (EN-US) - Watch movies and TV shows using AndroidTV or mobile devices.
+- [Filmix](https://filmix.site) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [KinoTor](http://tiardev.ru/) - (RU) - Provides movies and videos from several russian directories.
 - [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
 - [KrakenTV](https://krakentv.app/download/) - Watch dozens of different TV channels from the comfort of your Android device.
@@ -1412,6 +1412,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Newest Movies HD](http://newestmovieshd.com) - (en-US) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
 - [TeaTV](https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
+- [RevTV](https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish
 - [TitaniumTV (Terrarium Clone)](http://titaniumtv.xyz/)
 - [TVPato2](https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
 - [TVZion](https://tvzionapp.live/) - + [Reddit](https://www.reddit.com/r/TVZionApp/)
