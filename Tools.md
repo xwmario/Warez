@@ -335,6 +335,7 @@
 - [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - Open source alternative to IDM. 
 - [pyLoad](https://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
+- [WFDownloader App](https://www.wfdownloader.xyz/) - batch downloader ultility. 
 - [Xtreme Download Manager](https://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 
 ## Web Exploitation
