@@ -1788,7 +1788,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Shared Accounts
 - [/f/SharedAcc](https://raddle.me/) - Share and use account logins to preserve your online privacy.
 
-## Detect Fake Torrents
+## Detecting Fake Torrents
 - [Hide Fake Torrent on ThePirateBay](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
 - [Solid Torrents](https://solidtorrents.net/) - A torrent index search engine, which checks if the torrent has known "fake" seeders/leechers based on a predefined database.
 - [The Pirate Bay Tweaks](https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) (based on [this script](https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
@@ -1835,6 +1835,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Homework
 - [Lit Answers](https://litanswers.org/) - Find homework answers.
 - [Slader](https://www.slader.com/) - Find textbooks with answers.
+
+## Documents Downloaders
+- [DocDownloader.com](https://docdownloader.com/) - Scribd, Issuu, Slideshare & Academia downloader.
 
 ## Web Page testing
 - [wptagent](https://github.com/WPO-Foundation/wptagent) - Cross-platform WebPageTest agent which supports allmost all current OS.
