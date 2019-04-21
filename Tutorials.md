@@ -84,6 +84,9 @@
 - [How to download and install Windows 10 LTSB/LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez on how to download and install Windows 10 LTSB/LTSC.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 
+## Windows 10 related tutorials
+- [How to SVF patch Windows 10](https://github.com/CHEF-KOCH/How-to-SVF-patch-Windows-10)
+
 ## Bypass PayWall
 - [[Guide] Bypassing paywalls on iOS apps](https://zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
 - [Get Around Paywalls with Incognito Mode](https://lifehacker.com/get-around-paywalls-with-incognito-mode-1679310015) - Tutorial how to get around a Paywall with Incognito Mode.
