@@ -7,6 +7,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - worldwidetorrents.me
 - buildfeed.net ([source code](https://gitlab.com/buildfeed/BuildFeed))
 
+## Android Apps
+- Terrarium TV
+
 ## predb
 - dats.romshepherd.com
 - hdrls.com
