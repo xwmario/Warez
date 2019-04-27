@@ -165,6 +165,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Anti-Spammer
 - [Project Honey Pot](https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
 
+## Audio
+- [Mp3va.com](https://www.mp3va.com/browse) - Free Music (MP3s).
+- [New Album Releases](http://newalbumreleases.net/) - New Album Releases.
+
 ## Android
 - [Wikipedia's list of free and open-source applications](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
 
@@ -384,7 +388,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [YTS](https://yts.am/) - Small-size HD movies in a good quality from YIFY.
 - [Zonatorrent](https://zonatorrent.tv/) - Spanish tracker.
 - [Zooqle](https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
-
 
 
 ### Tracker Aggregators
@@ -776,7 +779,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
 - [#1 Movies Website](https://www1.1movies.is) - Watch movies online for free in HD quality without downloading or signing up.
 - [1Movies](http://1movies.nl) - Watch Free HD movies online & free download movies at 1movies.pl.
-- [Arabseed](https://arabseed.tv/) - (AR) - 
+- [Arabseed](https://arabseed.tv/) - (AR) - Online shopping from a great selection at Digital Music Store.
 - [AZMovies](https://azmovies.xyz/) - AZMovies your best source for watching movies online, with High Quality 1080p movies, you can stream anytime.
 - [cine.to](https://cine.to/) -  Sit back and relax while watching the newest Cinema or your favorite Movie for free. Just cine.to & chill.
 - [cinebloom](https://www2.cinebloom.com) - Action Adventure Animation Biography Comedy Crime Documentary Drama Family Fantasy History Horror Music Musical Mystery Romance Sci-Fi Sport Thriller War Western.
@@ -793,7 +796,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [HD MOVIES](https://hdm.to/) - Watch free movies online in 1080p at HDM.to - Stream & download the latest HD movies online for free without registration.
 - [HDEUROPIX](https://topeuropix.net/) - Free Streaming HD Movies Online with captions. Full Movies Streaming Popular TV Series Watch Free HD topeuropix.net.
 - [HDO](https://hdo.to/) - Watch HD Movies Online For Free the latest movies, tv-series without Registration at hdonline.to.
-- [HDOnline](https://www3.hdonline.eu/) - Free Movies Online
+- [HDOnline](https://www3.hdonline.eu/) - Free Movies Online!
+- [INDOXXI](https://indoxxi.cx/) - Movies releases.
 - [KStreaming](https://www.k-streaming.tv/) - (FR) - Film Streaming et Série Streaming Gratuit.
 - [libertyVF](https://ww1.libertyvf.org/) - (FR) - 
 - [LookMovie](https://lookmovie.ag/) - Watch Movies and TV Shows for Free in 1080p and 720p. New Movies and Episodes are added every hour.
@@ -802,8 +806,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [MKVHub](https://www.mkvhub.com/) - MkvHub is the best website to download high-quality 720p, 1080p WEB-DL HDRip BluRay Movies and TV Shows with Single Direct Download Link.
 - [Movie123](http://movie123.club/) - Look no further than Movie123 if you are looking for the best sites to watch free movies online.
 - [Nox](https://nox.tv/) - (Ger) - Filme, HD-Filme, 3D-Filme, Serien und Spiele - News. Reporters Without Borders.
-- [onemov](https://onemov.net/)
-- [openloadmovies.net](https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad
+- [onemov](https://onemov.net/) - Online Full HD Movie Free.
+- [openloadmovies.net](https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad.
+- [PelisPedia](https://www.pelispedia.tv/) - (es-do) - Movies & TV Shows.
 - [QQMovies](http://qqmovies.co/) - Stream Movies and TV Shows online in HD quality, 1080p, 4K.
 - [Qwemovies](https://www3.qwemovies.com/) - Watch HD Movies Online For Free and Download the latest movies without Registration at qwemovies.to.
 - [Rainierland](https://rainierland.is/) - Official home of rainierland - no ads and only good movies.
@@ -812,7 +817,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Streamcomplete](https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
 - [StreamCouch](https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
 - [StreamCR](https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
-- [Time2Watch](https://time2watch.in/) - (FR) -Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
+- [Time2Watch](https://time2watch.in/) - (FR) - Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
 - [VF-Streaming](https://www.vf-stream.org/) - (FR) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
 - [VodLocker](https://vodlocker.tv/) - Official home of vodlocker - no ads and only good movies.
 - [VoirFilms.ws](https://ww6.voirfilms.ws/) - (FR) -Voir Film Streaming, Streaming Film, telecharger, Films, regarder film streaming, dvdrip, film en streaming, voirfilms, gratuit.
@@ -981,11 +986,16 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Up2date list for Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) - An up2date list for Xbox 360 games.
 - [xbox360iso](http://www.xbox360iso.com/) - XBox 360 Game collection.
 
+### Game Cheats
+- [MPGH](https://www.mpgh.net/) - Multiplayer game hacking (makes money via ads).
+
+
 ## PC Games
 - [Bzinho Games](https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
 - [CompucaliTV](https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
 - [CS.Rin.RU](https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - 
 - [DL2-DLFox](http://dl2.dlfox.com/96/4/) - FTP Mirror for various Games.
+- [Firestorm](https://firestorm-servers.com/) - Games & more.
 - [GameBurnWorld](http://www.gameburnworld.com/) - Provides cracks for Games.
 - [GameCopyWorld](https://gamecopyworld.eu) - Provides cracks for Games.
 - [GamesFull](https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
@@ -998,6 +1008,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Small-Games](http://small-games.info/) - (RU) - A russian website which provides their own releases. 
 - [Torrents Gamestorrent](http://gamestorrent.co/) - PC Game releases from CODEX, SKIDROW, PLAZA & Co.
 - [VseTop](https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
+- [Warmane](https://www.warmane.com/) - Hosts private WoW Servers.
 
 ## Games Achievements
 - [SSElauncher](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator).
@@ -1265,8 +1276,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Direct Download Streaming
 - [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
 - [HDencode](https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
-- [Movie Files](https://moviefiles.org/) - Download Movies For Free.
+- [Movie Files](https://moviefiles.org/) - Download Movies For free.
 - [Movies "R" Us](https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
+
 
 ## Audiobooks
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
@@ -1850,10 +1862,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Startpage.com](https://www.startpage.com/) - The world's most private search engine.
 - [Jive Search](https://jivesearch.com/) - A search engine that doesn't track you.
 
-## Online Video Converters
+## Online Video Converter/Ripper
+- [MP3Juices.cc](https://www.mp3juices.cc/) - Free MP3 Downloads.
+- [2conv.com](https://2conv.com/) - Convert videos from YouTube in 1 click!
+- [Flvto.biz](https://www.flvto.biz) - YouTube Online Converter for Video/Music.
 - [Facebook Down](https://www.fbdown.net/) - Facebook Video Downloader.
 - [Online Video Converter](https://www.onlinevideoconverter.com/) - Free online video conversion tool.
 - [Twitter Video Downloader](http://twittervideodownloader.com/error) - Twitter Video Downloader.
+
 
 ## Subtitles
 - [Addic7ed](https://www.addic7ed.com/) - Quality Subtitles for TV Shows and movies.
