@@ -1605,6 +1605,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) - A Deluge thin client for Android. Written in Flutter.
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - Lightweight & powerful BitTorrent app.
 
+## Discord Clients
+- [Ripcord](https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
+
 ## Discord Servers
 - [/f/MEGAlinks (Snahp)](https://discordapp.com/invite/xk7HEE3) - Official /f/MEGAlinks Discord server.
 - [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares _newer_ Nintendo Switch Games.
