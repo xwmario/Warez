@@ -108,8 +108,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools)
 - [Microsoft Research Detours Package](https://github.com/Microsoft/Detours)
 
+
 ### VPN Subscription Services (no-logs)
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) - VPN with 256-bit encryption, 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
+- [ExpressVPN](https://www.expressvpn.com/) ExpressVPN - A VPN with 256-bit encryption, over 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
 - [NordVPN](https://nordvpn.com/) - Protect your privacy online and access media content with no regional restrictions, and audit can be found [here](https://github.com/CHEF-KOCH/NSABlocklist/blob/5371276f7411ab64530f421ed88d21dda28b0dbc/Documents/VPN/profile-nordvpn2.pdf)
 - [Private Internet Access](https://www.privateinternetaccess.com/) - Popular subscription-based VPN provider with a proven track record for not keeping logs.
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss made VPN that safeguards your privacy.
@@ -1884,4 +1885,5 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Subtitles
 - [Addic7ed](https://www.addic7ed.com/) - Quality Subtitles for TV Shows and movies.
+- [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename subtitles files according to TV show names found in a directory.
 - [Subscene](https://subscene.com/) - Quality Subtitles for Movies.
