@@ -122,7 +122,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 - [WireGuard VPN](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
-## Ad Blocker
+## Ad-Blocker
 - [An Overview of Ad Blocking Technology](https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad Blocker works.
 - [AdGuard](https://adguard.com/en/welcome.html) - Claims to be the worlds most advance Ad Blocker.
 - [Filterlists](https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
@@ -138,6 +138,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [TechWorm](https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
 - [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 - [/v/piracy](https://voat.co/v/piracy) - Voat Forum for piracy.
+
+## Archives
+- [GOG Dump](http://web.archive.org/web/20190429144618/https://docs.google.com/spreadsheets/d/e/2PACX-1vSDj58h_xUDPoz9n12x_kZvQW1VKO4AQOaNGaUmEtpFmL5q0R05Pr4qVZxxzH8CZT3ZLX6_ZX8muYzm/pubhtml)
+- [Nintendo Games Collection](http://web.archive.org/web/20190429144531/https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml)
+- [Microsoft Games Collection](http://web.archive.org/web/20190429144409/https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
 
 
 ## Email Service Providers
@@ -538,6 +543,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) - Good-Old-Downloads mirror page.
 
 ### DDL Link Sites
+- [/r/DataHoarder/](https://old.reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
 - [/f/MEGAlinks](https://raddle.me/f/MEGAlinks) - Aims to replace the old /r/megalinks directory.
 - [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) - (Multi) - Google Drive Download Links.
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_).
@@ -955,7 +961,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### ROMs
 - [3DSISO](http://www.3dsiso.com/) - A community based ROM database.
-- [ByAlvRo's Collection - 1Fichier Mirror (132 TB various)](https://pastebin.com/79q1mdZm)
+- [ByAlvRo's Collection - 1Fichier Mirror (132 TB various)](https://pastebin.com/79q1mdZm) via [reddit](https://old.reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
 - [CoolRom](http://coolrom.com/) - Your #1 emulation choice.
 - [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) - Nintendo 3ds CIA files.
 - [Digiex](https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
