@@ -567,9 +567,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [DL4All](http://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Dospelis](https://www.dospelis.net) - Spanish DDL indexer.
 - [DownArchive](http://downarchive.org/) - DDL blog with premium links on a number of hosts. Lots of software
-- [DownloadLY.IR](http://downloadly.ir/) - (IR)
+- [DownloadLY.IR](http://downloadly.ir/) - (IR) - Software download portal.
 - [DownTurk](https://www.downturk.net/) - Software portal.
 - [ExeLab Forums](https://exelab.ru/f/index.php?action=vtopic&forum=5)
+- [FilmRls](https://filmrls.com/) Movies, Series and TV Shows.
 - [filewarez.tv](https://filewarez.tv/) - Invite-only, hosts both Mega and Google Drive links for TV shows
 - [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) - Windows ISO Downloads Mirrors (ftp links not visible in GitHub's Markdown!)
 - [GLOAD.cc](https://gload.cc/) - (Ger) - Provides Zippyshare and Openload as download-friendly mirrors.
@@ -1452,31 +1453,31 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Big Media Libraries
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) - Reddit, random streaming sites
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites
-- [123Movies.ooo](https://123movies.ooo/)
-- [2TwoMovies](https://two-movies.net/)
-- [5Movies](http://5movies.to/)
-- [8Putlocker](http://www1.8putlocker.com/)
-- [Afdah](http://afdah.to/)
-- [BS.to](https://bs.to/) - (GER)
-- [CafeHulu](http://cafehulu.com/)
+- [123Movies.ooo](https://123movies.ooo/) - Watch & stream full HD movies & TV series online for free.
+- [2TwoMovies](https://two-movies.net/) - Watch Free Movies Online. TwoMovies is a free online video service that offers large collection of full length movies.
+- [5Movies](http://5movies.to/) - Watch FULL HD Quality 1080/720p movies and latest tv series online for free, download the latest movies without registration at all.
+- [8Putlocker](http://www1.8putlocker.com/) - Watch Movies HD Online for Free, you can watch all movies here. All TV Series, Asian Dramas, Anime & Cartoons.
+- [Afdah](http://afdah.to/) - Afdah is a web scraper coded to crawl and index online movie sites. 
+- [BS.to](https://bs.to/) - (GER) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
+- [CafeHulu](http://cafehulu.com/) - e Best Place To Watch FREE Tv Series And Cartoons.
 - [EZTV (EZTV.AG)](https://eztv.io/) - Well known group for movies and series.
 - [filechef](http://filechef.com/) - Search Direct Downloads
-- [FreeMoviez](https://freemoviesz/)
-- [Los-Movies](http://los-movies.com/)
+- [FreeMoviez](https://freemoviesz.online/) - Watch free movies online.
+- [Los-Movies](http://los-movies.com/) - You can stream High Quality movies and cinema films without any redirection.
 - [M4UFree.TV](http://m4ufree.tv/) - Unique design, HD server with backup and additional hosts
 - [Movie4k](https://movie4k.io/) - Huge Movie/TV Library
-- [Primewire](http://www.primewire.is/)
-- [Putlocker.onl](https://www3.putlocker.onl/)
-- [Putlockerfreely](https://putlockerfreely.online/watch/rampage-full-movie-online-1-8911.html)
-- [Putlockeri](https://putlockeri.club/)
-- [Putlockertv](https://www3.putlocker.onl/)
-- [Sharemovies](http://sharemovies.net/)
+- [Primewire](http://www.primewire.is/) - Free Movies
+- [Putlocker.onl](https://www3.putlocker.onl/) - Watch movies and TV Series for free, watch series full episodes online free with HD quality on Putlocker.
+- [Putlockerfreely](https://putlockerfreely.online/) - Watch your favorite movies online free on Putlocker. Discover thousands of latest movies online.
+- [Putlockeri](https://putlockeri.club/) - Watch your favorite movies online free on Putlocker.
+- [Putlockertv](https://www3.putlocker.onl/) - Watch movies and TV Series for free, watch series full episodes online free with HD quality on Putlocker.
+- [Sharemovies](http://sharemovies.net/) - Watch Movies in Theatre, Anime & Cartoons and TV Series in HD 1080.
 - [Sockshare](http://sockshare.ac/) - Huge Movie/TV Library
-- [SolarMovieHD](https://solarmoviehd.to/)
-- [Solarmovies](https://solamovies.cc/)
+- [SolarMovieHD](https://solarmoviehd.to/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
+- [Solarmovies](https://solamovies.cc/) - SolarMovie claims to be the biggest Library of free movies and tv shows.
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
 - [TORRENTDOWNLOADS](https://www.torrentdownloads.me/) - It’s a no-nonsense index that provides torrents to millions of users each month.
-- [Viooz](https://vioozgo.org/)
+- [Viooz](https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 
 ### TV & Sports Streaming
 - [123TV](http://123tvnow.com/)
