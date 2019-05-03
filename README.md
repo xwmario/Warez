@@ -36,7 +36,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 * A search function is planned, [among other small features](https://github.com/CHEF-KOCH/Warez/blob/master/.github/PROJECT_ToDo.md).
 * Since there is (currently) - no filter or search you can navigate trough the page from within your Browser via `Ctrl + F` or `Cmd + F`.
 
-## Project structure 
+## Project structure
 - `.github` - Documents, Todo etc
 - [Homepage](https://chef-koch.github.io/Warez/) - General Overview (_which gets a search/indexer_)
 - [Readme.md](https://github.com/CHEF-KOCH/Warez/blob/master/README.md) - _This file_, provides a smaller overview (includes only website links and no tutorials etc).
@@ -52,8 +52,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
-## Liability for Contents 
-- [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive) 
+## Liability for Contents
+- [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
 - [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
 - [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
 - [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
@@ -232,7 +232,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 * Denmark
 * Egypt
 * Greece
-* India	
+* India
 * Iran
 * Israel
 * Malaysia
@@ -511,14 +511,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Usenet Crawler](https://usenet-crawler.com/) - Usenet indexer with API access for registered users.
 
 ### Portables & Repacks
-- [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) - Windows Software repacks and portables. 
+- [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) - Windows Software repacks and portables.
 
 ### Custom "Google" Search Engines
 - [FileChef](http://filechef.com/) - Get direct download links for almost anything!
 - [Jimmyr](http://www.jimmyr.com/mp3_search.php) - Yet abother Music search engine.
 - [lumpySoft.com](https://lumpysoft.com/) - A Google index search with predefined tags.
 - [mattpalm.com/search](https://mattpalm.com/search/) - Get direct download links for almost anything.
-- [Musgle](http://www.musgle.com/) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth! 
+- [Musgle](http://www.musgle.com/) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!
 - [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
 - [The Eye CGS Engine](https://cgs.the-eye.eu/) - The-Eye - CGS Engine
 - [wtfnzb](https://wtfnzb.pw/) - Open dir for Software.
@@ -553,14 +553,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Adit-HD Forum](http://www.adit-hd.com/index.php) - Forum which provides links to HD rips.
 - [AdiT-HD](http://adit-hd.com/) - Direct movie download database.
 - [AppNee Freeware Group](https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
-- [Audioz](https://audioz.download/) - Provides Audio stuff. 
+- [Audioz](https://audioz.download/) - Provides Audio stuff.
 - [AvaxHome](https://avxhm.se) - Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [AVXHome](http://avxhome.se/) - Best of eBooks, Software, Mag & more.
 - [BetaArchive](https://www.betaarchive.com/) - Windows ISOs, Windows tools & more.
 - [Board4All](https://www.board4all.biz/) - A forum which provides and shares all sorts of stuff.
 - [Boerse.to](http://boerse.to/) - (GER) - A german warez forum.
-- [Byte.to](https://byte.to/) - (GER) - Movies (SD/HD/UHD), Docus, WWE & Series. 
-- [DDL-Warez](https://ddl-warez.to/) - (GER) - German software, movies & tv board. 
+- [Byte.to](https://byte.to/) - (GER) - Movies (SD/HD/UHD), Docus, WWE & Series.
+- [DDL-Warez](https://ddl-warez.to/) - (GER) - German software, movies & tv board.
 - [DDLValley](https://www.ddlvalley.me/) - DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) - Pastebin user who uploads premium links for TV shows
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) - (EN-US) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
@@ -581,10 +581,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!
 - [Mawto](https://www.mawtoload.com/) - (IR) Android apps, Windows Software & Games.
 - [MaxRelease](http://max-rls.com/) - Games, software, magazines, movies, music & tv shows.
-- [MkvCage](https://www.mkvcage.ws/) -  Big tracker for TV shows & movies. 
+- [MkvCage](https://www.mkvcage.ws/) -  Big tracker for TV shows & movies.
 - [Movie Glide](https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://moviefiles.org/) - Direct download search engine which generates Google Drive links
-- [Moviesleak](https://moviesleak.net/) - Yet another movie page, the focus is in IMDB annoucements. 
+- [Moviesleak](https://moviesleak.net/) - Yet another movie page, the focus is in IMDB annoucements.
 - [Mutaz](https://www.mutaz.net/free-programs/) - Tracks scene software releases.
 - [MyGully](http://mygully.com/) - (Ger) - Replacement for the old gulli board.
 - [NaMaMe Club](http://nnmclub.to/) - Provides software for Windows.
@@ -625,7 +625,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [UpTown](https://en.uptodown.com/) - Software portal.
 - [Vidics](https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
 - [Warez-BB-org](https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]](#)
-- [WarezBB.org](http://warezbb.org/) - Invite-only elite forum. 
+- [WarezBB.org](http://warezbb.org/) - Invite-only elite forum.
 - [Warezforum Asia](http://warezforum.asia/) - PDF's.
 - [Watch Series](http://watchseries.ag/) - WatchSeries provides TV Shows (as the name might already suggests).
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
@@ -796,7 +796,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [eMule Island.ru](https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
 - [Filmstream.online](http://filmzenstream.online/) - (FR) - Regarder des films gratuits illimités de sur Filmzenstream. Regarder complet des films en streaming hd gratuitement vf sans inscription en française.
 - [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more
-- [Filmz.cc](https://www.filmz.cc/) - (FR) - 
+- [Filmz.cc](https://www.filmz.cc/) - (FR) -
 - [Flixanity](https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
 - [FlixGo](https://flixgo.net/) - Ralph Breaks the Internet. Avengers: Infinity War. Incredibles 2. Ant-Man and the Wasp ... Dawn of Justice. Captain America: Civil War. FlixGo.
 - [FMOVIES](https://www3.fmovies.to/) - Openload, MyCloud, RapidVideo, Streamango
@@ -807,7 +807,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [HDOnline](https://www3.hdonline.eu/) - Free Movies Online!
 - [INDOXXI](https://indoxxi.cx/) - Movies releases.
 - [KStreaming](https://www.k-streaming.tv/) - (FR) - Film Streaming et Série Streaming Gratuit.
-- [libertyVF](https://ww1.libertyvf.org/) - (FR) - 
+- [libertyVF](https://ww1.libertyvf.org/) - (FR) -
 - [LookMovie](https://lookmovie.ag/) - Watch Movies and TV Shows for Free in 1080p and 720p. New Movies and Episodes are added every hour.
 - [M4UFree.TV](http://m4ufree.tv/) - Free Movies Online. Watch Movies Online Free. Watch all your favorite movies and tv shows online for free on M4ufree .
 - [MegaShare](http://megashare9.su/) - Watch Full Movies and TV Series Online Free.
@@ -952,7 +952,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Emulator.Games](https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - [FitGirl Repacks](http://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks.
 - [Kaoskrew](http://kaoskrew.org/) - Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
-- [Kapital Sin](http://www.kapitalsin.com/forum/) - 
+- [Kapital Sin](http://www.kapitalsin.com/forum/) -
 - [Nicoblog](https://nicoblog.org/) - Plenty of ISOs, ROMs & repacks.
 - [qoob.name](http://qoob.name/) - Repacker site of popular cracker teams like CPY, PLEX etc.
 - [R.G Mechanics](https://rg-mechanics.org/) - Various repacks.
@@ -970,7 +970,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Doperoms](https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
 - [Emulanium](http://www.emulanium.com/) - Emulators, cheats & roms.
 - [myabandonware](https://www.myabandonware.com/) - More than 14000 old games to download for free!
-- [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games. 
+- [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games.
 - [Old Games Finder](http://www.oldgamesfinder.com/) - Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROm collections.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
@@ -1003,19 +1003,19 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## PC Games
 - [Bzinho Games](https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
 - [CompucaliTV](https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
-- [CS.Rin.RU](https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - 
+- [CS.Rin.RU](https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) -
 - [DL2-DLFox](http://dl2.dlfox.com/96/4/) - FTP Mirror for various Games.
 - [Firestorm](https://firestorm-servers.com/) - Games & more.
 - [GameBurnWorld](http://www.gameburnworld.com/) - Provides cracks for Games.
 - [GameCopyWorld](https://gamecopyworld.eu) - Provides cracks for Games.
 - [GamesFull](https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
-- [Games Turret](https://gamesturret.ga/) - Proves games via file hosters. 
+- [Games Turret](https://gamesturret.ga/) - Proves games via file hosters.
 - [MegaGames](https://megagames.com/) - Same like GameCopyWorld, online since 20+ years, old but gold!
 - [OVA Games](http://www.ovagames.com/) - Cracks to latest Game Releases from PLAZA, CODEX & Co.
 - [PCMYMJuegos](https://pcmymjuegos.com/) - (SP) - Spanish website for SteamWorkFixs and other stuff. Mega, GDrive, MediaFire.
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) - Fanmade Skidrow & Reloaded mirror website.
 - [SpartaGames](https://spartagames.net/category/pc/) - (PT/BR) - Torrent links and direct server mirrors to various scene releases.
-- [Small-Games](http://small-games.info/) - (RU) - A russian website which provides their own releases. 
+- [Small-Games](http://small-games.info/) - (RU) - A russian website which provides their own releases.
 - [Torrents Gamestorrent](http://gamestorrent.co/) - PC Game releases from CODEX, SKIDROW, PLAZA & Co.
 - [VseTop](https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
 - [Warmane](https://www.warmane.com/) - Hosts private WoW Servers.
@@ -1045,7 +1045,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### Mame Games
 - [PleasureDome](http://www.pleasuredome.org.uk/index.php) - Various Mame games.
-  
+
 ### Nintendo Switch Games
 - [GDrive (more frequently updated](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
 - [GDrive](https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
@@ -1129,7 +1129,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [MusicBrainz](https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - [Redacted](https://redacted.ch/) - Elite music scene (requires invite).
 - [RuTracker](http://rutracker.org/forum/index.php) - Ru-Tracker, music info, releases & software.
-- [Slsknet](http://www.slsknet.org/news/node/1) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux. 
+- [Slsknet](http://www.slsknet.org/news/node/1) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
 
 ### Music Streaming
 - [datmusic](https://datmusic.xyz/) - Search engine with a clean UI for streaming music in your browser
@@ -1190,7 +1190,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 
 ## Windows
-- [AME](https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively. 
+- [AME](https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 - [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
 - [MDL Forums](https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
 - [PCBeta](http://bbs.pcbeta.com) - Windows ISOs, hotfixes and discussions.
@@ -1241,7 +1241,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [freebookspot.es](http://www.freebookspot.es/) - Various eBook's.
 - [Get Free Ebooks](http://www.getfreeebooks.com/) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
 - [Globusz](http://www.globusz.com/) - There are no limits on the number of free books you can download on this online publishing site.
-- [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) - 
+- [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) -
 - [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - Project Gutenberg was the first to supply free ebooks, and today they have almost 30,000 free titles in stock.
 - [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) - DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
 - [iBiblio](http://www.ibiblio.org/index.html) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
@@ -1381,7 +1381,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Mobile Apps
 - [4PDA.ru](http://4pda.ru/forum/index.php?act=idx) - 4PDA is the biggest Russian forum about mobile devices. You can find endless amount of APKs and Mobile software there. For download registration is required, [this might help you to solve the captchas](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html).
-- [AiOwares.com](https://www.aiowares.com/) - RePacks, mods and other software. 
+- [AiOwares.com](https://www.aiowares.com/) - RePacks, mods and other software.
 - [Android Republic](https://androidrepublic.org/forums/public-mods.24/) - Android Republic is similar to Mobilism, provides mirrors to various apks.
 - [Android Zone](https://android-zone.ws/) - koumkouat website for Android APK's/Games/GPS.
 - [Android-1](https://android-1.com/en/programmy/) - Provides apps & app mods.
@@ -1390,7 +1390,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [apk4free](https://apk4free.net/) - Android apk mirrors and patches.
 - [APKDot](https://apkdot.com/) - APKMirror clone website.
 - [Apkmos](https://apkmos.com/) - The Best App Store For Download Android Apps, Android Games, Android Themes, Android Wallpapers And Much More For Your Android Smartphone.
-- [Baltagy's Website](https://baltagy1.blogspot.com/) - Apps, Mods, RePacks and portable releases. 
+- [Baltagy's Website](https://baltagy1.blogspot.com/) - Apps, Mods, RePacks and portable releases.
 - [Blokada](https://blokada.org) - Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances.
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) - Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) - FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
@@ -1414,20 +1414,20 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [VirtualXposed](https://virtualxposed.com/) - Xposed version for non-rooted devices.
 
 ### Android License Verification Patcher
-- [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification. 
+- [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
 - [Jasi Patcher (also known as Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) + [[ToolKit](https://jaspreetsingh.store/index.php/jasi-toolkit/)] - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
 
 ### Streaming Apps
 - [99kubo](http://www.99kubo.tv) - (Ads) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
 - [AniméGlare](https://animeglare.xyz/) - (Ads) - lets you stream any anime for free.
-- [AniméVibe](http://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements! 
+- [AniméVibe](http://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!
 - [ApolloTV](https://apollotv.xyz/) - Open-source aggregator for various online video content.
 - [BeeTV](http://beetvapk.me/) - (Ads) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
 - [CKayTV](http://ckaytv.com/) - (Ads) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
 - [CinemaHD](https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) - A lot of Movies & TV/Shows to watch and download.
 - [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - Needs invite - Download various Movies.
-- [Evolve TV](http://evolvetv.info/) - (Ads) - Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
+- [Evolve TV](http://evolvetv.info/) - (Ads) - Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together.
 - [Fildo](https://fildo.net/android/en/) - Yet another Music streaming app.
 - [Filmix](https://filmix.site) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [KinoTor](http://tiardev.ru/) - (RU) - Provides movies and videos from several russian directories.
@@ -1442,7 +1442,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
 - [PhoenixTV](https://www.phoenixtv-distribution.com/) - Morpheus Fork
 - [RevTV](https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish
-- [Sofa TV Movie App](https://sofa-tv.en.aptoide.com/) - Watch Hollywood and Bollywood movies in High Quality for free. New movies are uploaded when HD quality is available.
 - [TVPato2](https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
 - [TVZion](https://tvzionapp.live/) - + [Reddit](https://www.reddit.com/r/TVZionApp/)
 - [TeaTV](https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
@@ -1458,7 +1457,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [2TwoMovies](https://two-movies.net/) - Watch Free Movies Online. TwoMovies is a free online video service that offers large collection of full length movies.
 - [5Movies](http://5movies.to/) - Watch FULL HD Quality 1080/720p movies and latest tv series online for free, download the latest movies without registration at all.
 - [8Putlocker](http://www1.8putlocker.com/) - Watch Movies HD Online for Free, you can watch all movies here. All TV Series, Asian Dramas, Anime & Cartoons.
-- [Afdah](http://afdah.to/) - Afdah is a web scraper coded to crawl and index online movie sites. 
+- [Afdah](http://afdah.to/) - Afdah is a web scraper coded to crawl and index online movie sites.
 - [BS.to](https://bs.to/) - (GER) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
 - [CafeHulu](http://cafehulu.com/) - e Best Place To Watch FREE Tv Series And Cartoons.
 - [EZTV (EZTV.AG)](https://eztv.io/) - Well known group for movies and series.
@@ -1485,7 +1484,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [720pstream](http://www.720pstream.me/)
 - [All The Best Fights](https://www.allthebestfights.com/)
 - [Arconaitv](https://www.arconaitv.us/)
-- [Bellator](http://www.bellator.com/events) 
+- [Bellator](http://www.bellator.com/events)
 - [BilaSport](http://bilasport.net/)
 - [Couch Tuner](https://www.couchtuner.cloud/)
 - [CrickFRee](https://crickfree.org/)
@@ -1528,7 +1527,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Fmovies](https://fmovie.info/fmovies.is) + ([Mirror](https://fmovie.info/fmovies.se)) + ([Mirror](https://www6.fmovies.to/))
 - [flixtor.to](https://flixtor.to/)
 - [Flixtor](https://flixtor.to/)
-- [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) - 
+- [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) -
 - [GOMovieshub](https://www.gomovieshub.se/)
 - [HackIMDb](https://hackimdb.com/)
 - [HDeuropix](https://hdeuropix.io/)
@@ -1631,7 +1630,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [DoujinStyle](https://discord.gg/z2QDFdA) - Discord server with Doujin related materials. Things such as Japanese doujin music & games.
 - [DreamTV](https://discordapp.com/invite/FQkQz6g) - A Discord server for the official DreamTV Android app.
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
-- [Morph TV (Morpheus Fork)](https://discordapp.com/invite/VHYGtA9) - Morph TV (Morpheus Fork) official Discord channel.
+- [Morph TV (Morpheus Fork)](https://discordapp.com/invite/gVxP2Gq) - Morph TV (Morpheus Fork) official Discord channel.
 - [piratesonline](https://discord.me/piratesonline) - Official piratesonline.us Discord Server.
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Home of /r/ps3homebrew and /r/ps4homebrew.
 - [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for the-eye.eu
@@ -1732,7 +1731,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Movieo](https://movieo.me/) - Discover, organize and track over 250,000 movies.
 - [nulled.cc](https://www.nulled.cc/) - Warez Scripts and a forum for additional piracy related resources.
 - [popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
-- [SIMKL](https://simkl.org/?gi=f7bbecee5cd0) - Similar like traktv but offers a Chrome app for Netflix. 
+- [SIMKL](https://simkl.org/?gi=f7bbecee5cd0) - Similar like traktv but offers a Chrome app for Netflix.
 - [Squawkr.io](https://www.squawkr.io/) - Sends you a notifications when movies are available for download.
 - [Trakt.tv](https://trakt.tv/) - A platform that does many things, but primarily keeps track of TV shows and movies you watch.
 - [TVmaze](https://www.tvmaze.com/) - TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
@@ -1796,7 +1795,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Configure YubiKey with Google, LastPass and KeePass](https://www.raymond.cc/blog/setting-up-yubikey-with-lastpass-as-second-factor-authentication/)
 - [How to use GPG with YubiKey (bonus: WSL)](https://codingnest.com/how-to-use-gpg-with-yubikey-wsl/)
 
-## Reverse Proxies 
+## Reverse Proxies
 - [bitmitigate.com](https://bitmitigate.com)
 - [blazingfast.io](https://blazingfast.io)
 - [Cloudflare](https://www.cloudflare.com)
@@ -1805,12 +1804,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [puroxy.org](https://puroxy.org)
 - [x4b.net](https://www.x4b.net)
 
-## Free graphics 
+## Free graphics
 - [PixelPro.io](https://pixelpro.io/) - Provides free (and paid) graphics for streamers.
 
 ## SMS
 - [Crypton](https://crypton.sh/) - Secure SMS Cloud service.
-- [SMS Privacy](https://smsprivacy.org/) - Send & recieve SMS securely. 
+- [SMS Privacy](https://smsprivacy.org/) - Send & recieve SMS securely.
 
 ## Shared Accounts
 - [/f/SharedAcc](https://raddle.me/) - Share and use account logins to preserve your online privacy.
@@ -1822,7 +1821,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## YouTube alternatives
 - [DTube](https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
-- [Minds](https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom. 
+- [Minds](https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
 - [PeerTube](https://joinpeertube.org/en/) - A decentralized video hosting network, based on free/libre software.
 
 ### Telegram Piracy Discussion Channels

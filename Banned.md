@@ -14,7 +14,7 @@
 * gamestorrent.co
 * gamezprivat.ru
 * howtofixgame.com
-* igg-games.com 
+* igg-games.com
 * magnet2torrent.com
 * nosteamgames.ro
 * OceanOfGames
@@ -191,14 +191,14 @@
 ## Faker
 * 2baksa.net
 * NORO repacks
-* nosTEAM.ro 
+* nosTEAM.ro
 
 ## Insecure
 * foxleech.com
 
 ## Banned search engines:
 * DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
-  
+
 ## Apps with malware, ads etc in it (possible honeypot apps to steal your data or to monitor you):
 * OLA TV
 
@@ -209,4 +209,5 @@
 * upload.ee
 
 ## Apps
+* [Sofa TV Movie App](https://sofa-tv.en.aptoide.com/) - Watch Hollywood and Bollywood movies in High Quality for free. New movies are uploaded when HD quality is available.
 * [Taraftar Tv](https://play.google.com/store/apps/details?id=com.tebilisim.android.taraftar)
