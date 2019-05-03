@@ -1423,9 +1423,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [AniméVibe](http://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements! 
 - [ApolloTV](https://apollotv.xyz/) - Open-source aggregator for various online video content.
 - [BeeTV](http://beetvapk.me/) - (Ads) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
-- [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) - A lot of Movies & TV/Shows to watch and download.
-- [CinemaHD](https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
 - [CKayTV](http://ckaytv.com/) - (Ads) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
+- [CinemaHD](https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
+- [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) - A lot of Movies & TV/Shows to watch and download.
 - [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - Needs invite - Download various Movies.
 - [Evolve TV](http://evolvetv.info/) - (Ads) - Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together. 
 - [Fildo](https://fildo.net/android/en/) - Yet another Music streaming app.
@@ -1433,20 +1433,21 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [KinoTor](http://tiardev.ru/) - (RU) - Provides movies and videos from several russian directories.
 - [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
 - [KrakenTV](https://krakentv.app/download/) - Watch dozens of different TV channels from the comfort of your Android device.
-- [Liveflix](https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
 - [Live TV](http://livetv24x7.tk) - Watch Indian TV Channels live on your mobile free.
+- [Liveflix](https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
 - [Mega Shows](https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Morph TV (Morpheus Fork)](http://titaniumtv.xyz/)
 - [Newest Movies HD](http://newestmovieshd.com) - (en-US) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [Orion TV](https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
-- [TeaTV](https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
+- [PhoenixTV](https://www.phoenixtv-distribution.com/) - Morpheus Fork
 - [RevTV](https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish
-- [TitaniumTV (Terrarium Clone)](http://titaniumtv.xyz/)
+- [Sofa TV Movie App](https://sofa-tv.en.aptoide.com/) - Watch Hollywood and Bollywood movies in High Quality for free. New movies are uploaded when HD quality is available.
 - [TVPato2](https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
 - [TVZion](https://tvzionapp.live/) - + [Reddit](https://www.reddit.com/r/TVZionApp/)
+- [TeaTV](https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
+- [TitaniumTV (Terrarium Clone)](http://titaniumtv.xyz/)
 - [UnlockMyTV (Cinema Clone AdFree)](https://unlockmytv.com/)
-- [PhoenixTV](https://www.phoenixtv-distribution.com/) - Morpheus Fork
 - [ZippyTv HD](http://www.zippytv.mobi/) - ZippyTv is one of the largest online TV platform with over 500 Live TV Channels.
 
 
