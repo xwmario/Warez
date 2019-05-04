@@ -67,7 +67,7 @@
 - [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
 - [DBREE](https://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
-- [File & Image Uploader](http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster. 
+- [File & Image Uploader](http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster.
 - [FilePizza](https://file.pizza/) - Free peer-to-peer file transfers in your browser.
 - [Filezilla](https://filezilla-project.org/) - The free & open source (S)FTP solution.
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
@@ -149,7 +149,7 @@
 - [SlowLoris](https://github.com/gkbrk/slowloris) - DoS tool that uses low bandwidth on the attacking side.
 - [T50](https://gitlab.com/fredericopissarra/t50/) - Faster network stress tool.
 - [UFONet](https://github.com/epsylon/ufonet) - Abuses OSI layer 7 HTTP to create/manage 'zombies' and to conduct different attacks using; `GET`/`POST`, multi-threading, proxies, origin spoofing methods, cache evasion techniques, etc.
-  
+
 
 ## Social Engineering Resources & Tools
 - [Beelogger](https://github.com/4w4k3/BeeLogger) - A little tool for generating keyloogers.
@@ -171,10 +171,10 @@
 
 ### Social Media related services, tools & scripts
 - [Forget](https://forget.codl.fr/about/) - Automatically deletes your old posts that everyone has forgotten about.
-- [Keybase](https://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub. 
+- [Keybase](https://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub.
 - [Nuke Reddit History](https://github.com/sr33/Nuke-Reddit-History) - [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) + [Chrome extension](https://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
 - [Random AI generated profile pictures](http://notarealhuman.com/) - Random AI generated profile pictures.
-- [ShadowCrypt](https://shadowcrypt-release.weebly.com/about.html) - Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages). 
+- [ShadowCrypt](https://shadowcrypt-release.weebly.com/about.html) - Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages).
 - [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Deletes Twitter and Reddit content based on your terms.
 - [TweetDelete](https://www.tweetdelete.net/) - Protect your privacy by automatically deleting posts older than a specified age from your Twitter feed.
 
@@ -186,7 +186,7 @@
 - [HasCat](https://hashcat.net/hashcat/) - HashCat claims to be the world's open source fastest password cracker.
 - [John the Ripper](http://http//www.openwall.com/john/) - John the Ripper is yet another popular free open source tool for password cracking in Linux, Mac OS X and Unix.
 - [L0phtCrack](http://http//www.l0phtcrack.com/download.html%C2%A0) - It makes various attempts on cracking Windows passwords from hashes.
-- [Medusa](http://www.foofus.net/) - Medusa is another tool for password cracking like THC Hydra. 
+- [Medusa](http://www.foofus.net/) - Medusa is another tool for password cracking like THC Hydra.
 - [OphCrack](http://ophcrack.sourceforge.net/) - OphCrack is available for free which is a rainbow-table based tool for password cracking on Windows. It is a popular Windows password cracking tool which can also be used on Linux or Mac.
 - [RainbowCrack](http://project-rainbowcrack.com/table.htm) - It falls in the hash cracker tool category that utilizes a large-scale time-memory trade off process for faster password cracking compared to traditional brute force tools.
 - [THC Hydra](http://https//www.thc.org/thc-hydra/) - THC Hydra can be said to be the fast paced network logon tool for password cracking.
@@ -229,7 +229,7 @@
 - [axel](https://github.com/axel-download-accelerator/axel) - Light command line download accelerator.
 - [curl](https://en.wikipedia.org/wiki/CURL) - `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 - [FilePursuit](https://filepursuit.com) - FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-- [FlixGrab](https://www.flixgrab.com/) - FlixGrab+ is an unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
+- [FlixGrab](https://www.flixgrab.com/) (also known as [FreeGrabApp](https://freegrabapp.com/product/free-netflix-download/)) - FlixGrab+ is an unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer.
 - [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) - Not likely to find much with this one but interesting nonetheless.
 - [Leonflix](https://leonflix.net/) - A multi-platform desktop app for finding movies and TV shows.
@@ -278,12 +278,12 @@
 
 
 ## Windows 10 pseudo-Privacy Tools & scripts
-- [BlackBird](https://www.getblackbird.net/) - Blocks telemetry, Ads etc. 
+- [BlackBird](https://www.getblackbird.net/) - Blocks telemetry, Ads etc.
 - [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to disable tracking in Windows 10.
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) - O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
 - [Tallow - Transparent Tor for Windows](https://github.com/basil00/TorWall) - Tallow is a small program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
 - [W10Privacy](https://www.winprivacy.de/english-home/) - Yet another little utility similar to O&O ShutUp.
-- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - A customizable script to setup script via PowerShell/CMD. 
+- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - A customizable script to setup script via PowerShell/CMD.
 - [Winaero](https://winaero.com/download.php) - Free, small and useful software for Windows.
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) - Freeware app from phrozen.io.
 - [WPD](https://wpd.app/) - The real privacy dashboard for Windows.
@@ -333,9 +333,9 @@
 - [Ant Download Manager](https://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
 - [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
-- [Persepolis Download Manager](https://persepolisdm.github.io/) - Open source alternative to IDM. 
+- [Persepolis Download Manager](https://persepolisdm.github.io/) - Open source alternative to IDM.
 - [pyLoad](https://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
-- [WFDownloader App](https://www.wfdownloader.xyz/) - batch downloader ultility. 
+- [WFDownloader App](https://www.wfdownloader.xyz/) - batch downloader ultility.
 - [Xtreme Download Manager](https://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 
 ## Web Exploitation
@@ -417,5 +417,5 @@
 
 ## Exif Data removal
 - [ExifTool by Phil Harvey](https://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, Write and Edit Meta Information!
-- [ExifTool GUI](http://u88.n24.queensu.ca/~bogdan/) - Adds a GUI to ExifTool by Phil Harvey. 
-- [Exif Purge](http://www.exifpurge.com/) - EXIF Purge is a small portable application to remove EXIF meta data from multiple images at once. 
+- [ExifTool GUI](http://u88.n24.queensu.ca/~bogdan/) - Adds a GUI to ExifTool by Phil Harvey.
+- [Exif Purge](http://www.exifpurge.com/) - EXIF Purge is a small portable application to remove EXIF meta data from multiple images at once.
