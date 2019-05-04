@@ -1428,6 +1428,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) - A lot of Movies & TV/Shows to watch and download.
 - [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - Needs invite - Download various Movies.
 - [Evolve TV](http://evolvetv.info/) - (Ads) - Watch for free more than 1100+ channels from all over the world, it also works with MXPlayer together.
+- [Exousia](https://exousia.app) - Watch Live Tv & Movies, Sports.
 - [Fildo](https://fildo.net/android/en/) - Yet another Music streaming app.
 - [Filmix](https://filmix.site) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [KinoTor](http://tiardev.ru/) - (RU) - Provides movies and videos from several russian directories.
