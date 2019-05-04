@@ -1120,16 +1120,17 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ## Music
 - [94hiphop](http://94hiphop.com/) - Download Free Hip Hop Albums!
-- [airsonic](https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [CDBao](https://www.cdbao.net/) - Chinese invite-only page for music.
 - [LibreSonic](https://github.com/Libresonic/libresonic) - Media streaming software.
-- [Madsonic](madsonic.org) - Madsonic is a web-based media library and media streamer with jukebox functionality.
 - [MOOVAL](https://www.mooval.de/) - Easily move your playlists, tracks and likes from one streaming service to another.
+- [Madsonic](madsonic.org) - Madsonic is a web-based media library and media streamer with jukebox functionality.
 - [MusicBrainz](https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - [Redacted](https://redacted.ch/) - Elite music scene (requires invite).
 - [RuTracker](http://rutracker.org/forum/index.php) - Ru-Tracker, music info, releases & software.
 - [Slsknet](http://www.slsknet.org/news/node/1) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
+- [airsonic](https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
+- [streethiphop](https://www.streethiphop.org/)] - Download free music.
 
 ### Music Streaming
 - [datmusic](https://datmusic.xyz/) - Search engine with a clean UI for streaming music in your browser
