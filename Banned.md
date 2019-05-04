@@ -193,6 +193,17 @@
 * NORO repacks
 * nosTEAM.ro
 
+## eBooks
+* downeu.org
+* ebook-hell.to
+* ebookbay.net
+* lesen.to
+* libertyland.co
+* libranet.no-ip.org
+* rainbownationsharing.net
+* sci-hub.ac
+* site.telecharger-ebook-gratuit.org
+
 ## Insecure
 * foxleech.com
 

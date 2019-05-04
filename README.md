@@ -1259,9 +1259,13 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## eBook Search Indexer
 - [ABook](http://abook.ws/) - One of the oldest book search indexers.
 - [BinSearch](http://binsearch.info/) - Binary Usenet search engine which can be used for eBooks and other stuff.
+- [EBookEE](https://ebookee.org/) - Tech, Database, Java and many many other categories.
+- [FreeBookSpot](http://www.freebookspot.es/) - Similar to eBookEE.
 - [GingaDaddy](http://www.gingadaddy.com) - A usenet newsgroup for eBooks. (needs login)
 - [Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - Preset of indexed websites to search for comics.
-- [oznzb](https://www.oznzb.com ) Yet another search engine.
+- [oznzb](https://www.oznzb.com ) - Yet another search engine.
+- [EBook Bike](https://ebook.bike/) - Another search indexer which claims to be the "largest" on the Internet.
+- [Ebook 3000](http://www.ebook3000.com/) - Free ebooks download
 
 ## Magazines
 - [ebook3000.com](http://ebook3000.com/) - Various magazines.
@@ -1290,14 +1294,20 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Movie Files](https://moviefiles.org/) - Download Movies For free.
 - [Movies "R" Us](https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 
-
 ## Audiobooks
+- [ZLibrary](https://b-ok.org/) - Part of Z-Library project. The world's largest ebook library.
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
 - [AudioBook Bay](http://audiobookbay.nl/) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
 - [AudioBooks.Cloud](https://audiobooks.cloud/) - DDL links to a lot of audiobooks.
 - [Booksonic](http://booksonic.org/) - Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 - [The-Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) - Audiobooks hosted by "The Eye".
 - [Tokybook](https://tokybook.com/) - Yet another free audiobook streaming site.
+- [BookFI](http://en.bookfi.net/) - The largest ebook library.
+- [Ebooks Shares](http://ebooks-shares.org) - A lot of eBooks & audiobooks!
+- [P2PEiite](http://p2pelite.com) - (HTTP only!) - Yet another oldschool eBook website.
+
+### Science Books
+- [BookSC](https://booksc.org/) - Part of Z-Library project. The world's largest scientific articles store. 70,000,000+ articles for free.
 
 ## Comicbooks
 - [getcomics.info](http://getcomics.info/) - Comics, release info & more.

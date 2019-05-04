@@ -1,21 +1,92 @@
-## Contributing Guidelines
+# Contributing
 
-* Your agree that you read the documents before you submitted a pull request.
-* You agree that it's not allowed to direct link to any illegal programs or material. 
-* You agree that this is not a project to argue about morality.
-* No drama or bitch fighting in or about this project. 
-* If you find that a listed website is involved into some kind of drama make a pull request and I will review it in order to verify if the claim are true or not.
+When contributing to this repository, please first discuss the change you wish to make via issue
+ticket, eMail, Discord or any other method with the owners of this repository before making any change.
 
-## Issue ticket system
+Please note that I have a code of conduct, please follow it in all your interactions with this project.
 
-The **Issue ticket system is closed** because everyone is permitted to create a pull request which is good enough in my eyes. I simply don't like to waste my spare time with pointless issue tickets, there is a Discord/Twitter Channel for such reasons which are the better  platforms to talk about findings or the project itself.
+## Pull Request Process
 
-### Pull Requests
+1. Ensure you fetch the latest versions first before you do a PR.
+2. Update the README.md with the changes which needs to be mention (in case something changed).
+3. Do not link to offline websites, check it against [Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/)
+  or [Down.com](https://down.com/).
+4. Open Source programs should be preferred, whenever you mention a new program. Keep that in mind!
 
-- [x] Linked Websites must be malware free, if it requires a VPN/proxy it must be mentioned due to privacy reasons.
-- [x] All pages must include a proper language code e.g. (Ger) for Germany etc. 
-- [x] Don't argue about morality here. We all have our reasons.
-- [x] If something is wrong or missing just make a PR (_see below how to do that!_)
-- [x] No page except ThePirateBay should include dangerous ads or coin-miners (TPB is the only exception).
-- [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them.
-- [x] No drama or bitch fighting, if a page is involved into such things it automatically lands on the banned list.
+
+## Code of Conduct
+
+### Our Pledge
+
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, or sexual identity and
+orientation.
+
+### Our Standards
+
+Examples of behavior that contributes to creating a positive environment
+include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting [constructive criticism](https://www.definitions.net/definition/CONSTRUCTIVE+CRITICISM)
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or
+advances
+* [Trolling](https://en.wikipedia.org/wiki/Internet_troll), insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+* Submitting something without doing research, testing or something which was
+  copied from the internet without any substantial evidence.
+
+### Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
+
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
+
+### Scope
+
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
+
+### Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team via eMail. All complaints will be
+reviewed and investigated and will result in a response that is deemed
+necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
+
+### Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at [http://contributor-covenant.org/version/1/4][version]
+
+[homepage]: http://contributor-covenant.org
+[version]: http://contributor-covenant.org/version/1/4/.
