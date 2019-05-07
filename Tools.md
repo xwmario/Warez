@@ -11,22 +11,22 @@
 - [Nefarious](https://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
 - [Piracy and automation, an overview](https://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) - Browser extension (currently Chrome & Firefox) - for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [Snahp tool](https://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
 - [SickRage](https://www.sickrage.ca/) - Automatic Video Library Manager for TV Shows.
+- [Snahp tool](https://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
 - [traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 
 
 ## Discord Scripts, Bots & Other Tools
-- [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
+- [BetterDiscord](https://betterdiscord.net/home/) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
+- [Discord Channel scraper](https://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
 - [Discord NSWDBot](https://github.com/HunterKing/NSWDBot) - Discord bot to scrape NSWDB.com for scene releases.
 - [Discord WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release.
-- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) - Provides end-to-end encryption for Discord.
-- [BetterDiscord](https://betterdiscord.net/home/) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
-- [Do Not Track for Discord](https://betterdocs.us/plugins/do-not-track/) - A plugin for BD to prevent Discord tracking.
-- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each other!).
-- [Discord Channel scraper](https://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
-- [Running a full deletion](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
+- [Discord notifications 1: Sonarr, Radarr and Lidarr](https://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
 - [Discord toolkit](https://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
+- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each other!).
+- [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) - Provides end-to-end encryption for Discord.
+- [Do Not Track for Discord](https://betterdocs.us/plugins/do-not-track/) - A plugin for BD to prevent Discord tracking.
+- [Running a full deletion](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
 
 
 ## TV Show Automation
@@ -35,15 +35,15 @@
 - [SickChill](https://sickchill.github.io/) - an automatic Video Library Manager for TV Shows.
 - [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
-- [subsync](https://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
-- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or bittorent.
+- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or Bittorent.
 - [TVShows 2](http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
+- [subsync](https://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
 - [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 
 
 ## Movie Automation
 - [Couchpotato](https://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
-- [Radarr](https://radarr.video/) - A fork of Sonarr to work with movies à la Couchpotato.
+- [Radarr](https://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 
@@ -53,17 +53,16 @@
 
 
 ### Subtitles Automation
-- [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition
 - [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
 - [HorribleSubs Bulkd Download](https://anonembed.xyz/horriblesubs/) - 9anime bulk subs download website.
-- [SubScenes](https://subscene.com/) - Subtitle Scene, provdes subtitles and tools.
 - [JustDubs](https://ww5.justdubs.me/) - Watch English Dubbed Anime And Movies For Free Online.
-- [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
+- [SubScenes](https://subscene.com/) - Subtitle Scene, provdes subtitles and tools.
 - [WonderfulSubs](https://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
+- [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition
+- [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 
 
 ## File Sharing Tools
-- [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
 - [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
 - [DBREE](https://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
@@ -74,10 +73,8 @@
 - [Fopnu](https://fopnu.com/) - Fopnu is a new and decentralized network tool to share files over P2P.
 - [Mega.nz Website](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
 - [Meiga](https://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
-- [nextCloud](https://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
 - [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
 - [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
-- [ownCloud](https://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
 - [Plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
 - [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
@@ -87,25 +84,25 @@
 - [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 - [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
 - [Tixati](https://www.tixati.com/) - Freeware, advanced featured torrent client, a web user interface is included.
-- [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
-- [uGet](https://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
 - [Vuze](https://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs.
 - [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.
+- [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
+- [nextCloud](https://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
+- [ownCloud](https://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
+- [uGet](https://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
+- [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
 
 
 ## Antivirus alternatives
 - [FireJail](https://firejail.wordpress.com/download-2/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
-- [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
 - [FlatPak](https://flatpak.org/getting) - Standalone apps for Linux are here!
+- [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
 - [Sandboxie](https://www.sandboxie.com/) - Install and run programs in a virtual sandbox environment without writing to the hard drive.
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 
 
 ## Reverse Engineering Tools
-- [binwalk](https://github.com/devttys0/binwalk) - Fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
-- [boxxy](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
 - [Capstone](http://www.capstone-engine.org/) - Lightweight multi-platform, multi-architecture disassembly framework.
-- [dnSpy](https://github.com/0xd4d/dnSpy) - Tool to reverse engineer .NET assemblies.
 - [Evan's Debugger](http://www.codef00.com/projects#debugger) - OllyDbg-like debugger for GNU/Linux.
 - [Frida](https://www.frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [Ghidra](https://www.ghidra-sre.org/) - Suite of free software reverse engineering tools developed by NSA's Research Directorate originally exposed in WikiLeaks's "Vault 7" publication and now maintained as open source software.
@@ -113,15 +110,18 @@
 - [Interactive Disassembler (IDA Pro)](https://www.hex-rays.com/products/ida/) - Proprietary multi-processor disassembler and debugger for Windows, GNU/Linux, macOS & Android. Hey-Rays also offers a free version.
 - [Medusa](https://github.com/wisk/medusa) - Open source, cross-platform interactive disassembler.
 - [OllyDbg](http://www.ollydbg.de/) - x86 debugger for Windows binaries that emphasizes binary code analysis.
-- [peda](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
-- [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
-- [pwndbg](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
 - [PyREBox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
 - [Radare2](http://rada.re/r/index.html) - Open source, crossplatform reverse engineering framework.
-- [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
 - [UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor.
 - [Voltron](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 - [WDK/WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx) - Windows Driver Kit and WinDbg.
+- [binwalk](https://github.com/devttys0/binwalk) - Fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+- [boxxy](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+- [dnSpy](https://github.com/0xd4d/dnSpy) - Tool to reverse engineer .NET assemblies.
+- [peda](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
+- [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+- [pwndbg](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
+- [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
 - [x64_dbg](http://x64dbg.com/) - Open source x64 & x86 debugger for Windows.
 
 
@@ -135,9 +135,9 @@
 
 
 ### eMail Clients (Desktop/Mobile)
-- [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Well-known open source eMail Client from Mozilla.
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron based wrapper for ProtonMail & Tutanota.
-- [p≡p](https://www.pep.security/) - Pretty Easy Privacy (p=p) - email client encrypts all communications in your email without the need for you to create new accounts.
+- [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Well-known open source eMail Client from Mozilla.
+- [p=p](https://www.pep.security/) - Pretty Easy Privacy (p=p) - email client encrypts all communications in your email without the need for you to create new accounts.
 
 
 ## DDoS Tools
@@ -419,3 +419,11 @@
 - [ExifTool by Phil Harvey](https://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, Write and Edit Meta Information!
 - [ExifTool GUI](http://u88.n24.queensu.ca/~bogdan/) - Adds a GUI to ExifTool by Phil Harvey.
 - [Exif Purge](http://www.exifpurge.com/) - EXIF Purge is a small portable application to remove EXIF meta data from multiple images at once.
+
+## Video Editing
+- [AviDemux](http://fixounet.free.fr/avidemux/) - Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
+- [Dividing TS files as tssplitter](https://github.com/range3/tsdivider) - Dividing TS files as tssplitter.
+- [Shorts](https://shortsapp.com/) - Easy to use video editor.
+- [VidCutter](https://github.com/ozmartian/vidcutter) - Open Source Video cutter program for, Linux, Mac, Windows & Android.
+- [Virtualdub2](https://sourceforge.net/projects/vdfiltermod/files/) - An enhanced version of the original VirtualDub.
+- [XMedia Recode](https://www.xmedia-recode.de/en/) - Freeware video and audio transcoding program.
