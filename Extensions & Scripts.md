@@ -38,6 +38,10 @@
 - [Universal Bypass (for shortner links)](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj)
 
 
+## (Unofficial) Tor related Extensions
+- [Onion Browser Button](https://chrome.google.com/webstore/detail/onion-browser-button/fockhhgebmfjljjmjhbdgibcmofjbpca?hl=en) + ([source code](https://github.com/jeremy-jr-benthum/tor-button))
+
+
 ### Bypass Paywalls
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Burlesco](https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.

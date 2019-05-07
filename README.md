@@ -479,21 +479,25 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) - The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use).
 
 # Usenet Providers
-- [Eweka](https://www.eweka.nl/) - Netherlands-based Usenet provider.
+- [Eweka News](https://www.eweka.nl/) - Netherlands-based Usenet provider.
 - [Newsdemon](https://www.newsdemon.com/) - Cheap and cheerful Usenet provider with frequent discounts.
+- [Newsgroup Ninja](https://www.newsgroup.ninja/en) - $7.99 per month, SSL encryption, Unmetered usage, Unlimited speeds.
 - [Newsgroup Ninja](https://www.newsgroup.ninja/en) - Popular Usenet provider with a competitive subscription fee.
 - [Premiumizer](https://github.com/piejanssens/premiumizer) - A download management tool for premiumize.me cloud downloads.
-- [Usenet Express](http://usenetexpress.com/) - UsenetExpress is a powerful new tier-1 Usenet provider which offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
-- [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) - This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
+- [Tweaknews](https://www.tweaknews.eu/en/landing/best-deal?a_aid=greycoder) - Dutch Usenet provider that offers a [Highwinds](https://highwinds.com/) news feed.
 - [Usenet Crawler](www.usenet-crawler.com) - Movies, eBooks, TV Series, Anime & more.
+- [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) - This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [Usenet.Farm](https://usenet.farm/) - Usenet reseller with 1000+ days retention.
+- [UsenetExpress](http://usenetexpress.com/) - UsenetExpress is a powerful new tier-1 Usenet provider which offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
 - [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
+- [XS News](https://greycoder.com/goto/xsnews) - European Usenet feed.
+
 
 ## Usenet Indexing Software
-- [newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer.
-- [newznab](http://www.newznab.com/) - Newznab is a usenet indexing application, that makes building a usenet community easy.
 - [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 - [nZEDb](https://github.com/nZEDb/nZEDb) - A fork of nnplus(2011) - | NNTP / Usenet / Newsgroup indexer.
+- [newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer.
+- [newznab](http://www.newznab.com/) - Newznab is a usenet indexing application, that makes building a usenet community easy.
 
 ### Usenet Paid Indexers
 - [DOGnzb](https://dognzb.cr/login) - Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) - at the moment)
