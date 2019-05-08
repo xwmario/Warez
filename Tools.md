@@ -138,6 +138,7 @@
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron based wrapper for ProtonMail & Tutanota.
 - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Well-known open source eMail Client from Mozilla.
 - [p=p](https://www.pep.security/) - Pretty Easy Privacy (p=p) - email client encrypts all communications in your email without the need for you to create new accounts.
+- [Tutanota](https://github.com/tutao/tutanota) - Email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
 
 
 ## DDoS Tools
@@ -427,3 +428,7 @@
 - [VidCutter](https://github.com/ozmartian/vidcutter) - Open Source Video cutter program for, Linux, Mac, Windows & Android.
 - [Virtualdub2](https://sourceforge.net/projects/vdfiltermod/files/) - An enhanced version of the original VirtualDub.
 - [XMedia Recode](https://www.xmedia-recode.de/en/) - Freeware video and audio transcoding program.
+
+## Whistleblower ultilities
+- [Secure Connect by Tutanota](https://secureconnect.tutao.de/contactform/demo) - Encrypts your documents local.
+- [SecureDrop](https://securedrop.org/) - Share documents securely with these organizations.
