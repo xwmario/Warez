@@ -224,3 +224,4 @@
 * [Sofa TV Movie App](https://sofa-tv.en.aptoide.com/) - Watch Hollywood and Bollywood movies in High Quality for free. New movies are uploaded when HD quality is available.
 * [Taraftar Tv](https://play.google.com/store/apps/details?id=com.tebilisim.android.taraftar)
 * [Typhoon TV](https://typhoontv.net/)
+* [ThopTV](https://thoptv.space/)
