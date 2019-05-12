@@ -1436,6 +1436,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [99kubo](http://www.99kubo.tv) - (Ads) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
 - [AniméGlare](https://animeglare.xyz/) - (Ads) - lets you stream any anime for free.
 - [AniméVibe](http://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!
+- [AOS TV](https://aostv.app/) - Watch More than 1000+ Live TV Channels free on your Android Phone from across the world.
 - [ApolloTV](https://apollotv.xyz/) - Open-source aggregator for various online video content.
 - [BeeTV](http://beetvapk.me/) - (Ads) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
 - [CKayTV](http://ckaytv.com/) - (Ads) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
