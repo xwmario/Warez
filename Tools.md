@@ -195,11 +195,12 @@
 
 ## YouTube Downloader
 - [QDownloader.net](https://qdownloader.net/youtube-video-downloader) - Download videos from YouTube in MP4, FLV, 3GP, and other formats.
-- [SConverter.com](https://sconverter.com/) - Online Youtube Video Downloader.
+- [Sconverter.com](https://sconverter.com/) - Online Youtube Video Downloader.
 - [YouTubeNow.com](https://www.youtubnow.com/) - Claims to be the best online YouTube downloader 2019.
 - [onlinevideoconverter](https://www.onlinevideoconverter.com/youtube-converter) - Convert YouTube video links to MP4, MP3, AVI with our YouTube Converter & Downloader.
 - [y2mate.com](https://y2mate.com/) - Download Video and Audio from YouTube.
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+
 
 ## Torrent Clients
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent&hl=en) - A modern Android application with new modern design!
@@ -301,6 +302,8 @@
 - [Wikipedia - List of e-book readers](http://en.wikipedia.org/wiki/List_of_e-book_readers) - Learn about all of the different ebook readers from Wikipedia.
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) - reader for Windows.
 - [QPDF](https://sourceforge.net/projects/qpdf/) - PDF transformation/manipulation program + library.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
+
 
 ### IRC Clients
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
@@ -432,3 +435,6 @@
 ## Whistleblower ultilities
 - [Secure Connect by Tutanota](https://secureconnect.tutao.de/contactform/demo) - Encrypts your documents local.
 - [SecureDrop](https://securedrop.org/) - Share documents securely with these organizations.
+
+## Windows Hardening Tools
+- [Hard_Configurator](https://hard-configurator.com/) - GUI to manage Software Restriction Policy (SRP) and harden Windows.

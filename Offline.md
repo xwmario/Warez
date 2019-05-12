@@ -1,11 +1,12 @@
-## Offline but never forgotten 
+## Offline but never forgotten
 
 Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
 
-- Good-Old-Downloads 
+- Good-Old-Downloads
 - MovieBox
 - worldwidetorrents.me
 - buildfeed.net ([source code](https://gitlab.com/buildfeed/BuildFeed))
+- [Tetrisfriends.com](https://old.reddit.com/r/Piracy/comments/bn3dno/tetrisfriendscom_is_going_offline_at_the_end_of/)
 
 ## Android Apps
 - Terrarium TV
@@ -141,7 +142,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - openleaf.net.ru
 
 
-## IRC + Websites 
+## IRC + Websites
 - audiop2p.com/pre.php
 - d0pe0r.1go.dk/dp.htm
 - doopes.com

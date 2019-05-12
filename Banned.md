@@ -225,3 +225,6 @@
 * [Taraftar Tv](https://play.google.com/store/apps/details?id=com.tebilisim.android.taraftar)
 * [Typhoon TV](https://typhoontv.net/)
 * [ThopTV](https://thoptv.space/)
+
+## YouTube Download
+- [Videoder](https://www.videoder.com/) - Download videos for free. See [here](https://old.reddit.com/r/androidapps/comments/bnekx7/is_videoder_safe_these_days/).
