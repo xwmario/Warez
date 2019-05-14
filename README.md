@@ -1447,6 +1447,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Exousia](https://exousia.app) - Watch Live Tv & Movies, Sports.
 - [Fildo](https://fildo.net/android/en/) - Yet another Music streaming app.
 - [Filmix](https://filmix.site) - Watch movies and TV shows using AndroidTV or mobile devices.
+- [Glaz TV](https://www.glaz.tv/) - (RU) - Online TV for Android devices.
 - [KinoTor](http://tiardev.ru/) - (RU) - Provides movies and videos from several russian directories.
 - [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
 - [KrakenTV](https://krakentv.app/download/) - Watch dozens of different TV channels from the comfort of your Android device.
