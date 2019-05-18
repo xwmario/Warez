@@ -1865,6 +1865,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [weboas.is](http://weboas.is/) - Another website for pirates.
 
 ## Proxy Sites to bypass filters to unblock blocked Websites
+- [AvoidCensorship](https://avoidcensorship.org/) - Unblock The Pirate Bay.
 - [ByPassed](https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 - [ProxySite.cc](https://proxysite.cc/) + ([Mirror](https://proxysite.site/)) + ([for Videos](https://proxysite.video/)) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
 - [Unblocked](https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites.
