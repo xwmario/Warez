@@ -111,7 +111,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### VPN Subscription Services (no-logs)
 - [ExpressVPN](https://www.expressvpn.com/) ExpressVPN - A VPN with 256-bit encryption, over 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
+- [MullVad VPN](https://mullvad.net/) - Provides OpenVPN/Wireguard support.
 - [NordVPN](https://nordvpn.com/) - Protect your privacy online and access media content with no regional restrictions, and audit can be found [here](https://github.com/CHEF-KOCH/NSABlocklist/blob/5371276f7411ab64530f421ed88d21dda28b0dbc/Documents/VPN/profile-nordvpn2.pdf)
+- [Perfect Privacy VPN](https://www.perfect-privacy.com/) - Known in the business since over 10 years.
 - [Private Internet Access](https://www.privateinternetaccess.com/) - Popular subscription-based VPN provider with a proven track record for not keeping logs.
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss made VPN that safeguards your privacy.
 
@@ -366,7 +368,8 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [MagnetDL](http://www.magnetdl.com/) - Magnet link only search engine.
 - [metal-tracker.com](http://en.metal-tracker.com/) - Heavy metal music tracker.
 - [Monitor Shodan](https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
-- [Moviemagnet](http://moviemagnet.co/) - Verified torrents for movies.
+- [Moviemagnet](http://moviemagnet.co/) - Verified Torrents for movies.
+- [Movcr](https://movcr.tv/) - Download Movies Torrent Online Free.
 - [Music Torrent](http://music-torrent.net) General music tracker
 - [OTorrents](https://otorrents.com/) - Yet another public torrent tracker.
 - [Pirateiro](https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
@@ -377,6 +380,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Saavn](https://saavn.tomato.to/) - A search engine designed to find old and new music releases.
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [SkyTorrents](https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
+- [Streams.Now.SH](https://streams.now.sh/) - Similar quality / size like RARBG & YTS.
 - [The Pirate Bay](https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!)
 - [The Proxy Bay](https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
@@ -387,11 +391,11 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [TorrentInvites](http://torrentinvites.org) - #1 to buy, trade, sell or find free Tracker Invites!
 - [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
 - [Torrentz2](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
-- [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
+- [Trackers list](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
 - [WebOas](https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
 - [WorldWide Torrents](http://worldwidetorrents.to/) - Another public tracker with a reasonably nice UI.
 - [xbit.pw](http://xbit.pw/) - A Magnet site search engine.
-- [YggTorrent](https://www3.yggtorrent.to/) - French tracker and search engine (have a download/upload ratio limitation).
+- [YggTorrent](https://www3.yggtorrent.to/) - French tracker and search engine (has a download/upload ratio limitation).
 - [YTS](https://yts.am/) - Small-size HD movies in a good quality from YIFY.
 - [Zonatorrent](https://zonatorrent.tv/) - Spanish tracker.
 - [Zooqle](https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
