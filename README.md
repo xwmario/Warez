@@ -366,24 +366,25 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [MagnetDL](http://www.magnetdl.com/) - Magnet link only search engine.
 - [metal-tracker.com](http://en.metal-tracker.com/) - Heavy metal music tracker.
 - [Monitor Shodan](https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
-- [moviemagnet](http://moviemagnet.co/) - Verified torrents for movies.
+- [Moviemagnet](http://moviemagnet.co/) - Verified torrents for movies.
+- [Music Torrent](http://music-torrent.net) General music tracker
 - [OTorrents](https://otorrents.com/) - Yet another public torrent tracker.
 - [Pirateiro](https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [RARBG](https://rarbg.to/) - Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
-- [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) - Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
+- [Rock Box](https://rawkbawx.rocks/) A Metal music tracker.
 - [Rustorka](http://rustorka.com) - (RU) - Software, Games & More.
-- [rutor](http://rutor.info/) - Russian public tracker.
+- [Rutor](http://rutor.info/) - Russian public tracker.
 - [Saavn](https://saavn.tomato.to/) - A search engine designed to find old and new music releases.
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [SkyTorrents](https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
-- [The Pirate Bay](https://thepiratebay.org/) - Well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!)
+- [The Pirate Bay](https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!)
 - [The Proxy Bay](https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
 - [Torlock](https://www.torlock.com/) - Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [Torrent9](https://www.torrent9.ph/) - French torrent search engine.
 - [TorrentFunk](https://www.torrentfunk.com/) - TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [TorrentGalaxy](https://torrentgalaxy.org/) - Public tracker with a clean UI.
-- [TorrentInvites](http://torrentinvites.org) - #1 To Buy, Trade, Sell Or Find Free Tracker Invites!
+- [TorrentInvites](http://torrentinvites.org) - #1 to buy, trade, sell or find free Tracker Invites!
 - [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
 - [Torrentz2](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
 - [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
@@ -515,7 +516,12 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Usenet Crawler](https://usenet-crawler.com/) - Usenet indexer with API access for registered users.
 
 ### Portables & Repacks
-- [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) - Windows Software repacks and portables.
+- [FoxxApp PAF Portables](https://foxxapp-paf.blogspot.com) - Windows Software repacks & portables.
+- [LR Repacks](https://lrepacks.ru/) - (RU) - Yet another Russian portal, for ELCHUPACABRA repacks & more.
+- [PiratedHub](https://piratedhub.com/) - Internation Repack website.
+- [RePack Club](https://repacks.club/) - (RU) - Russian repack portal.
+- [Repacks.NET](https://repacks.net/) - A well-known repack website mostly for Windows software.
+
 
 ### Custom "Google" Search Engines
 - [FileChef](http://filechef.com/) - Get direct download links for almost anything!
