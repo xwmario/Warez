@@ -1950,7 +1950,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [@movies_inc](https://t.me/movies_inc) - Another Telegram channel for downloading several movies in different quality.
 - [@Moviezworldz](https://t.me/Moviezworldz) - Official Moviezworldz channel.
 - [@MusicHuntersBot](https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
-- [@piracy](https://t.me/joinchat/JSoye0ykWKHhixE0_EV4dw) - A modest group with over 400 pirates.
+- [@piracy](https://t.me/joinchat/JSoye0ykWKGZc_jueXqlcg) - A modest group with over 400 pirates.
 - [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel which provides warez information, lists & more.
 - [@Qualitymovies](https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto Chan](https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
