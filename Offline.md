@@ -137,6 +137,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - tekspert.se
 - theromdepot.comroms
 - time2watch.in
+- Egy.best
 
 ## Domain registrar
 - openleaf.net.ru
