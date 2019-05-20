@@ -108,6 +108,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - leechers.info
 - mac-torrents.me
 - macgames-download.com
+- MagnetDL
 - newtorrents.info
 - ondailytvfix.com
 - pcgames-download.com
