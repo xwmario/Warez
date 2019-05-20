@@ -438,3 +438,7 @@
 
 ## Windows Hardening Tools
 - [Hard_Configurator](https://hard-configurator.com/) - GUI to manage Software Restriction Policy (SRP) and harden Windows.
+
+
+## Autonomous (self-hosted) BitTorrent DHT search engine suite
+- [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent [DHT search engine suite](http://labs.boramalper.org/magnetico/).
