@@ -454,7 +454,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Seedr](https://seedr.cc/) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
 - [Seedbox.io](https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [SeedSync](https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
-- [Torrent Safe](https://www.torrentsafe.com/) - Free-plan includes 1GB max file size, 2 days file lifetime.
 - [UltraSeedbox](https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
 - [ZXCFiles](http://www.zxcfiles.net) - A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
 
