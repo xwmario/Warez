@@ -29,7 +29,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 * Insecure programs (no audit- or code-review).
 * Why is program _x_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
 
-### How can I contribute to this list?
+### How can I contribute to the list?
 * You can [submit a pull request](https://github.com/CHEF-KOCH/Warez/pulls) - after you [read the contributions guidelines](https://github.com/CHEF-KOCH/Warez/blob/master/.github/CONTRIBUTING.md).
 
 ## How to search on this page?
@@ -1323,19 +1323,23 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [b-ok](http://b-ok.xyz/) - Free ebook library
 - [Baen Free Library](http://www.baen.com/library/) - You can download ebooks for HTML, RTF, Microsoft Reader and for Palm, Psion, and Window CE.
 - [Bartleby](http://www.bartleby.com/ebook/) - While Bartleby charges for some titles, it has a free ebook store here.
-- [bibliomania](http://www.bibliomania.com/) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
+- [Bibliomania](http://www.bibliomania.com/) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
+- [BitSpyder](https://www.bitspyder.net/) - E-Learning, tutorials & trainings.
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 - [Bookyards](http://www.bookyards.com/) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
 - [Boundless](https://www.boundless.com/) - Affordable online textbooks & study materials.
 - [Calibre-Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [CG Persia Forum](https://cgpersia.com/) - EBooks, tutorials & courses.
+- [CGPeers](https://www.cgpeers.com/) - Ebooks,, courses and trainings.
 - [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
 - [DailyLit](http://www.dailylit.com/) - Get free downloads sent to your email by RSS feed.
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) A github repository of all the scripts and other tools for removing DRM from ebooks.
 - [DLEBook.me](http://dlebook.me/) - eBooks, Magazines & software.
 - [ebook Directory](http://www.ebookdirectory.com/) - From children's books to IT books to literature to reference, you'll find lots of free titles and book packages here.
-- [ebookee.org](https://ebookee.org/) - PDF/eBooks trading.
+- [ebookee.org](https://ebookee.org/) - PDF & eBooks trading, various categories.
 - [eBookLobby](http://www.ebooklobby.com/) - You'll find lost of self-help, hobby and reference books here, plus children's fiction and more.
+- [eLearning](https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
 - [eReader.com](http://www.ereader.com/servlet/mw?t=freebooks&si=59) - eReader.com has many classic lit selections for free.
 - [FicSave](http://ficsave.xyz/) - An Open-Source Online Fanfiction Downloader.
 - [Free-eBooks.net](http://www.free-ebooks.net/) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
@@ -1348,10 +1352,14 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [iBiblio](http://www.ibiblio.org/index.html) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
 - [LibGen](http://libgen.io/) - eBook search. ([Mirror](http://gen.lib.rus.ec/)) - + ([another Mirror](https://libgen.pw/))
 - [ManyBooks.net](http://manybooks.net/) - You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
+- [NZBIndex](https://nzbindex.com/search/?q=Lynda.+Com&age=&max=25&minage=&sort=agedesc&minsize=&maxsize=&dq=&poster=&hidespam=0&hidespam=1&more=0) - Example search for "Lynda .com". You get the idea.
 - [Planet PDF](http://www.planetpdf.com/free_pdf_ebooks.asp) - Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
 - [Read Print Library](http://www.readprint.com/) - These novels and poems are all free.
+- [s10 BitDownload](http://s10.bitdownload.ir/Learning.2/) - Tutorials, Udemy & and others.
 - [Starry.com](http://www.starry.com/free-online-novels/index.htm) - These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
+- [TheGeeks](https://thegeeks.click/) - Ebook tutorials, Udemy & more.
 - [TehParadox](http://www.tehparadox.co/) - eBooks, Apps, Games & more.
+- [TutsGalaxy](https://tutsgalaxy.com/) - Free Courses & Tutorials
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Posted by /u/Servaplur
 - [The Online Books Page](http://digital.library.upenn.edu/books/) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
 - [Ubooquity](http://vaemendis.net/ubooquity/) - Ubooquity is a free home server for your comics and ebooks library.
@@ -1363,9 +1371,9 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [FreeBookSpot](http://www.freebookspot.es/) - Similar to eBookEE.
 - [GingaDaddy](http://www.gingadaddy.com) - A usenet newsgroup for eBooks. (needs login)
 - [Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - Preset of indexed websites to search for comics.
-- [oznzb](https://www.oznzb.com ) - Yet another search engine.
+- [oznzb](https://www.oznzb.com ) - Yet another ebook search engine.
 - [EBook Bike](https://ebook.bike/) - Another search indexer which claims to be the "largest" on the Internet.
-- [Ebook 3000](http://www.ebook3000.com/) - Free ebooks download
+- [Ebook 3000](http://www.ebook3000.com/) - Free ebooks downloads.
 
 ## Magazines
 - [ebook3000.com](http://ebook3000.com/) - Various magazines.
