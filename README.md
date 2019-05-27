@@ -1988,7 +1988,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Documents Downloaders
 - [DocDownloader.com](https://docdownloader.com/) - Scribd, Issuu, Slideshare & Academia downloader.
 
-## Web Page testing
+## Web Page Testing
 - [wptagent](https://github.com/WPO-Foundation/wptagent) - Cross-platform WebPageTest agent which supports allmost all current OS.
 
 ## Alternative Search Engines
@@ -2006,8 +2006,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Online Video Converter](https://www.onlinevideoconverter.com/) - Free online video conversion tool.
 - [Twitter Video Downloader](http://twittervideodownloader.com/error) - Twitter Video Downloader.
 
-
 ## Subtitles
 - [Addic7ed](https://www.addic7ed.com/) - Quality Subtitles for TV Shows and movies.
 - [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename subtitles files according to TV show names found in a directory.
 - [Subscene](https://subscene.com/) - Quality Subtitles for Movies.
+
+### Email provider
+- [Cock.li](http://cock.li) - Solution for professional E-mail and XMPP addresses since 2003. Allows registration and usage using Tor and other privacy services (proxies, VPNs).
