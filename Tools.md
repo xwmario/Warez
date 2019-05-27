@@ -335,12 +335,15 @@
 
 ## Download Managers
 - [Ant Download Manager](https://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
+- [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
 - [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. The [Event Scripter Scripts](https://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) are a nice addition to "tweak" your JD with some scripts.
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - Open source alternative to IDM.
+- [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool & engine for managing sharing websites.
 - [pyLoad](https://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
-- [WFDownloader App](https://www.wfdownloader.xyz/) - batch downloader ultility.
+- [WFDownloader App](https://www.wfdownloader.xyz/) - Batch downloader ultility.
 - [Xtreme Download Manager](https://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
+
 
 ## Web Exploitation
 - [autochrome](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome/) - Easy to install a test browser with all the appropriate setting needed for web application testing with native Burp support, from NCCGroup.
