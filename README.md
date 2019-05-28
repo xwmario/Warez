@@ -2015,3 +2015,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### Email provider
 - [Cock.li](http://cock.li) - Solution for professional E-mail and XMPP addresses since 2003. Allows registration and usage using Tor and other privacy services (proxies, VPNs).
+
+### Image downloader
+- [Dezoomify](https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](https://github.com/lovasoa/dezoomify/) - Download zoomable images.
