@@ -4,9 +4,10 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 
 - Good-Old-Downloads
 - MovieBox
-- worldwidetorrents.me
 - buildfeed.net ([source code](https://gitlab.com/buildfeed/BuildFeed))
 - [Tetrisfriends.com](https://old.reddit.com/r/Piracy/comments/bn3dno/tetrisfriendscom_is_going_offline_at_the_end_of/)
+- [YIFYMovies.is](https://torrentfreak.com/movie-companies-sue-yts-and-yify-site-operators-in-us-court-190527/)
+- worldwidetorrents.me
 
 ## Android Apps
 - Terrarium TV
