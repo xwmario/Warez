@@ -1,6 +1,6 @@
 ## Browser Script Engines (needed to run the Browser Scripts)
-- [Tapermonkey](https://tampermonkey.net/) - Tampermonkey is the most popular userscript manager, with over 10 million users
-- [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager.
+- [Greasemonkey](https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
+- [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
 
 
 ## Userscripts
@@ -49,6 +49,14 @@
 - [Bypass Paywalls for Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass New York Times among many other paywalls.
 - [Outline](https://outline.com/) - Outline is a free service for reading and annotating news articles.
 - [Unpaywall](https://unpaywall.org/) - An open database of 20 million free scholarly articles.
+
+
+### Dark Mode
+- [Darkreader](https://darkreader.org/) - Dark Mode for Everything.
+
+
+## Browser right-click context menu addons
+- [Image Search Options](https://saucenao.com/tools/) - Add search options to the right-click context menu.
 
 
 ## Movies & Play Scripts
