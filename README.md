@@ -63,6 +63,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
 - [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
 - [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
+- [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)
 
 ### Social Media Alternatives
 - [MeWe](https://mewe.com/) - Google+ replacement.
@@ -728,7 +729,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [DubbedAnime](https://ww5.dubbedanime.net/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [EyeOnAnime](https://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
 - [GoGoAnime](https://www1.gogoanime.sh/) - Subs and dubs, many ads, many player alternatives.
-- [Hi10Anime](https://hi10anime.com/)
+- [Hi10Anime](https://hi10anime.com/) - High Quality 10-bit Animes.
 - [HotAnime](http://w1.hotanime.me/) - Subs and dubs, lots of banner ads, pop-ins, possibly self-hosted videos, downloadable (via OpenLoad).
 - [Justdubs](http://justdubs.org/)
 - [Kawaiifu](http://kawaiifu.com/) - Videos hosted by Google, only one source, style similar to niconico, missing multiple anime.
