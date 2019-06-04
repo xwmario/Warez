@@ -144,6 +144,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/v/piracy](https://voat.co/v/piracy) - Voat Forum for piracy.
 
 ## Archives
+- [130GB of flash games](http://bluemaxima.org/flashpoint/downloads/)
 - [GOG Dump](http://web.archive.org/web/20190429144618/https://docs.google.com/spreadsheets/d/e/2PACX-1vSDj58h_xUDPoz9n12x_kZvQW1VKO4AQOaNGaUmEtpFmL5q0R05Pr4qVZxxzH8CZT3ZLX6_ZX8muYzm/pubhtml)
 - [Nintendo Games Collection](http://web.archive.org/web/20190429144531/https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml)
 - [Microsoft Games Collection](http://web.archive.org/web/20190429144409/https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
