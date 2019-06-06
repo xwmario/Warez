@@ -21,6 +21,7 @@
 * oceanofgames.com
 * pcgamestorrents.com
 * privatgamer.space
+* Skidrow.com (it's a band "Skid Row")
 * skidrow.games
 * skidrowgames.in
 * skidrowgamesreloaded.co
