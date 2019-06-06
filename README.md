@@ -452,12 +452,26 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [DediSeedBox](https://dediseedbox.com/) - Netherlands located Seeedbox service.
 - [FileStream.me](https://filestream.me/) - Free subscription offers 200Mb max file size and 200GB storage total.
 - [Furk.net](https://www.furk.net/) - Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
-- [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.IO.
-- [Seedr](https://seedr.cc/) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
+- [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
+
 - [Seedbox.io](https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [SeedSync](https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 - [UltraSeedbox](https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
 - [ZXCFiles](http://www.zxcfiles.net) - A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
+
+### Convert Torrent to Direct HTTP Link
+- [Boxopus](http://www.boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
+- [Bruzzy.com](http://www.bruzzy.com/#login) - (RU) - Similar to ZBIgZ.
+- [BTCloud](https://btcloud.io/) - BTCLoud offer 1 GB of storage space with 1 GB file size limit and 5 torrents stored at a time for its free users.
+- [bytebx](http://bytebx.com/) - Free user will be given 2.5 GB of free storage space for a starter and the downloaded file will be kept available for 5 days before being removed from the server. 
+- [Filestream.me](https://filestream.me/) - (needs VPN to visit the page) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
+- [Furk](https://www.furk.net/) - needs invite - Offers an unlimited storage time for fetched file as long as the file is from a public sources such as the Pirate Bay.
+- [Hive.IM](http://hive.im/) - Hive.im is a social network that enables file sharing and offers free unlimited cloud storage.
+- [JustSeedIt](http://justseed.it/) - JustSeedIt is a new seedbox service which is new to the scene and currently in its early beta stages therefore the site may be a little unstable and are prone to bugs and error.
+- [Seedr](https://seedr.cc/) + ([mirror](https://streamza.com/)) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
+- [Streamza](https://streamza.com/)
+- [ZBIgZ](https://www.zbigz.com/) - ZBIGZ anonymous torrent cloud client #1.
+
 
 #### Seedbox Hosting Providers
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) - Reddit user with good deals on servers and seedboxes.
