@@ -68,8 +68,11 @@
 - [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
 - [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
 
+
 ## Managa scraper scripts
 - [manga_downloader](https://github.com/LLostVayne/manga_downloader) - Python scraper that will download mangas from mangareader.net.
+- [The Free Manga Downloader (FMD)](https://github.com/riderkick/FMD) - Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
+
 
 ### Plex Scripts and Tools
 - [killstream](https://github.com/blacktwin/JBOPS/tree/master/killstream) - Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
