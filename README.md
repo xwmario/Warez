@@ -111,7 +111,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 
 ### VPN Subscription Services (no-logs)
-- [ExpressVPN](https://www.expressvpn.com/) ExpressVPN - A VPN with 256-bit encryption, over 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
+- [ExpressVPN](http://anonym.es/?https://www.expressvpn.com/) ExpressVPN - A VPN with 256-bit encryption, over 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
 - [MullVad VPN](https://mullvad.net/) - Provides OpenVPN/Wireguard support.
 - [NordVPN](https://nordvpn.com/) - Protect your privacy online and access media content with no regional restrictions, and audit can be found [here](https://github.com/CHEF-KOCH/NSABlocklist/blob/5371276f7411ab64530f421ed88d21dda28b0dbc/Documents/VPN/profile-nordvpn2.pdf)
 - [Perfect Privacy VPN](https://www.perfect-privacy.com/) - Known in the business since over 10 years.
