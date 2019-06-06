@@ -1152,6 +1152,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [94hiphop](http://94hiphop.com/) - Download Free Hip Hop Albums!
 - [Beets](http://beets.io/) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [CDBao](https://www.cdbao.net/) - Chinese invite-only page for music.
+- [FreeAllMusic](https://freeallmusic.top/) - Download any high quality music and up-to-date to the latest releases.
 - [LibreSonic](https://github.com/Libresonic/libresonic) - Media streaming software.
 - [MOOVAL](https://www.mooval.de/) - Easily move your playlists, tracks and likes from one streaming service to another.
 - [Madsonic](madsonic.org) - Madsonic is a web-based media library and media streamer with jukebox functionality.
