@@ -51,6 +51,10 @@
 - [Unpaywall](https://unpaywall.org/) - An open database of 20 million free scholarly articles.
 
 
+### Python scripts
+- [firefox_bookmarkscraper.py](https://github.com/ZeroOne010101/firefox_bookmarkscraper.py) - A Python script that querys the html of all firefox-bookmarks in a specific folder for a keyword, and prints the url's of sites the keyword was found in.
+
+
 ### Dark Mode
 - [Darkreader](https://darkreader.org/) - Dark Mode for Everything.
 
