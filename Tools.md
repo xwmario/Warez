@@ -236,6 +236,7 @@
 - [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) - Not likely to find much with this one but interesting nonetheless.
 - [Leonflix](https://leonflix.net/) - A multi-platform desktop app for finding movies and TV shows.
 - [maulvi.github.io](https://maulvi.github.io/) - Google Drive direct download link generator.
+- [megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
 - [MEGAsync](https://mega.nz/sync) - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
 - [megatools](https://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
