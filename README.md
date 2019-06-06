@@ -1156,6 +1156,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [MOOVAL](https://www.mooval.de/) - Easily move your playlists, tracks and likes from one streaming service to another.
 - [Madsonic](madsonic.org) - Madsonic is a web-based media library and media streamer with jukebox functionality.
 - [MusicBrainz](https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+- [ProgrockWorld](https://progrockworld.ru/) - (RU) - Classic Rock, Pop & more.
 - [Redacted](https://redacted.ch/) - Elite music scene (requires invite).
 - [RuTracker](http://rutracker.org/forum/index.php) - Ru-Tracker, music info, releases & software.
 - [Slsknet](http://www.slsknet.org/news/node/1) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
