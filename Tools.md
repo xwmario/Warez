@@ -446,3 +446,12 @@
 
 ## Autonomous (self-hosted) BitTorrent DHT search engine suite
 - [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent [DHT search engine suite](http://labs.boramalper.org/magnetico/).
+
+## Penetration Testing Tools
+- [Fern Wifi Cracker](https://github.com/savio-code/fern-wifi-cracker) - Crack and recover WEP/WPA/WPS keys.
+- [Maltego](http://paterva.com/web6/products/maltego.php) - (commercial) -  A program that can be used to determine the relationships and real world links between people, groups, companies, web sitesc& more.
+- [mdk3](https://github.com/charlesxsh/mdk3-master) - Inject data into wireless networks. 
+- [Pupy](https://github.com/n1nj4sec/pupy) - Remote administration and post-exploitation tool.
+- [Router Scan](http://stascorp.com/load/1-1-0-56) - Receives information about the WAN connection among other information such as SSID, passphrase etc.
+- [sqlmap](http://sqlmap.org/) - Automates the process of detecting and exploiting SQL injection flaws and taking over of database servers
+- [WiFi-autopwner](https://miloserdov.org/?p=35) - Performs attacks on a Wi-Fi networks and collects information such as AP, Capital Portal, WPA-PSK etc.
