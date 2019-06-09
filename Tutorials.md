@@ -94,3 +94,6 @@
 
 ## iOS
 - [How to add HackYouriPhone Repo in Cydia](http://repo.hackyouriphone.org/add)
+
+## qBittorrent tutorials
+- [Auto unRar - qBittorrent](https://old.reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) or via [script](https://github.com/arfoll/unrarall)
