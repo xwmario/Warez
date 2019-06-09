@@ -97,3 +97,6 @@
 
 ## qBittorrent tutorials
 - [Auto unRar - qBittorrent](https://old.reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) or via [script](https://github.com/arfoll/unrarall)
+
+## Baidu
+- [Guide to baidu account creation/downloading from pan.baidu](https://old.reddit.com/r/Piracy/comments/by70qt/guide_to_baidu_account_creationdownloading_from/) 
