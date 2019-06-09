@@ -2,6 +2,8 @@
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
 
+# Warez
+
 The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list on the entire internet! This list is an overview of Warez related topics, discussions and provides some background information about the scene.
 
 ## Disclaimer
@@ -2039,3 +2041,5 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 ### Image downloader
 - [Dezoomify](https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](https://github.com/lovasoa/dezoomify/) - Download zoomable images.
+
+**[`^        back to top        ^`](#)**
