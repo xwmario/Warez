@@ -5,6 +5,7 @@
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) - VPN section of "That One Privacy Site" with VPN comparisons.
 - [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page which explains how to achieve a poor man's VPN via SSH tunneling.
 - [Which VPN Services Keep You Anonymous in 2019?](https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019/) - TorrentFreak article by Ernesto about which VPN you _could_ use.
+- [How To Set Up an OpenVPN Server on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
 
 
 ## ISP
