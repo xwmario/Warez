@@ -2042,4 +2042,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Image downloader
 - [Dezoomify](https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](https://github.com/lovasoa/dezoomify/) - Download zoomable images.
 
+
+### Cloud based DNS Alternatives
+- [Blockchain-DNS.info](https://blockchain-dns.info/) - First step towards the uncensored Internet
+- [NextDNS](https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
+- 
+
 **[`^        back to top        ^`](#)**
