@@ -1313,6 +1313,10 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Vestathemes](https://www.vestathemes.com/) - Vestathemes is a website for [WordPress](https://www.wordpress.com/) - themes and plugins.
 
 
+## MacOS
+- [CrackSoft](https://crackzsoft.com/) - Latest Crack Softwares For Windows and MacOS.
+- [Mac Torrent Download](https://mac-torrent-download.net/)
+
 ## Windows
 - [AME](https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 - [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
