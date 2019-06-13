@@ -816,23 +816,21 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [WTvF!](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - Youtube Grindhouse
 
 ### Random Streaming Sites
+- [#1 Movies Website](https://www1.1movies.is) - Watch movies online for free in HD quality without downloading or signing up.
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
-- [#1 Movies Website](https://www1.1movies.is) - Watch movies online for free in HD quality without downloading or signing up.
 - [1Movies](http://1movies.nl) - Watch Free HD movies online & free download movies at 1movies.pl.
-- [Arabseed](https://arabseed.tv/) - (AR) - Online shopping from a great selection at Digital Music Store.
 - [AZMovies](https://azmovies.xyz/) - AZMovies your best source for watching movies online, with High Quality 1080p movies, you can stream anytime.
-- [cine.to](https://cine.to/) -  Sit back and relax while watching the newest Cinema or your favorite Movie for free. Just cine.to & chill.
-- [cinebloom](https://www2.cinebloom.com) - Action Adventure Animation Biography Comedy Crime Documentary Drama Family Fantasy History Horror Music Musical Mystery Romance Sci-Fi Sport Thriller War Western.
-- [Daxiv Video](https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
+- [Arabseed](https://arabseed.tv/) - (AR) - Online shopping from a great selection at Digital Music Store.
+- [CMoviesHD](https://www2.cmovieshd.bz) - Basic streaming site layout, HD server with additional hosts.
 - [DP Stream](https://www.dpstream.net/) - (FR) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
-- [eMule Island.ru](https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
-- [Filmstream.online](http://filmzenstream.online/) - (FR) - Regarder des films gratuits illimités de sur Filmzenstream. Regarder complet des films en streaming hd gratuitement vf sans inscription en française.
-- [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more
-- [Filmz.cc](https://www.filmz.cc/) - (FR) -
-- [Flixanity](https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
-- [FlixGo](https://flixgo.net/) - Ralph Breaks the Internet. Avengers: Infinity War. Incredibles 2. Ant-Man and the Wasp ... Dawn of Justice. Captain America: Civil War. FlixGo.
+- [Daxiv Video](https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
 - [FMOVIES](https://www3.fmovies.to/) - Openload, MyCloud, RapidVideo, Streamango
+- [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more
+- [Filmstream.online](http://filmzenstream.online/) - (FR) - Regarder des films gratuits illimités de sur Filmzenstream. Regarder complet des films en streaming hd gratuitement vf sans inscription en française.
+- [Filmz.cc](https://www.filmz.cc/) - (FR) -
+- [FlixGo](https://flixgo.net/) - Ralph Breaks the Internet. Avengers: Infinity War. Incredibles 2. Ant-Man and the Wasp ... Dawn of Justice. Captain America: Civil War. FlixGo.
+- [Flixanity](https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
 - [French Stream](http://wwv.french-stream.co/) - (FR) - Regarder Facilement et Gratuitement Les Meilleurs Films et Séries en Streaming HD Sans aucune Publicité Gênante ...
 - [HD MOVIES](https://hdm.to/) - Watch free movies online in 1080p at HDM.to - Stream & download the latest HD movies online for free without registration.
 - [HDEUROPIX](https://topeuropix.net/) - Free Streaming HD Movies Online with captions. Full Movies Streaming Popular TV Series Watch Free HD topeuropix.net.
@@ -840,36 +838,40 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [HDOnline](https://www3.hdonline.eu/) - Free Movies Online!
 - [INDOXXI](https://indoxxi.cx/) - Movies releases.
 - [KStreaming](https://www.k-streaming.tv/) - (FR) - Film Streaming et Série Streaming Gratuit.
-- [libertyVF](https://ww1.libertyvf.org/) - (FR) -
 - [LookMovie](https://lookmovie.ag/) - Watch Movies and TV Shows for Free in 1080p and 720p. New Movies and Episodes are added every hour.
 - [M4UFree.TV](http://m4ufree.tv/) - Free Movies Online. Watch Movies Online Free. Watch all your favorite movies and tv shows online for free on M4ufree .
-- [MegaShare](http://megashare9.su/) - Watch Full Movies and TV Series Online Free.
 - [MKVHub](https://www.mkvhub.com/) - MkvHub is the best website to download high-quality 720p, 1080p WEB-DL HDRip BluRay Movies and TV Shows with Single Direct Download Link.
+- [MegaShare](http://megashare9.su/) - Watch Full Movies and TV Series Online Free.
 - [Movie123](http://movie123.club/) - Look no further than Movie123 if you are looking for the best sites to watch free movies online.
 - [Nox](https://nox.tv/) - (Ger) - Filme, HD-Filme, 3D-Filme, Serien und Spiele - News. Reporters Without Borders.
-- [onemov](https://onemov.net/) - Online Full HD Movie Free.
-- [openloadmovies.net](https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad.
 - [PelisPedia](https://www.pelispedia.tv/) - (es-do) - Movies & TV Shows.
 - [QQMovies](http://qqmovies.co/) - Stream Movies and TV Shows online in HD quality, 1080p, 4K.
 - [Qwemovies](https://www3.qwemovies.com/) - Watch HD Movies Online For Free and Download the latest movies without Registration at qwemovies.to.
 - [Rainierland](https://rainierland.is/) - Official home of rainierland - no ads and only good movies.
+- [Series9](https://www2.series9.io/) - Unique design, HD server with additional hosts.
 - [Sokrostream.vip](https://sokrostream.vip/) - (FR) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport
 - [Solarmovie](https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
-- [Streamcomplete](https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
-- [StreamCouch](https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
-- [Streams.now.sh](https://streams.now.sh/) A website with a clean design, fast & smart search, large variety of films, HD quality, from popular groups & hosters.
 - [StreamCR](https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
+- [StreamCouch](https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
+- [Streamcomplete](https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
+- [Streams.now.sh](https://streams.now.sh/) A website with a clean design, fast & smart search, large variety of films, HD quality, from popular groups & hosters.
 - [TakiART](https://www.takiartmovies.ga/) - Watch and download latest Hollywood movies for free.
 - [Time2Watch](https://time2watch.in/) - (FR) - Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
 - [VF-Streaming](https://www.vf-stream.org/) - (FR) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
+- [Vidcloud](https://vidcloud.icu/) - Basic streaming site layout, HD server with additional hosts.
 - [VodLocker](https://vodlocker.tv/) - Official home of vodlocker - no ads and only good movies.
 - [VoirFilms.ws](https://ww6.voirfilms.ws/) - (FR) -Voir Film Streaming, Streaming Film, telecharger, Films, regarder film streaming, dvdrip, film en streaming, voirfilms, gratuit.
 - [WatchFree](https://watchfree.at/) - Watch Movies Online Free. Watch your favorite movies and tv-series in hd quality on watchfree.to + putlocker.
 - [WatchFullMovie](http://watchfullmovie.co/) - Watch 1000 Free full Movies on IMVBox. Free Live TV, Serials and Theatre on IMVBox
-- [xPau.se](http://xpau.se/) - Movies, TV Shows & more.
-- [Yes! Movies](https://yesmovies.to) - Watch movies full HD online free. Watch latests episode series online. Over 9000 free streaming movies, documentaries & TV shows.
 - [XMovies8](http://www1.xmovies8.io/) - Best site to watch free movies online, just search your favorite movies and Enjoy.
-- [YMovies](https://ymovies.tv/) - Watch Free Full Length yify Movies Online on Yify TV. Torrents, Watch Films online in HD 720p and 1080p quality yts on Yify TV.
+- [Yes! Movies](https://yesmovies.to) - Watch movies full HD online free. Watch latests episode series online. Over 9000 free streaming movies, documentaries & TV shows.
+- [cine.to](https://cine.to/) -  Sit back and relax while watching the newest Cinema or your favorite Movie for free. Just cine.to & chill.
+- [cinebloom](https://www2.cinebloom.com) - Action Adventure Animation Biography Comedy Crime Documentary Drama Family Fantasy History Horror Music Musical Mystery Romance Sci-Fi Sport Thriller War Western.
+- [eMule Island.ru](https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
+- [libertyVF](https://ww1.libertyvf.org/) - (FR) -
+- [onemov](https://onemov.net/) - Online Full HD Movie Free.
+- [openloadmovies.net](https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad.
+- [xPau.se](http://xpau.se/) - Movies, TV Shows & more.
 
 ### Video Game Music (OST)
 - [FFShine Forum](http://forums.ffshrine.org/forumdisplay.php?f=72) - A place for game and video game music.
