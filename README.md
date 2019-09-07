@@ -1998,7 +1998,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [@warez](https://t.me/warez) - Yet another warez channel on Telegram.
 
 ## VPS Hosting Providers
-- [24Shells](https://www.24shells.net/) - Get High performance dedicated servers with cheap unmetered bandwidth and managed server hosting options.
 - [2x4.ru](http://www.2x4.ru/index.php) - A fast and reliable russian VPS hoster.
 - [AlexHost.md](http://ru.alexhost.md) - Yet another russian VPS hoster service.
 - [CyberHour](https://www.cyberhour.com/) - Rusian based host provider which allows Warez.
