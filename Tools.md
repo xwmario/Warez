@@ -373,6 +373,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## eBook Downloader
+- [dlfeb](https://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
+
+**[`^        back to top        ^`](#)**
+
+
 ### IRC Clients
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
 - [irssi](https://irssi.org/) - Your text mode chatting application since 1999.
