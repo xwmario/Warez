@@ -314,3 +314,6 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - extratorrent.ag (India)
 - torrentz.ht (India)
 - torrentmovies.co (India)
+
+## Books / PDFs
+- Oceanofpdf.com
