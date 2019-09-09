@@ -2,23 +2,25 @@
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
 
-[![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
+[![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez) 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
+[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 
 # Warez
 
-The biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) list on the entire internet! This list is an overview of Warez related topics, discussions and provides some background information about the scene.
+The list is the biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) overview around Warez on the entire internet! It contains links to Warez related topics, discussions, tools etc. and provides some background information about the scene.
 
 ## Disclaimer
 **I or GitHub do not supporting warez - we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
-### Why was the list created?
+### Why was the overview created?
 * Research reasons!
 * Freedom of information!
 * Most lists you find are outdated, not actively maintained or full of malware links.
 
 ### Credits
-Since this list is huge I can't name each and every single one of you, but here is a short credit list which hopefully covers all of them:
+Since this list is really huge I can't name each and every single one of you, but here is a short list which hopefully covers all of them:
 
 * All [contributors](https://github.com/CHEF-KOCH/Warez/graphs/contributors).
 * All demoscene people which helped to build the _scene_.
@@ -53,9 +55,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
 
-### Contact
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
-[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 ## Liability for Contents
 - [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
@@ -1559,6 +1558,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Boundless](https://www.boundless.com/) - Affordable online textbooks & study materials.
 - [Calibre-Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [CG Persia Forum](https://cgpersia.com/) - EBooks, tutorials & courses.
+- [CourseClub.me](https://courseclub.me/) - CourseClub provides courses which you can download for e.g. Lynda, Pluralsight, CBG Nuggets & more.
 - [CGPeers](https://www.cgpeers.com/) - Ebooks,, courses and trainings.
 - [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
@@ -1572,6 +1572,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [eReader.com](http://www.ereader.com/servlet/mw?t=freebooks&si=59) - eReader.com has many classic lit selections for free.
 - [FicSave](http://ficsave.xyz/) - An Open-Source Online Fanfiction Downloader.
 - [Free-eBooks.net](http://www.free-ebooks.net/) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
+- [FreeCourseSite.com](https://freecoursesite.com/) - Provides udemy courses for free.
 - [freebookspot.es](http://www.freebookspot.es/) - Various eBook's.
 - [Get Free Ebooks](http://www.getfreeebooks.com/) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
 - [Globusz](http://www.globusz.com/) - There are no limits on the number of free books you can download on this online publishing site.
