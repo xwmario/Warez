@@ -1549,6 +1549,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [/r/DHExchange](https://old.reddit.com/r/DHExchange/) - PDF/eBooks trading.
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) - Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 - [Authorama](http://www.authorama.com/) - This public domain book site has a wide variety of ebooks for free, by Lewis Carroll, Emerson, Kafka, and more.
+- [AvaxHome](https://avxhm.se/) - eBooks, movies & more.
 - [b-ok](http://b-ok.xyz/) - Free ebook library
 - [Baen Free Library](http://www.baen.com/library/) - You can download ebooks for HTML, RTF, Microsoft Reader and for Palm, Psion, and Window CE.
 - [Bartleby](http://www.bartleby.com/ebook/) - While Bartleby charges for some titles, it has a free ebook store here.
