@@ -1,3 +1,11 @@
+## Android Reversing Tools
+- [APKtool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+- [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !).
+- [DroidReverse](https://github.com/Juude/droidReverse) - Reverse engineering tools for Android.
+- [GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - GDA is a new decompiler written entirely in c++, so it does not rely on the Java platform, which is succinct, portable and fast, and supports APK, DEX, ODEX, oat.
+- [NinjaDroid](https://github.com/rovellipaolo/NinjaDroid) - Ninja Reverse Engineering on Android APK packages.
+- [ReverseAPK](https://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages.
+
 ## Automated Downloaders
 - [Awesome Uploader](https://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
 - [Bonarr](https://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
