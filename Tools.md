@@ -531,6 +531,40 @@
 **[`^        back to top        ^`](#)**
 
 
+## Shell Script Development Tools
+
+* [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash which can change text color, position the cursor, much more...
+* [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
+* [bashful](https://github.com/plytophogy/bashful) - A collection of libraries to simplify writing Bash scripts.
+* [Bashlets](https://github.com/bashlets) - A modular extensible toolbox for the classical Bash.
+* [bashmanager](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
+* [bats](https://github.com/bats-core/bats-core) - Yet another open source Bash Automated Testing System.
+* [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH.
+* [Fishtape](https://github.com/jorgebucaran/fish-tape) - TAP producer and test harness for fish.
+* [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions.
+* [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
+* [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command.
+* [lumberjack](https://github.com/molovo/lumberjack) - A logging interface for shell scripts.
+* [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
+* [optparse](https://github.com/nk412/optparse) - A Bash wrapper for getopts, for simple command line arguments.
+* [rerun](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts.
+* [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts.
+* [phases](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor.
+* [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
+* [sh-semver](https://github.com/qzb/sh-semver) - Server to which finds versions matching to specified rules.
+* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
+* [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries.
+* [shpec](https://github.com/rylnd/shpec) - An open-source shell testing framework.
+* [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect.
+* [sub](https://github.com/basecamp/sub) - A delicious way to organize programs.
+* [ts](https://github.com/thinkerbot/ts) - A shell test script.
+* [urchin](https://github.com/tlevine/urchin) - An shell testing framework that uses only shell commands.
+* [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests...
+* [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Autonomous (self-hosted) BitTorrent DHT search engine suite
 - [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent [DHT search engine suite](http://labs.boramalper.org/magnetico/).
 
