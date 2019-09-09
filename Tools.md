@@ -15,6 +15,16 @@
 - [Snahp tool](https://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
 - [traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 
+**[`^        back to top        ^`](#)**
+
+## Browser Password extraction
+- [Chrome Password Dumper](https://github.com/roflsandwich/Chrome-Password-Dumper) - Extract Chrome passwords into a plain text file (works also via PowerShell)
+- [Firefox Decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox/Thunderbird/Seabird) profiles.
+- [ff-password-exporter](https://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
+
+
+**[`^        back to top        ^`](#)**
+
 
 ## Discord Scripts, Bots & Other Tools
 - [BetterDiscord](https://betterdiscord.net/home/) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
@@ -27,6 +37,8 @@
 - [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) - Provides end-to-end encryption for Discord.
 - [Do Not Track for Discord](https://betterdocs.us/plugins/do-not-track/) - A plugin for BD to prevent Discord tracking.
 - [Running a full deletion](https://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
+
+**[`^        back to top        ^`](#)**
 
 
 ## TV Show Automation
@@ -41,15 +53,21 @@
 - [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 
 
+**[`^        back to top        ^`](#)**
+
 ## Movie Automation
 - [Couchpotato](https://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
 - [Radarr](https://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
 - [Watcher](https://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
+**[`^        back to top        ^`](#)**
+
 
 ### Music Automation
 - [Headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
 - [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+
+**[`^        back to top        ^`](#)**
 
 
 ### Subtitles Automation
@@ -60,6 +78,8 @@
 - [WonderfulSubs](https://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
 - [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition
 - [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
+
+**[`^        back to top        ^`](#)**
 
 
 ## File Sharing Tools
@@ -92,6 +112,8 @@
 - [uGet](https://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
 - [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
 
+**[`^        back to top        ^`](#)**
+
 
 ## Antivirus alternatives
 - [FireJail](https://firejail.wordpress.com/download-2/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
@@ -99,6 +121,8 @@
 - [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
 - [Sandboxie](https://www.sandboxie.com/) - Install and run programs in a virtual sandbox environment without writing to the hard drive.
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+
+**[`^        back to top        ^`](#)**
 
 
 ## Reverse Engineering Tools
@@ -124,6 +148,8 @@
 - [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
 - [x64_dbg](http://x64dbg.com/) - Open source x64 & x86 debugger for Windows.
 
+**[`^        back to top        ^`](#)**
+
 
 ## Password Managers (Desktop & Mobile)
 - [1Password](https://1password.com/) - Popular cloud-hosted password manager.
@@ -131,7 +157,9 @@
 - [KeePass](https://keepass.info/) - A free and open source, light-weight, and easy-to-use password manager.
 - [KeeVault](https://keevault.pm/) - Secure, Open Source Password Management.
 - [LastPass](https://www.lastpass.com/) - LastPass remembers all your passwords, so you don't have to.
-- [Wikipedia's list of Password Managers](https://en.wikipedia.org/wiki/List_of_password_managers)
+- [Wikipedia's list of Password Managers](https://en.wikipedia.org/wiki/List_of_password_managers) - Overview of all password manager utilities.
+
+**[`^        back to top        ^`](#)**
 
 
 ### eMail Clients (Desktop/Mobile)
@@ -139,6 +167,8 @@
 - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Well-known open source eMail Client from Mozilla.
 - [p=p](https://www.pep.security/) - Pretty Easy Privacy (p=p) - email client encrypts all communications in your email without the need for you to create new accounts.
 - [Tutanota](https://github.com/tutao/tutanota) - Email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
+
+**[`^        back to top        ^`](#)**
 
 
 ## DDoS Tools
@@ -150,6 +180,8 @@
 - [SlowLoris](https://github.com/gkbrk/slowloris) - DoS tool that uses low bandwidth on the attacking side.
 - [T50](https://gitlab.com/fredericopissarra/t50/) - Faster network stress tool.
 - [UFONet](https://github.com/epsylon/ufonet) - Abuses OSI layer 7 HTTP to create/manage 'zombies' and to conduct different attacks using; `GET`/`POST`, multi-threading, proxies, origin spoofing methods, cache evasion techniques, etc.
+
+**[`^        back to top        ^`](#)**
 
 
 ## Social Engineering Resources & Tools
@@ -169,6 +201,8 @@
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Social media phishing framework that can run on an Android phone or in a Docker container.
 - [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against WiFi networks.
 
+**[`^        back to top        ^`](#)**
+
 
 ### Social Media related services, tools & scripts
 - [Forget](https://forget.codl.fr/about/) - Automatically deletes your old posts that everyone has forgotten about.
@@ -178,6 +212,8 @@
 - [ShadowCrypt](https://shadowcrypt-release.weebly.com/about.html) - Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages).
 - [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Deletes Twitter and Reddit content based on your terms.
 - [TweetDelete](https://www.tweetdelete.net/) - Protect your privacy by automatically deleting posts older than a specified age from your Twitter feed.
+
+**[`^        back to top        ^`](#)**
 
 
 ## Password Cracking
@@ -192,6 +228,7 @@
 - [RainbowCrack](http://project-rainbowcrack.com/table.htm) - It falls in the hash cracker tool category that utilizes a large-scale time-memory trade off process for faster password cracking compared to traditional brute force tools.
 - [THC Hydra](http://https//www.thc.org/thc-hydra/) - THC Hydra can be said to be the fast paced network logon tool for password cracking.
 
+**[`^        back to top        ^`](#)**
 
 ## YouTube Downloader
 - [QDownloader.net](https://qdownloader.net/youtube-video-downloader) - Download videos from YouTube in MP4, FLV, 3GP, and other formats.
@@ -202,11 +239,16 @@
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 
 
+**[`^        back to top        ^`](#)**
+
+
 ## Torrent Clients
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent&hl=en) - A modern Android application with new modern design!
 - [TorrDroid](https://play.google.com/store/apps/details?id=intelligems.torrdroid&hl=en) - TorrDroid is a Android torrent client cum search engine that features a hassle free way of searching and downloading torrents.
 - [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 - [qBittorrent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+
+**[`^        back to top        ^`](#)**
 
 ### Torrent Plugins for e.g. for Deluge or qB
 - [Auto removing of deluge torrents](https://github.com/omaralvarez/deluge-autoremoveplus) - Auto removal of deluge torrents after they are finished.
@@ -216,6 +258,8 @@
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) - Allows you to search popular torrent trackers and download rss/torrents.
 - [rutorrent-all-seeders](https://github.com/AkdM/rutorrent-all-seeders) - This ruTorrent plugin adds the columns 'All Seeders' the torrents list.
 
+**[`^        back to top        ^`](#)**
+
 ## Usenet Clients
 - [Newsbin](http://newsbin.com/about.php) - Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
 - [NZBGet](https://nzbget.net/) - Efficient Usenet downloader written in C++ which is bit lighter on system resources than SABNZBd.
@@ -224,6 +268,8 @@
 - [spotweb](https://github.com/spotweb/spotweb) - Spotweb is a decentralized Usenet community based on the Spotnet protocol.
 - [Unison](https://panic.com/blog/the-future-of-unison/) - OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued).
 - [Usenetic](https://www.usenetic.com/) - The full-featured Usenet client for Mac OSX.
+
+**[`^        back to top        ^`](#)**
 
 ### DDL Tools
 - [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader.
@@ -252,9 +298,12 @@
 - [wget](https://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
 - [YouTube MP3 Rip](https://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
 
-## Netflix
+**[`^        back to top        ^`](#)**
+
+## Netflix Downloader
 - [FlixGrab](https://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
 
+**[`^        back to top        ^`](#)**
 
 ## Music Downloading
 - [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) - Community supporting Deezer.
@@ -265,6 +314,8 @@
 - [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) - A streaming music downloader.
 - [Soulseek](http://www.soulseekqt.net/news/) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
 
+**[`^        back to top        ^`](#)**
+
 ## Adobe CC
 - ["Ultimate Adobe Guide!"](https://www.reddit.com/r/Piracy/comments/arbt9p/ultimate_adobe_guide/?sort=new) - Reddit guide for Adobe Products.
 - [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](https://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
@@ -274,13 +325,17 @@
 - [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
 - [Pirating Adobe CC for Dummies](https://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - detailed guide about pirating Adobe CC for Windows.
 
+**[`^        back to top        ^`](#)**
+
 
 ## Windows Integration Tools
 - [NTLite](https://www.ntlite.com/) - Paid program to remove integrated telemetry, integrate updates & more.
 - [MSGM ToolKit](https://www.majorgeeks.com/files/details/msmg_toolkit.html) - Free program to customize Windows similar like NTLite bu without a nice looking GUI.
 
+**[`^        back to top        ^`](#)**
 
-## Windows 10 pseudo-Privacy Tools & scripts
+
+## Windows 10 (pseudo) privacy tools & scripts
 - [BlackBird](https://www.getblackbird.net/) - Blocks telemetry, Ads etc.
 - [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to disable tracking in Windows 10.
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) - O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
@@ -290,6 +345,8 @@
 - [Winaero](https://winaero.com/download.php) - Free, small and useful software for Windows.
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) - Freeware app from phrozen.io.
 - [WPD](https://wpd.app/) - The real privacy dashboard for Windows.
+
+**[`^        back to top        ^`](#)**
 
 
 ## eBook Readers
@@ -305,6 +362,8 @@
 - [QPDF](https://sourceforge.net/projects/qpdf/) - PDF transformation/manipulation program + library.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
 
+**[`^        back to top        ^`](#)**
+
 
 ### IRC Clients
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
@@ -316,12 +375,16 @@
 - [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) - TheLounge (a fork of shoutIRC) - is a web IRC client that you host on your own server.
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 
+**[`^        back to top        ^`](#)**
+
 ### Network vulnerability scanners
 - [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
 - [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
 - [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner) - Commercial vulnerability management, configuration, and compliance assessment platform, sold by Tenable.
 - [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
 - [Vuls](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
+
+**[`^        back to top        ^`](#)**
 
 ## Secure Messenger
 - [A comparison of messaging / communication services](Messaging-Services-Comparison)
@@ -331,8 +394,12 @@
 - [Wire](https://wire.com/)
 - [Signal](https://signal.org/)
 
+**[`^        back to top        ^`](#)**
+
 ## Collaborative Editors
 - [cryptpad](https://github.com/xwiki-labs/cryptpad)
+
+**[`^        back to top        ^`](#)**
 
 ## Download Managers
 - [Ant Download Manager](https://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
@@ -344,6 +411,8 @@
 - [pyLoad](https://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
 - [WFDownloader App](https://www.wfdownloader.xyz/) - Batch downloader ultility.
 - [Xtreme Download Manager](https://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
+
+**[`^        back to top        ^`](#)**
 
 
 ## Web Exploitation
@@ -381,6 +450,8 @@
 - [Wordpress Exploit Framework](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - [WPSploit](https://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
 
+**[`^        back to top        ^`](#)**
+
 
 ## Telegram Tools & Scripts
 - [Be careful using bots on telegram](https://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
@@ -390,6 +461,8 @@
 - [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
 
+**[`^        back to top        ^`](#)**
+
 
 ### FTP Deamons
 - [glFTPd](https://glftpd.io/) - A great FTP server for anyone on a *NIX platform.
@@ -397,6 +470,8 @@
 - [FlashFXP](https://www.flashfxp.com/) -  Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
 - [ioFTPD](https://www.flashfxp.com/forum/ioftpd/ioftpd/) - Fast & Lightweight FTP Daemon for Windows.
 - [RaidenFTPD](http://www.raidenftpd.com/en/) - FTP server software for Windows 7: RaidenFTPD is a widely used FTP server software. It works with Windows/Mac/Linux FTP clients and IE.
+
+**[`^        back to top        ^`](#)**
 
 ### Plex Plugins
 - [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks.
@@ -418,15 +493,21 @@
 - [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) - A Tvheadend Channel Plugin for PLEX Media Server.
 - [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) - A collection of several tools for Plex Media Server. Like the Unsupported AppStore (UAS).
 
+**[`^        back to top        ^`](#)**
+
 ### Plex Clients
 - [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
 - [PlexConnect](https://github.com/iBaa/PlexConnect) - Unofficial Plex app for Apple TV devices
 - [RasPlex](https://github.com/RasPlex/RasPlex) - Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi.
 
+**[`^        back to top        ^`](#)**
+
 ## Exif Data removal
 - [ExifTool by Phil Harvey](https://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, Write and Edit Meta Information!
 - [ExifTool GUI](http://u88.n24.queensu.ca/~bogdan/) - Adds a GUI to ExifTool by Phil Harvey.
 - [Exif Purge](http://www.exifpurge.com/) - EXIF Purge is a small portable application to remove EXIF meta data from multiple images at once.
+
+**[`^        back to top        ^`](#)**
 
 ## Video Editing
 - [AviDemux](http://fixounet.free.fr/avidemux/) - Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
@@ -436,16 +517,24 @@
 - [Virtualdub2](https://sourceforge.net/projects/vdfiltermod/files/) - An enhanced version of the original VirtualDub.
 - [XMedia Recode](https://www.xmedia-recode.de/en/) - Freeware video and audio transcoding program.
 
+**[`^        back to top        ^`](#)**
+
 ## Whistleblower ultilities
 - [Secure Connect by Tutanota](https://secureconnect.tutao.de/contactform/demo) - Encrypts your documents local.
 - [SecureDrop](https://securedrop.org/) - Share documents securely with these organizations.
 
+**[`^        back to top        ^`](#)**
+
 ## Windows Hardening Tools
 - [Hard_Configurator](https://hard-configurator.com/) - GUI to manage Software Restriction Policy (SRP) and harden Windows.
+
+**[`^        back to top        ^`](#)**
 
 
 ## Autonomous (self-hosted) BitTorrent DHT search engine suite
 - [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent [DHT search engine suite](http://labs.boramalper.org/magnetico/).
+
+**[`^        back to top        ^`](#)**
 
 ## Penetration Testing Tools
 - [Fern Wifi Cracker](https://github.com/savio-code/fern-wifi-cracker) - Crack and recover WEP/WPA/WPS keys.
@@ -455,3 +544,6 @@
 - [Router Scan](http://stascorp.com/load/1-1-0-56) - Receives information about the WAN connection among other information such as SSID, passphrase etc.
 - [sqlmap](http://sqlmap.org/) - Automates the process of detecting and exploiting SQL injection flaws and taking over of database servers
 - [WiFi-autopwner](https://miloserdov.org/?p=35) - Performs attacks on a Wi-Fi networks and collects information such as AP, Capital Portal, WPA-PSK etc.
+
+**[`^        back to top        ^`](#)**
+
