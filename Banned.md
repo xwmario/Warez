@@ -222,6 +222,9 @@
 * OneDrive
 * upload.ee
 
+## Windows/Browser Themes
+* VestaThemes.com
+
 ## Apps
 * [Comet TV](https://www.comettv.com/)
 * [GlavTV](https://www.tvbox.one/apps/glav-tv.html)
