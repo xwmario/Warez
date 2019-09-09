@@ -96,7 +96,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Public Reverse & Cracking Discussion Forums
 - [Cracked.to](https://cracked.to/) - Cracked.to is a cracking forum and community.
-- [Cracked](https://forums.cracked.com/) A forum for cracking related stuff.
+- [Cracked](https://forums.cracked.com/) - A forum for cracking related stuff.
 - [Crackia](https://crackia.com/) - Crackia Cracking Forum.Find the latest Cracking info, Premium Account Cracking Forum.
 - [Cracking Forums](https://cracking.org/) - GeoIP Ban - Cracking Forum, Cracking Tutorials, Free Premium Accounts.
 - [Cracking Pro](https://www.crackingpro.com/)  - Cracking Tutorials, Free Premium Accounts, Cracking Configs, Combolists & Proxylists.
@@ -220,6 +220,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ## Android
+- [My ultimate Android setup, tips & What's your's?](https://old.reddit.com/r/Piracy/comments/d18b35/my_ultimate_android_setup_tips_whats_yours/) 
 - [Wikipedia's list of free and open-source applications](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
 
 **[`^        back to top        ^`](#)**
@@ -231,7 +232,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [APKmb](https://apkmb.com/) - Download paid Apps & Android Games for free.
 - [APKMirror](https://www.apkmirror.com/) - Provides legit mirrors with checksums for various apps.
 - [ApkPure](https://apkpure.com/) - Another free APK mirror site.
-- [Aptoide](http://www.aptoide.com/) - Cracked and legit apk's.
+- [Aptoide](http://www.aptoide.com/) - Share and download cracked/modded and other apk's among mirrors for original untouched apks.
 - [BlackMod](https://blackmod.net/) - Lots of cracked Android games.
 - [iHackedit](http://ihackedit.com/) - Provides Android Apps & Games including Mods.
 - [libre.io](https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
@@ -660,7 +661,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### DDL Search Engines and Crawlers
+### DDL Search Engines & Crawlers
 - [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
 - [IPLIVE](https://iplive.club/) - DDL search engine.
 - [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts like OpenLoad.
