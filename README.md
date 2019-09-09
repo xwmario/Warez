@@ -191,6 +191,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Cock.li](https://cock.li/) - Yeah, it's mail with cocks.
 - [Disposable](https://github.com/0x19/disposable) - Disposable is arobust disposable email (burner emails) - API designed to help you verify whenever email address is coming from disposable service.
 - [Nada](https://getnada.com/) - Fast & free.
+- [s.MailPro](https://smailpro.com/) - Offering Temporary Email Service
 - [Temp Mail](https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 
 **[`^        back to top        ^`](#)**
@@ -672,6 +673,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 **[`^        back to top        ^`](#)**
 
 ### GoG Repack & Releases + Retro Games
+- [Free GOG PC Games](http://freegogpcgames.com/) - Yet another GOG alternative.
 - [Good-Old-Downloads/gg](https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
 - [Good-Old-Downloads (GitHub source code)](https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) - Good-Old-Downloads mirror page.
@@ -866,7 +868,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Kawaiifu](http://kawaiifu.com/) - Videos hosted by Google, only one source, style similar to niconico, missing multiple anime.
 - [KickAssAnime](https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
 - [KimCartoon](https://kimcartoon.co/)
-- [Kissanime.ru](http://kissanime.ru/) - or [Kissanime.ac (mirror)](https://kissanime.ac/)
 - [KissCartoon](https://kisscartoon.ac/)
 - [Mangarock](https://mangarock.com/)
 - [Mejor Torrent](http://www.mejortorrent.org/) - (ES)
@@ -1153,7 +1154,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 **[`^        back to top        ^`](#)**
 
-### Good Old Download alternatives
+### Good Old Download alternatives (mirrors)
 - [GOD Games](https://god-games.com/) - GOD is alive.
 - [GOD Project](http://god.freevar.com) - Work in Progress Project, aims to reboot the old GOD project.
 
@@ -1164,6 +1165,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) - Nintendo Switch games.
 - [gazellegames](https://gazellegames.net/) - Another xBox 360 collection.
 - [NoPayStation](https://nopaystation.com) - A Database for PSN Content including Vita, PS3, PSX, and PSP.
+- [OVAGames](http://www.ovagames.com/) - Yet another database with console and pc games. 
 - [PleasureDome Tracker](https://www.pleasuredome.org.uk/) - MAME torrents.
 - [SPEEDLounge](http://speedlounge.in/) - (Ger) - XBox360, XBox, PlayStation and other Games.
 - [Up2date list for Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) - An up2date list for Xbox 360 games.
@@ -1277,7 +1279,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - This reddit is for people interested in modifying their Wii.
 - [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) - Links for Yuzu, the open-source Nintendo Switch emulator.
 - [3DS Hacks Guide](https://3ds.hacks.guide/) - A complete guide to 3DS custom firmware, from stock to boot9strap.
-- [The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/) - 3DS piracy guide by /u/crazy5.
 
 **[`^        back to top        ^`](#)**
 
@@ -1297,8 +1298,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [GoGo Anime](https://www3.gogoanime.in/) - Popular website for watching anime.
 - [Hi10 Anime](https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
 - [HorribleSubs](https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
-- [KissAnime](http://kissanime.ru/) - Subs and dubs, many ads, many player alternatives, captcha, anti adblocker, videos hosted by Google & Facebook.
-- [Kissanime](https://kissanime.ru) - Dubs and up2date animes.
 - [Monimo](https://monimoapp.netlify.com/) - Netflix like web app for watching animes.
 - [Nyaa](https://nyaa.si/) - BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa).
 - [NyaaPantsu](https://nyaa.pantsu.cat/) - Primarily Anime torrents but includes an open directory of DDL links too.
@@ -1479,7 +1478,6 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
 - [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
 - [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
-- [Spotify Megathread](https://www.reddit.com/r/Piracy/comments/82wzi0/spotify_megathread/) - /r/Piracy Spotify-related discussion and future developments.
 - [Spytify](https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
 
 **[`^        back to top        ^`](#)**
@@ -1494,6 +1492,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ## Software
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
 - [Appked](https://www.macbed.com/) - MacOS application sharing website.
+- [Blackpearl.biz](https://blackpearl.biz/) - (needs login) - Provides similar services like Snahp (but registration is open)
 - [CrackingPatching.com](https://crackingpatching.com/) - Cracked software
 - [CracksNow](https://cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites
@@ -1535,6 +1534,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 ### Windows Activation
 - [PIDChecker](https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product Keys.
 - [KMS Activator](https://github.com/CHEF-KOCH/KMS-activator) - The original repo for KMS related activation & research.
+- [Windows 10 Digital License](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) - An open-source script which activates WIndows. 
 
 **[`^        back to top        ^`](#)**
 
@@ -1788,7 +1788,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 **[`^        back to top        ^`](#)**
 
-### XPosed + Magisk
+### XPosed & Magisk
 - [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) - Root & Universal Systemless Interface.
 - [Systemless Xposed For SDK 27 (Android 8.1)](https://github.com/Magisk-Modules-Repo/xposed_27) - Magisk Xposed version (needs Magsik).
 - [VirtualXposed](https://virtualxposed.com/) - Xposed version for non-rooted devices.
@@ -2015,7 +2015,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 
 **[`^        back to top        ^`](#)**
 
-## Discord Clients
+## Discord Client alternatives (without logging/telemetry)
 - [Ripcord](https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
 
 **[`^        back to top        ^`](#)**
@@ -2054,6 +2054,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [IPTV Community](https://iptv.community/) - Technology and IPTV discussion website, useful for finding an IPTV provider/reseller.
 - [IPTV Providers list](https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) - A recently created list of 40+ IPTV providers with notes.
 - [MythTV](https://www.mythtv.org/) - Free Open Source software digital video recorder.
+- [Piracy and automation, an overview Guide by /u/JukeCity101](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)
 - [STBEmulator](http://rocketstreams.tv/stbemu) - Popular Android app for using IPTV streams with EPG.
 - [telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
 - [tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
@@ -2290,7 +2291,7 @@ Since this list is huge I can't name each and every single one of you, but here 
 - [@movies_inc](https://t.me/movies_inc) - Another Telegram channel for downloading several movies in different quality.
 - [@Moviezworldz](https://t.me/Moviezworldz) - Official Moviezworldz channel.
 - [@MusicHuntersBot](https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
-- [@piracy](https://t.me/joinchat/JSoye0ykWKGZc_jueXqlcg) - A modest group with over 400 pirates.
+- [@piracy](https://t.me/joinchat/JSoye0ykWKGZc_jueXqlcg) - A well known telegram group with over 500 pirates.
 - [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel which provides warez information, lists & more.
 - [@Qualitymovies](https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto Chan](https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
