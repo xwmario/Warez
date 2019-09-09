@@ -425,6 +425,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 #### Public Trackers
 - [1337x](https://1337x.to/) - 1337x is a torrent site that offers verified torrent downloads.
 - [BTDB](https://btdb.to/) - Large BitTorrent DHT search engine.
+- [CGPeers](https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
 - [DIGBT](https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
 - [ETTV](https://www.ettv.tv/) + [EZTV](https://eztv.ag/) - ETTV is a torrent site specific for movie torrents.
 - [g4u](https://g4u.me/) - (Ger) - Movies, TV Shows & Games.
