@@ -1602,12 +1602,13 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [ABook](http://abook.ws/) - One of the oldest book search indexers.
 - [BinSearch](http://binsearch.info/) - Binary Usenet search engine which can be used for eBooks and other stuff.
 - [EBookEE](https://ebookee.org/) - Tech, Database, Java and many many other categories.
+- [EBook Bike](https://ebook.bike/) - Another search indexer which claims to be the "largest" on the Internet.
+- [Ebook 3000](http://www.ebook3000.com/) - Free ebooks downloads.
 - [FreeBookSpot](http://www.freebookspot.es/) - Similar to eBookEE.
 - [GingaDaddy](http://www.gingadaddy.com) - A usenet newsgroup for eBooks. (needs login)
 - [Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - Preset of indexed websites to search for comics.
 - [oznzb](https://www.oznzb.com ) - Yet another ebook search engine.
-- [EBook Bike](https://ebook.bike/) - Another search indexer which claims to be the "largest" on the Internet.
-- [Ebook 3000](http://www.ebook3000.com/) - Free ebooks downloads.
+- [PDFDrive](https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
 
 **[`^        back to top        ^`](#)**
 
@@ -2215,7 +2216,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## DNS based Ad-Blocking
+## DNS based Ad-Blockers
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - AdGuard Home is a network-wide software for blocking ads & tracking.
 - [Pi-hole](https://pi-hole.net/) - Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
 
 **[`^        back to top        ^`](#)**
