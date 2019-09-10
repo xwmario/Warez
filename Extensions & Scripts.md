@@ -101,3 +101,24 @@
 - [plxdwnld](https://piplong.run/plxdwnld/) - Bookmarklet for downloading original files from the Plex web interface
 - [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) - Python command line utility for creating and maintaining dynamic Plex libraries based on "recipes".
 - [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) - A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex.
+
+### MagisK Modules
+
+**Important**: There are lots of false statements/misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. (in general) or other modules making your OS or parts of your apps "secure" or "private". This is wrong, as explained over [here](https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official servers). Please also keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps with are regularily getting audited e.g. Threema. The modules which are listed here are "helpful" in a sense that they "add" xyz function to the OS and not meant to secure/harden something. 
+
+- [Magisk Manager](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) - Official Magisk XDA Forum thread + discussion.
+- [EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework, even works with Android Q. Did I you said XPosed on Q, yep I did!
+- [Busybox for Android NDK](https://github.com/Magisk-Modules-Repo/busybox-ndk) - BusyBox (replaced with ToyBox in later Android version) is still needed for some apps/functions/scripts.
+- [Magisk Manager for Recovery Mode](https://github.com/Magisk-Modules-Repo/mm) - This beauty of a module saved my ass from bootloops multiple times in my journey of getting everything to work together.
+- [liboemcrypto-disabler](https://github.com/umylive/liboemcrypto-disabler) - Magisk module to disable liboemcrypto.so DRM (e.g. Netflix, My5) on rooted Android devices.
+- [CloudflareDNS4Magisk (& IPv6)](https://github.com/xerta555/CloudflareDNS4Magisk-IPv6) - Starting with [Android 9 (Pie)+](https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/android/) you can manually set this (without any module) in your Wifi/thether settings.
+- [Viper4Android FX Legacy Materialized](https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) . It's not placebo!
+- [FDE](https://github.com/Magisk-Modules-Repo/FDE) - Ultimate Android Optimizer.
+- [Overview of all official and maintained modules](https://forum.xda-developers.com/apps/magisk/collection-magisk-modules-v2-t3575758)
+
+## Xposed + EdXposed Modules
+- [Material Design Xposed Installer](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758) - An unofficial Xposed installer with some useful tweaks.
+- [Lucky Patcher](https://www.luckypatchers.com/download/) - LP also has a Xposed module which you can use (in case you use Xpose).
+- [RootCloak](https://repo.xposed.info/module/com.devadvance.rootcloak2) - Allows you to run apps that detect root without disabling root.
+- [List of Xposed Modules For Android Pie Working With Ed Xposed](https://forum.xda-developers.com/xposed/list-xposed-modules-android-pie-ed-t3892768)
+
