@@ -380,6 +380,14 @@
 **[`^        back to top        ^`](#)**
 
 
+## Manga reader
+- [MangaDLR](https://cylonu87.blogspot.com/p/mangadlr.html) - contains ads (use with ad-blocker) - Yet another Manga reader for Desktop systems.
+- [Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader forked from Tachiyomi.
+- [tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
+
+**[`^        back to top        ^`](#)**
+
+
 ### IRC Clients
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
 - [irssi](https://irssi.org/) - Your text mode chatting application since 1999.
