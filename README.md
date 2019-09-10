@@ -1088,6 +1088,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Kodi
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) - Discussion and links pertaining to unofficial addons for Kodi Media Center
+- [Burst](http://burst.surge.sh) - A torrent content provider to the Quasar plugin.
 - [Elementum](https://elementum.surge.sh/) - Elementum addon is an addon for Kodi, that manages your virtual library, syncs with your Trakt account.
 - [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) - The newest Exodus fork around, paired with LambdaScrapers.
 - [Gaia](https://gaiakodi.com/) - Grants the ability to instantly watch high quality files via cached torrents from Real-Debrid or Premiumize.
@@ -1096,6 +1097,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Placenta](http://www.wirelesshack.org/how-to-install-placenta-kodi-addon.html) - A Fork of Exodus / Covenant with more options and links from Mr Blamo and Muad'Dib.
 - [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right.
 - [Plexus](http://fusion.tvaddons.co/) - Plexus is used in conjunction with Sparkle to play Ace Stream links.
+- [Python-GoogleDrive-VideoStream](https://github.com/ddurdle/Python-GoogleDrive-VideoStream) - Provides service content delivered in Google Drive plugin for KODI through any HTML5 client.
+- [Quasar](http://quasar.surge.sh) - The purpose of this plugin is to search & stream torrents via Kodi.
 - [Sparkle](https://github.com/iwannabelikemike/plugin.video.sparkle) - Kodi addon for finding acestream links.
 - [Tooonmania2](https://github.com/doko-desuka/doko.repository/releases) - lets you watch cartoons, dubbed anime and movies (from animetoon) - and subbed anime and movies (from animeplus).
 - [tvtorrentorganizer](https://github.com/tvtorrentorganizer/tvtorrentorganizer) - Bash 4 Script to Organize TV Show Downloads for Kodi
