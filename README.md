@@ -49,7 +49,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Readme.md](https://github.com/CHEF-KOCH/Warez/blob/master/README.md) - _This file_, provides a smaller overview (includes only website links and no tutorials etc).
 - [Scene Info.md](https://github.com/CHEF-KOCH/Warez/blob/master/Scene%20Info.md) - Beginner Info to get into the scene and warez.
 - [Tools.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tools.md) - Lists all programs related to warez.
-- [Extensions & Scripts.md] - Lists Browser Scripts + Extensions which might makes your pirate life a little bit easier.
+- [Extensions & Scripts](https://github.com/CHEF-KOCH/Warez/blob/master/Extensions%20%26%20Scripts.md) - Lists Browser Scripts + Extensions which might makes your pirate life a little bit easier.
 - [Tutorials.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tutorials.md) - Lists all warez related tools.
 - [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
@@ -535,7 +535,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [FileStream.me](https://filestream.me/) - Free subscription offers 200Mb max file size and 200GB storage total.
 - [Furk.net](https://www.furk.net/) - Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
 - [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
-
 - [Seedbox.io](https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [SeedSync](https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 - [UltraSeedbox](https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
