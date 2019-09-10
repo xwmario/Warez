@@ -206,6 +206,9 @@
 * sci-hub.ac
 * site.telecharger-ebook-gratuit.org
 
+## Manga
+* MangaRock
+
 ## Insecure
 * foxleech.com
 * torrentsafe.com
