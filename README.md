@@ -1564,9 +1564,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Boundless](https://www.boundless.com/) - Affordable online textbooks & study materials.
 - [Calibre-Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [CG Persia Forum](https://cgpersia.com/) - EBooks, tutorials & courses.
-- [CourseClub.me](https://courseclub.me/) - CourseClub provides courses which you can download for e.g. Lynda, Pluralsight, CBG Nuggets & more.
 - [CGPeers](https://www.cgpeers.com/) - Ebooks,, courses and trainings.
 - [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
+- [CourseClub.me](https://courseclub.me/) - CourseClub provides courses which you can download for e.g. Lynda, Pluralsight, CBG Nuggets & more.
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
 - [DailyLit](http://www.dailylit.com/) - Get free downloads sent to your email by RSS feed.
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) A github repository of all the scripts and other tools for removing DRM from ebooks.
@@ -1578,8 +1578,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [eReader.com](http://www.ereader.com/servlet/mw?t=freebooks&si=59) - eReader.com has many classic lit selections for free.
 - [FicSave](http://ficsave.xyz/) - An Open-Source Online Fanfiction Downloader.
 - [Free-eBooks.net](http://www.free-ebooks.net/) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
-- [FreeCourseSite.com](https://freecoursesite.com/) - Provides udemy courses for free.
 - [freebookspot.es](http://www.freebookspot.es/) - Various eBook's.
+- [FreeCourseSite.com](https://freecoursesite.com/) - Provides udemy courses for free.
 - [Get Free Ebooks](http://www.getfreeebooks.com/) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
 - [Globusz](http://www.globusz.com/) - There are no limits on the number of free books you can download on this online publishing site.
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) -
@@ -1593,11 +1593,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Read Print Library](http://www.readprint.com/) - These novels and poems are all free.
 - [s10 BitDownload](http://s10.bitdownload.ir/Learning.2/) - Tutorials, Udemy & and others.
 - [Starry.com](http://www.starry.com/free-online-novels/index.htm) - These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
-- [TheGeeks](https://thegeeks.click/) - Ebook tutorials, Udemy & more.
 - [TehParadox](http://www.tehparadox.co/) - eBooks, Apps, Games & more.
-- [TutsGalaxy](https://tutsgalaxy.com/) - Free Courses & Tutorials
 - [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Posted by /u/Servaplur
 - [The Online Books Page](http://digital.library.upenn.edu/books/) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
+- [TheGeeks](https://thegeeks.click/) - Ebook tutorials, Udemy & more.
+- [TutsGalaxy](https://tutsgalaxy.com/) - Free Courses & Tutorials
+- [Twirpx](https://www.twirpx.com/) - (RU) - Fiction/Non-fiction, books in multiple languages.
 - [Ubooquity](http://vaemendis.net/ubooquity/) - Ubooquity is a free home server for your comics and ebooks library.
 
 **[`^        back to top        ^`](#)**
