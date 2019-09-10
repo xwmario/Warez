@@ -432,6 +432,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Games4theworld](https://games4theworld.org) - Torrents and magnet links for games.
 - [GloTorrents](https://glodls.to/) - Download Movies, TV, Games and Other Torrents Free.
 - [Goldesel](http://goldesel.to/) - (Ger) - Games, Movies, Audio & eBooks.
+- [HDCenter](https://hdcenter.cc/login.php) - (NL) - Games, Movies, eBooks & more.
 - [HDSector](http://udush.com/) - Bollywood / Hindi / Hollywood HD Movies.
 - [Idope (Clone)](https://idope.top/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Isohunt2](https://isohunt2.net/) - Clone of the original ISOHunt torrent index and repository.
