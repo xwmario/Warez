@@ -106,6 +106,17 @@
 
 **Important**: There are lots of false statements/misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. (in general) or other modules making your OS or parts of your apps "secure" or "private". This is wrong, as explained over [here](https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official servers). Please also keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps with are regularily getting audited e.g. Threema. The modules which are listed here are "helpful" in a sense that they "add" xyz function to the OS and not meant to secure/harden something. 
 
+That been said, there are no apps listed which altering your HOSTS file or apps which claim to "somehow" "optimize" your battery life. Use AdGuard on Android (it's better than messing with the HOSTS) and (in general) use as less as possible on apps/modules. More apps -> more background processes (startups etc) + cpu cycles consumption = more battery drain (it's really that simple). 
+
+- [Systemless TZData](https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Update your ROM's TZData systemlessly.
+- [DNSCrypt Proxy 2 for Android](https://github.com/Magisk-Modules-Repo/dnscrypt-proxy) - A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2.
+- [crontab](https://github.com/Magisk-Modules-Repo/crontab) - Easy to use crontabs.
+- [App Data Keeper](https://forum.xda-developers.com/apps/magisk/magisk-module-app-data-keeper-adk-t3822278) - Protects select apps+data from being wiped out on a regular TWRP factory reset.
+- [Android Mic Fix](http://forum.xda-developers.com/apps/magisk/module-oneplus-one-bacon-mic-fix-t3503128) - Fixes in call low volume mic issues for various Android devices.
+- [Always-on Fingerprint](https://forum.xda-developers.com/apps/magisk/module-fingerprint-mi-5-mi-note-2-t3660179) - Allows you to unlock your device without pressing the home button. The fingerprint scanner will remain always-on to allow that.
+- [Adreno GPU Developer Preview Drivers](https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557) - Replace ROM Adreno GPU drivers from Qualcomm.
+- [ADB & Fastboot for Android NDK](https://forum.xda-developers.com/showthread.php?t=2239421) - Static ARM adb and fastboot binaries for Android built with the NDK.
+- [APK-Patcher Lite](https://forum.xda-developers.com/android/software/mod-apk-patcher-lite-t3868675) - A modified version of APK-Patcher that will delete / inject files into System APK files instead of using a baksmali / apktool method.
 - [Magisk Manager](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) - Official Magisk XDA Forum thread + discussion.
 - [EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework, even works with Android Q. Did I you said XPosed on Q, yep I did!
 - [Busybox for Android NDK](https://github.com/Magisk-Modules-Repo/busybox-ndk) - BusyBox (replaced with ToyBox in later Android version) is still needed for some apps/functions/scripts.
@@ -115,6 +126,15 @@
 - [Viper4Android FX Legacy Materialized](https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) . It's not placebo!
 - [FDE](https://github.com/Magisk-Modules-Repo/FDE) - Ultimate Android Optimizer.
 - [Overview of all official and maintained modules](https://forum.xda-developers.com/apps/magisk/collection-magisk-modules-v2-t3575758)
+- [Init.d Injector](https://github.com/Magisk-Modules-Repo/InitdInjector) - Injects init.d support via post-fs-data script, this module is only useful if your OS do not natively supports init.d e.g. LOS does that without any scripts.
+- [Magisk Module Uninstaller](https://forum.xda-developers.com/showpost.php?p=72542167&postcount=242) - Enables you to uninstall modules in TWRP via terminal.
+- [Magisk WiFi Bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) - Make 40Mhz runing at 2.4Ghz/5Ghz on your Qualcomm devices! In theory it doubles the bandwith on Qualcomm devices.
+- [NanoDroid](https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928) - An installer for various Open Source related things, most noticeably microG and F-Droid.
+- [Nano for Android NDK](https://github.com/Magisk-Modules-Repo/nano-ndk) - Static ARM nano binary for Android built with the NDK.
+- [Secure I/F](https://github.com/Magisk-Modules-Repo/secure-if) - Designed to disable data delivery through USB. It can protect your data when you are charging in public area. Some ROMs do this automatically (or via an option) but most do not!
+- [Wireless Firmware for Nethunter](https://github.com/Magisk-Modules-Repo/wirelessFirmware) - Adds the required firmware for external wireless adapters to be used with Nethunter.
+- [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - A well known modded version of YouTube with many features such as adblocking and background playback. Or use [NewPipe app](https://newpipe.schabi.org/). 
+
 
 ## Xposed + EdXposed Modules
 - [Material Design Xposed Installer](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758) - An unofficial Xposed installer with some useful tweaks.
