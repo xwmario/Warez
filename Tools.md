@@ -375,6 +375,7 @@
 
 ## eBook Downloader
 - [dlfeb](https://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
+- [LibGen](https://libgen.is/) - The website has now an app which lets you search their database and download the books via their desktop app.
 
 **[`^        back to top        ^`](#)**
 
