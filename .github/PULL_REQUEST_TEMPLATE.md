@@ -1,7 +1,6 @@
 <!-- Enter a brief description/summary of your PR here. What does it fix/what does it change/how was it tested (even manually, if necessary)? -->
 ## Summary of the Pull Request
 
-
 <!-- How-to fork the project and how to submit the pull request -->
 ### Submitting a Pull request
 
@@ -18,5 +17,8 @@
 * [x] Malware links or illegal websites/links/content is not allowed.
 * [ ] I've discussed this with core contributors already. If not checked, I'm ready to accept this work might be rejected in favor of a different grand plan. Issue number where discussion took place: #xxx
 * [ ] I verified that I tested the website/program myself.
+* [ ] I checked the active and closed issue tickets to avoid submitting duplicates.
 
+<!-- (optional) Information which you can provide to improve the submission (more details -> faster merging process) -->
+### Other relevant information
 
