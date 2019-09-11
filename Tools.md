@@ -651,7 +651,6 @@
 ### Nintendo 3DS
 - [Citra](https://citra-emu.org/) - C++ developed for Nintendo 3DS and is the first of his kind. Citra does not work very well with older PCs and needs a x64 CPU. 
 
-
 ### Nintendo Switch
 - [Yuzu](https://yuzu-emu.org/) - The first and (only) C++ emulator for Nintendo Switch. From the developer(s) of Citra.
 
@@ -669,7 +668,8 @@
 
 ### PlayStation Portable
 - [PPSSPP](https://github.com/hrydgard/ppsspp/) - Free and open-source PSP emulator for Windows, macOS, Linux, iOS, Android, BlackBerry 10 and SymbianOS.
-
-
 - [PCSX-Reloaded](https://github.com/iCatButler/pcsxr) - Supports Microsoft Windows, OS X and Linux.
 - [ePSXe](http://www.epsxe.com/) - PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux.
+
+**[`^        back to top        ^`](#)**
+
