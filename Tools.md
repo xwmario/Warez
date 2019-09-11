@@ -593,7 +593,7 @@
 
 **[`^        back to top        ^`](#)**
 
-## Penetration Testing Tools
+## Wifi Penetration Testing Tools
 - [Fern Wifi Cracker](https://github.com/savio-code/fern-wifi-cracker) - Crack and recover WEP/WPA/WPS keys.
 - [Maltego](http://paterva.com/web6/products/maltego.php) - (commercial) -  A program that can be used to determine the relationships and real world links between people, groups, companies, web sitesc& more.
 - [mdk3](https://github.com/charlesxsh/mdk3-master) - Inject data into wireless networks. 
@@ -604,3 +604,72 @@
 
 **[`^        back to top        ^`](#)**
 
+
+## Console Emulators
+
+### Multi-system emulators
+- [higan](https://higan.byuu.org/) - Originally called "bsnes", the emulator supports Mega Drive, SNES, GBC & other systems.
+- [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API (supports multiple cores/systems).
+
+### Amiga
+- [E-UAE](http://amiga.technology/) -  Computer emulator which emulates the hardware of Commodore International's Amiga.
+
+### Arcade
+- [MAME](https://github.com/mamedev/mame) -  Multiple Arcade Machine Emulator (MAME) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.
+
+### Atari
+- [Stella](http://stella-emu.github.io/) - Atari 2600 game console emulator.
+
+### xBox 360 
+- [Xenia](https://github.com/xenia-project/xenia) - Xbox 360 emulator. 
+
+### SNES
+- [Mesen](https://github.com/SourMesen/Mesen-S) - Mesen-S is a cross-platform (Windows & Linux) SNES emulator built in C++ and C#. Mesen claims to be the most accurate SNES emulator.
+- [Snes9x](https://github.com/snes9xgit/snes9x) - SNES emulator written in C++ with official ports for DOS, Linux, Microsoft Windows, AmigaOS 4, macOS, MorphOS, Xbox, PSP, PS3, Nintendo GameCube, Nintendo Wii, iOS, and Android.[
+
+### NES (Super NES/Famicom) 
+- [fceux](https://github.com/TASVideos/fceux) - FCEUX, a NES Emulator
+- [nes](https://github.com/fogleman/nes) - NES emulator written in Go.
+- [JsNES](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. 
+
+### Nintendo 64
+- [1964](https://github.com/schibo/1964js) - One of the oldest and most popular N64 emulators written in C++.
+- [Mupen64Plus (Mupen64-64bit/Mupen64-amd64)](https://mupen64plus.org/) - Written in C, C++, allows users to play Nintendo 64 games on a computer by reading ROM images.
+
+### GameCube/Wii
+- [Dolphin](https://github.com/dolphin-emu/dolphin) - Supports Windows, Linux, macOS and Android.
+
+### Wii U
+- [Cemu](http://cemu.info/) - Closed source Wii U video game console emulator.
+
+### Game Boy
+- [Wzonka-Lad](http://www.villehelin.com/wzonka-lad.html) - Well known emulator for amiga series of home computers. 
+
+### Game Boy Advance
+- [VBA](https://sourceforge.net/projects/vba/) - VisualBoyAdvance supports Game Boy, Game Boy Color, and Game Boy Advance handheld game consoles.
+
+### Nintendo 3DS
+- [Citra](https://citra-emu.org/) - C++ developed for Nintendo 3DS and is the first of his kind. Citra does not work very well with older PCs and needs a x64 CPU. 
+
+
+### Nintendo Switch
+- [Yuzu](https://yuzu-emu.org/) - The first and (only) C++ emulator for Nintendo Switch. From the developer(s) of Citra.
+
+### Neo Geo CD
+- [NeoCD](http://pacifi3d.retrogames.com/neocdsdl/) - Supports of Red Book (audio CD standard).
+
+### PlayStation
+- [PSEmu Pro](https://web.archive.org/web/19990428033703/http://www.psemu.com/index.html) - It has been discontinued since 1999 but still works on older systems perfectly fine.
+
+### PlayStation 2
+- [PCSX2](http://pcsx2.net/) - Open-source PlayStation 2 emulator for Windows, Linux, and macOS.
+
+### PlayStation 3
+- [RPCS3](https://github.com/rpcs3/rpcs3/) - Video game console emulator and debugger for the Sony PlayStation 3 written in C++.
+
+### PlayStation Portable
+- [PPSSPP](https://github.com/hrydgard/ppsspp/) - Free and open-source PSP emulator for Windows, macOS, Linux, iOS, Android, BlackBerry 10 and SymbianOS.
+
+
+- [PCSX-Reloaded](https://github.com/iCatButler/pcsxr) - Supports Microsoft Windows, OS X and Linux.
+- [ePSXe](http://www.epsxe.com/) - PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux.
