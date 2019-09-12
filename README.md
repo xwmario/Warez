@@ -715,9 +715,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [hdencode](https://hdencode.com/) - Videos/Movies in HD Quality.
 - [IceFilms.info](https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more.
 - [Intercambios Virtuales](http://www.intercambiosvirtuales.org/) - (ES) - Yet another software portal.
+- [IntoTheInter](https://intotheinter.net/) - (EN) - (needs invite) -  Android apps, Windows Software & Games.
 - [KickassWarez](https://kickasswarez.info/) - (EN/RU) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!
-- [Mawto](https://www.mawtoload.com/) - (IR) Android apps, Windows Software & Games.
+- [Mawto](https://www.mawtoload.com/) - (IR) - Android apps, Windows Software & Games.
 - [MaxRelease](http://max-rls.com/) - Games, software, magazines, movies, music & tv shows.
 - [MkvCage](https://www.mkvcage.ws/) -  Big tracker for TV shows & movies.
 - [Movie Glide](https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
