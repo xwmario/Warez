@@ -34,7 +34,7 @@
 **[`^        back to top        ^`](#)**
 
 
-## Discord Scripts, Bots & Other Tools
+## Discord Scripts, Bots & other tools
 - [BetterDiscord](https://betterdiscord.net/home/) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
 - [Discord Channel scraper](https://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
 - [Discord NSWDBot](https://github.com/HunterKing/NSWDBot) - Discord bot to scrape NSWDB.com for scene releases.
@@ -670,6 +670,12 @@
 - [PPSSPP](https://github.com/hrydgard/ppsspp/) - Free and open-source PSP emulator for Windows, macOS, Linux, iOS, Android, BlackBerry 10 and SymbianOS.
 - [PCSX-Reloaded](https://github.com/iCatButler/pcsxr) - Supports Microsoft Windows, OS X and Linux.
 - [ePSXe](http://www.epsxe.com/) - PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux.
+
+**[`^        back to top        ^`](#)**
+
+
+### Netflix & Amazon, Google & Co. video decrypter
+- [video decrypter](https://github.com/ghoshben/video_decrypter) ([Orig.](https://github.com/CrackerCat/video_decrypter))- Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 
 **[`^        back to top        ^`](#)**
 
