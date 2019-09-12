@@ -1478,10 +1478,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ### Spotify
-- [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
+- [Block Spotify Updates on MacOS](https://donotupdatespotify.sh/) - A guide is avbl. [here](https://old.reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/). 
+- [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify. 
+- [MuteSPotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
+- [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
 - [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
-- [BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
 - [Spytify](https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
 
 **[`^        back to top        ^`](#)**
