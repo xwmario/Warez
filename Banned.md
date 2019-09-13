@@ -65,6 +65,7 @@
 * cafehulu.com
 * cartoonson.tv
 * cartoonsons.com
+* CotoMovies 
 * chia-anime.tv
 * cinesilip.su
 * cinesilipsu.net
