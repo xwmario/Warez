@@ -151,11 +151,11 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Ad-Blocker
 - [An Overview of Ad Blocking Technology](https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad Blocker works.
-- [AdGuard](https://adguard.com/en/welcome.html) - Claims to be the worlds most advance Ad Blocker.
+- [AdGuard](https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
 - [Filterlists](https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
 - [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
-- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) - Fork of uBlock with sme gimmicks, the defender addon is an anti-adblock defuser for Nano Adblocker and uBlock Origin.
-- [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's website about ad blockers.
+- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) - Fork of uBlock with some gimmicks, the defender addon is an anti-adblock defuser for Nano Adblocker and uBlock Origin.
+- [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's website about ad-blockers.
 
 **[`^        back to top        ^`](#)**
 
@@ -720,7 +720,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!
 - [Mawto](https://www.mawtoload.com/) - (IR) - Android apps, Windows Software & Games.
 - [MaxRelease](http://max-rls.com/) - Games, software, magazines, movies, music & tv shows.
-- [MkvCage](https://www.mkvcage.ws/) -  Big tracker for TV shows & movies.
 - [Movie Glide](https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://moviefiles.org/) - Direct download search engine which generates Google Drive links
 - [Moviesleak](https://moviesleak.net/) - Yet another movie page, the focus is in IMDB annoucements.
