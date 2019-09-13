@@ -71,6 +71,19 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+### ISP Info
+- [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
+
+**[`^        back to top        ^`](#)**
+
+### ISPs you should avoid
+- AT&T
+- CenturyLink
+- Comcast/Xfinity
+- Cox Communications
+- Spectrum/Charter
+- Verizon
+
 ### Social Media Alternatives
 - [MeWe](https://mewe.com/) - Google+ replacement.
 - [Pleroma](https://pleroma.social/) - Host your own social media.
