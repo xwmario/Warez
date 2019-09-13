@@ -1384,6 +1384,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## iOS Stores
 - [App Valley](https://app.appvalley.vip/) - Basically the Aptoide under the iOS Stores.
+- [Box Loca](https://apps.apple.com/us/app/box-loca/id1466961267) - Track the movies you have watched with Box Loca for iPhone.
 - [Cydia](https://cydia.saurik.com/) - Cydia is an alternative to Apple's App Store for "jailbroken" devices.
 
 **[`^        back to top        ^`](#)**
@@ -1989,6 +1990,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [1Movies](http://1movies.nl/1movies)
 - [CineBloom](https://www2.cinebloom.com/)
 - [Crackle](https://www.sonycrackle.com/out-of-region.html)
+- [Cyberflix](https://cyberflix.me/) - (Android) - Claims to be 100% free from virus and malware. Direct Download Links are avbl.
 - [crawler](https://crawler.to/)
 - [Daxiv](https://daxiv.com/)
 - [Filmxy](https://www.filmxy.one/)
