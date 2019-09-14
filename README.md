@@ -14,7 +14,7 @@ The list is the biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) overv
 ## Disclaimer
 **I or GitHub do not supporting warez - we're also not responsible for external links or their content! If you dislike the information I provide then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
 
-### Why was the overview created?
+### Why was this overview page created?
 * Research reasons!
 * Freedom of information!
 * Most lists you find are outdated, not actively maintained or full of malware links.
@@ -244,6 +244,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Android Zone](https://android-zone.ws/) - Another place to find premium links for APKs.
 - [APKmb](https://apkmb.com/) - Download paid Apps & Android Games for free.
 - [APKMirror](https://www.apkmirror.com/) - Provides legit mirrors with checksums for various apps.
+- [APKHouse](https://apkhouse.com) - 
 - [ApkPure](https://apkpure.com/) - Another free APK mirror site.
 - [Aptoide](http://www.aptoide.com/) - Share and download cracked/modded and other apk's among mirrors for original untouched apks.
 - [BlackMod](https://blackmod.net/) - Lots of cracked Android games.
@@ -1167,6 +1168,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [The Eye ROMs](http://the-eye.eu/public/rom/) - Open directory of ROMs from The-Eye.
 - [The ROM Depot](https://theromdepot.com/roms/) - Around 3 TB of ROMs (requires a VPN).
 - [Vimm's Lair](https://vimm.net/?p=vault) - Large collection of ROMs.
+- [WowroMs](https://wowroms.com/) - Various ROMs collection.
 - [Ziperto](https://www.ziperto.com/) - Nintendo 3ds CIA files, especially for JRPGs.
 
 **[`^        back to top        ^`](#)**
@@ -1299,11 +1301,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Anime
+## Anime (Hentai is not allowed in this section!)
 - [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
 - [/r/sjain_guides](https://www.reddit.com/r/sjain_guides/) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
 - [9Anime Downloader](https://anonembed.xyz/9anime/) - Download Full Seasons from 9anime.
+- [Animes.so](https://www.animes.so) - (needs registration to see content) - Downloads, DL-Links for all sorts of Animes.
 - [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) - /r/KissCartoon wiki page with lots of anime sites.
 - [AniDex](https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
 - [AniLinkz](https://anilinkz.to/) - Large database of streaming anime episodes.
@@ -1311,6 +1314,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Anime Twist](https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
 - [anime-sharing](http://www.anime-sharing.com/forum/) - Forum for sharing anime series.
 - [animEncodes](https://www.animencodes.com/) - Anime sharing page.
+- [Anime-Loards.org](ttps://www.anime-loads.org) - Anime sharing page.
 - [AnimeOut](https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
 - [GoGo Anime](https://www3.gogoanime.in/) - Popular website for watching anime.
 - [Hi10 Anime](https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
@@ -1391,6 +1395,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### iOS Store Repos
 - [Ahmedbafkir.Yourepo](https://ahmedbafkir.yourepo.com/)
+- [Appdb](https://appdb.to)
+- [Appcake](https://www.iphonecake.com)
 - [Akusio](https://akusio.github.io/)
 - [Alfhaily](https://apt.alfhaily.me/)
 - [Aquawu](http://aquawu.github.io/igg/)
@@ -1481,6 +1487,15 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+### Keygens & Serials
+- [MiniDL.org](https://minidl.org) - Provides cracks for Windows and MacOS.
+- [Serialreactor](https://www.serialreactor.com) - Looking for serials?
+- [Serials](http://serialz.cracks.me.uk) - Yet another serials page.
+- [SerialShack](http://www.serialshack.com) - One of the oldest serial websites which are still online.
+- [Smart Serials](https://www.smartserials.com) - (needs VPN) - Forum + serials. 
+
+**[`^        back to top        ^`](#)**
+
 ### iTunes
 - [forked-daapd](https://ejurgensen.github.io/forked-daapd/) - Linux/FreeBSD DAAP (iTunes) - and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem
@@ -1511,42 +1526,49 @@ Since this list is really huge I can't name each and every single one of you, bu
 ## Software
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
 - [Appked](https://www.macbed.com/) - MacOS application sharing website.
-- [Blackpearl.biz](https://blackpearl.biz/) - (needs login) - Provides similar services like Snahp (but registration is open)
+- [Blackpearl.biz](https://blackpearl.biz/) - (needs login) - Provides similar services like Snahp (but registration is open).
+- [Cloud-Droid](https://www.cloud-droid.com) - Warez-Blog, downloads via Scene-hoster.
 - [CrackingPatching.com](https://crackingpatching.com/) - Cracked software
 - [CracksNow](https://cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites
-- [Nulled](https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software
+- [KaranPC](https://karanpc.com) - Yet another community around Windows software. 
+- [Nulled](https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
+- [Sanet.st](https://sanet.st/windows/) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
+- [Softlay](https://softlay.net) - Windows software mirrors.
 - [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
 - [Vestathemes](https://www.vestathemes.com/) - Vestathemes is a website for [WordPress](https://www.wordpress.com/) - themes and plugins.
 
 **[`^        back to top        ^`](#)**
 
 ## MacOS
+- [APPKED](https://www.macbed.com) - Links to share-hosters, provides serials, cracks & more.
 - [CrackSoft](https://crackzsoft.com/) - Latest Crack Softwares For Windows and MacOS.
-- [Mac Torrent Download](https://mac-torrent-download.net/) - The "original" old MacPS torrent downloader utility.
+- [Imojado](https://www.imojado.org) - (needs ad-blocker) - Android, MacOS X and other things.
+- [KaranPC](https://karanpc.com/mac) - MacOS X warez via sharehoster.
+- [Mac Torrent Download](https://mac-torrent-download.net/) - (needs ad-blocker) - Provides cracks for MacOS. Be careful, each click triggers an ad.
+- [Mac Torrents](http://mactorrent.co) - (insecure) - Lots of MacOS Warez.
+- [nMac.to](https://nmac.to) - Tutorials, Apps, Games via P2P or sharehoster for MacOS.
 
 **[`^        back to top        ^`](#)**
 
-## Windows
+## Windows (Info, tools and other resources)
 - [AME](https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 - [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
 - [MDL Forums](https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
+- [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, check your system's trusted root certificate store.
 - [PCBeta](http://bbs.pcbeta.com) - Windows ISOs, hotfixes and discussions.
 - [SamLab](http://samlab.ws/) - (RU) - Windows Board, ISOs, Hotfixes & more.
 - [Shadow-Trooperz](http://shadow-trooperz.xyz/sw/) - Provides Windows ISO's and other Windows related software links.
-- [TechBench by AdGuard](https://tb.rg-adguard.net/public.php) - Find official Windows ISOs for Windows 7/8/10.
-- [TechBench dump](https://tb.32767.ga/) - The "original" project just rebooted, official Windows ISOs for Windows 8.1 & 10
-- [UUPDump](https://uupdump.ml/) - In-official Windows Hotfix repository + Windows dumps.
 - [Microsoft Build Overview](https://msbuilds.rg-adguard.net/) - A history of Windows build strings.
 
 **[`^        back to top        ^`](#)**
 
 
 ### Windows Resources (Hotfixes & Patches)
-- [AskWoody](https://www.askwoody.com/) - News, tips, advice, support for Windows, Office, PCs & more.
-- [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, check your system's trusted root certificate store.
+- [AskWoody](https://www.askwoody.com/) - News, tips, advice, support for Windows, Office, PCs & more. Also provides information regarding hotfixes & patches.
 - [Simplix Blog](https://blog.simplix.info/update7/) - Windows Hotfix repository.
 - [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) - AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's.
+- [UUPDump](https://uupdump.ml/) - In-official Windows Hotfix repository + Windows dumps.
 
 **[`^        back to top        ^`](#)**
 
@@ -1557,7 +1579,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Windows 10 Downloads & Verification
+### Windows 10 Downloads (Mirrors) & Verification Tools
+- [TheEye - Over 2.7 TB backup of MSDN dump](https://the-eye.eu/public/MSDN/) - Mirrors for a lot of ISO's.
+- [Microsoft .iso DDLs](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's own "TechBench" site to provide mirrors for everyone. Latest releases are avbl. [here](https://tb.rg-adguard.net/products.html). 
+- [Microsoft .iso torrents on Digitalriver](http://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors for official Windows ISO's.
 - [Windows 10 1903 Build 18362.30 Final (May Update '19)](https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1) - Download + checksum links.
 - [Windows and Office Genuine ISO Verifier](https://genuineisoverifier.weebly.com/) - Freeware tool to verify Windows & Office images.
 - [Windows ISO Downloader](https://www.heidoc.net/php/Windows%20ISO%20Downloader.exe) - Allows an easy and comfortable way to download genuine Windows 7, 8.1 and 10 disk images (ISO) directly from Microsoft's servers (tool contains ads).
@@ -1640,12 +1665,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Academic Papers & Material
-- [Academic Torrents](http://academictorrents.com/) - A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
+## Academic Papers (white papers)
+- [Academic Torrents](http://academictorrents.com/) - (**no https** (!)) - A Community-Maintained Distributed Repository for researchers, by researchers.
 - [BookSC](http://booksc.org/) - The world's largest scientific articles store. 50,000,000+ articles for free.
-- [LibGen](http://libgen.io/) - search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [LibGen](http://libgen.io/) - [(mirror)](http://gen.lib.rus.ec/) - Search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere. Blocked on some ISPs (needs VPN).
 - [PDF-Gigant](http://pdf-giant.com/) - Lots of different magazines.
-- [Sci-Hub](https://sci-hub.tw/) - The first pirate website in the world to provide mass and public access to tens of millions of research papers.
+- [Sci-Hub](https://sci-hub.tw/) - [Sci-hub automatically uploads articles to libgen](https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) and provides public access to tens of millions of research papers.
 
 **[`^        back to top        ^`](#)**
 
@@ -1790,6 +1815,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [AnYme](https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
 - [AppCake](http://www.appcake.net/) - AppCake is also known as AC Market and provides free apks.
 - [apk4free](https://apk4free.net/) - Android apk mirrors and patches.
+- [APK Mania](https://apkmaniafull.com) - (needs adblocker) - Apps, Games, Themes, Wallpapers & Widgets. 
 - [APKDot](https://apkdot.com/) - APKMirror clone website.
 - [Apkmos](https://apkmos.com/) - The Best App Store For Download Android Apps, Android Games, Android Themes, Android Wallpapers And Much More For Your Android Smartphone.
 - [Baltagy's Website](https://baltagy1.blogspot.com/) - Apps, Mods, RePacks and portable releases.
@@ -1970,6 +1996,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Streamlord](http://www.streamlord.com/)
 - [Streamm4u](http://streamm4u.tv/)
 - [TimeToWatch](https://www.timetowatch.video/)
+- [TFPDL](https://www.tfp.is/recent)
 - [Tubi](https://tubitv.com/home)
 - [TVMovies](https://tvmovies.to/)
 - [ULMovies](https://ulmovies.com/)
