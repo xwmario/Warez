@@ -1004,13 +1004,14 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [1Movies](http://1movies.nl) - Watch Free HD movies online & free download movies at 1movies.pl.
 - [AZMovies](https://azmovies.xyz/) - AZMovies your best source for watching movies online, with High Quality 1080p movies, you can stream anytime.
 - [Arabseed](https://arabseed.tv/) - (AR) - Online shopping from a great selection at Digital Music Store.
+- [Best Free Streaming](https://www.bestfreestreaming.com/) - Another streaming site that rates streaming services.
 - [CMoviesHD](https://www2.cmovieshd.bz) - Basic streaming site layout, HD server with additional hosts.
 - [DP Stream](https://www.dpstream.net/) - (FR) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
 - [Daxiv Video](https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
-- [FMOVIES](https://www3.fmovies.to/) - Openload, MyCloud, RapidVideo, Streamango
+- [FMOVIES](https://www3.fmovies.to/) - Openload, MyCloud, RapidVideo, Streamango-
 - [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more
 - [Filmstream.online](http://filmzenstream.online/) - (FR) - Regarder des films gratuits illimités de sur Filmzenstream. Regarder complet des films en streaming hd gratuitement vf sans inscription en française.
-- [Filmz.cc](https://www.filmz.cc/) - (FR) -
+- [Filmz.cc](https://www.filmz.cc/) - (FR) - French streaming website.
 - [FlixGo](https://flixgo.net/) - Ralph Breaks the Internet. Avengers: Infinity War. Incredibles 2. Ant-Man and the Wasp ... Dawn of Justice. Captain America: Civil War. FlixGo.
 - [Flixanity](https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
 - [French Stream](http://wwv.french-stream.co/) - (FR) - Regarder Facilement et Gratuitement Les Meilleurs Films et Séries en Streaming HD Sans aucune Publicité Gênante ...
@@ -1034,9 +1035,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Sokrostream.vip](https://sokrostream.vip/) - (FR) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport
 - [Solarmovie](https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
 - [StreamCR](https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
+- [Streams.now.sh](https://streams.now.sh/) - Clean design, fast & smart search, large variety of films, HD quality, from popular groups & hosters.
 - [StreamCouch](https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
 - [Streamcomplete](https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
-- [Streams.now.sh](https://streams.now.sh/) A website with a clean design, fast & smart search, large variety of films, HD quality, from popular groups & hosters.
 - [TakiART](https://www.takiartmovies.ga/) - Watch and download latest Hollywood movies for free.
 - [Time2Watch](https://time2watch.in/) - (FR) - Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
 - [VF-Streaming](https://www.vf-stream.org/) - (FR) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
@@ -1940,8 +1941,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Big Media Libraries
-- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) - Reddit, random streaming sites
-- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites
+- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) - Reddit, random streaming sites.
+- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
 - [123Movies.ooo](https://123movies.ooo/) - Watch & stream full HD movies & TV series online for free.
 - [2TwoMovies](https://two-movies.net/) - Watch Free Movies Online. TwoMovies is a free online video service that offers large collection of full length movies.
 - [5Movies](http://5movies.to/) - Watch FULL HD Quality 1080/720p movies and latest tv series online for free, download the latest movies without registration at all.
@@ -1964,7 +1965,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Sockshare](http://sockshare.ac/) - Huge Movie/TV Library
 - [SolarMovieHD](https://solarmoviehd.to/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
 - [Solarmovies](https://solamovies.cc/) - SolarMovie claims to be the biggest Library of free movies and tv shows.
-- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
+- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Reddit, random streaming sites.
 - [TORRENTDOWNLOADS](https://www.torrentdownloads.me/) - It’s a no-nonsense index that provides torrents to millions of users each month.
 - [Viooz](https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 
