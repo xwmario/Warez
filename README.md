@@ -2361,6 +2361,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ## Free graphics
+- [CGPeers](https://www.cgpeers.com) - (needs login) - A big platform for not only graphics.
 - [PixelPro.io](https://pixelpro.io/) - Provides free (and paid) graphics for streamers.
 
 **[`^        back to top        ^`](#)**
@@ -2393,7 +2394,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 ### Telegram Piracy Discussion Channels
 - [@bestwarez](https://t.me/bestwarez) - Maybe one of the biggest warez telegram channel.
 - [@DeezerMusicBot](https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
-- [@fullalbums](https://t.me/fullalbums) - Full Music Albums.
+- [@fullalbums](https://t.me/fullalbums) - Download full Music Albums.
 - [@iMediaShare](https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
 - [@intermedia](https://t.me/intermedia) - Channel for movies.
 - [@itorrentsearchbot](https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search
@@ -2484,7 +2485,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 ### Cloud based DNS Alternatives
 - [Blockchain-DNS.info](https://blockchain-dns.info/) - First step towards the uncensored Internet
 - [NextDNS](https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
-- 
 
 **[`^        back to top        ^`](#)**
 
