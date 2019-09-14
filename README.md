@@ -138,6 +138,19 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+## Nulled Scripts
+- [AIW.BZ](https://aiw.bz) - (Ger) - German forum for nulled scripts.
+- [BoardScriptz](https://boardscriptz.to/board) - (Ger) - One of the oldest boards around nulled forum scripts.
+- [Cracked-Scriptz](https://forum.cracked-scriptz.r) - (needs VPN) - A Blog which is not always online, it provides info around nulled scripts.
+- [EScripts](https://www.escripts.club) - (anti-ad-blocker detection) - English forum for nulled forum software.
+- [Nulled.to](https://www.nulled.to) - The most popular forum around nulled scripts.
+- [ScriptZSector](https://scriptzsector.com) - One of the newcomer, but fast growing forum.
+- [ToolBase](https://www.toolbase.me/board) - (Ger) - Tools, scripts and forum discussions around nulled software.
+- [WSC-Scriptz](https://support.wsc-scriptz.org) - (Ger) - Sometimes online, mostly blocked by ISP, provides a lot info around the nulled scene.
+- [XenFiles.co](https://xenfiles.co) - (Ger) - Yet another german forum for nulled scripts.
+
+**[`^        back to top        ^`](#)**
+
 
 ### VPN Subscription Services (no-logs)
 - [ExpressVPN](http://anonym.es/?https://www.expressvpn.com/) ExpressVPN - A VPN with 256-bit encryption, over 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
@@ -169,16 +182,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
 - [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) - Fork of uBlock with some gimmicks, the defender addon is an anti-adblock defuser for Nano Adblocker and uBlock Origin.
 - [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's website about ad-blockers.
-
-**[`^        back to top        ^`](#)**
-
-## Piracy focused discussion Channels & Blogs
-- [/f/Piracy](https://raddle.me/f/Piracy) - Raddle forum for piracy.
-- [/r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
-- [Prism Break](https://prism-break.org/en/) - Opt-out of global data surveillance programs like PRISM, XKeyscore and Tempora.
-- [TechWorm](https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
-- [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
-- [/v/piracy](https://voat.co/v/piracy) - Voat Forum for piracy.
 
 **[`^        back to top        ^`](#)**
 
@@ -226,9 +229,21 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Audio
-- [Mp3va.com](https://www.mp3va.com/browse) - Free Music (MP3s).
+## Audio (audio only websites)
+- [1 Gabba.net](https://1gabba.pw) - Drum & Bass, Hardcore & Hardstyle, most downloads via rapidgator.
+- [albumdabster](https://albumdabster.com) - (needs ad-blocker + GeoIP (VPN) block) - Mixtapes & other tapes. 
+- [Bestmusik6](https://bestmusik6.org) - (Tr) - Türkiye music.
+- [Canna Power](http://uu.canna.to/) - Was once the biggest music piracy platform, but since years only their own users uploading mp3 music.
+- [BestDJmix](https://bestdjmix.com) - (Ger) - (needs ad-blocker) - German Top 100  albums, download mostly via Turbobit. 
+- [Balaton Sound aka per-fect](https://per-fect.nl) - Listen to music on the website or download top 100 playlists.
+- [Exystence](http://exystence.net) - Downloads via sharehoster, a lot of music info, text and links. 
+- [Mp3va.com](https://www.mp3va.com/browse) - Free Music mostly MP3s.
+- [My Free MP3](https://my-free-mp3.net) - Search engine for MP3s, stream & download is possible.
 - [New Album Releases](http://newalbumreleases.net/) - New Album Releases.
+- [RnBXclusive](https://rnbxclusive.online) - (needs ad-blocker) - MP3s via OpenLoad & Co.
+- [RockBox](https://rawkbawx.rocks/) - A Metal music tracker.
+- [Plixid](https://plixid.com) - Seems to work together with NovaFile, own Facebook page and lots of music.
+- [trapadan](https://www.trapadan.com) - (needs ad-blocker) - Various music.
 
 **[`^        back to top        ^`](#)**
 
@@ -356,6 +371,20 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
+## Pirate News, Blogs & discussion forums
+- [NextWarez](https://nextwarez.com) - (FR) - P2P topics & news page.
+- [Scenenotice.org](https://scenenotice.org) - Archive with over 1 GB of old Realeaser-Scene.
+- [Slyck News](http://www.slyck.com) - Old web news around the scene.
+- [szeneBOX.org](https://www.szenebox.org) - (Ger) - (needs VPN) - Forum & News around the Scene.
+- [Tarnkappe.info](https://tarnkappe.info) - (Ger) - News & Rumours, Blog & Forum.
+- [/f/Piracy](https://raddle.me/f/Piracy) - Raddle forum for piracy.
+- [/r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
+- [TechWorm](https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
+- [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
+- [Tunny.to](https://tunny.to) - DDL.to & VUP.to Blog.
+- [/v/piracy](https://voat.co/v/piracy) - Voat Forum for piracy.
+
 ## Torrenting
 - [/r/torrents](https://www.reddit.com/r/torrents) - Questions and discussion about all things torrent-related.
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Wikipedia's article on the BitTorrent file sharing protocol.
@@ -461,7 +490,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [OTorrents](https://otorrents.com/) - Yet another public torrent tracker.
 - [Pirateiro](https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [RARBG](https://rarbg.to/) - Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
-- [Rock Box](https://rawkbawx.rocks/) A Metal music tracker.
 - [Rustorka](http://rustorka.com) - (RU) - Software, Games & More.
 - [Rutor](http://rutor.info/) - Russian public tracker.
 - [Saavn](https://saavn.tomato.to/) - A search engine designed to find old and new music releases.
@@ -557,6 +585,16 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+## Sharehoster search engine
+- [Crawli](https://crawli.net) - Searches for online/offline content.
+- [DDLSearch](http://ddlsearch.free.fr) - Meta search engine, the results are been displayed via Google search engine.
+- [filediva](http://www.filediva.com) - Yet another meta search engine.
+- [FilePursuit](https://filepursuit.com) - Meta search engine for Warez.
+- [MegaSearch.co](http://megasearch.co) - (blocked by some ISP) - Meta search engine which indexes webwarez websites.
+- [Rapidlinks](https://rapidlinks.org) - (Ru) - Russian search engine for various sharehoster.
+
+**[`^        back to top        ^`](#)**
+
 ### Convert Torrent to Direct HTTP Link
 - [Boxopus](http://www.boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
 - [Bruzzy.com](http://www.bruzzy.com/#login) - (RU) - Similar to ZBIgZ.
@@ -606,7 +644,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Eweka News](https://www.eweka.nl/) - Netherlands-based Usenet provider.
 - [Newsdemon](https://www.newsdemon.com/) - Cheap and cheerful Usenet provider with frequent discounts.
 - [Newsgroup Ninja](https://www.newsgroup.ninja/en) - $7.99 per month, SSL encryption, Unmetered usage, Unlimited speeds.
-- [Newsgroup Ninja](https://www.newsgroup.ninja/en) - Popular Usenet provider with a competitive subscription fee.
 - [Premiumizer](https://github.com/piejanssens/premiumizer) - A download management tool for premiumize.me cloud downloads.
 - [Tweaknews](https://www.tweaknews.eu/en/landing/best-deal?a_aid=greycoder) - Dutch Usenet provider that offers a [Highwinds](https://highwinds.com/) news feed.
 - [Usenet Crawler](www.usenet-crawler.com) - Movies, eBooks, TV Series, Anime & more.
@@ -637,10 +674,23 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+### Usenet Forums
+- [Brothers of Usenet](https://www.brothers-of-usenet.net) - The original board went down, so this is a mirror for the well known forum which discusses stuff around the scene. 
+- [Fileleechers](https://fileleechers.info) - (Ger) - A young forum around Usenet.
+- [House of Usenet](https://house-of-usenet.com) - New provider, new url, a reboot of the well known forum.
+- [omgwtfnzbs](https://omgwtfnzbs.me) - (paid) - A paid usenet indexer.
+- [SceneNzb.com](https://scenenzb.com) - (paid) - 3 NZD files per day are free.
+- [Sky of Usenet](https://sky-of-use.net) - (Ger) - Yet another german usenet forum.
+
+**[`^        back to top        ^`](#)**
+
 ### Usenet Free Indexers
 - [6box](https://6box.me/) - A recently revived free Usenet indexing service with a generous API.
+- [BINZB](https://binzb.com) - Minimalistic indexer.
 - [Binsearch](https://www.binsearch.info/) - With this site you can search and browse binary Usenet newsgroups.
+- [FindNZB](https://findnzb.net) - One old indixer, the results are outdated and often offline.
 - [NZBIndex](https://www.nzbindex.com) - The first free Usenet indexer you find in your Google search results.
+- [NZBFriends](https://nzbfriends.com) - One of the oldest indexers, sadly the results are often outdated too.
 - [NZBKing](http://nzbking.com/) - The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 - [Usenet Crawler](https://usenet-crawler.com/) - Usenet indexer with API access for registered users.
 
@@ -1917,6 +1967,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)
 - [TORRENTDOWNLOADS](https://www.torrentdownloads.me/) - It’s a no-nonsense index that provides torrents to millions of users each month.
 - [Viooz](https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
+
+**[`^        back to top        ^`](#)**
+
+### Navigation Software
+- [China Rns](https://www.china-rns.com/forum) - (Ger/EN) - German/English forum around navigation software & updates.
+- [Digital Eliteboard](https://www.digital-eliteboard.com/forums) - (Ger) - Help forum around various topics and provides some tutorials.
 
 **[`^        back to top        ^`](#)**
 
