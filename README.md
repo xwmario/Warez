@@ -2487,3 +2487,19 @@ Since this list is really huge I can't name each and every single one of you, bu
 - 
 
 **[`^        back to top        ^`](#)**
+
+
+## Toplists
+- [BestOfLinks](http://bestoflinks.synology.me) - (insecure) - And old looking toplist.
+- [BGTop](https://bgtop.net) - (BL) - Bulgarian toplist.
+- [Cyonix](https://www.cyonix.to) - Underground toplist with over 70 entries.
+- [DDL Rank](https://ddlrank.com) - Toplist for forums, download-sites, warez blogs and sharehoster.
+- [DirtyWarez Top Sites](https://dirtywarez.org) - Toplist for forums, download-sites, warez blogs and sharehoster.
+- [LinkR](https://www.linkr.top/index.php) - A good looking toplist, gets regularily updates.
+- [Nydus Toplist](https://top.nydus.org) - Yet another good looking toplist.
+- [Querverweis](https://www.querverweis.net) - (Ger) - A big german toplist with lots of entries.
+- [RaidRush](https://toplist.raidrush.ws) - (Ger)- One of the oldest german toplist provider.
+- [Toplist Warez](https://www.toplist.cz/warez) - (PL) - Polish toplist.
+- [Uscene](https://www.uscene.net/warez.html) - A small toplist.
+
+**[`^        back to top        ^`](#)**
