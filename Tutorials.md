@@ -5,7 +5,7 @@
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) - VPN section of "That One Privacy Site" with VPN comparisons.
 - [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page which explains how to achieve a poor man's VPN via SSH tunneling.
 - [Which VPN Services Keep You Anonymous in 2019?](https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019/) - TorrentFreak article by Ernesto about which VPN you _could_ use.
-- [How To Set Up an OpenVPN Server on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
+- [How To Set Up an OpenVPN Server on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - The guide still works on newer Ubuntu releases without any problems.
 
 
 ## ISP
@@ -13,7 +13,7 @@
   
 
 ## Ebooks & TextBooks
-- [How To find and download ebooks & textbooks](https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_)
+- [How To find and download ebooks & textbooks](https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_).
 
 
 ### Exploit Development
@@ -22,9 +22,8 @@
 - [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
 
 
-## General courses & Tutorials
-- [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
-- [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free, has adblock detector.
+## General Courses & Tutorials
+- [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free. Websites uses adblock detector.
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
 - [How to bypass Mega Quota limit via JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
@@ -41,11 +40,11 @@
 - [learninglcom](https://learninglcom.com/) - Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more.
 - [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
 - [tpget](https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
-
+- [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](https://old.reddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG. 
 
 ## Torrent DMCA prevention
-- Open QB advance settings
-- Bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [see here example](https://i.imgur.com/pD7atey.jpg).
+- Open QB advance settings, and bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [check this example](https://i.imgur.com/pD7atey.jpg).
+- [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
 
 
 ## Seedbox Setup Tools and Guides
@@ -85,7 +84,7 @@
 - [How to download and install Windows 10 LTSB/LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez on how to download and install Windows 10 LTSB/LTSC.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 
-## Windows 10 related tutorials
+## Windows 10 Tutorials
 - [How to SVF patch Windows 10](https://github.com/CHEF-KOCH/How-to-SVF-patch-Windows-10)
 
 ## Bypass PayWalls
@@ -96,8 +95,8 @@
 ## iOS
 - [How to add HackYouriPhone Repo in Cydia](http://repo.hackyouriphone.org/add)
 
-## qBittorrent tutorials
-- [Auto unRar - qBittorrent](https://old.reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) or via [script](https://github.com/arfoll/unrarall)
+## qBittorrent Tutorials
+- [Auto unRar](https://old.reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) or via [script](https://github.com/arfoll/unrarall)
 
 ## Baidu
 - [Guide to baidu account creation/downloading from pan.baidu](https://old.reddit.com/r/Piracy/comments/by70qt/guide_to_baidu_account_creationdownloading_from/) 
