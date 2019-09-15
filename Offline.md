@@ -141,6 +141,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - theromdepot.comroms
 - time2watch.in
 - Egy.best
+- Watchseries-online
 
 ## Domain registrar
 - openleaf.net.ru
@@ -150,15 +151,15 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - audiop2p.com/pre.php
 - d0pe0r.1go.dk/dp.htm
 - doopes.com
-- irc://irc.afkdb.com/PR3
-- irc://irc.afkdb.com/tracers
-- irc://irc.hounddawgs.org/prechan
-- irc://irc.p2pirc.org/pre
-- irc://irc.p2pirc.org/tracers
-- irc://irc.rizon.net/ultrapre
-- irc://irc.x4b.pw:11337/rlzNET
-- ircs://irc.layer13.net:7000/pre
-- ircs://irc.layer13.net:7000/tracers
+- irc.afkdb.com/PR3
+- irc.afkdb.com/tracers
+- irc.hounddawgs.org/prechan
+- irc.p2pirc.org/pre
+- irc.p2pirc.org/tracers
+- irc.rizon.net/ultrapre
+- irc.x4b.pw:11337/rlzNET
+- irc.layer13.net:7000/pre
+- irc.layer13.net:7000/tracers
 - layer13.it.cx
 - nfo.cat
 - nfo.so
