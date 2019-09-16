@@ -11,7 +11,7 @@
 The list is the biggest [Warez](https://en.wikipedia.org/wiki/Warez_scene) overview around Warez on the entire internet! It contains links to Warez related topics, discussions, tools etc. and provides some background information about the scene.
 
 ## Disclaimer
-**Me (myself and I) nor GitHub supporting warez (!) - we're not responsible for external links or their content! If you dislike the information the list provides then contact the website owner/webmaster/hoster directly and fill a [DMCA](https://www.dmca.com/faq/What-is-a-DMCA-Takedown) request.**
+**Me (myself and I) nor GitHub supporting warez (!) - we're not responsible for external links or their content! If you dislike the information the list provides then contact the website owner/webmaster/hoster directly and fill a DMCA request.**
 
 ### Why was this overview page created?
 * Research reasons!
@@ -33,7 +33,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
 * Software which is outdated or not actively maintained, open source software is generally preferred.
 * Insecure programs (no audit- or code-review) or insecure connections `http://` links.
-* Why is program _x_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).#
+* Why is program _x_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](https://github.com/k9mail/k-9/issues/655).
 * Explicit content.
 
 ### How can I contribute to the list?
@@ -501,8 +501,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Rutor](http://rutor.info/) - Russian public tracker.
 - [Saavn](https://saavn.tomato.to/) - A search engine designed to find old and new music releases.
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
+- [Shaanig](https://shaanig.se/) - Small-size HD TV episodes & movies.
 - [SkyTorrents](https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
-- [Streams.Now.SH](https://streams.now.sh/) - Similar quality / size like RARBG & YTS.
+- [Streams.Now.SH](https://streams.now.sh/) - Similar quality & size like RARBG & YTS.
 - [The Pirate Bay](https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!)
 - [The Proxy Bay](https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
