@@ -3,8 +3,8 @@
 </p>
 
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez) 
-[![Twitter URL](ttps://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](http://anonym.es/?https://twitter.com/CKsTechNews)
-[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](http://anonym.es/?https://discord.me/CHEF-KOCH)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
+[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 
 # Warez
@@ -248,6 +248,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [RockBox](http://anonym.es/?https://rawkbawx.rocks/) - A Metal music tracker.
 - [Plixid](http://anonym.es/?https://plixid.com) - Seems to work together with NovaFile, own Facebook page and lots of music.
 - [trapadan](http://anonym.es/?https://www.trapadan.com) - (needs ad-blocker) - Various music.
+- [tut-audio](http://anonym.es/?https://tut-audio.ru) - (RU) - A popular russian website to get MP3 files.
 
 **[`^        back to top        ^`](#)**
 
