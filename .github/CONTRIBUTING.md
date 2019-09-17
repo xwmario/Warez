@@ -1,18 +1,17 @@
 # Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue
-ticket, eMail, Discord or any other method with the owners of this repository before making any change.
+When contributing to CHEF-KOCH/Warez, please first discuss the change you wish to make via issue
+ticket, eMai or Discord with the owners of this repository before making any change.
 
-Please note that I have a code of conduct, please follow it in all your interactions with this project.
+Please note that we have a code of conduct, please follow it in all your interactions with this project.
 
 ## Pull Request Process
 
 1. Ensure you fetch the latest versions first before you do a PR.
-2. Update the README.md with the changes which needs to be mention (in case something changed).
+2. Update the README.md (or the file you like to change) with the changes which needs to be mention.
 3. Do not link to offline websites, check it against [Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/)
   or [Down.com](https://down.com/).
 4. Open Source programs should be preferred, whenever you mention a new program. Keep that in mind!
-
 
 ## Code of Conduct
 
@@ -33,21 +32,26 @@ include:
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting [constructive criticism](https://www.definitions.net/definition/CONSTRUCTIVE+CRITICISM)
-* Focusing on what is best for the community
+* Focusing on what is best for the community - quality over quantity!
 * Showing empathy towards other community members
+* Do not post/submit any links with `http://`, `ftp://` or any unencrypted protocol.
+* Do not add mirrors or "new" website if the owner was not verified. You still can submit it but the review process will take longer to avoid linking to _fake_ or imposter websites.
+
 
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
 advances
 * [Trolling](https://en.wikipedia.org/wiki/Internet_troll), insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
+* Public or private harassment, there is a zero tollerance for this.
+* Abusing GitHub's issue/pull request feature to troll/spam.
 * Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
+  address, without explicit permission.
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 * Submitting something without doing research, testing or something which was
   copied from the internet without any substantial evidence.
+* Do not link to explicit content (see GitHUb FAQ what "explicit" means).
 
 ### Our Responsibilities
 
