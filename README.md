@@ -23,7 +23,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 * All [contributors](https://github.com/CHEF-KOCH/Warez/graphs/contributors).
 * All demoscene people which helped to build the _scene_.
-* All developers which build the mentioned programs on this list.
+* All developers which developed mentioned programs.
 * All other people which helped to push this little project forward.
 * All people which are involved in the piracy & netsec scene or created forums to talk about such topics.
 
@@ -1149,6 +1149,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [PCMYMJuegos](http://anonym.es/?https://pcmymjuegos.com/) - (SP) - Spanish website for SteamWorkFixs and other stuff. Mega, GDrive, MediaFire.
 - [Skidrow & Reloaded](http://anonym.es/?https://www.skidrowreloaded.com/) - Fanmade Skidrow & Reloaded mirror website.
 - [SpartaGames](http://anonym.es/?https://spartagames.net/category/pc/) - (PT/BR) - Torrent links and direct server mirrors to various scene releases.
+- [Steamunlocked](http://anonym.es/?https://steamunlocked.net) - Pre-installed/cracked steam games - just hit start and play.
 - [VseTop](http://anonym.es/?https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
 - [Warmane](http://anonym.es/?https://www.warmane.com/) - Hosts private WoW Servers.
 
