@@ -1,4 +1,4 @@
-## Browser Script Engines (needed to run Browser Scripts)
+## Browser Script Engines (needed to run browser scripts)
 - [Greasemonkey](http://anonym.es/?https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
 - [Violentmonkey](http://anonym.es/?https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
 
@@ -28,7 +28,7 @@
 **[`^        back to top        ^`](#)**
 
 
-## Extensions
+## Misc Extensions
 - [Buster](http://anonym.es/?https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [Google unlocked](http://anonym.es/?https://github.com/Ibit-to/google-unlocked) - + [Website](http://anonym.es/?https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
 - [Hide Fake Torrents on TPB](http://anonym.es/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
@@ -39,11 +39,12 @@
 - [SABconnect++](http://anonym.es/?https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
 - [Save To The Wayback Machine](http://anonym.es/?https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
 - [Universal Bypass (for shortner links)](http://anonym.es/?https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj)
+- [Image Search Options](http://anonym.es/?https://saucenao.com/tools/) - Add search options to the right-click context menu.
 
 **[`^        back to top        ^`](#)**
 
 
-### Bookmark syncing (self-hosted)
+### Browser syncing (self-hosted)
 - [xBrowserSync](http://anonym.es/?https://github.com/xbrowsersync/app) - An open source alternative to Mozilla's, Google's, Vivalid's integrated sync feature, it does work on all platforms.
 
 **[`^        back to top        ^`](#)**
@@ -55,7 +56,7 @@
 **[`^        back to top        ^`](#)**
 
 
-### Bypass Paywalls
+### Bypassing Paywalls
 - [Anti-Paywall](http://anonym.es/?https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Burlesco](http://anonym.es/?https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls](http://anonym.es/?https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
@@ -72,14 +73,10 @@
 **[`^        back to top        ^`](#)**
 
 ### Dark Mode
-- [Darkreader](http://anonym.es/?https://darkreader.org/) - Dark Mode for Everything.
+- [Darkreader](http://anonym.es/?https://darkreader.org/) - Provides a "Dark Mode" for everything.
 
 **[`^        back to top        ^`](#)**
 
-## Browser right-click context menu addons
-- [Image Search Options](http://anonym.es/?https://saucenao.com/tools/) - Add search options to the right-click context menu.
-
-**[`^        back to top        ^`](#)**
 
 ## Movies & Play Scripts
 - [Script Slug](http://anonym.es/?https://www.scriptslug.com/) - Browse hundreds of screenplays.
@@ -89,11 +86,12 @@
 **[`^        back to top        ^`](#)**
 
 
-## Managa scraper scripts
+## Manga scraper scripts
 - [manga_downloader](http://anonym.es/?https://github.com/LLostVayne/manga_downloader) - Python scraper that will download mangas from mangareader.net.
 - [The Free Manga Downloader (FMD)](http://anonym.es/?https://github.com/riderkick/FMD) - Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
 
 **[`^        back to top        ^`](#)**
+
 
 ### Plex Scripts and Tools
 - [killstream](http://anonym.es/?https://github.com/blacktwin/JBOPS/tree/master/killstream) - Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
@@ -127,9 +125,13 @@
 
 ### MagisK Modules
 
-**Important**: There are lots of false misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. (in general) or other modules "hardening" your OS or parts of your apps in order to make them more "secure" or "private". This is wrong, as explained over [here](http://anonym.es/?https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official servers). Please also keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps with are regularily getting audited e.g. Threema. The modules which are listed here are "helpful" in a sense that they "add" xyz function to the OS and not meant to secure/harden something. 
+**Important**: There are lots of misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. "hardening" your OS or parts of your apps in order to make them more "secure" or "private". This is wrong, as explained over [here](http://anonym.es/?https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official servers). Please keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps which are regularily getting audited e.g. Threema, Silence etc. The modules which are listed here are "helpful" in a sense that they "add" xyz (missing) function to the OS and not meant to secure/hardening something. 
 
-That been said, there are no apps listed which altering your HOSTS file or apps which claim to "somehow" "optimize" your battery life. Use AdGuard on Android (it's better than messing with the HOSTS) and (in general) use as less as possible on apps/modules. More apps -> more background processes (startups etc) + cpu cycles consumption = more battery drain (it's really that simple). 
+That been said, there are no apps listed which altering your HOSTS file or apps which claim to somehow "optimize" your battery life. For ad-blocking use AdGuard/Blokada on Android (it's better than messing with the HOSTS file) and (in general) use as less as possible on apps/modules resources compared to other solutions. 
+
+
+There is a universal rule for Android: 
+* More apps -> more background processes/traffic (startups etc) + cpu cycles consumption = more battery drain (it's really that simple). 
 
 - [Systemless TZData](http://anonym.es/?https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Update your ROM's TZData systemlessly.
 - [DNSCrypt Proxy 2 for Android](http://anonym.es/?https://github.com/Magisk-Modules-Repo/dnscrypt-proxy) - A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2.
@@ -146,8 +148,8 @@ That been said, there are no apps listed which altering your HOSTS file or apps 
 - [Magisk Manager for Recovery Mode](http://anonym.es/?https://github.com/Magisk-Modules-Repo/mm) - This beauty of a module saved my ass from bootloops multiple times in my journey of getting everything to work together.
 - [liboemcrypto-disabler](http://anonym.es/?https://github.com/umylive/liboemcrypto-disabler) - Magisk module to disable liboemcrypto.so DRM (e.g. Netflix, My5) on rooted Android devices.
 - [CloudflareDNS4Magisk (& IPv6)](http://anonym.es/?https://github.com/xerta555/CloudflareDNS4Magisk-IPv6) - Starting with [Android 9 (Pie)+](http://anonym.es/?https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/android/) you can manually set this (without any module) in your Wifi/thether settings.
-- [Viper4Android FX Legacy Materialized](http://anonym.es/?https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) . It's not placebo!
-- [FDE](http://anonym.es/?https://github.com/Magisk-Modules-Repo/FDE) - Ultimate Android Optimizer.
+- [Viper4Android FX Legacy Materialized](http://anonym.es/?https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) - It's not placebo! 
+- ~~[FDE](http://anonym.es/?https://github.com/Magisk-Modules-Repo/FDE) - Ultimate Android Optimizer.~~ (see warning!)
 - [Overview of all official and maintained modules](http://anonym.es/?https://forum.xda-developers.com/apps/magisk/collection-magisk-modules-v2-t3575758)
 - [Init.d Injector](http://anonym.es/?https://github.com/Magisk-Modules-Repo/InitdInjector) - Injects init.d support via post-fs-data script, this module is only useful if your OS do not natively supports init.d e.g. LOS does that without any scripts.
 - [Magisk Module Uninstaller](http://anonym.es/?https://forum.xda-developers.com/showpost.php?p=72542167&postcount=242) - Enables you to uninstall modules in TWRP via terminal.
@@ -160,7 +162,7 @@ That been said, there are no apps listed which altering your HOSTS file or apps 
 
 **[`^        back to top        ^`](#)**
 
-## Xposed + EdXposed Modules
+## Xposed (EdXposed) Modules
 - [Material Design Xposed Installer](http://anonym.es/?https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758) - An unofficial Xposed installer with some useful tweaks.
 - [Lucky Patcher](http://anonym.es/?https://www.luckypatchers.com/download/) - LP also has a Xposed module which you can use (in case you use Xpose).
 - [RootCloak](http://anonym.es/?https://repo.xposed.info/module/com.devadvance.rootcloak2) - Allows you to run apps that detect root without disabling root.
