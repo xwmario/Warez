@@ -1009,6 +1009,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Gerbera](http://anonym.es/?https://github.com/gerbera/gerbera) - UPnP Media Server for 2018 (Based on MediaTomb).
 - [Kodi](http://anonym.es/?https://kodi.tv/) - An award-winning free and open source home theater/media center software and entertainment hub for digital media.
 - [Myflix](http://anonym.es/?https://github.com/pastapojken/Myflix) - Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
+- [Jellyfin](http://anonym.es/?https://jellyfin.org/) - Open source alternative to Plex.
 - [OpenPHT](http://anonym.es/?https://github.com/RasPlex/OpenPHT) - A community driven fork of Plex Home Theater.
 - [OSMC](http://anonym.es/?https://osmc.tv/) - OSMC (short for Open Source Media Center) - is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 - [Streama](http://anonym.es/?https://github.com/streamaserver/streama) - Self hosted streaming media server.
