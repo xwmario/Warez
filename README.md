@@ -702,9 +702,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### FTP Indexers
 - [Davos](http://anonym.es/?https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
-- [Mamont's open FTP Index](http://www.mmnt.net/) - (insecure) - Browsable directory listing of publicly available FTP-sites.
+- [Mamont's open FTP Index](http://anonym.es/?https://www.mmnt.net/) - (insecure) - Browsable directory listing of publicly available FTP-sites.
 - [Napalm FTP Indexer](http://anonym.es/?https://www.searchftps.net/) - NAPALM FTP Indexer lets you search and download files located on public FTP servers.
-- [pftp](http://www.pftp.de/) - (insecure) - pftp means Port-File-Transfer-Program not to muddle up with standard FTP which is quite different, it allows you to send and receive directories recursively and move the dirs.
+- [pftp](http://anonym.es/?https://www.pftp.de/) - (insecure) - pftp means Port-File-Transfer-Program not to muddle up with standard FTP which is quite different, it allows you to send and receive directories recursively and move the dirs.
 
 **[`^        back to top        ^`](#)**
 
@@ -900,6 +900,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 ### Specialty Sites
 - [1Liberty](http://anonym.es/?https://libertyvf.co/) - (fr-FR)
 - [6VoierFilms](http://anonym.es/?https://www.voirfilms.mx/) - (fr-FR)
+- [CamVault](http://anonym.es/?/https://camvault.xyz/login.html)
 - [Cuevana2](http://anonym.es/?https://www.cuevana2.com/) - Espanol
 - [DaebakDrama](http://anonym.es/?https://daebakdrama.com/) - Korean
 - [Danimados](http://anonym.es/?https://danimados.com/) - Espanol
