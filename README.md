@@ -27,7 +27,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 * All other people which helped to push this little project forward.
 * All people which are involved in the piracy & netsec scene or created forums to talk about such topics.
 
-### What **does not** belong on this list? (see also code of conduct).
+### What **does not** belong on this list? (see also code of conduct)
 * Illegal programs (cracks, keygens etc.) or direct links to copyright protected material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
@@ -1159,7 +1159,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Games Achievements
+## Games Achievements Management Tools
 - [SSElauncher](http://anonym.es/?https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator).
 - [Steam Achievement Manager](http://anonym.es/?https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 
@@ -1604,25 +1604,26 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ## Magazines
-- [ebook3000.com](http://ebook3000.com/) - (insecure) - Various magazines.
+- [ebook3000.com](http://anonym.es/?http://ebook3000.com/) - (insecure) - Various magazines.
 - [MagazineLib](http://anonym.es/?https://magazinelib.com/) - Free PDF and interactive e-magazines.
 - [magazinesdownload.org](http://anonym.es/?https://magazinesdownload.org/) - Magazines hosted on free, fast, file hosting sites.
 - [PDF Giant](http://pdf-giant.com/) - (insecure) - Various categories of downloadable PDFs.
 
 **[`^        back to top        ^`](#)**
 
-## Academic Papers (white papers)
-- [Academic Torrents](http://academictorrents.com/) - (insecure) - A Community-Maintained Distributed Repository for researchers, by researchers.
-- [BookSC](http://booksc.org/) - (insecure) - The world's largest scientific articles store. 50,000,000+ articles for free.
-- [PDF-Gigant](http://pdf-giant.com/) - (insecure) - Lots of different magazines.
-- [Sci-Hub](http://anonym.es/?https://sci-hub.tw/) - [Sci-hub automatically uploads articles to libgen](http://anonym.es/?https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) and provides public access to tens of millions of research papers.
+## Academic Papers (white papers, GRE, etc.)
+- [Academic Torrents](http://anonym.es/?http://academictorrents.com/) - (insecure) - A Community-Maintained Distributed Repository for researchers, by researchers.
+- [BookSC](http://anonym.es/?http://booksc.org/) - (insecure) - The world's largest scientific articles store. 50,000,000+ articles for free.
+- [GRE Prep](http://anonym.es/?https://www.chegg.com/test-prep/gre) - (**semi free**) - Paid and free (trial) material for school, college and graduate students.
+- [PDF-Gigant](http://anonym.es/?http://pdf-giant.com/) - (insecure) - Provides  a lot of different magazines.
+- [Sci-Hub](http://anonym.es/?https://sci-hub.tw/) - [Sci-hub btw. automatically uploads articles to libgen](http://anonym.es/?https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) and provides public access to tens of millions of research papers.
 
 **[`^        back to top        ^`](#)**
 
 ## Textbooks
-- [All IT eBooks](http://www.allitebooks.com/) - (insecure) - A big database of free, direct links for IT and programming ebooks
+- [All IT eBooks](http://anonym.es/?http://www.allitebooks.com/) - (insecure) - A big database of free, direct links for IT and programming ebooks
 - [forcoder](http://anonym.es/?https://forcoder.su/) - Ebooks & Elearning for Programming
-- [Guide for Finding Textbooks](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) - Extensive tutorial by /u/Amosqu
+- [Guide for Finding Textbooks](http://anonym.es/?http://anonym.es/?https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) - Extensive tutorial by /u/Amosqu
 - [How to "rent" your textbooks for free from Amazon](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) - "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
 - [it-ebooks](http://it-ebooks.info) - (insecure) - Large selection of free and open source IT ebooks
 - [PDF/Ebook trackers for college textbooks](http://anonym.es/?https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites and IRC communities.
@@ -1645,9 +1646,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Booksonic](http://booksonic.org/) - Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 - [The-Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) - (insecure) - Audiobooks hosted by "The Eye".
 - [Tokybook](http://anonym.es/?https://tokybook.com/) - Yet another free audiobook streaming site.
-- [BookFI](http://en.bookfi.net/) - (insecure) - The largest ebook library.
+- [BookFI](http://anonym.es/?http://en.bookfi.net/) - (insecure) - The largest ebook library.
 - [Ebooks Shares](http://ebooks-shares.org) - (insecure) - A lot of eBooks & audiobooks!
-- [P2PEiite](http://p2pelite.com) - (insecure) - Yet another oldschool eBook website.
+- [P2PEiite](http://anonym.es/?http://p2pelite.com) - (insecure) - Yet another oldschool eBook website.
 - [ThePirateBay](http://anonym.es/?https://www.thepiratebay.org/browse/102) - TPB collection of AudioBooks.
 
 ### Science Books
@@ -1656,13 +1657,13 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ## Comicbooks
-- [getcomics.info](http://getcomics.info/) - (insecure) - Comics, release info & more.
-- [Comic Extra](http://www.comicextra.com/) - (insecure) - General Comic informations.
+- [getcomics.info](http://anonym.es/?http://getcomics.info/) - (insecure) - Comics, release info & more.
+- [Comic Extra](http://anonym.es/?http://www.comicextra.com/) - (insecure) - General Comic informations.
 - [Gazee!](http://anonym.es/?https://hub.docker.com/r/linuxserver/gazee/) - A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web connected device with a modern web browser.
 - [GetComics](http://anonym.es/?https://getcomics.info/) - GetComics started as an alternative place to get downloaded comic. files, particularly US based comics published by DC and Marvel.
 - [Readcomicbooksonline](http://anonym.es/?https://readcomicbooksonline.org/) - Tends to Error 520 occasionally.
 - [readcomiconline.to](http://anonym.es/?https://readcomiconline.to/) - Manga and comics which are been uploaded daily.
-- [ReadComics](http://readcomics.website/) - (insecure) - Several misc comics published.
+- [ReadComics](http://anonym.es/?http://readcomics.website/) - (insecure) - Several misc comics published.
 - [WorldWideTorrents](http://anonym.es/?https://worldwidetorrents.eu/torrents.php?parent_cat=Comics) - Provides comic releases.
 
 **[`^        back to top        ^`](#)**
@@ -1796,16 +1797,16 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ### Streaming Apps
-- [99kubo](http://www.99kubo.tv) - (Ads) - (insecure) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
-- [AniméGlare](http://anonym.es/?https://animeglare.xyz/) - (Ads) - lets you stream any anime for free.
+- [99kubo](http://www.99kubo.tv) - (needs ad-blocker) - (insecure) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
+- [AniméGlare](http://anonym.es/?https://animeglare.xyz/) - (needs ad-blocker) - Let's you stream any anime for free.
 - [AniméVibe](http://animevibe.tv/) - (insecure) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!
 - [AOS TV](http://anonym.es/?https://aostv.app/) - Watch More than 1000+ Live TV Channels free on your Android Phone from across the world.
 - [ApolloTV](http://anonym.es/?https://apollotv.xyz/) - Open-source aggregator for various online video content.
-- [BeeTV](http://beetvapk.me/) - (Ads) - (insecure) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
-- [CKayTV](http://ckaytv.com/) - (Ads) - (insecure) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
+- [BeeTV](http://beetvapk.me/) - (needs ad-blocker) - (insecure) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
+- [CKayTV](http://ckaytv.com/) - (needs ad-blocker) - (insecure) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
 - [CinemaHD](http://anonym.es/?https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
 - [Cinema](http://anonym.es/?https://forum.mobilism.org/viewtopic.php?t=2786441) - A lot of Movies & TV/Shows to watch and download.
-- [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - (insecure) - Needs invite - Download various Movies.
+- [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - (insecure) - (needs invite) - Download various Movies.
 - [Exousia](http://anonym.es/?https://exousia.app) - Watch Live Tv & Movies, Sports.
 - [Fildo](http://anonym.es/?https://fildo.net/android/en/) - Yet another Music streaming app.
 - [Filmix](http://anonym.es/?https://filmix.site) - Watch movies and TV shows using AndroidTV or mobile devices.
@@ -1821,7 +1822,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [TVPato2](http://anonym.es/?https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
 - [TVZion](http://anonym.es/?https://tvzionapp.live/) - + [Reddit](http://anonym.es/?https://www.reddit.com/r/TVZionApp/)
 - [TeaTV](http://anonym.es/?https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
-- [UnlockMyTV (Cinema Clone AdFree)](http://anonym.es/?https://unlockmytv.com/)
+- [UnlockMyTV (Cinema Clone Ad-Free)](http://anonym.es/?https://unlockmytv.com/)
 
 **[`^        back to top        ^`](#)**
 
@@ -1863,24 +1864,21 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### TV & Sports Streaming
+### Sports Streaming (MMA, MMO, Football etc)
+- [r/MMAFights](http://anonym.es/?https://www.reddit.com/r/mmafights/)
 - [All The Best Fights](http://anonym.es/?https://www.allthebestfights.com/)
 - [Arconaitv](http://anonym.es/?https://www.arconaitv.us/)
 - [Couch Tuner](http://anonym.es/?https://www.couchtuner.cloud/)
 - [CrickFRee](http://anonym.es/?https://crickfree.org/)
+- [Footybite](http://anonym.es/?https://home.footybite.com/) - Footybite provides latest news, live scores, stats, betting odds comparison, and much more.
 - [First Row Sports](http://anonym.es/?https://firstsrowsports.tv/)
+- [GOMOSTREAM.com](http://anonym.es/?/https://gomostream.com/) - **The .org URL is abandoned!** - Free Live Local TV Channels Sky Sports 12345, Btsports 123 ESPN, Eurosports 12, Star Sports 123, ITV beIN, Fox, Ten, Digi, PTV Sports Online Streaming.
 - [MamaHD](http://anonym.es/?https://www.mamahd.org/)
 - [MMA Core](http://anonym.es/?https://www.mma-core.com/videos)
 - [MMA Versus](http://anonym.es/?https://mmaversus.com/)
 - [More Live Sports Sites](http://anonym.es/?https://www.tipsformobile.com/top10-free-sports-streaming-websites-to-watch-sports-online/)
 - [ProjectFreeTV](http://anonym.es/?https://www8.project-free-tv.ag/)
-- [r/MMAFights](http://anonym.es/?https://www.reddit.com/r/mmafights/)
-- [Send It](http://anonym.es/?https://sendit.gg/)
-- [SeriesFree](http://anonym.es/?https://seriesfree.to/)
-- [SeriesTop](http://anonym.es/?https://www.seriestop.net/index.php)
-- [StreamAll](http://anonym.es/?https://stream.allsprk.tv/#3)
-- [TVZion](http://anonym.es/?https://www.nicetvzion.pro/)
-- [VipBox](http://anonym.es/?https://www.vipbox.live/)
+- [Siptveu](http://anonym.es/?https://siptveu.com) 
 
 **[`^        back to top        ^`](#)**
 
@@ -1889,7 +1887,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [123Moviesuk](http://anonym.es/?https://www.123moviesuk.to/)
 - [123NetflixPro](http://anonym.es/?https://www2.123netflix.pro/)
 - [1movies](http://anonym.es/?https://www1.1movies.is/)
-- [bmovies](http://bmovies.to/) - (insecure) + ([Mirror](http://anonym.es/?https://bmovies.life/bmovies.is)) + [Mirror](http://anonym.es/?https://bmovies.se/))
+- [bmovies](http://anonym.es/?http://bmovies.to/) - (insecure) + ([Mirror](http://anonym.es/?https://bmovies.life/bmovies.is)) + [Mirror](http://anonym.es/?https://bmovies.se/))
 - [CafeMovie](http://anonym.es/?https://cafemovie.live/)
 - [ddlhub](http://anonym.es/?https://ddlhub.xyz/)
 - [Fmovies](http://anonym.es/?https://fmovie.info/fmovies.is) + ([Mirror](http://anonym.es/?https://fmovie.info/fmovies.se)) + ([Mirror](http://anonym.es/?https://www6.fmovies.to/))
@@ -1926,6 +1924,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Yes! Movies](http://anonym.es/?https://yesmovies.to/)
 - [YesMovies.fun](http://anonym.es/?https://yesmovies.fun/)
 - [ZMovies](http://anonym.es/?https://zmovies.top/)
+- [SeriesFree](http://anonym.es/?https://seriesfree.to/)
+- [Send It](http://anonym.es/?https://sendit.gg/)
+- [SeriesTop](http://anonym.es/?https://www.seriestop.net/index.php)
+- [StreamAll](http://anonym.es/?https://stream.allsprk.tv/#3)
+- [TVZion](http://anonym.es/?https://www.nicetvzion.pro/)
+- [VipBox](http://anonym.es/?https://www.vipbox.live/)
 
 **[`^        back to top        ^`](#)**
 
@@ -2011,6 +2015,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [IPTV Community](http://anonym.es/?https://iptv.community/) - Technology and IPTV discussion website, useful for finding an IPTV provider/reseller.
 - [IPTV Providers list](http://anonym.es/?https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) - A recently created list of 40+ IPTV providers with notes.
 - [MythTV](http://anonym.es/?https://www.mythtv.org/) - Free Open Source software digital video recorder.
+- [PIPTV](https://github.com/schwifty42069/piptv) -  Python IPTV client with over 80 channels.
 - [Piracy and automation, an overview Guide by /u/JukeCity101](http://anonym.es/?https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)
 - [STBEmulator](http://rocketstreams.tv/stbemu) - (insecure) - Popular Android app for using IPTV streams with EPG.
 - [telly](http://anonym.es/?https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
