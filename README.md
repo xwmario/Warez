@@ -65,6 +65,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](http://anonym.es/?https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](http://anonym.es/?https://torrentfreak.com/images/tradoc_157564.pdf))
 - [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](http://anonym.es/?https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
 - [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](http://anonym.es/?https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
+- [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)
 - [Web Sheriff](http://anonym.es/?https://en.wikipedia.org/wiki/Web_Sheriff)
 - [List of websites blocked in the United Kingdom](http://anonym.es/?https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
 - [Who Watches the Watchmen: Exploring Complaints on the Web](http://anonym.es/?https://arxiv.org/abs/1902.05796)
@@ -191,7 +192,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Archives
+## Piracy archives
 - [130GB of flash games](http://bluemaxima.org/flashpoint/downloads/) - (insecure)
 - [GOG Dump](http://web.archive.org/web/20190429144618/http://anonym.es/?https://docs.google.com/spreadsheets/d/e/2PACX-1vSDj58h_xUDPoz9n12x_kZvQW1VKO4AQOaNGaUmEtpFmL5q0R05Pr4qVZxxzH8CZT3ZLX6_ZX8muYzm/pubhtml)
 - [Nintendo Games Collection](http://web.archive.org/web/20190429144531/http://anonym.es/?https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml)
@@ -723,6 +724,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Free GOG PC Games](http://freegogpcgames.com/) - (insecure) - Yet another GOG alternative.
 - [Good-Old-Downloads/gg](http://anonym.es/?https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
 - [Good-Old-Downloads (GitHub source code)](http://anonym.es/?https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](http://anonym.es/?https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](http://anonym.es/?https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
+- [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games. 
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) - (insecure) - Good-Old-Downloads mirror page.
 
 **[`^        back to top        ^`](#)**
@@ -2331,6 +2333,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [NextDNS](http://anonym.es/?https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
 
 **[`^        back to top        ^`](#)**
+
+
+### Fake data generators
+- [Fake-It 3.0](http://anonym.es/?https://fake-it.ws/) - Generate full fake identities with random First and Last Name, Address, Social Security Number, Credit Card, IBAN Bank Numbers, Phone Number, and more! The website also provides other generator tools e.g. for passwords etc.
 
 
 ## Toplists
