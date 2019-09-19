@@ -8,7 +8,7 @@
 
 
 # Warez
-The list is the biggest [Warez](http://anonym.es/?https://en.wikipedia.org/wiki/Warez_scene) overview around Warez on the entire internet! It contains links to Warez related topics, discussions, tools etc. and provides some background information about the scene.
+The list is the biggest [Warez](http://anonym.es/?https://en.wikipedia.org/wiki/Warez_scene) overview around the Warez topic on the entire internet! It contains links to Warez related topics, discussions, tools etc. and provides some background information about the scene.
 
 ## Disclaimer
 **Me (myself and I) nor GitHub supporting warez (!) - we're not responsible for external links or their content! If you dislike the information the list provides then contact the website owner/webmaster/hoster directly and fill a DMCA request.**
@@ -31,12 +31,13 @@ Since this list is really huge I can't name each and every single one of you, bu
 * Illegal programs (cracks, keygens etc.) or direct links to copyright protected material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
-* Software which is outdated or not actively maintained, open source software is generally preferred.
-* Insecure programs (no audit- or code-review) or insecure connections `http://` links.
-* Why is program _x_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](http://anonym.es/?https://github.com/k9mail/k-9/issues/655).
+* Software which is outdated or not actively maintained, open source software is is general been preferred.
+* Insecure programs (no audit- or code-review) or insecure connections e.g. `http://` or `ftp://` links.
+* Why is program _X_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](http://anonym.es/?https://github.com/k9mail/k-9/issues/655).
 * Explicit content.
+* Tor (.onion) links, they are all crippled (not clickable). 
 
-### How can I contribute to the list?
+## How can I contribute to the list?
 * You can [submit a pull request](https://github.com/CHEF-KOCH/Warez/pulls) - after you [read the contributions guidelines](https://github.com/CHEF-KOCH/Warez/blob/master/.github/CONTRIBUTING.md).
 
 ## How do I search on this page?
@@ -72,16 +73,16 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### ISP Info
+## ISP Info
 - [Major US ISPs Refuse to Discuss Repeat Infringer Policies](http://anonym.es/?https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
 
 
-### Tor Info
+## Tor Info
 - [Judge Recommends to Deny Summary Judgment Against Tor Exit Node Operator in Piracy Case](http://anonym.es/?https://torrentfreak.com/judge-recommends-to-deny-summary-judgment-against-tor-exit-node-operator-in-piracy-case-190907/) [(.PDF)](http://anonym.es/?https://torrentfreak.com/images/dallashuszar.pdf)
 
 **[`^        back to top        ^`](#)**
 
-### ISPs you should avoid
+## ISPs you should avoid
 - AT&T
 - CenturyLink
 - Comcast/Xfinity
@@ -92,7 +93,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Social Media Alternatives
+## Social Media Alternatives
 - [MeWe](http://anonym.es/?https://mewe.com/) - Google+ replacement.
 - [Pleroma](http://anonym.es/?https://pleroma.social/) - Host your own social media.
 - [Mastodon](http://anonym.es/?https://joinmastodon.org/) - Like a decentralized Twitter.
@@ -100,7 +101,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Penetration Testing Distributions
+## Penetration Testing Distributions
 * [Android Tamer](http://anonym.es/?https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for Android security testing.
 * [ArchStrike](http://anonym.es/?https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
 * [AttifyOS](http://anonym.es/?https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
@@ -123,13 +124,13 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [CrackingGOD Forum](http://anonym.es/?https://crackingod.com/) -  Cracking. Hack. Graphics. Webmaster. Marketplace.
 - Crackmes.cf - (mirror of crackmes.de + [reboot](http://anonym.es/?https://crackmes.one/))
 - [Forum ExeTools](http://anonym.es/?https://forum.exetools.com/) - The original old school forum to share cracking knowledge.
-- Reverse Club- ([needs invite code](http://anonym.es/?https://forum.crack.vc/?thread-22.htm))
+- Reverse Club ([needs invite code](http://anonym.es/?https://forum.crack.vc/?thread-22.htm))
 - [Team-IRA [TIRA]](http://anonym.es/?https://team-ira.com/) - TIRA Team International Reversers Alliance ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](http://anonym.es/?https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
 
 **[`^        back to top        ^`](#)**
 
-### NFO Viewers & KeyGen Music
+## NFO Viewers & KeyGen Music
 - [Defacto2](http://anonym.es/?https://defacto2.net/welcome)
 - [Evangelion.keygenmusic.org](http://anonym.es/?https://pub.keygenmusic.org/)
 - [KeyGen Music](http://anonym.es/?https://keygenmusic.net)
@@ -138,7 +139,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Anti-DRM Protects, Plugins & Source Code
+## Anti-DRM Protects, Plugins & Source Code
 - [[C++] Steamless - SteamStub DRM Remover](http://anonym.es/?https://github.com/atom0s/Steamless) + [Forum](http://anonym.es/?https://atom0s.com/forums/viewforum.php?f=25)
 - [HexRaysPyTools](http://anonym.es/?https://github.com/igogo-x86/HexRaysPyTools)
 - [Microsoft Research Detours Package](http://anonym.es/?https://github.com/Microsoft/Detours)
@@ -159,7 +160,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-### VPN Subscription Services (no-logs)
+## VPN Subscription Services (no-logs)
 - [ExpressVPN](http://anonym.es/?http://anonym.es/?https://www.expressvpn.com/) ExpressVPN - A VPN with 256-bit encryption, over 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
 - [MullVad VPN](http://anonym.es/?https://mullvad.net/) - Provides OpenVPN/Wireguard support.
 - [NordVPN](http://anonym.es/?https://nordvpn.com/) - Protect your privacy online and access media content with no regional restrictions, and audit can be found [here](http://anonym.es/?https://github.com/CHEF-KOCH/NSABlocklist/blob/5371276f7411ab64530f421ed88d21dda28b0dbc/Documents/VPN/profile-nordvpn2.pdf)
@@ -231,12 +232,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Anti-Spammer
+## Anti-Spammer Trackers
 - [Project Honey Pot](http://anonym.es/?https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
 
 **[`^        back to top        ^`](#)**
 
-## Audio (audio only websites)
+## Audio
 - [1 Gabba.net](http://anonym.es/?https://1gabba.pw) - Drum & Bass, Hardcore & Hardstyle, most downloads via rapidgator.
 - [albumdabster](http://anonym.es/?https://albumdabster.com) - (needs ad-blocker + GeoIP (VPN) block) - Mixtapes & other tapes. 
 - [Bestmusik6](http://anonym.es/?https://bestmusik6.org) - (Tr) - Türkiye music.
@@ -288,7 +289,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ## Hardened Operating Systems & Resources
-- [cuckoo](http://anonym.es/?https://github.com/cuckoosandbox/cuckoo) - Open source automated malware analysis system.
+- [Cuckoo](http://anonym.es/?https://github.com/cuckoosandbox/cuckoo) - Open source automated malware analysis system.
 - [Overview of Security-focused operating system on Wikipedia](http://anonym.es/?https://en.wikipedia.org/wiki/Security-focused_operating_system)
 - [Qubes OS](http://anonym.es/?https://www.qubes-os.org/) - Qubes OS is a security-oriented operating system.
 - [SIFT](http://anonym.es/?https://digital-forensics.sans.org/community/downloads) - Forensic workstation made by SANS.
@@ -305,9 +306,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Countries where downloading copyright content is legal (for personal use only) though publishing it & sharing it - is still illegal
+### Countries where downloading copyright content is legal (for personal use only) though publishing it & sharing it - is still illegal (!)
 * Poland
-* Spain
 * Spain
 * Switzerland
 
@@ -340,7 +340,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Countries where torrenting is highly illegal
+### Countries where torrenting copyright material is highly illegal
 * Australia
 * China
 * Finland
@@ -358,7 +358,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Countries GeoIP block and/or shutdown the websites
+### Countries with GeoIP block restrictions
 * Canada
 * China
 * Germany
@@ -405,18 +405,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Trackers
+### Torrent Trackers
 - [/r/trackers](http://anonym.es/?https://www.reddit.com/r/trackers) - A subreddit for discussing public & private trackers.
 - [A Simple Guide To A Better Ratio](http://anonym.es/?https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) - A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [Bravo List](http://anonym.es/?https://www.bvlist.com/) - A public tracker directory.
 - [Tracker Twitters](http://anonym.es/?https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
 - [Trackers List](http://anonym.es/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
-
-**[`^        back to top        ^`](#)**
-
-## TV-Show Calendar
-- [at.my TV](http://at-my.tv/) - (insecure) - TV Calendar, TV Episode Guide, TV Show Listings.
-- [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - (insecure) - A personalized calendar that tracks the shows you like/fav.
 
 **[`^        back to top        ^`](#)**
 
@@ -584,6 +578,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+## TV-Show Calendar
+- [at.my TV](http://at-my.tv/) - (insecure) - TV Calendar, TV Episode Guide, TV Show Listings.
+- [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - (insecure) - A personalized calendar that tracks the shows you like/fav.
+
+**[`^        back to top        ^`](#)**
+
 ### Convert Torrent to Direct HTTP Link
 - [BTCloud](http://anonym.es/?https://btcloud.io/) - BTCLoud offer 1 GB of storage space with 1 GB file size limit and 5 torrents stored at a time for its free users.
 - [Filestream.me](http://anonym.es/?https://filestream.me/) - (needs VPN to visit the page) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
@@ -624,7 +624,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-# Usenet Providers
+## Usenet Providers
 - [Eweka News](http://anonym.es/?https://www.eweka.nl/) - Netherlands-based Usenet provider.
 - [Newsdemon](http://anonym.es/?https://www.newsdemon.com/) - Cheap and cheerful Usenet provider with frequent discounts.
 - [Newsgroup Ninja](http://anonym.es/?https://www.newsgroup.ninja/en) - $7.99 per month, SSL encryption, Unmetered usage, Unlimited speeds.
@@ -639,7 +639,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-## Usenet Indexing Software
+### Usenet Indexing Software
 - [nZEDb-deploy](http://anonym.es/?https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 - [nZEDb](http://anonym.es/?https://github.com/nZEDb/nZEDb) - A fork of nnplus(2011) - | NNTP / Usenet / Newsgroup indexer.
 - [newznab-tmux](http://anonym.es/?https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer.
@@ -679,7 +679,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Portables & Repacks
+### Portables & Repacks Resources
 - [FoxxApp PAF Portables](http://anonym.es/?https://foxxapp-paf.blogspot.com) - Windows Software repacks & portables.
 - [LR Repacks](http://anonym.es/?https://lrepacks.ru/) - (RU) - Yet another Russian portal, for ELCHUPACABRA repacks & more.
 - [PiratedHub](http://anonym.es/?https://piratedhub.com/) - Internation Repack website.
@@ -701,7 +701,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### FTP Indexers
+### FTP Indexer
 - [Davos](http://anonym.es/?https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
 - [Mamont's open FTP Index](http://anonym.es/?https://www.mmnt.net/) - (insecure) - Browsable directory listing of publicly available FTP-sites.
 - [Napalm FTP Indexer](http://anonym.es/?https://www.searchftps.net/) - NAPALM FTP Indexer lets you search and download files located on public FTP servers.
@@ -832,11 +832,11 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [RapidGator](http://anonym.es/?https://rapidgator.net/)
 - [Sendspace](http://anonym.es/?https://www.sendspace.com/)
 - [Uploaded](http://anonym.es/?https://uploaded.net/)
-- [Zippyshare](http://anonym.es/?https://www.zippyshare.com/) - - Blocked in the UK, use a proxy or VPN.
+- [Zippyshare](http://anonym.es/?https://www.zippyshare.com/) - (free/paid) - (needs proxy/VPN) - GeoIP blocked in the UK.
 
 **[`^        back to top        ^`](#)**
 
-### Open Directories
+## Open Directories
 - ["All resources I know related to Open Directories"](http://anonym.es/?https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Thorough post from /u/ElectroXexual.
 - [/r/opendirectories](http://anonym.es/?https://www.reddit.com/r/opendirectories) - Unprotected directories of pics, vids, music, software and otherwise interesting files.
 - [36 GB of Flash Games](http://anonym.es/?https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) - Posted by /u/blue_star_.
@@ -848,7 +848,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Anime & Cartoon Streaming (720p+)
+## Anime & Cartoon Streaming (720p+)
 - [AnimeKisa](http://anonym.es/?https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
 - [Animelon](http://anonym.es/?https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
 - [Aniwatcher](http://anonym.es/?https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
@@ -925,7 +925,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Random Streaming Sites
+### Random Movie/TV Streaming Websites
 - [#1 Movies Website](http://anonym.es/?https://www1.1movies.is) - Watch movies online for free in HD quality without downloading or signing up.
 - [/r/BestOfStreamingVideo](http://anonym.es/?https://www.reddit.com/r/BestOfStreamingVideo/)
 - [/r/MovieStreamingSites](http://anonym.es/?https://www.reddit.com/r/MovieStreamingSites/)
@@ -976,12 +976,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Video Game Music (OST)
+## Video Game Music (OST)
 - [FFShine Forum](http://forums.ffshrine.org/forumdisplay.php?f=72) - A place for game and video game music.
 
 **[`^        back to top        ^`](#)**
 
-### Sports Streaming
+### Sports (only) Streaming
 - [/r/CFBStreams](http://anonym.es/?https://www.reddit.com/r/CFBStreams/)
 - [/r/MLBStreams](http://anonym.es/?https://www.reddit.com/r/MLBStreams/)
 - [/r/mmafights](http://anonym.es/?https://www.reddit.com/r/mmafights/)
@@ -1064,7 +1064,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Gaming Infos, Emus & More
+## Gaming Infos, Emus & other resources
 - [/r/CrackWatch](http://anonym.es/?https://reddit.com/r/CrackWatch/) - New video game crack releases are posted here.
 - [CreamAPI AutoInstaller](http://anonym.es/?https://github.com/Douile/cream-api-autoinstaller) - A python script to auto install Cream API for Steam games in order to get all [DLCs for free](http://anonym.es/?https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
 - [Goldberg Steam Emulator](http://anonym.es/?https://gitlab.com/Mr_Goldberg/goldberg_emulator) - The  project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
@@ -1074,10 +1074,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### Game Repacks
 - ["A simple script for easily downloading emulator.games ROMs"](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
-- [BlackBox](http://www.blackboxrepack.com/) - (insecure)
-- [Dark Umbra](http://anonym.es/?https://darkumbra.net/) - Forum for sourcing games.
-- [DODI](http://dodi-repacks.site/) - (insecure)
-- [ElAmigos Games](http://anonym.es/?https://www.elamigos-games.com/) - Premium links to cracked games.
+- [BlackBox](http://www.blackboxrepack.com/) - (insecure) - A well known forum/site for game repacks.
+- [Dark Umbra](http://anonym.es/?https://darkumbra.net/) - A forum for sourcing games.
+- [DODI](http://dodi-repacks.site/) - (insecure) - Similar like fit-girl repacks, known and trusted by thousend of peoples around the world.
+- [ElAmigos Games](http://anonym.es/?https://www.elamigos-games.com/) - Premium links to cracked PC games.
 - [Emulator.Games](http://anonym.es/?https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - [FitGirl Repacks](http://fitgirl-repacks.site/) - (insecure) - Popular DDL and torrent site for game repacks.
 - [Kaoskrew](http://kaoskrew.org/) - (insecure) Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
@@ -1087,8 +1087,15 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [R.G Mechanics](http://anonym.es/?https://rg-mechanics.org/) - Various repacks.
 - [Revolt Group](http://anonym.es/?https://revolt.group/) - Official Revolt website.
 - [Skidrow Repacks](http://anonym.es/?https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too!
-- [Tapochek](http://tapochek.net/) - (insecure) - Official R.G Mechanics repacks can be found here.
-- [Xatab Repacks](http://anonym.es/?https://xatab-repack.net) - Russian game repacker - primarily torrents.
+- [Tapochek](http://anonym.es/?http://tapochek.net/) - (insecure) - Official R.G Mechanics repacks can be found here.
+- [Xatab Repacks](http://anonym.es/?https://xatab-repack.net) - (RU) - Russian game repacker, provides primarily torrents.
+
+**[`^        back to top        ^`](#)**
+
+### PlayStation (4)
+- [Darksoftware Forum](http://anonym.es/?https://forum.darksoftware.net/forums/) - Number #1 forum for Playstation hacking topics.
+- [Download Game PS3](http://anonym.es/?https://downloadgameps3.com/) - Download game PS3, PS4, RPCS3, PC for free.
+- [They-Eye](http://anonym.es/?http://the-eye.eu/alvro) - Playstation resources, games etc. 
 
 **[`^        back to top        ^`](#)**
 
@@ -1100,10 +1107,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Digiex](http://anonym.es/?https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
 - [Doperoms](http://anonym.es/?https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
 - [Emulanium](http://www.emulanium.com/) - (insecure) - Emulators, cheats & roms.
-- [myabandonware](http://anonym.es/?https://www.myabandonware.com/) - More than 14000 old games to download for free!
+- [myabandonware](http://anonym.es/?https://www.myabandonware.com/) - More than 14,000 old games to download, for free!
 - [No Intro DAT-o-MATIC](http://anonym.es/?https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games.
 - [Old Games Finder](http://www.oldgamesfinder.com/) - (insecure) - Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
-- [Rom Links Megathread - 1Fichier, GDrive, Mega](http://anonym.es/?https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROm collections.
+- [Rom Links Megathread - 1Fichier, GDrive, Mega](http://anonym.es/?https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROM collections.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) - (insecure) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
 - [Romulation.net](http://anonym.es/?https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [Romsmania](http://anonym.es/?https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
@@ -2279,7 +2286,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Homework
+## Homework Answers
 - [Lit Answers](http://anonym.es/?https://litanswers.org/) - Find homework answers.
 - [Slader](http://anonym.es/?https://www.slader.com/) - Find textbooks with answers.
 
@@ -2295,9 +2302,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Alternative Search Engines
-- [DavidWon.com](http://davidwon.com/) - (insecure) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
-- [Mega.nz Search Engine](http://megasearch.co/) - (insecure) - A search engine for Mega.nz files.
+## Alternative (private) Search Engines
+- [DavidWon.com](http://anonym.es/?http://davidwon.com/) - (insecure) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
+- [Mega.nz Search Engine](http://anonym.es/?http://megasearch.co/) - (insecure) - A search engine for Mega.nz files.
 - [Search Encrypt](http://anonym.es/?https://www.searchencrypt.com/) - The Privacy Based Search Engine.
 - [Startpage.com](http://anonym.es/?https://www.startpage.com/) - The world's most private search engine.
 - [Jive Search](http://anonym.es/?https://jivesearch.com/) - A search engine that doesn't track you.
@@ -2321,26 +2328,26 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Email provider
+## Email Hosting Provider
 - [Cock.li](http://anonym.es/?http://cock.li) - (insecure) - Solution for professional E-mail and XMPP addresses since 2003. Allows registration and usage using Tor and other privacy services (proxies, VPNs).
 
-
 **[`^        back to top        ^`](#)**
 
-### Image downloader
+## Image downloader
 - [Dezoomify](http://anonym.es/?https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](http://anonym.es/?https://github.com/lovasoa/dezoomify/) - Download zoomable images.
-
+- [MyImgur](http://anonym.es/?http://myimgur.eden.fm/) - Most handy capture and uploader tool you'll ever find for Windows computers
+- [DroidIris+](http://anonym.es/?https://apkpure.com/en/droidiris-image-search/org.droidiris) - (Android) - Search and browse thousands of images online with this superb and smooth 3D gallery.
 
 **[`^        back to top        ^`](#)**
 
-### Cloud based DNS Alternatives
+## Cloud based DNS Alternatives
 - [Blockchain-DNS.info](http://anonym.es/?https://blockchain-dns.info/) - First step towards the uncensored Internet
 - [NextDNS](http://anonym.es/?https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
 
 **[`^        back to top        ^`](#)**
 
 
-### Fake data generators
+## Fake Data Generators
 - [Fake-It 3.0](http://anonym.es/?https://fake-it.ws/) - Generate full fake identities with random First and Last Name, Address, Social Security Number, Credit Card, IBAN Bank Numbers, Phone Number, and more! The website also provides other generator tools e.g. for passwords etc.
 
 
@@ -2354,7 +2361,14 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Nydus Toplist](http://anonym.es/?https://top.nydus.org) - Yet another good looking toplist.
 - [Querverweis](http://anonym.es/?https://www.querverweis.net) - (Ger) - A big german toplist with lots of entries.
 - [RaidRush](http://anonym.es/?https://toplist.raidrush.ws) - (Ger)- One of the oldest german toplist provider.
-- [Toplist Warez](http://anonym.es/?https://www.toplist.cz/warez) - (PL) - Polish toplist.
-- [Uscene](http://anonym.es/?https://www.uscene.net/warez.html) - A small toplist.
+- [Toplist Warez](http://anonym.es/?https://www.toplist.cz/warez) - (PL) - Polish warez toplist.
+- [Uscene](http://anonym.es/?https://www.uscene.net/warez.html) - A small but fine warez toplist.
+
+**[`^        back to top        ^`](#)**
+
+
+## Tidal (Music) Downloader
+- [Athame](https://github.com/fuzzybabybunny/Athame) - (Premium account required) - An extensible music download tool written in C#.
+- [RedSea](https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived. 
 
 **[`^        back to top        ^`](#)**
