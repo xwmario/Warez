@@ -97,6 +97,7 @@
 
 **[`^        back to top        ^`](#)**
 
+
 ## Windows 10 Tutorials
 - [How to download and install Windows 10 LTSB/LTSC](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez on how to download and install Windows 10 LTSB/LTSC.
 - [How to SVF patch Windows 10](http://anonym.es/?https://github.com/CHEF-KOCH/How-to-SVF-patch-Windows-10)
@@ -122,5 +123,10 @@
 
 ## Baidu
 - [Guide to baidu account creation/downloading from pan.baidu](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/by70qt/guide_to_baidu_account_creationdownloading_from/) 
+
+**[`^        back to top        ^`](#)**
+
+## YouTube (Premium)
+- [How to get yt premium for free](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/d6ltfc/so_here_is_how_to_get_yt_premium_for_free/) - A short tutorial on how you get YouTube Premium for free.
 
 **[`^        back to top        ^`](#)**
