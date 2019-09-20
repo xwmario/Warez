@@ -1,4 +1,4 @@
-## Insecure (unencrypted/mixed content)
+## Insecure (unencrypted/mixed content) - soft-ban!
 - [Canna Power](http://uu.canna.to/) - Was once the biggest music piracy platform, but since years only their own users uploading mp3 music.
 - [Exystence](http://exystence.net) - Downloads via sharehoster, a lot of music info, text and links. 
 - [New Album Releases](http://newalbumreleases.net/) - New Album Releases.
@@ -428,3 +428,6 @@
 
 ## YouTube Download
 - [Videoder](https://www.videoder.com/) - Download videos for free. See [here](https://old.reddit.com/r/androidapps/comments/bnekx7/is_videoder_safe_these_days/).
+
+## Hoster (storage)
+- [AllSync](https://cloud.allsync.com/apps/announcementcenter/?announcement=2)
