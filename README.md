@@ -426,7 +426,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [BakaBT](http://anonym.es/?https://bakabt.me/) - (BBT) - a torrent tracker which specializes in serving anime fans
 - [BeyondHD](http://anonym.es/?https://beyondhd.xyz/) - (BHD) - BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
 - [Bibliotik](http://anonym.es/?https://bibliotik.me/) - (BI) - Popular ebooks/audiobooks private tracker
-- [Blutopia](http://anonym.es/?https://blutopia.xyz) - (BLU) - Blutopia is a private tracker for HD movies and HD TV shows.
+- [Blutopia](http://anonym.es/?https://blutopia.xyz) - (BLU) - Blutopia is a private tracker for HD movies (Blu-Ray) and HD TV shows.
 - [CGPeers](http://anonym.es/?https://www.cgpeers.com/) - (CGP) - CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
 - [Filelist](http://anonym.es/?https://filelist.ro/) - (FL) - Large Romanian general tracker with mostly English content. No RAR files allowed. Scene torrents are unrared, and then allowed.
 - [GazelleGames](http://anonym.es/?https://gazellegames.net/login.php) - (GGn) - Currently the largest private tracker for games.
@@ -438,6 +438,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [MyAnonaMouse](http://anonym.es/?https://www.myanonamouse.net/) - (MAM) - Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
 - [Nostalgic Torrents](http://anonym.es/?https://nostalgic.is/) - (NT) - Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](http://anonym.es/?https://passthepopcorn.me/) - (PTP) - ratio-based torrent tracker for movies (requires login).
+- [PassThePopCorn (PTP)](http://anonym.es/?https://passthepopcorn.me/) - Blu-Ray rips and other stuff.
 - [PolishSource](http://anonym.es/?https://polishsource.cz/) - (PS) - PolishSource is a big private Polish ratio-less tracker.
 - [PolishTracker](http://anonym.es/?https://pte.nu/) - (PT) - PolishTracker is the oldest private Polish tracker.
 - [Private Tracker Flowchart](http://anonym.es/?https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) - V4 of the private tracker flowchart. Somewhat out of date.
@@ -2371,7 +2372,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Tidal (Music) Downloader
 - [Athame](https://github.com/fuzzybabybunny/Athame) - (Premium account required) - An extensible music download tool written in C#.
-- [Chimera](https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) and works across almost every OS.
+- [Chimera](http://anonym.es/?https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) and works across almost every OS.
 - [RedSea](https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived. 
 
 **[`^        back to top        ^`](#)**
