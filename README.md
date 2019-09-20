@@ -1064,7 +1064,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Tooonmania2](http://anonym.es/?https://github.com/doko-desuka/doko.repository/releases) - lets you watch cartoons, dubbed anime and movies (from animetoon) - and subbed anime and movies (from animeplus).
 - [tvtorrentorganizer](http://anonym.es/?https://github.com/tvtorrentorganizer/tvtorrentorganizer) - Bash 4 Script to Organize TV Show Downloads for Kodi
 - [Ultimate Kodi Guide](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) - ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
-- [Yoda](http://supremacy.org.uk/zip/repo/) - (insecure) - Another solid Exodus/Covenant fork, and this time it's from S-media.
+- [Yoda](http://anonym.es/?http://supremacy.org.uk/zip/repo/) - (insecure) - Another solid Exodus/Covenant fork, and this time it's from S-media.
+- [VShare](http://anonym.es/?https://vshare.eu) - Allows all the kodi users to pair with this service, which allows users to share and stream their favorite videos.
 
 **[`^        back to top        ^`](#)**
 
@@ -1902,7 +1903,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [CafeMovie](http://anonym.es/?https://cafemovie.live/)
 - [ddlhub](http://anonym.es/?https://ddlhub.xyz/)
 - [Fmovies](http://anonym.es/?https://fmovie.info/fmovies.is) + ([Mirror](http://anonym.es/?https://fmovie.info/fmovies.se)) + ([Mirror](http://anonym.es/?https://www6.fmovies.to/))
-- [flixtor.to](http://anonym.es/?https://flixtor.to/)
+- [Flix555](http://anonym.es/?https://flix555.com)
 - [Flixtor](http://anonym.es/?https://flixtor.to/)
 - [Full YouTube Movies](http://anonym.es/?https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) -
 - [GOMovieshub](http://anonym.es/?https://www.gomovieshub.se/)
@@ -1938,18 +1939,21 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [SeriesFree](http://anonym.es/?https://seriesfree.to/)
 - [Send It](http://anonym.es/?https://sendit.gg/)
 - [SeriesTop](http://anonym.es/?https://www.seriestop.net/index.php)
-- [StreamAll](http://anonym.es/?https://stream.allsprk.tv/#3)
+- [StreamAll](http://anonym.es/?https://stream.allsprk.tv/)
 - [TVZion](http://anonym.es/?https://www.nicetvzion.pro/)
+- [Vidlox](http://anonym.es/?https://vidflox.me/)
 - [VipBox](http://anonym.es/?https://www.vipbox.live/)
 
 **[`^        back to top        ^`](#)**
 
 ### 1080p Streaming
+- [0123movies](http://anonym.es/?https://www.0123moviesback.com/)
 - [CineBloom](http://anonym.es/?https://www2.cinebloom.com/)
 - [Crackle](http://anonym.es/?https://www.sonycrackle.com/out-of-region.html)
 - [Cyberflix](http://anonym.es/?https://cyberflix.me/) - (Android) - Claims to be 100% free from virus and malware. Direct Download Links are avbl.
 - [crawler](http://anonym.es/?https://crawler.to/)
 - [Daxiv](http://anonym.es/?https://daxiv.com/)
+- [Fembed](http://anonym.es/?https://fembed.com/)
 - [Filmxy](http://anonym.es/?https://www.filmxy.one/)
 - [HD Europix](http://anonym.es/?https://europixhd.net/) + [Mirror](http://anonym.es/?https://topeuropix.net/)
 - [HD Multireddit](http://anonym.es/?https://old.reddit.com/user/nbatman/m/streaming2/) - 1080p Openload, Google Video & Vimeo,..
@@ -1959,9 +1963,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [MovieStreams](http://anonym.es/?https://moviestreams.org/)
 - [OneMov](http://anonym.es/?https://onemov.net/)
 - [OnMovies](http://anonym.es/?https://onmovies.to/)
+- [StreamMango](http://anonym.es/?https://streammango.com/)
+- [Streamplay.to](http://anonym.es/?https://streamplay.to/)
 - [TeaTV](http://anonym.es/?https://teatv.net/download/)
 - [TopEuroPix](http://anonym.es/?https://topeuropix.net/)
 - [UWatchfree](http://anonym.es/?https://www.uwatchfree.tv/)
+- [Verystream](http://anonym.es/?https://verystream.com/)
 - [Videospider](http://anonym.es/?https://videospider.in/)
 - [Vmovee](http://anonym.es/?https://vmovee.ws/)
 - [Ymovies](http://anonym.es/?https://ymovies.tv/)
