@@ -1,4 +1,5 @@
 ## Browser Script Engines (needed to run browser scripts)
+- [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
 - [Greasemonkey](http://anonym.es/?https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
 - [Violentmonkey](http://anonym.es/?https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
 
