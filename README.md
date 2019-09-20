@@ -58,6 +58,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## Liability for Contents
+- [French court rules that Steam’s ban on reselling used games is contrary to European law](http://anonym.es/?https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law) 
 - [MEPs approve sweeping changes to copyright law](http://anonym.es/?https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
 - [The Legalities of Linking](http://anonym.es/?https://www.lifewire.com/legalities-of-linking-3468972)
 - [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](http://anonym.es/?https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
@@ -75,6 +76,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## ISP Info
 - [Major US ISPs Refuse to Discuss Repeat Infringer Policies](http://anonym.es/?https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
+- [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](http://anonym.es/?https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
 
 
 ## Tor Info
