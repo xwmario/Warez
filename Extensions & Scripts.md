@@ -1,4 +1,4 @@
-## Browser Script Engines (needed to run browser scripts)
+## Browser Script Engines (required to run browser scripts & user css files)
 - [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
 - [Greasemonkey](http://anonym.es/?https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
 - [Violentmonkey](http://anonym.es/?https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
@@ -8,7 +8,6 @@
 ## Userscripts
 - [anti-anti-copy](http://anonym.es/?https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Some websites prevent you from copying text, this script bypasses it.
 - [AntiAdware](http://anonym.es/?https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
-- [Bypass Google Sorry (reCAPTCHA)](http://anonym.es/?https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) - Redirect Google reCAPTCHA to new search.
 - [Bypass paywalls for scientific documents](http://anonym.es/?https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
 - [Direct download from Google Play](http://anonym.es/?https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
 - [Emuparadise ROMs:easy download](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) - Make Emuparadise great again!
@@ -18,7 +17,6 @@
 - [IMDb Scout](http://anonym.es/?https://greasyfork.org/en/scripts/3967-imdb-scout) - Add links from IMDb pages to torrent sites, easy downloading from IMDb
 - [MAL-Sync](http://anonym.es/?https://greasyfork.org/en/scripts/372847-mal-sync) - Integrates MyAnimeList into various sites, with auto episode tracking.
 - [MoreCAPTCHA](http://anonym.es/?https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
-- [openload](http://anonym.es/?https://greasyfork.org/en/scripts/17665-openload) - Remove Anti-Adblock, ads, popups, and timer waits, and show direct download link on OpenLoad.
 - [RARBG Advanced Filters](http://anonym.es/?https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
 - [RYM google current album](http://anonym.es/?https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
 - [Sci-hub button](http://anonym.es/?https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
