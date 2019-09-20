@@ -1,4 +1,4 @@
-## Browser Script Engines (required to run browser scripts & user css files)
+## Browser Script Engines (required to run browser-/ or user-css scripts)
 - [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
 - [Greasemonkey](http://anonym.es/?https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
 - [Violentmonkey](http://anonym.es/?https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
@@ -27,7 +27,7 @@
 **[`^        back to top        ^`](#)**
 
 
-## Misc Extensions
+## Misc Browser Extensions
 - [Buster](http://anonym.es/?https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [Google unlocked](http://anonym.es/?https://github.com/Ibit-to/google-unlocked) - + [Website](http://anonym.es/?https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
 - [Hide Fake Torrents on TPB](http://anonym.es/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
@@ -43,6 +43,11 @@
 **[`^        back to top        ^`](#)**
 
 
+### YouTube specific Browser Extensions
+- [YouTube Skip intro (Chrome)](http://anonym.es/?https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Define the intro time to skip it each time you play a video on YouTube helpful when you watching a series or any many episodes shows.
+- [Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout.
+
+
 ### Browser syncing (self-hosted)
 - [xBrowserSync](http://anonym.es/?https://github.com/xbrowsersync/app) - An open source alternative to Mozilla's, Google's, Vivalid's integrated sync feature, it does work on all platforms.
 
@@ -55,7 +60,7 @@
 **[`^        back to top        ^`](#)**
 
 
-### Bypassing Paywalls
+### Bypassing Paywalls (Anti-PayWall)
 - [Anti-Paywall](http://anonym.es/?https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Burlesco](http://anonym.es/?https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls](http://anonym.es/?https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
