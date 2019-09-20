@@ -55,6 +55,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
+- [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - Lists our current project standards.
 
 
 ## Liability for Contents
@@ -1975,10 +1976,17 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Wrestling & MMA
-- [Fight-BB](http://fight-bb.com/) - (insecure)
-- [MMA Releaselog](http://mma-releaselog.com/) - (insecure) 
-- [WWE-TV](http://www.wwe-tv.com/) - (Ger) - (insecure)
+### Wrestling & MMA specifc
+- [Fight-BB](http://anonym.es/?http://fight-bb.com/) - (insecure)
+- [MMA Releaselog](http://anonym.es/?http://mma-releaselog.com/) - (insecure) 
+- [WWE-TV](http://anonym.es/?http://www.wwe-tv.com/) - (Ger) - (insecure)
+
+**[`^        back to top        ^`](#)**
+
+## Video Streaming link search engines
+- [Anonembed](http://anonym.es/?http://anonembed.xyz/) - (insecure) - Search Engine for Openload,Streamango,Rapidvideo, Google Drive, Google photos, Verystream & more.
+- [FilesLoop](http://anonym.es/?https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
+- [ololo](http://anonym.es/?https://ololo.to/) - Enjoy millions of streaming links for the newest movies and TV shows.
 
 **[`^        back to top        ^`](#)**
 
