@@ -379,6 +379,7 @@
 * ymovies.tv
 * yztv.online
 * yztv.pw
+* vstcrack.com
 
 ## Faker
 * 2baksa.net
