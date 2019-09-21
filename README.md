@@ -1544,7 +1544,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Bartleby](http://www.bartleby.com/ebook/) - (insecure) - While Bartleby charges for some titles, it has a free ebook store here.
 - [Bibliomania](http://www.bibliomania.com/) - (insecure) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
 - [BitSpyder](http://anonym.es/?https://www.bitspyder.net/) - E-Learning, tutorials & trainings.
-- [BookBoon](http://bookboon.com/) - (insecure) - World’s largest publisher of online educational literature.
+- [BookBoon](http://anonym.es/?http://bookboon.com/) - (insecure) - World’s largest publisher of online educational literature.
+- [BookSC](http://anonym.es/?https://booksc.xyz/) - (blocked in some countries) - Z-Library is one of the largest online libraries in the world that contains over 4,800,000 books and 75,300,000 articles.
 - [BookStack](http://anonym.es/?https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 - [BookYards](http://www.bookyards.com/) - (insecure) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
 - [Boundless](http://anonym.es/?https://www.boundless.com/) - Affordable online textbooks & study materials.
