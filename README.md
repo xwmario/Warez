@@ -1296,7 +1296,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 ## Music
 - [94hiphop](http://94hiphop.com/) - (insecure) - Download Free Hip Hop Albums!
 - [Beets](http://beets.io/) - (insecue) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
-- [CDBao](http://anonym.es/?https://www.cdbao.net/) - Chinese invite-only page for music.
+- [CDBao](http://anonym.es/?https://www.cdbao.net/) - (invite only) - A chinese age for various music.
+- [DQQD](http://anonym.es/?https://dqqd.org/) - Provides music via sharehoster, rapidgator etc.
 - [FreeAllMusic](http://anonym.es/?https://freeallmusic.top/) - Download any high quality music and up-to-date to the latest releases.
 - [LibreSonic](http://anonym.es/?https://github.com/Libresonic/libresonic) - Media streaming software.
 - [MOOVAL](http://anonym.es/?https://www.mooval.de/) - Easily move your playlists, tracks and likes from one streaming service to another.
@@ -1847,17 +1848,19 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [123Movies.ooo](http://anonym.es/?https://123movies.ooo/) - Watch & stream full HD movies & TV series online for free.
 - [2TwoMovies](http://anonym.es/?https://two-movies.net/) - Watch Free Movies Online. TwoMovies is a free online video service that offers large collection of full length movies.
 - [5Movies](http://5movies.to/) - (insecure) - Watch FULL HD Quality 1080/720p movies and latest tv series online for free, download the latest movies without registration at all.
-- [8Putlocker](http://www1.8putlocker.com/) - (insecure) - Watch Movies HD Online for Free, you can watch all movies here. All TV Series, Asian Dramas, Anime & Cartoons.
-- [Afdah](http://afdah.to/) - (insecure) - Afdah is a web scraper coded to crawl and index online movie sites.
+- [8Putlocker](http://anonym.es/?http://www1.8putlocker.com/) - (insecure) - Watch Movies HD Online for Free, you can watch all movies here. All TV Series, Asian Dramas, Anime & Cartoons.
+- [Afdah](http://anonym.es/?http://afdah.to/) - (insecure) - Afdah is a web scraper coded to crawl and index online movie sites.
 - [BS.to](http://anonym.es/?https://bs.to/) - (GER) - (insecure) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
 - [CafeHulu](http://cafehulu.com/) - (insecure) - Best Place To Watch FREE Tv Series And Cartoons.
+- [dokujunkies](http://anonym.es/?https://dokujunkies.org) - Provides several documentations, movies etc. Links are shared via uploaded.
 - [EZTV (EZTV.AG)](http://anonym.es/?https://eztv.io/) - Well known group for movies and series.
-- [filechef](http://filechef.com/) - (insecure) - Search Direct Downloads
+- [filechef](http://anonym.es/?http://filechef.com/) - (insecure) - Search Direct Downloads
 - [FreeMoviez](http://anonym.es/?https://freemoviesz.online/) - Watch free movies online.
-- [Los-Movies](http://los-movies.com/) - (insecure) - You can stream High Quality movies and cinema films without any redirection.
-- [M4UFree.TV](http://m4ufree.tv/) - (insecure) - Unique design, HD server with backup and additional hosts
-- [Movie4k](http://anonym.es/?https://movie4k.io/) - Huge Movie/TV Library
-- [Primewire](http://www.primewire.is/) - (insecure) - Free Movies! Wow!
+- [Los-Movies](http://anonym.es/?http://los-movies.com/) - (insecure) - You can stream High Quality movies and cinema films without any redirection.
+- [nima4k](http://anonym.es/?https://nima4k.org) - A well-known platform for ducmentations, series & movies.
+- [M4UFree.TV](http://anonym.es/?http://m4ufree.tv/) - (insecure) - Unique design, HD server with backup and additional hosts
+- [Movie4k](http://anonym.es/?https://movie4k.io/) - Yt another huge Movie/TV Library.
+- [Primewire](http://anonym.es/?http://www.primewire.is/) - (insecure) - Free Movies! Wow!
 - [Putlocker.onl](http://anonym.es/?https://www3.putlocker.onl/) - Watch movies and TV Series for free, watch series full episodes online free with HD quality on Putlocker.
 - [Putlockerfreely](http://anonym.es/?https://putlockerfreely.online/) - Watch your favorite movies online free on Putlocker. Discover thousands of latest movies online.
 - [Putlockeri](http://anonym.es/?https://putlockeri.club/) - Watch your favorite movies online free on Putlocker.
