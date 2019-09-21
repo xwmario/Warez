@@ -525,9 +525,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Jackett](http://anonym.es/?https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers, it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, DuckieTV, qBittorrent, etc) - into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software.
 - [NewzLeech](http://anonym.es/?https://www.newzleech.com/) - Newzleech is a Usenet file search engine.
 - [nzbhydra2](http://anonym.es/?https://github.com/theotherp/nzbhydra2/) - Primarily a Usenet meta search engine but also supports Torznab.
-- [Radarr](http://anonym.es/?https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
+- [Radarr](http://anonym.es/?https://github.com/Radarr/Radarr) - (make sure you [turn click-tracking off](http://anonym.es/?https://i.imgur.com/QpP1M6Q.png)) - A fork of Sonarr to work with movies à la Couchpotato.
 - [SickRage](http://anonym.es/?https://git.sickrage.ca/SiCKRAGE/sickrage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
-- [Sonarr](http://anonym.es/?https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and Bittorrent users.
+- [Sonarr](http://anonym.es/?https://github.com/Sonarr/Sonarr) - (make sure you [turn click-tracking off](http://anonym.es/?https://i.imgur.com/QpP1M6Q.png)) - Smart PVR for newsgroup and Bittorrent users.
 
 **[`^        back to top        ^`](#)**
 
