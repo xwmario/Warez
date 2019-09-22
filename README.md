@@ -1294,7 +1294,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ## Music
-- [94hiphop](http://94hiphop.com/) - (insecure) - Download Free Hip Hop Albums!
+- [94hiphop](http://anonym.es/?http://94hiphop.com/) - (insecure) - Download Free Hip Hop Albums!
+- [Bandcamp](http://anonym.es/?https://www.bandcamp.com/) - Spotify alternative, some free + paid (flac) music (DRM free)
 - [Beets](http://beets.io/) - (insecue) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [CDBao](http://anonym.es/?https://www.cdbao.net/) - (invite only) - A chinese age for various music.
 - [DQQD](http://anonym.es/?https://dqqd.org/) - Provides music via sharehoster, rapidgator etc.
@@ -1450,7 +1451,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Spotify
+## Spotify
 - [Block Spotify Updates on MacOS](http://anonym.es/?https://donotupdatespotify.sh/) - A guide is avbl. [here](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/). 
 - [BlockTheSpot](http://anonym.es/?https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify. 
 - [MuteSPotifyAds](http://anonym.es/?https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
@@ -1461,7 +1462,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### SoundCloud
+## SoundCloud
 - [scdl](http://anonym.es/?https://github.com/flyingrub/scdl) - Soundcloud Music Downloader.
 - [scddlr.com](http://anonym.es/?https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
 
