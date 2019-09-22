@@ -186,6 +186,8 @@
 - [2x4.ru](http://www.2x4.ru/index.php) - A fast and reliable russian VPS hoster.
 - [AlexHost.md](http://ru.alexhost.md) - Yet another russian VPS hoster service.
 - [Datasource.ch](http://www.datasource.ch/) - Swiss made offshore VPS provider.
+- foxleech.com
+- torrentsafe.com
 
 ## Imposter, crypto mining etc.
 * CMRG
@@ -400,15 +402,13 @@
 ## Manga
 * MangaRock
 
-## Insecure
-* foxleech.com
-* torrentsafe.com
 
-## Banned search engines:
+## Search engines
 * DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
 
 ## Apps with malware, ads etc in it (possible honeypot apps to steal your data or to monitor you):
 * OLA TV
+* AppVN
 
 ## File/Cloud Hoster which scanning your files (via bots)
 * DropBox
@@ -427,7 +427,7 @@
 * [Typhoon TV](https://typhoontv.net/)
 * [ThopTV](https://thoptv.space/)
 
-## YouTube Download
+## YouTube Downloader
 - [Videoder](https://www.videoder.com/) - Download videos for free. See [here](https://old.reddit.com/r/androidapps/comments/bnekx7/is_videoder_safe_these_days/).
 
 ## Hoster (storage)
