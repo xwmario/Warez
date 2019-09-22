@@ -119,6 +119,8 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - smartwarez.org
 - subsmovies.com
 - textsheet.com
+- Onhaxme.com
+- Onhax.me
 - warezscene.org
 
 
