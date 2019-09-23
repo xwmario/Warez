@@ -55,7 +55,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
-- [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - Lists our current project standards.
+- [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - A list which provides our current project standards.
 
 
 ## Liability for Contents
@@ -134,6 +134,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ## NFO Viewers & KeyGen Music
+- [Corrupt Net](http://anonym.es/?https://twitter.com/CorruptNET) - NFO-Site (linked on Twitter)
 - [Defacto2](http://anonym.es/?https://defacto2.net/welcome)
 - [Evangelion.keygenmusic.org](http://anonym.es/?https://pub.keygenmusic.org/)
 - [KeyGen Music](http://anonym.es/?https://keygenmusic.net)
@@ -1295,7 +1296,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Music
 - [94hiphop](http://anonym.es/?http://94hiphop.com/) - (insecure) - Download Free Hip Hop Albums!
-- [Bandcamp](http://anonym.es/?https://www.bandcamp.com/) - Spotify alternative, some free + paid (flac) music (DRM free)
+- [Bandcamp](http://anonym.es/?https://www.bandcamp.com/) - Spotify alternative, some free + paid (flac) music (DRM free).
+- [Balaton Sound aka per-fect](http://anonym.es/?https://per-fect.nl) - Listen to songs (no directl dl!).
 - [Beets](http://beets.io/) - (insecue) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [CDBao](http://anonym.es/?https://www.cdbao.net/) - (invite only) - A chinese age for various music.
 - [DQQD](http://anonym.es/?https://dqqd.org/) - Provides music via sharehoster, rapidgator etc.
@@ -1947,6 +1949,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [SeriesTop](http://anonym.es/?https://www.seriestop.net/index.php)
 - [StreamAll](http://anonym.es/?https://stream.allsprk.tv/)
 - [TVZion](http://anonym.es/?https://www.nicetvzion.pro/)
+- [WawaCity](http://anonym.es/?https://ww3.wawacity.ec) - (FR) - Movies & tv series.
 - [Vidlox](http://anonym.es/?https://vidflox.me/)
 - [VipBox](http://anonym.es/?https://www.vipbox.live/)
 
