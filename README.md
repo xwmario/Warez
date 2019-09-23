@@ -2392,8 +2392,14 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## Tidal (Music) Downloader
-- [Athame](https://github.com/fuzzybabybunny/Athame) - (Premium account required) - An extensible music download tool written in C#.
+- [Athame](http://anonym.es/?https://github.com/fuzzybabybunny/Athame) - (Premium account required) - An extensible music download tool written in C#.
 - [Chimera](http://anonym.es/?https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) and works across almost every OS.
-- [RedSea](https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived. 
+- [RedSea](http://anonym.es/?https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived. 
+
+**[`^        back to top        ^`](#)**
+
+
+## CVE Database & Aggregators
+- [VIA4CVE](http://anonym.es/?https://github.com/cve-search/VIA4CVE) - Vulnerability Information Aggregator for CVEs.
 
 **[`^        back to top        ^`](#)**
