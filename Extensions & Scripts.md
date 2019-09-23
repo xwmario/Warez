@@ -5,7 +5,7 @@
 
 **[`^        back to top        ^`](#)**
 
-## Userscripts
+## Browser Userscripts
 - [anti-anti-copy](http://anonym.es/?https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Some websites prevent you from copying text, this script bypasses it.
 - [AntiAdware](http://anonym.es/?https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 - [Bypass paywalls for scientific documents](http://anonym.es/?https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
@@ -60,7 +60,7 @@
 **[`^        back to top        ^`](#)**
 
 
-### Bypassing Paywalls (Anti-PayWall)
+## Bypassing Paywalls (Anti-PayWall)
 - [Anti-Paywall](http://anonym.es/?https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Burlesco](http://anonym.es/?https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls](http://anonym.es/?https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
@@ -71,12 +71,13 @@
 **[`^        back to top        ^`](#)**
 
 
-### Python scripts
-- [firefox_bookmarkscraper.py](http://anonym.es/?https://github.com/ZeroOne010101/firefox_bookmarkscraper.py) - A Python script that querys the html of all firefox-bookmarks in a specific folder for a keyword, and prints the url's of sites the keyword was found in.
+## Python scripts
+- [firefox_bookmarkscraper.py](http://anonym.es/?https://github.com/ZeroOne010101/firefox_bookmarkscraper.py) - Querys the html of all Firefox bookmarks in a specific folder for a keyword, and prints the url's of sites the keyword was found in.
+- [udemy-dl](http://anonym.es/?https://github.com/r0oth3x49/udemy-dl) - Udemy course downloader script.
 
 **[`^        back to top        ^`](#)**
 
-### Dark Mode
+## Dark Mode
 - [Darkreader](http://anonym.es/?https://darkreader.org/) - Provides a "Dark Mode" for everything.
 
 **[`^        back to top        ^`](#)**
@@ -97,7 +98,7 @@
 **[`^        back to top        ^`](#)**
 
 
-### Plex Scripts and Tools
+## Plex Scripts & Tools
 - [killstream](http://anonym.es/?https://github.com/blacktwin/JBOPS/tree/master/killstream) - Killing streams is a Plex Pass only feature. So these scripts will only work for Plex Pass users.
 - ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](http://anonym.es/?https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi and NVIDIA Shield.
 - [DocDownloader](http://anonym.es/?https://docdownloader.com/) - Scribd Downloader; Issuu Downloader; Slideshare Downloader; Academia Downloader. Scribd Downloader.
@@ -127,7 +128,7 @@
 
 **[`^        back to top        ^`](#)**
 
-### MagisK Modules
+## MagisK Modules
 
 **Important**: There are lots of misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. "hardening" your OS or parts of your apps in order to make them more "secure" or "private". This is wrong, as explained over [here](http://anonym.es/?https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official servers). Please keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps which are regularily getting audited e.g. Threema, Silence etc. The modules which are listed here are "helpful" in a sense that they "add" xyz (missing) function to the OS and not meant to secure/hardening something. 
 
