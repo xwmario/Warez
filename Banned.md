@@ -229,7 +229,7 @@
 
 
 ## Other reasons (sell-out, under surveillance or ads etc)
-* www.3456.ws
+* 3456.ws
 * 01torrent.net
 * 1movies.biz
 * 1movies.ch
@@ -382,6 +382,7 @@
 * yztv.online
 * yztv.pw
 * vstcrack.com
+* twoddl.net
 
 ## Faker
 * 2baksa.net
