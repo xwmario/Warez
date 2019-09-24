@@ -41,6 +41,7 @@
 - [Smart Referer](https://gitlab.com/smart-referer/smart-referer) - Change your Browser referer.
 - [Header Editor](https://addons.mozilla.org/firefox/addon/header-editor/) - Protects you from e.g. ETag tracking, an alternative is [ETag Stoppa](https://addons.mozilla.org/firefox/addon/etag-stoppa/)
 - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Alternative to Firefox first party isolation.
+- [zero-width-chrome-extension](https://github.com/chpmrc/zero-width-chrome-extension) - Replace scary zero-width characters with funny emojis in Chrome to reduce the Browser fingerprint.
 
 All other extensions **do not** adding any benefit over the integrated Browser "privacy" mechanism e.g. Cookie cleaners, they are mostly just crippled or limitated GUI based toogles for what the Browser already does (with some user effort).
 
