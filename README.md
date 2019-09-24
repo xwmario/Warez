@@ -192,7 +192,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [AdGuard](http://anonym.es/?https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
 - [Filterlists](http://anonym.es/?https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
 - [uBlock origin](http://anonym.es/?https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
-- [Nano Defender](http://anonym.es/?https://jspenguin2017.github.io/uBlockProtector/) - Fork of uBlock with some gimmicks, the defender addon is an anti-adblock defuser for Nano Adblocker and uBlock Origin.
 - [Wikipedia's Website about Ad blocking](http://anonym.es/?https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's website about ad-blockers.
 
 **[`^        back to top        ^`](#)**
