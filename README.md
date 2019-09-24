@@ -1815,15 +1815,18 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 ### Streaming Apps
-- [99kubo](http://www.99kubo.tv) - (needs ad-blocker) - (insecure) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
+- [Streaming Apps Official Links / How to use Trakt & Real Debrid (self.TTVreborn)](https://old.reddit.com/r/TTVreborn/comments/9xxng0/streaming_apps_official_links_how_to_use_trakt/)
+- [Terrarium TV Reborn sub reddit](http://anonym.es/?https://old.reddit.com/r/TTVreborn) - A place to talk about streaming apps.
+- [99kubo](http://anonym.es/?http://www.99kubo.tv) - (needs ad-blocker) - (insecure) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
 - [AniméGlare](http://anonym.es/?https://animeglare.xyz/) - (needs ad-blocker) - Let's you stream any anime for free.
+- [Anime Molecules](http://anonym.es/?https://animemolecules.com/) - (needs ad-blocker) - Yet another anime streaming app.
 - [AniméVibe](http://animevibe.tv/) - (insecure) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!
 - [AOS TV](http://anonym.es/?https://aostv.app/) - Watch More than 1000+ Live TV Channels free on your Android Phone from across the world.
-- [ApolloTV](http://anonym.es/?https://apollotv.xyz/) - Open-source aggregator for various online video content.
+- [Apollo TV](http://anonym.es/?https://apollotv.xyz/) - Open-source aggregator for various online video content.
 - [BeeTV](http://beetvapk.me/) - (needs ad-blocker) - (insecure) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
-- [CKayTV](http://ckaytv.com/) - (needs ad-blocker) - (insecure) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
-- [CinemaHD](http://anonym.es/?https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
-- [Cinema](http://anonym.es/?https://forum.mobilism.org/viewtopic.php?t=2786441) - A lot of Movies & TV/Shows to watch and download.
+- [CKay TV](http://anonym.es/?http://ckaytv.com/) - (needs ad-blocker) - (insecure) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
+- [Cinema HD](http://anonym.es/?https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
+- [CyberFlix 2.0](http://anonym.es/?https://cybermedia.cloud/downloads) - A rebooted version from the original Cyberflix app, good for movies & tv episodes.
 - [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - (insecure) - (needs invite) - Download various Movies.
 - [Exousia](http://anonym.es/?https://exousia.app) - Watch Live Tv & Movies, Sports.
 - [Fildo](http://anonym.es/?https://fildo.net/android/en/) - Yet another Music streaming app.
@@ -1831,8 +1834,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Glaz TV](http://anonym.es/?https://www.glaz.tv/) - (RU) - Online TV for Android devices.
 - [Kokotime](http://anonym.es/?https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
 - [KrakenTV](http://anonym.es/?https://krakentv.app/download/) - Watch dozens of different TV channels from the comfort of your Android device.
+- [Leonflix](http://anonym.es/?https://leonflix.net/) - Leonflix provides you the opportunity to find any of your favorite series or TV program and watch it online without paying anything to the forum.
 - [Liveflix](http://anonym.es/?https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
 - [Mega Shows](http://anonym.es/?https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
+- [MediaBox HD](http://anonym.es/?https://mediaboxhd.net/) - Provides tv shows, movies & more.
 - [Mobdro](http://anonym.es/?https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your device.
 - [Orion TV](http://anonym.es/?https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
 - [PhoenixTV](http://anonym.es/?https://www.phoenixtv-distribution.com/) - Morpheus Fork
@@ -2290,6 +2295,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [@Moviezworldz](http://anonym.es/?https://t.me/Moviezworldz) - Official Moviezworldz channel.
 - [@MusicHuntersBot](http://anonym.es/?https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
 - [@piracy](http://anonym.es/?https://t.me/joinchat/JSoye0ykWKGZc_jueXqlcg) - A well known telegram group with over 500 pirates.
+- [@piracylinks](http://anonym.es/?https://t.me/piracylinks) - A link sharing community.
 - [@piratebazaar](http://anonym.es/?https://t.me/piratebazaar) - Telegram Channel which provides warez information, lists & more.
 - [@Qualitymovies](http://anonym.es/?https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto Chan](http://anonym.es/?https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
