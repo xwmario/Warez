@@ -37,11 +37,12 @@
 - [CSS Exfil Protection](https://github.com/mlgualtieri/CSS-Exfil-Protection) - Fixes several holes regarding [CSS manipulation](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester).
 - [Trace - Online Tracking Protection](https://absolutedouble.co.uk/trace/) - HTML5 Canvas protection for [Chrome](https://chrome.google.com/webstore/detail/trace/njkmjblmcfiobddjgebnoeldkjcplfjb) & [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace).
 - ScriptSafe - Similar like NoScript with some nice features, works with [Chrome](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) & [Firefox](https://addons.mozilla.org/en/firefox/addon/script-safe/).
+- [Replace zero-width characters with emojis](https://github.com/chpmrc/zero-width-chrome-extension) - Google Chrome extension that can detect attempts to fingerprint text using the ["zero-width character"](https://www.bleepingcomputer.com/news/security/google-chrome-extension-detects-zero-width-character-fingerprinting-attacks/) technique.
 - [Smart Referer](https://gitlab.com/smart-referer/smart-referer) - Change your Browser referer.
 - [Header Editor](https://addons.mozilla.org/firefox/addon/header-editor/) - Protects you from e.g. ETag tracking, an alternative is [ETag Stoppa](https://addons.mozilla.org/firefox/addon/etag-stoppa/)
 - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Alternative to Firefox first party isolation.
 
-All other extensions **do not** any benefit over the integrated Browser "privacy" mechanism e.g. Cookie cleaners, they are mostly just crippled/limitated GUI based toogles for what the Browser already does (with some user effort).
+All other extensions **do not** adding any benefit over the integrated Browser "privacy" mechanism e.g. Cookie cleaners, they are mostly just crippled or limitated GUI based toogles for what the Browser already does (with some user effort).
 
 **[`^        back to top        ^`](#)**
 
