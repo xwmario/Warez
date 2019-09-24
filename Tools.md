@@ -1,10 +1,23 @@
-## Android Reversing Tools
+## Android Reverse Engineering Tools
+- [androidre](http://anonym.es/?https://github.com/cryptax/androidre) - Reverse engineering Android.
+- [apkstudio](http://anonym.es/?https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+- [Android MultiTool](http://anonym.es/?https://forum.xda-developers.com/showthread.php?t=2326604) - Decompile/recompile and sign applications + jar framework files.
 - [APKtool](http://anonym.es/?http://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
 - [Androguard](http://anonym.es/?http://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !).
-- [DroidReverse](http://anonym.es/?http://github.com/Juude/droidReverse) - Reverse engineering tools for Android.
+- [android-decompiler](http://anonym.es/?https://github.com/nextco/android-decompiler) - A hight quality list of tools to reverse engineering code from android.
+- [buildAPKs](http://anonym.es/?https://buildapks.github.io/buildAPKs/) - Recunstruxt APKs.
+- [brut.apktool](http://anonym.es/?https://github.com/brutall/brut.apktool) - A tool for reverse engineering Android apk files.
+- [DecompileApk](http://anonym.es/https://github.com/russell-shizhen/DecompileApk) - Using Apktool and Frida to do reverse engineering on Android Apk.
+- [DroidReverse](http://anonym.es/?http://anonym.es/?http://github.com/Juude/droidReverse) - Reverse engineering tools for Android.
 - [GDA-android-reversing-Tool](http://anonym.es/?http://github.com/charles2gan/GDA-android-reversing-Tool) - GDA is a new decompiler written entirely in c++, so it does not rely on the Java platform, which is succinct, portable and fast, and supports APK, DEX, ODEX, oat.
 - [NinjaDroid](http://anonym.es/?http://github.com/rovellipaolo/NinjaDroid) - Ninja Reverse Engineering on Android APK packages.
 - [ReverseAPK](http://anonym.es/?http://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages.
+- [JADX](http://anonym.es/?https://github.com/skylot/jadx) - GUI (and Command line) to produce Java source code from Android Dex and Apk files.
+- [reverse-android](http://anonym.es/?https://github.com/nelhage/reverse-android) - Reverse-engineering tools for Android applications.
+- [Smali/Baksmali](http://anonym.es/?https://reverseengineering.stackexchange.com/questions/8044/repackaging-apk-file-using-baksmali-and-smali/16514) - Convert binary .dex files to textual .smali classes. Can be used in after unzipping the APK manually.
+- [JEB](http://anonym.es/?https://www.pnfsoftware.com/) - (paid) - Professional tool for reversing android (and many other) applications.
+- [Tampering and Reverse Engineering on Android (Guide + Info + Tool list)](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md) - Provides several background information, tools & info around the decompiling (reversing) process under Android.
+
 
 ## Automated Downloaders
 - [Awesome Uploader](http://anonym.es/?http://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
@@ -109,6 +122,7 @@
 - [Meiga](http://anonym.es/?http://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
 - [NitroShare](http://anonym.es/?http://nitroshare.net/) - Cross-Platform network file transfer application.
 - [OnionShare](http://anonym.es/?http://onionshare.org/) - Securely and anonymously share a file of any size.
+- [Magnetissimo](http://anonym.es/?https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [Plowshare](http://anonym.es/?http://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
 - [PushBullet for desktop](http://anonym.es/?http://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
 - [PushBullet](http://anonym.es/?http://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
@@ -129,12 +143,13 @@
 **[`^        back to top        ^`](#)**
 
 
-## Antivirus alternatives
+## Anti-Virus alternatives
 - [FireJail](http://anonym.es/?http://firejail.wordpress.com/download-2/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 - [FlatPak](http://anonym.es/?http://flatpak.org/getting) - Standalone apps for Linux are here!
 - [KVM](http://anonym.es/?http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
-- [Sandboxie](http://anonym.es/?http://www.sandboxie.com/) - Install and run programs in a virtual sandbox environment without writing to the hard drive.
+- [Sandboxie](http://anonym.es/?http://www.sandboxie.com/) - Install and run programs in a virtual sandbox (software based) environment without writing to the hard drive itself.
 - [Virtualbox](http://anonym.es/?http://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+- [VMWare](http://anonym.es/?https://www.vmware.com/en.html) - (paid) - Closed source, but maybe the most reliable and used program for creating/booting up a virtual machine.
 
 **[`^        back to top        ^`](#)**
 
