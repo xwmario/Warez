@@ -228,7 +228,7 @@
 * watchdl.com
 
 
-## Other reasons (sell-out, under surveillance or ads etc)
+## Other reasons (sell-out, under surveillance or dangerous ads etc)
 * 3456.ws
 * 01torrent.net
 * 1movies.biz
@@ -384,6 +384,32 @@
 * yztv.pw
 * vstcrack.com
 * twoddl.net
+
+## MKVCage clones
+* mkvcage.best
+* mkvcage.bid
+* mkvcage.biz
+* mkvcage.cc
+* mkvcage.co
+* mkvcage.download
+* mkvcage.fun
+* mkvcage.ga
+* mkvcage.icu
+* mkvcage.info
+* mkvcage.link
+* mkvcage.me
+* mkvcage.net
+* mkvcage.online
+* mkvcage.org	
+* mkvcage.site	
+* mkvcage.top
+* mkvcage.tv
+* mkvcage.us
+* mkvcage.ws
+* mkvcage.xyz
+* mkvcage-proxy.tk
+* mkvcagemovie.com
+* mkvcagez.net
 
 ## Faker
 * 2baksa.net
