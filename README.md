@@ -27,7 +27,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 * All other people which helped to push this little project forward.
 * All people which are involved in the piracy & netsec scene or created forums to talk about such topics.
 
-### What **does not** belong on this list? (see also code of conduct)
+### What **does not** belong on this list? (see code of conduct)
 * Illegal programs (cracks, keygens etc.) or direct links to copyright protected material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
@@ -35,7 +35,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 * Insecure programs (no audit- or code-review) or insecure connections e.g. `http://` or `ftp://` links.
 * Why is program _X_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](http://anonym.es/?https://github.com/k9mail/k-9/issues/655).
 * Explicit content.
-* Tor (.onion) links, they are all crippled (not clickable). 
+* Tor (.onion) links, they are all _crippled_ (not clickable in Tor Browser). 
 
 ## How can I contribute to the list?
 * You can [submit a pull request](https://github.com/CHEF-KOCH/Warez/pulls) - after you [read the contributions guidelines](https://github.com/CHEF-KOCH/Warez/blob/master/.github/CONTRIBUTING.md).
@@ -480,7 +480,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [KickAss Torrents](http://anonym.es/?https://katcr.co/) - Community-made reincarnation launched in 2016.
 - [LimeTorrents](http://anonym.es/?https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
 - [Monitor Shodan](http://anonym.es/?https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
-- [MKVCage](http://anonym.es/?https://www.mkvcage.nl/) - Rebooted MKVCage website. 
+- [MKVCage](http://anonym.es/?https://www.mkvcage.nl/) - (warning) - Rebooted (unofficial) MKVCage website. It's not in any relationship with the original _project_.
 - [Movcr](http://anonym.es/?https://movcr.tv/) - Download Movies Torrent Online Free.
 - [OTorrents](http://anonym.es/?https://otorrents.com/) - Yet another public torrent tracker.
 - [Pirateiro](http://anonym.es/?https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
@@ -493,7 +493,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [The Pirate Bay](http://anonym.es/?https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!)
 - [The Proxy Bay](http://anonym.es/?https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](http://anonym.es/?https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
-- [Torlock](http://anonym.es/?https://www.torlock.com/) - Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [Torrent9](http://anonym.es/?https://www.torrent9.ph/) - French torrent search engine.
 - [TorrentFunk](http://anonym.es/?https://www.torrentfunk.com/) - TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [TorrentGalaxy](http://anonym.es/?https://torrentgalaxy.org/) - Public tracker with a clean UI.
