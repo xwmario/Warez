@@ -65,6 +65,7 @@
 - [Burlesco](http://anonym.es/?https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls](http://anonym.es/?https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
 - [Bypass Paywalls for Chrome](http://anonym.es/?https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass New York Times among many other paywalls.
+- [Via Firefox Containers](http://anonym.es/?https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - (works on some websites) Install the extension, right click on the link, then click "Reopen in Container" from there choose e.g. "Work".
 - [Outline](http://anonym.es/?https://outline.com/) - Outline is a free service for reading and annotating news articles.
 - [Unpaywall](http://anonym.es/?https://unpaywall.org/) - An open database of 20 million free scholarly articles.
 
@@ -130,13 +131,13 @@
 
 ## MagisK Modules
 
-**Important**: There are lots of misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. "hardening" your OS or parts of your apps in order to make them more "secure" or "private". This is wrong, as explained over [here](http://anonym.es/?https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official servers). Please keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps which are regularily getting audited e.g. Threema, Silence etc. The modules which are listed here are "helpful" in a sense that they "add" xyz (missing) function to the OS and not meant to secure/hardening something. 
+**Important**: There are lots of misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. "hardening" your OS or parts of your apps in order to make them more "secure" or "private". This is wrong, as explained over [here](http://anonym.es/?https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official repositories). Please keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps which are regularily getting audited e.g. Threema, Riot etc. The modules which are listed here are "helpful" in a sense that they "add" xyz (missing) function to the OS itself and not meant to secure/hardening something. 
 
-That been said, there are no apps listed which altering your HOSTS file or apps which claim to somehow "optimize" your battery life. For ad-blocking use AdGuard/Blokada on Android (it's better than messing with the HOSTS file) and (in general) use as less as possible on apps/modules resources compared to other solutions. 
+That been said, there are no apps listed which altering your HOSTS file or apps which claim to somehow "optimize" your battery life. For ad-blocking use AdGuard/Blokada on Android (it's better than messing around with your HOSTS file) and (in general) use as less as possible on apps/modules resources compared to other solutions. 
 
 
 There is a universal rule for Android: 
-* More apps -> more background processes/traffic (startups etc) + cpu cycles consumption = more battery drain (it's really that simple). 
+* More apps -> more background processes/traffic (startups etc.) + cpu cycles consumption = more battery drain, it's really that simple!. 
 
 - [Systemless TZData](http://anonym.es/?https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Update your ROM's TZData systemlessly.
 - [DNSCrypt Proxy 2 for Android](http://anonym.es/?https://github.com/Magisk-Modules-Repo/dnscrypt-proxy) - A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2.
@@ -174,3 +175,10 @@ There is a universal rule for Android:
 - [List of Xposed Modules For Android Pie Working With Ed Xposed](http://anonym.es/?https://forum.xda-developers.com/xposed/list-xposed-modules-android-pie-ed-t3892768)
 
 **[`^        back to top        ^`](#)**
+
+
+## Unblock Warez Websites
+- [Unblocked](http://anonym.es/?https://unblocked.mx/) - A service which links to official mirror websites or proxy your fav. warez website in case it was GeoIP blocked.
+
+**[`^        back to top        ^`](#)**
+
