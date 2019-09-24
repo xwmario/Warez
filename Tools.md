@@ -78,6 +78,12 @@
 **[`^        back to top        ^`](#)**
 
 
+### Manga Automation
+- [The Free Manga Downloader (FMD)](http://anonym.es/?https://github.com/riderkick/FMD) - The Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
+- [n1mo/manga](http://anonym.es/?https://github.com/n1mo/manga) - A open source mangareader.net downloader written in python.
+- [mangadex-dl](http://anonym.es/?https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org.
+
+
 ### Subtitles Automation
 - [Bazarr](http://anonym.es/?http://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
 - [HorribleSubs Bulkd Download](http://anonym.es/?http://anonembed.xyz/horriblesubs/) - 9anime bulk subs download website.
