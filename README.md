@@ -1073,21 +1073,15 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-### Stremio Addons
-- [Juan Carlos Torrents](http://anonym.es/?https://jct.best4stremio.space/stremio/v1) - Allows streaming from torrents collected from KAT.cr and others.
-- [Open Directories addon](http://anonym.es/?https://www.reddit.com/r/opendirectories/comments/9n8ig8/stremio_open_directories/) - Finds HTTP streams for movies/shows from open directories.
-- [PirateBay addon](http://anonym.es/?https://piratebay-stremio-addon.herokuapp.com/stremio/v1) - Fetch PirateBay entries on a single episode or series.
-- [Popcorn Time addon](http://anonym.es/?https://pct.best4stremio.space/stremioget/stremio/v1) - Watch from YTS and EZTV in Stremio
-- [RAR addon](http://anonym.es/?https://rarbg.best4stremio.space/stremio/v1) - Watch content from RARBG in Stremio.
-- [Zooqle addon](http://anonym.es/?https://stremio-zooqle.now.sh/stremio/v1) - Watch movies and series indexed by Zooqle from RARBG, KAT, YTS, MegaTorrents and other torrent trackers.
-- [/r/plexshares](http://anonym.es/?https://www.reddit.com/r/plexshares/) - A nice place to find Plex Media Server shares.
-- [BaconFeet](http://anonym.es/?https://baconfeet.com/) - "Bringing a difference in streaming to the masses...".
-- [CDRomance](http://anonym.es/?https://cdromance.com/) - PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
-- [Elysium](http://anonym.es/?https://elysium.to/) - Plex media streaming service.
-- [MediaButler](http://anonym.es/?https://github.com/physk/MediaButler) - Discord bot for use with PleX and several other apps that work with it.
-- [Mellow](http://anonym.es/?https://github.com/v0idp/Mellow/) - Discord Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming.
-- [plexrequests-meteor](http://anonym.es/?https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
-- [Steamless](http://anonym.es/?https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM packed files. Steamless aims to support as many games as possible.
+### Stremio
+
+- [r/StremioAddons](http://anonym.es/?https://www.reddit.com/r/StremioAddons/) - Discussion and links on reddit to unofficial add-ons for Stremio.
+- [A complete curated list of all working Stremio Add-ons provided (via Reddit)](http://anonym.es/?https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
+- [PimpMyStremio](http://anonym.es/?https://github.com/sungshon/PimpMyStremio) - A local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio.
+- [RAR addon](http://anonym.es/?https://rarbg.best4stremio.space/stremio/v1) - Watch content from RARBG in Stremio
+- [Stremio - Watch together with friends](http://anonym.es/?https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) - A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync.
+- [Stremio - Phone Remote](http://anonym.es/?https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) - A short guide explaining how to control Stremio with your phone.
+- [Stremio Catalog Builder](http://anonym.es/?https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) - A small ebsite that allows users to customize catalogs in Stremio.
 
 **[`^        back to top        ^`](#)**
 
