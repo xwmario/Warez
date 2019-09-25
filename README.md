@@ -1519,11 +1519,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-### Windows Activation
-- [PIDChecker](http://anonym.es/?https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product Keys.
+### Windows Activation & tests
+- [PIDChecker](http://anonym.es/?https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product keys.
+- [HWIDGEN](https://old.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods.
 - [KMS Activator](http://anonym.es/?https://github.com/CHEF-KOCH/KMS-activator) - The original open source repo for KMS related activation & research.
 - [KMS Server Emulator written in Python](https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
-- [Windows 10 Digital License](http://anonym.es/?https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) - An open-source script which activates WIndows. 
+- [W10-Digital-License-Activation-Script-4](https://github.com/trungx/W10-Digital-License-Activation-Script-4) - Activate the Windows 10 permanently with digital License.
 
 **[`^        back to top        ^`](#)**
 
