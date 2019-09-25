@@ -28,7 +28,8 @@
 
 ## General Courses & Tutorials
 - [FreeTutorials.eu](http://anonym.es/?https://www.freetutorials.eu/) - Lots of Udemy courses for free. Websites uses adblock detector.
-- [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
+- [GFXDomain.net Tutorials board](http://anonym.es/?http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
+- [Git.ir](http://anonym.es/?https://git.ir) - (IR) - Download courses (e.g. Lynda, Linkedin, Pluralsight, Skillshare, Packtpub, etc) for free.
 - [How To Stream Movies, TV, Anime & Sports Online](http://anonym.es/?https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
 - [How to bypass Mega Quota limit via JDownloader 2](http://anonym.es/?https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
 - [How to Host "Questionable" Websites v4.0](http://anonym.es/?https://weboas.is/media/host.pdf) - PDF from weboas.is
