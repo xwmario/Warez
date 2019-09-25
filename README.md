@@ -2518,3 +2518,14 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Wordpress plugins & themes
 - [Vestathemes](http://anonym.es/?https://www.vestathemes.com/) - Vestathemes is a website for [WordPress](http://anonym.es/?https://www.wordpress.com/) - themes and plugins.
+
+**[`^        back to top        ^`](#)**
+
+
+### "Google Free" Operating Systems (privacy respecting & hardened OS)
+- [GraphenOS](http://anonym.es/?https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
+- [LineageOS](http://anonym.es/?https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) can be optionally installed.
+- [The /e/](http://anonym.es/?https://e.foundation/e-pre-installed-smartphones/) - Lineage OS fork with Android Open Source Project (AOSP) features integrated.
+
+**[`^        back to top        ^`](#)**
+
