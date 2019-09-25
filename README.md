@@ -1894,14 +1894,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-### XPosed & Magisk
-- [Magisk](http://anonym.es/?https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) - Root & Universal Systemless Interface.
-- [Systemless Xposed For SDK 27 (Android 8.1)](http://anonym.es/?https://github.com/Magisk-Modules-Repo/xposed_27) - Magisk Xposed version (needs Magsik).
-- [VirtualXposed](http://anonym.es/?https://virtualxposed.com/) - Xposed version for non-rooted devices.
-
-**[`^        back to top        ^`](#)**
-
-
 ### Android License Verification Patcher
 - [LuckyPatcher](http://anonym.es/?https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
 - [Jasi Patcher (also known as Uret Patcher)](http://anonym.es/?https://jaspreetsingh.store/jasi-patcher/) + [[ToolKit](http://anonym.es/?https://jaspreetsingh.store/index.php/jasi-toolkit/)] - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
@@ -2005,6 +1997,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Xtreme Wrestling Torrents (XWT)](http://anonym.es/?http://www.xtremewrestlingtorrents.net/signup.php) - (insecure) - (needs signup)
 
 **[`^        back to top        ^`](#)**
+
 
 ### 720p Streaming
 - [123GoMovies](http://anonym.es/?https://123gomovies.net/)
@@ -2116,10 +2109,12 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Discord Client alternatives (without logging/telemetry)
+
+## Discord alternatives (without logging/telemetry)
 - [Ripcord](http://anonym.es/?https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
 
 **[`^        back to top        ^`](#)**
+
 
 ## Discord Servers
 - [/f/MEGAlinks (Snahp)](http://anonym.es/?https://discordapp.com/invite/xk7HEE3) - Official /f/MEGAlinks Discord server.
@@ -2166,6 +2161,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ### Acestreams
 - [aceproxy](http://anonym.es/?https://github.com/ValdikSS/aceproxy) - Ace Stream HTTP Proxy. (abandonware)
 - [acestream.org](http://acestream.org/) - (insecure) - Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
@@ -2175,6 +2171,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ## IRC
 - [autodl-irssi](http://anonym.es/?https://autodl-community.github.io/autodl-irssi/) - autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) - (insecure) - XDCC Downloading For Beginners: Do It Like A Pro!
@@ -2182,6 +2179,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [ZNC](http://anonym.es/?https://github.com/znc/znc) - An advanced IRC bouncer.
 
 **[`^        back to top        ^`](#)**
+
 
 ### IRC Networks
 - _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` - One more XDCC source.
@@ -2196,6 +2194,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ### IRC Search Engines
 - [ixIRC](http://anonym.es/?https://ixirc.com/) - ixIRC lets you search through 17 IRC networks, 32 channels, and over 189915 user supplied XDCC packs.
 - [SunXDCC](http://sunxdcc.com/) - (insecure) - Another XDCC file search engine
@@ -2203,6 +2202,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [xWeasel](http://xweasel.org) -  (insecure) - xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
 
 **[`^        back to top        ^`](#)**
+
 
 ## DC++
 - [AirDC++](http://anonym.es/?https://www.airdcpp.net/) - Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
@@ -2215,6 +2215,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Tankafett](http://tankafett.biz/?do=hublist) - (insecure) - List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Full Movies On
 - [/r/1080pMoviesOnline](http://anonym.es/?https://www.reddit.com/r/1080pMoviesOnline)
@@ -2234,6 +2235,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ## Full TV Shows On
 - [/r/freefolk](http://anonym.es/?https://www.reddit.com/r/freefolk) - Streams for new episodes of Game of Thrones.
 - [/r/ProshotMusicals](http://anonym.es/?https://www.reddit.com/r/ProShotMusicals) - Subreddit for all those theatre obsessed people who want proshots instead of bootlegs to be seen.
@@ -2244,6 +2246,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [TheTrove](http://anonym.es/?https://thetrove.net/) - The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Content Discovery
 - [2160p BluRay Remux List](http://anonym.es/?https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit#gid=1007191598) - Complete list of all available 2160p remuxes.
@@ -2264,6 +2267,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ## HTCP
 - [Anonmasky](http://anonym.es/?https://github.com/Anonmasky/anonmasky.github.io) - Anonmasky is a beautiful startpage for geeks out there. Clone of weboas.is.
 - [Heimdall](http://anonym.es/?https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
@@ -2276,6 +2280,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [weboas.is](http://weboas.is/) - (insecure) - Another website for pirates.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Unblock blocked Websites
 - [AvoidCensorship](http://anonym.es/?https://avoidcensorship.org/) - Unblock ThePirateBay (TPB).
@@ -2372,17 +2377,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
-## Detecting Fake Torrents
+## Fake Torrents Detection
 - [Hide Fake Torrent on ThePirateBay](http://anonym.es/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
 - [Solid Torrents](http://anonym.es/?https://solidtorrents.net/) - A torrent index search engine, which checks if the torrent has known "fake" seeders/leechers based on a predefined database.
 - [The Pirate Bay Tweaks](http://anonym.es/?https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) (based on [this script](http://anonym.es/?https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
-
-**[`^        back to top        ^`](#)**
-
-## YouTube alternatives
-- [DTube](http://anonym.es/?https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
-- [Minds](http://anonym.es/?https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
-- [PeerTube](http://anonym.es/?https://joinpeertube.org/en/) - A decentralized video hosting network, based on free/libre software.
 
 **[`^        back to top        ^`](#)**
 
@@ -2522,10 +2520,90 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-### "Google Free" Operating Systems (privacy respecting & hardened OS)
+## Google product & services alternatives
+
+### Android: "Google Free" systems - privacy respecting & hardened OS
 - [GraphenOS](http://anonym.es/?https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
 - [LineageOS](http://anonym.es/?https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) can be optionally installed.
+- [Replicaant](http://anonym.es/?hhttps://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
 - [The /e/](http://anonym.es/?https://e.foundation/e-pre-installed-smartphones/) - Lineage OS fork with Android Open Source Project (AOSP) features integrated.
+
+
+### Google Translate alternatives
+- [DeepL](http://anonym.es/?hhttps://www.deepl.com/) - A privacy friendly alternative to Google's translation engine.
+- [PROMPT Online](http://anonym.es/?https://www.online-translator.com/) - Pretty new service, but aims to provide a privacy friendly translation engine. 
+
+
+### Google reCAPTCHA alternatives
+- [TextCaptcha](http://anonym.es/?http://textcaptcha.com/) - A privacy respecting reCAPTCHA alternative. 
+- [SecureImage](http://anonym.es/?https://www.phpcaptcha.org/) - Yet another alternative to Google's reCAPTCHA system which is open source. 
+
+
+### YouTube alternatives
+- [DTube](http://anonym.es/?https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
+- [Minds](http://anonym.es/?https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
+- [INVIDIOUS](http://anonym.es/?https://invidio.us/) - Open source alternative to YouTube. 
+- [PeerTube](http://anonym.es/?https://joinpeertube.org/en/) - A decentralized video hosting network, based on free/libre software.
+
+
+### Google Search alternatives
+- [StartPage](http://anonym.es/?https://www.startpage.com/) - StartPage is one of the best search engine replacements for Google.
+- [SearX](http://anonym.es/?https://github.com/asciimoo/searx/wiki/Searx-instances) - Open Source based search engine.
+- [MetaGer](http://anonym.es/?https://metager.de/) - Search engine made in Germany.
+
+
+### Google Hangouts alternatives
+- [NextCloudTalk](http://anonym.es/?https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
+- [Jitsi](http://anonym.es/?https://jitsi.org/) - Decrentralized chat, eMail platform. 
+
+
+### Google Analytics
+- [Mamoto](http://anonym.es/?https://matomo.org/) - Open source alternative to Google's Analytics.
+- [Open Web Analytics](http://anonym.es/?http://www.openwebanalytics.com/) - Yet another open alternative to Google's analytics.
+- [Go Access](http://anonym.es/?https://goaccess.io/) - Yet another open source alternative. 
+
+
+### Google GMail
+- [Dismail](http://anonym.es/?hhttps://dismail.de/) - Dismail provides a reliable eMail service wich is cheap.
+- [mailbox.org](http://anonym.es/?https://mailbox.org/) - First of his kind, fully transparent eMail provider.
+- [Posteo](http://anonym.es/?https://posteo.de/) - A german eMail service which offers a transparent eMail service.
+
+
+### Google Docs + Sheets + Slides
+- [Collabora + Nextcloud](http://anonym.es/?https://nextcloud.com/collaboraonline/) - A self-hosted Google Docs alternative.
+- [Framacalc](http://anonym.es/?https://accueil.framacalc.org/en/) - Pretty new, but does it's job Sheets alternative.
+- [EtherPad](http://anonym.es/?https://etherpad.org/) - Fully open source and reliable, provides many services e.g. [EtherCalc](http://anonym.es/?https://ethercalc.net/)
+
+
+### Google Calendar
+- [Radicale](http://anonym.es/?https://radicale.org/) - Open source alternative to Google's Calendar. 
+- [Baikal](http://anonym.es/?https://github.com/sabre-io/Baikal) - Similar like Posteo, open source and provides calendar functions.
+
+
+#### Google Maps
+- [Maps Metagear](http://anonym.es/?https://maps.metager.de/) - MetaGear also offers a maps service. Fully transparent and foss.
+- [OpenStreetMap](http://anonym.es/?https://www.openstreetmap.org/) - One of the biggest and well-known maps provider, maintained by a large community. 
+- [OSMAnd](http://anonym.es/?https://osmand.net/) - For Android, iOS and basically all platforms. Provides free maps maintained by the community. 
+- [Maps](http://anonym.es/?https://f-droid.org/packages/com.github.axet.maps/) - An Android app, which is open source and maintained by the community.
+
+
+### Google (Web)Fonts
+- [Google WebFont Helper](http://anonym.es/?https://google-webfonts-helper.herokuapp.com/fonts) - Allows you to download Google fonts, which then could be integrated via CSS into your website.
+- [Font Squirrel](http://anonym.es/?https://www.fontsquirrel.com/) - Yet another alternative, fully transparent to integrate webfonts into your website.
+
+
+### Google Play Store
+- [F-Droid](http://anonym.es/?https://f-droid.org/) - F-Droid is a open source alternative to Google's Play Store.
+- [Aurora Store](http://anonym.es/?https://f-droid.org/en/packages/com.aurora.store/) - Allows you the usage of Google Play Store but without lossing your privacy!
+- [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - Similar like Aurora Store, both apps are foss. 
+
+
+### Google Earth
+- [ArcGIS](https://www.arcgis.com/home/webmap/viewer.html) - A privacy friendly alternative to Google's Eath Service.
+
+
+### Google Home
+- [Projekt Leon-AI](https://github.com/leon-ai/leon) - A good alternative to Google's Home service. 
 
 **[`^        back to top        ^`](#)**
 
