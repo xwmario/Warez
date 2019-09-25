@@ -1521,7 +1521,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### Windows Activation
 - [PIDChecker](http://anonym.es/?https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product Keys.
-- [KMS Activator](http://anonym.es/?https://github.com/CHEF-KOCH/KMS-activator) - The original repo for KMS related activation & research.
+- [KMS Activator](http://anonym.es/?https://github.com/CHEF-KOCH/KMS-activator) - The original open source repo for KMS related activation & research.
+- [KMS Server Emulator written in Python](https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
 - [Windows 10 Digital License](http://anonym.es/?https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) - An open-source script which activates WIndows. 
 
 **[`^        back to top        ^`](#)**
