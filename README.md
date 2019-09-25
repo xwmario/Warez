@@ -1521,10 +1521,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### Windows Activation & tests
 - [PIDChecker](http://anonym.es/?https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product keys.
-- [HWIDGEN](https://old.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods.
+- [HWIDGEN](http://anonym.es/?https://old.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods.
 - [KMS Activator](http://anonym.es/?https://github.com/CHEF-KOCH/KMS-activator) - The original open source repo for KMS related activation & research.
-- [KMS Server Emulator written in Python](https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
-- [W10-Digital-License-Activation-Script-4](https://github.com/trungx/W10-Digital-License-Activation-Script-4) - Activate the Windows 10 permanently with digital License.
+- [KMS Server Emulator written in Python](http://anonym.es/?https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
+- [W10-Digital-License-Activation-Script-4](http://anonym.es/?https://github.com/trungx/W10-Digital-License-Activation-Script-4) - Activate the Windows 10 permanently with digital License.
 
 **[`^        back to top        ^`](#)**
 
@@ -1904,7 +1904,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [MMA Versus](http://anonym.es/?https://mmaversus.com/)
 - [More Live Sports Sites](http://anonym.es/?https://www.tipsformobile.com/top10-free-sports-streaming-websites-to-watch-sports-online/)
 - [ProjectFreeTV](http://anonym.es/?https://www8.project-free-tv.ag/)
-- [Siptveu](http://anonym.es/?https://siptveu.com) 
+- [Pro Wrestling Torrents](http://anonym.es/?https://pwtorrents.net/) - (needs signup)
+- [Siptveu](http://anonym.es/?https://siptveu.com)
+- [Xtreme Wrestling Torrents (XWT)](http://anonym.es/?http://www.xtremewrestlingtorrents.net/signup.php) - (insecure) - (needs signup)
 
 **[`^        back to top        ^`](#)**
 
@@ -1919,7 +1921,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Fmovies](http://anonym.es/?https://fmovie.info/fmovies.is) + ([Mirror](http://anonym.es/?https://fmovie.info/fmovies.se)) + ([Mirror](http://anonym.es/?https://www6.fmovies.to/))
 - [Flix555](http://anonym.es/?https://flix555.com)
 - [Flixtor](http://anonym.es/?https://flixtor.to/)
-- [Full YouTube Movies](http://anonym.es/?https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) -
+- [Full YouTube Movies](http://anonym.es/?https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html)
 - [GOMovieshub](http://anonym.es/?https://www.gomovieshub.se/)
 - [HackIMDb](http://anonym.es/?https://hackimdb.com/)
 - [HDeuropix](http://anonym.es/?https://hdeuropix.io/)
