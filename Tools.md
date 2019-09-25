@@ -571,12 +571,12 @@
 
 ## Windows Hardening Tools
 - [Hard_Configurator](http://anonym.es/?http://hard-configurator.com/) - GUI to manage Software Restriction Policy (SRP) and harden Windows.
+- [hardentools](http://anonym.es/?https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.
 
 **[`^        back to top        ^`](#)**
 
 
 ## Shell Script Development Tools
-
 * [ansi](http://anonym.es/?http://github.com/fidian/ansi) - ANSI escape codes in pure bash which can change text color, position the cursor, much more...
 * [assert.sh](http://anonym.es/?http://github.com/lehmannro/assert.sh) - Bash unit testing framework.
 * [bashful](http://anonym.es/?http://github.com/plytophogy/bashful) - A collection of libraries to simplify writing Bash scripts.
@@ -710,5 +710,12 @@
 
 ## Firewall Bypassing
 - [Tunna](http://anonym.es/?hhttps://github.com/SECFORCE/Tunna) - Tunna is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
+
+**[`^        back to top        ^`](#)**
+
+
+## File Searching utilities
+- [File Search Utility](http://anonym.es/?https://www.getlazarus.org/apps/filesearch/) - A portable and open source cross platform visual file search tool.
+- [Everything](http://anonym.es/?https://www.voidtools.com/) - Locate files and folders by name on Windows instantly.
 
 **[`^        back to top        ^`](#)**
