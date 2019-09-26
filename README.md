@@ -8,7 +8,7 @@
 
 
 # Warez
-The list is the biggest [Warez](http://anonym.es/?https://en.wikipedia.org/wiki/Warez_scene) overview list on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
+This list is the biggest [Warez](http://anonym.es/?https://en.wikipedia.org/wiki/Warez_scene) overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
 
 ## Disclaimer
 **GitHub and I do not supporting warez (!) - we're also not responsible for external links or their content! If you dislike the information this list provides then please contact the website owner/webmaster/hoster directly and fill a DMCA request.**
@@ -199,6 +199,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Ad-Blocker
 - [An Overview of Ad Blocking Technology](http://anonym.es/?https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad Blocker works.
+- [AdBlock Radio](http://anonym.es/?https://github.com/adblockradio/adblockradio) - Block ads on live radio streams and podcasts. Machine learning meets Shazam! 
 - [AdGuard](http://anonym.es/?https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
 - [Filterlists](http://anonym.es/?https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
 - [uBlock origin](http://anonym.es/?https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
@@ -2529,30 +2530,30 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [The /e/](http://anonym.es/?https://e.foundation/e-pre-installed-smartphones/) - Lineage OS fork with Android Open Source Project (AOSP) features integrated.
 
 
-### Google Translate alternatives
+### Google Translate
 - [DeepL](http://anonym.es/?hhttps://www.deepl.com/) - A privacy friendly alternative to Google's translation engine.
 - [PROMPT Online](http://anonym.es/?https://www.online-translator.com/) - Pretty new service, but aims to provide a privacy friendly translation engine. 
 
 
-### Google reCAPTCHA alternatives
+### Google reCAPTCHA
 - [TextCaptcha](http://anonym.es/?http://textcaptcha.com/) - A privacy respecting reCAPTCHA alternative. 
 - [SecureImage](http://anonym.es/?https://www.phpcaptcha.org/) - Yet another alternative to Google's reCAPTCHA system which is open source. 
 
 
-### YouTube alternatives
+### YouTube
 - [DTube](http://anonym.es/?https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
 - [Minds](http://anonym.es/?https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
 - [INVIDIOUS](http://anonym.es/?https://invidio.us/) - Open source alternative to YouTube. 
 - [PeerTube](http://anonym.es/?https://joinpeertube.org/en/) - A decentralized video hosting network, based on free/libre software.
 
 
-### Google Search alternatives
+### Google Search
 - [StartPage](http://anonym.es/?https://www.startpage.com/) - StartPage is one of the best search engine replacements for Google.
 - [SearX](http://anonym.es/?https://github.com/asciimoo/searx/wiki/Searx-instances) - Open Source based search engine.
 - [MetaGer](http://anonym.es/?https://metager.de/) - Search engine made in Germany.
 
 
-### Google Hangouts alternatives
+### Google Hangouts
 - [NextCloudTalk](http://anonym.es/?https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
 - [Jitsi](http://anonym.es/?https://jitsi.org/) - Decrentralized chat, eMail platform. 
 
