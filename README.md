@@ -575,7 +575,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Instant.io](http://anonym.es/?https://instant.io/) - Streaming file transfer over WebTorrent (torrents on the web).
 - [magnetoo](http://anonym.es/?https://www.magnetoo.io/) - Fancy new in-browser WebTorrent streaming service.
 - [WebTorrent Desktop](http://anonym.es/?https://webtorrent.io/desktop/) - WebTorrent Desktop is for streaming torrents.
-- [βTorrent](http://anonym.es/?https://btorrent.xyz/) - Fully-featured [WebTorrent](http://anonym.es/?https://webtorrent.io/) - browser client written in HTML, JS and CSS
+- [βTorrent](http://anonym.es/?https://btorrent.xyz/) - Fully-featured [WebTorrent](http://anonym.es/?https://webtorrent.io/) - browser client written in HTML, JS and CSS.
 
 **[`^        back to top        ^`](#)**
 
@@ -612,6 +612,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ### Convert Torrent to Direct HTTP Link
 - [BTCloud](http://anonym.es/?https://btcloud.io/) - BTCLoud offer 1 GB of storage space with 1 GB file size limit and 5 torrents stored at a time for its free users.
 - [Filestream.me](http://anonym.es/?https://filestream.me/) - (needs VPN to visit the page) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
@@ -642,6 +643,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ### Tracker Frameworks
 - [Gazelle](http://anonym.es/?https://whatcd.github.io/Gazelle/) - A web framework geared towards private torrent trackers with a focus on music.
 - [meanTorrent](http://anonym.es/?https://github.com/taobataoma/meanTorrent) - A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
@@ -651,6 +653,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [UNIT3D](http://anonym.es/?https://github.com/HDInnovations/UNIT3D) - The Nex-Gen Private Torrent Tracker (Movies/TV Episodes).
 
 **[`^        back to top        ^`](#)**
+
 
 ## Usenet Providers
 - [Eweka News](http://anonym.es/?https://www.eweka.nl/) - Netherlands-based Usenet provider.
@@ -711,7 +714,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-### Portables & Repacks Resources
+### Portables & Repacks
 - [FoxxApp PAF Portables](http://anonym.es/?https://foxxapp-paf.blogspot.com) - Windows Software repacks & portables.
 - [LR Repacks](http://anonym.es/?https://lrepacks.ru/) - (RU) - Yet another Russian portal, for ELCHUPACABRA repacks & more.
 - [PiratedHub](http://anonym.es/?https://piratedhub.com/) - Internation Repack website.
@@ -722,8 +725,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Custom "Google" Search Engines
-- [FileChef](http://filechef.com/) - (insecure) - Get direct download links for almost anything!
-- [Jimmyr](http://www.jimmyr.com/mp3_search.php) - (insecure) - Yet abother Music search engine.
+- [FileChef](http://anonym.es/?http://filechef.com/) - (insecure) - Get direct download links for almost anything!
+- [Jimmyr](http://anonym.es/?http://www.jimmyr.com/mp3_search.php) - (insecure) - Yet abother Music search engine.
 - [lumpySoft.com](http://anonym.es/?https://lumpysoft.com/) - A Google index search with predefined tags.
 - [mattpalm.com/search](http://anonym.es/?https://mattpalm.com/search/) - Get direct download links for almost anything.
 - [Musgle](http://www.musgle.com/) - (insecure) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!
@@ -862,11 +865,11 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Premium Link Hoster
-- [4shared](http://anonym.es/?https://www.4shared.com/)
+- [4shared](http://anonym.es/?https://www.4shared.com/) (_privacy concerns_)
 - [DBREE](http://anonym.es/?https://dbr.ee/)
 - [K!M](http://anonym.es/?https://k.im/) - Might replaces the original Megaupload (_one day_).
 - [Mediafire](http://anonym.es/?https://www.mediafire.com/)
-- [Mega.nz](http://anonym.es/?https://mega.nz/)
+- [Mega.nz](http://anonym.es/?https://mega.nz/) (_privacy concerns_)
 - [OpenLoad](http://anonym.es/?https://openload.co/)
 - [PutLocker](http://anonym.es/?https://www5.putlockertv.to/)
 - [RapidGator](http://anonym.es/?https://rapidgator.net/)
@@ -1084,8 +1087,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### Plex Logging and Metrics
 - [Plex-Data-Collector-For-InfluxDB](http://anonym.es/?https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) - Collects data about your Plex server and sends it to InfluxDB
-- [plexWatch](http://anonym.es/?https://github.com/ljunkie/plexWatch) - Notify and Log watched content on a Plex Media Server
+- [plexWatch](http://anonym.es/?https://github.com/ljunkie/plexWatch) - Notify and Log watched content on a Plex Media Server.
 - [Tautulli](http://anonym.es/?https://tautulli.com/) - Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
+- [/r/PlexACD](http://anonym.es/?https://www.reddit.com/r/PlexACD/) - Discussion about unlimited cloud storage for Plex libraries.
 
 **[`^        back to top        ^`](#)**
 
@@ -1831,12 +1835,14 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## Cloud Storage
-- [/r/PlexACD](http://anonym.es/?https://www.reddit.com/r/PlexACD/) - Discussion about unlimited cloud storage for Plex libraries
 - [Connect Your Plex Server To Your Google Drive](http://anonym.es/?https://bytesized-hosting.com/pages/plexdrive) - This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
+- [Megatools](http://anonym.es/?https://megatools.megous.com/) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [google-drive-ocamlfuse](http://anonym.es/?https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 - [plexdrive](http://anonym.es/?https://github.com/dweidenfeld/plexdrive) - Mounts your Google Drive FUSE filesystem (optimized for media playback)
+- [PlowShare](http://anonym.es/?https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
 - [rclone-gdrive](http://anonym.es/?https://bytesized-hosting.com/pages/rclone-gdrive) - Wiki page on setting up Google Drive with rclone cache and crypt
 - [rclone](http://anonym.es/?https://rclone.org/) - Rsync for cloud storage.
+- [Zippyshare.sh](http://anonym.es/?https://github.com/myspaghetti/zippyshare) - Allows you to bash script download files from ZippyShare.
 
 **[`^        back to top        ^`](#)**
 
