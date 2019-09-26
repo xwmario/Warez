@@ -198,7 +198,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## Ad-Blocker
-- [An Overview of Ad Blocking Technology](http://anonym.es/?https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad Blocker works.
+- [An Overview of Ad Blocking Technology](http://anonym.es/?https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad-Blocker works.
 - [AdBlock Radio](http://anonym.es/?https://github.com/adblockradio/adblockradio) - Block ads on live radio streams and podcasts. Machine learning meets Shazam! 
 - [AdGuard](http://anonym.es/?https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
 - [Filterlists](http://anonym.es/?https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
@@ -262,7 +262,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [1 Gabba.net](http://anonym.es/?https://1gabba.pw) - Drum & Bass, Hardcore & Hardstyle, most downloads via rapidgator.
 - [albumdabster](http://anonym.es/?https://albumdabster.com) - (needs ad-blocker + GeoIP (VPN) block) - Mixtapes & other tapes. 
 - [Bestmusik6](http://anonym.es/?https://bestmusik6.org) - (Tr) - Türkiye music.
-
 - [BestDJmix](http://anonym.es/?https://bestdjmix.com) - (Ger) - (needs ad-blocker) - German Top 100  albums, download mostly via Turbobit. 
 - [Balaton Sound aka per-fect](http://anonym.es/?https://per-fect.nl) - Listen to music on the website or download top 100 playlists.
 - [Mp3va.com](http://anonym.es/?https://www.mp3va.com/browse) - Free Music mostly MP3s.
@@ -282,21 +281,20 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Android Zone](http://anonym.es/?https://android-zone.ws/) - Another place to find premium links for APKs.
 - [APKmb](http://anonym.es/?https://apkmb.com/) - Download paid Apps & Android Games for free.
 - [APKMirror](http://anonym.es/?https://www.apkmirror.com/) - Provides legit mirrors with checksums for various apps.
-- [APKHouse](http://anonym.es/?https://apkhouse.com) - 
+- [APKHouse](http://anonym.es/?https://apkhouse.com) - Provides mirrors for various Android apps incl. games.
 - [ApkPure](http://anonym.es/?https://apkpure.com/) - Another free APK mirror site.
 - [Aptoide](http://anonym.es/?https://www.aptoide.com/) - Share and download cracked/modded and other apk's among mirrors for original untouched apks.
 - [BlackMod](http://anonym.es/?https://blackmod.net/) - Lots of cracked Android games.
 - [iHackedit](http://anonym.es/?https://ihackedit.com/) - Provides Android Apps & Games including Mods.
 - [libre.io](http://anonym.es/?https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
 - [Mobilism Forum](http://anonym.es/?https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
-- [On HAX](http://anonym.es/?https://onhax.me/) - APK mirrors for paid and free applications, the website also provides modded APK's.
 - [RevDl](http://anonym.es/?https://www.revdl.com/) - Direct download site for Android apps & games.
 
 **[`^        back to top        ^`](#)**
 
 
 ## Decentralized Network Projects
-- [Freenet](http://anonym.es/?https://freenetproject.org) - Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) - and chat on forums, without fear of censorship.
+- [Freenet](http://anonym.es/?https://freenetproject.org) - Lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) - and chat on forums, without fear of censorship.
 - [I2P](http://anonym.es/?https://geti2p.net/en/) - I2P is an anonymous overlay network - a network within a network. It's intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 - [Loki](http://anonym.es/?https://loki.network/) - Decentralised network that allows users to transact and communicate privately over the internet.
 - [SILO](http://anonym.es/?https://medium.com/arweave-updates/building-silo-a-truly-private-internet-556c860222ca) - Offers complete privacy across the network (work in progress project in cooperationship with Loki).
@@ -307,11 +305,11 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## Hardened Operating Systems & Resources
-- [Cuckoo](http://anonym.es/?https://github.com/cuckoosandbox/cuckoo) - Open source automated malware analysis system.
 - [Overview of Security-focused operating system on Wikipedia](http://anonym.es/?https://en.wikipedia.org/wiki/Security-focused_operating_system)
+- [Cuckoo](http://anonym.es/?https://github.com/cuckoosandbox/cuckoo) - Open source automated malware analysis system.
 - [Qubes OS](http://anonym.es/?https://www.qubes-os.org/) - Qubes OS is a security-oriented operating system.
 - [SIFT](http://anonym.es/?https://digital-forensics.sans.org/community/downloads) - Forensic workstation made by SANS.
-- [Security related Operating Systems @ Rawsec](http://list.rawsec.ml/operating_systems.html) - (insecure) - Complete list of security related operating systems.
+- [Security related Operating Systems @ Rawsec](http://anonym.es/?hhttp://list.rawsec.ml/operating_systems.html) - (insecure) - Complete list of security related operating systems.
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - (insecure) - Website dedicated to talking about, reviewing, and keeping up to date with open source operating systems.
 - [Tails](http://anonym.es/?https://tails.boum.org/) - Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 
@@ -330,8 +328,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 * Poland
 * Spain
 * Switzerland
+* - [Where are torrents permitted?](http://anonym.es/?https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
 
-**[`^        back to top        ^`](#)**
 
 ### Countries where both downloading & sharing is illegal
 * Argentina
@@ -358,7 +356,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 * South Korea
 * Uruguay
 
-**[`^        back to top        ^`](#)**
 
 ### Countries where torrenting copyright material is highly illegal
 * Australia
@@ -376,7 +373,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 * UK
 * US
 
-**[`^        back to top        ^`](#)**
 
 ### Countries with GeoIP block restrictions
 * Canada
@@ -398,17 +394,17 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-## Pirate News, Blogs & discussion forums
+## Pirate News, Blogs & Discussion Forums
 - [NextWarez](http://anonym.es/?https://nextwarez.com) - (FR) - P2P topics & news page.
 - [Scenenotice.org](http://anonym.es/?https://scenenotice.org) - Archive with over 1 GB of old Realeaser-Scene.
 - [szeneBOX.org](http://anonym.es/?https://www.szenebox.org) - (Ger) - (needs VPN) - Forum & News around the Scene.
 - [Tarnkappe.info](http://anonym.es/?https://tarnkappe.info) - (Ger) - News & Rumours, Blog & Forum.
-- [/f/Piracy](http://anonym.es/?https://raddle.me/f/Piracy) - Raddle forum for piracy.
+- [/f/Piracy](http://anonym.es/?https://raddle.me/f/Piracy) - Alternative to Reddit, Raddle forum.
 - [/r/privacy](http://anonym.es/?https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
 - [TechWorm](http://anonym.es/?https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
 - [TorrentFreak](http://anonym.es/?https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 - [Tunny.to](http://anonym.es/?https://tunny.to) - DDL.to & VUP.to Blog.
-- [/v/piracy](http://anonym.es/?https://voat.co/v/piracy) - Voat Forum for piracy.
+- [/v/piracy](http://anonym.es/?https://voat.co/v/piracy) - Voat Forum for piracy related discussions.
 
 
 ## Torrenting
@@ -421,7 +417,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Torrage](http://anonym.es/?https://torrage.info/) - Torrage is a free service for caching torrent files online.
 - [Torrents.csv](http://anonym.es/?https://torrents-csv.ml/) - An [open source](http://anonym.es/?https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 - [Torznab](http://anonym.es/?https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
-- [Where are torrents permitted?](http://anonym.es/?https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
 - [ZBIGZ](http://anonym.es/?https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
 
 **[`^        back to top        ^`](#)**
@@ -1863,7 +1858,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-## Android - Mobile Apps
+## Android - Mobile App Websites
 - [4PDA.ru](http://anonym.es/?https://4pda.ru/forum/index.php?act=idx) - 4PDA is the biggest Russian forum about mobile devices. You can find endless amount of APKs and Mobile software there. For download registration is required, [this might help you to solve the captchas](http://anonym.es/?https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html).
 - [AiOwares.com](http://anonym.es/?https://www.aiowares.com/) - RePacks, mods and other software.
 - [Android Republic](http://anonym.es/?https://androidrepublic.org/forums/public-mods.24/) - Android Republic is similar to Mobilism, provides mirrors to various apks.
@@ -1893,6 +1888,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [YMusic](http://anonym.es/?https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - YouTube Music Player & Downloader
 
 **[`^        back to top        ^`](#)**
+
+
+## Android calling apps
+- [dPhone](http://anonym.es/?https://dphone.app/) - Claims to be the most secure calling app. 
 
 
 ### Android License Verification Patcher
@@ -2527,7 +2526,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [GraphenOS](http://anonym.es/?https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
 - [LineageOS](http://anonym.es/?https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) can be optionally installed.
 - [Replicaant](http://anonym.es/?hhttps://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
-- [The /e/](http://anonym.es/?https://e.foundation/e-pre-installed-smartphones/) - Lineage OS fork with Android Open Source Project (AOSP) features integrated.
+- [The /e/](http://anonym.es/?https://e.foundation/e-pre-installed-smartphones/) - Lineage OS fork with Android Open Source Project (AOSP) features integrated for Samsung phones.
 
 
 ### Google Translate
