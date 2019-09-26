@@ -262,7 +262,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [1 Gabba.net](http://anonym.es/?https://1gabba.pw) - Drum & Bass, Hardcore & Hardstyle, most downloads via rapidgator.
 - [albumdabster](http://anonym.es/?https://albumdabster.com) - (needs ad-blocker + GeoIP (VPN) block) - Mixtapes & other tapes. 
 - [Bestmusik6](http://anonym.es/?https://bestmusik6.org) - (Tr) - Türkiye music.
-- [BestDJmix](http://anonym.es/?https://bestdjmix.com) - (Ger) - (needs ad-blocker) - German Top 100  albums, download mostly via Turbobit. 
+- [BestDJmix](http://anonym.es/?https://bestdjmix.com) - (Ger) - (needs ad-blocker) - German Top 100  albums, download mostly via Turbobit.
+- [Livingelectro](http://anonym.es/?http://www.livingelectro.com/) - (insecure) - Provides techno & remixes.
+- [Losssless-music.org](http://anonym.es/?https://lossless-music.org/) - Lossless music for everyone!
 - [Balaton Sound aka per-fect](http://anonym.es/?https://per-fect.nl) - Listen to music on the website or download top 100 playlists.
 - [Mp3va.com](http://anonym.es/?https://www.mp3va.com/browse) - Free Music mostly MP3s.
 - [My Free MP3](http://anonym.es/?https://my-free-mp3.net) - Search engine for MP3s, stream & download is possible.
@@ -270,7 +272,14 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [RockBox](http://anonym.es/?https://rawkbawx.rocks/) - A Metal music tracker.
 - [Plixid](http://anonym.es/?https://plixid.com) - Seems to work together with NovaFile, own Facebook page and lots of music.
 - [trapadan](http://anonym.es/?https://www.trapadan.com) - (needs ad-blocker) - Various music.
+- [LeakedAlbums](http://anonym.es/?https://leakedalbums.org/) - New album releases.
+- [Alexdang](http://anonym.es/?https://alexdang.info/) - MP3 & lossless music.
+- [mp3ogg](http://anonym.es/?https://mp3ogg.ru/) - (GeoIP check) - (RU) - Russian music, Electronic, Pop, Rock, Metal, Jazz & Charts you name it!
+- [Clubbers](http://anonym.es/?https://clubbers.pl/) - (PL) - Various music.
+- [NewAlbumReleases](http://anonym.es/?hhttps://newalbumreleases.net/) - A big place for music, various artists and genre.
 - [tut-audio](http://anonym.es/?https://tut-audio.ru) - (RU) - A popular russian website to get MP3 files.
+- [MinimalFreaks](http://anonym.es/?https://minimalfreaks.pw/) - As the website url tells, Minimal Music.
+- [Xoamoelmosh Blogspot](http://anonym.es/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc. 
 
 **[`^        back to top        ^`](#)**
 
@@ -484,6 +493,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [1337x](http://anonym.es/?https://1337x.to/) - 1337x is a torrent site that offers verified torrent downloads.
 - [BTDB](http://anonym.es/?https://btdb.to/) - Large BitTorrent DHT search engine.
 - [CGPeers](http://anonym.es/?https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
+- [dlb.to](http://anonym.es/?https://dlb.to/) - Indixer for various Warez websites and material.
 - [DIGBT](http://anonym.es/?https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
 - [ETTV](http://anonym.es/?https://www.ettv.tv/) + [EZTV](http://anonym.es/?https://eztv.ag/) - ETTV is a torrent site specific for movie torrents.
 - [g4u](http://anonym.es/?https://g4u.me/) - (Ger) - Movies, TV Shows & Games.
@@ -540,7 +550,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Cardigann](http://anonym.es/?https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage, and other media managers.
 - [CouchPotatoServer](http://anonym.es/?https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents.
 - [Jackett](http://anonym.es/?https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers, it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, DuckieTV, qBittorrent, etc) - into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software.
-- [NewzLeech](http://anonym.es/?https://www.newzleech.com/) - Newzleech is a Usenet file search engine.
 - [nzbhydra2](http://anonym.es/?https://github.com/theotherp/nzbhydra2/) - Primarily a Usenet meta search engine but also supports Torznab.
 - [Radarr](http://anonym.es/?https://github.com/Radarr/Radarr) - (make sure you [turn click-tracking off](http://anonym.es/?https://i.imgur.com/QpP1M6Q.png)) - A fork of Sonarr to work with movies à la Couchpotato.
 - [SickRage](http://anonym.es/?https://git.sickrage.ca/SiCKRAGE/sickrage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
@@ -710,6 +719,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [NZBFriends](http://anonym.es/?https://nzbfriends.com) - One of the oldest indexers, sadly the results are often outdated too.
 - [NZBKing](http://nzbking.com/) - (insecure) - The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 - [Usenet Crawler](http://anonym.es/?https://usenet-crawler.com/) - Usenet indexer with API access for registered users.
+- [NewzLeech](http://anonym.es/?https://www.newzleech.com/) - Newzleech is a Usenet file search engine.
 
 **[`^        back to top        ^`](#)**
 
@@ -787,6 +797,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Byte.to](http://anonym.es/?https://byte.to/) - (GER) - Movies (SD/HD/UHD), Docus, WWE & Series.
 - [DDL-Warez](http://anonym.es/?https://ddl-warez.to/) - (GER) - German software, movies & tv board.
 - [DDLValley](http://anonym.es/?https://www.ddlvalley.me/) - DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
+- [DownloadBoerse.io](http://anonym.es/?http://downloadboerse.io/forum/) - (Ger) - German mygully clone.
 - [DeeJayPirate's Pastebin](http://anonym.es/?https://pastebin.com/u/DeeJayPirate) - Pastebin user who uploads premium links for TV shows
 - [DirtyWarez Forum](http://anonym.es/?https://forum.dirtywarez.com/) - (EN-US) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
 - [DL4All](http://dl4all.org/) - (insecure) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
@@ -1246,6 +1257,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [MEga.nz](http://anonym.es/?https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection
 - [Mega.nz](http://anonym.es/?https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console
 - [ziperto.com](http://anonym.es/?https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - 3DS CIA collection.
+- [3DS-Paradise](http://anonym.es/?https://3ds-paradise.com/) - (FR) - One of the biggest 3DS forums in france. 
 
 **[`^        back to top        ^`](#)**
 
@@ -1703,6 +1715,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Magazines
 - [ebook3000.com](http://anonym.es/?http://ebook3000.com/) - (insecure) - Various magazines.
+- [FlipHTML5](http://anonym.es/?http://fliphtml5.com/explore) - (insecure) - International magazines.
 - [MagazineLib](http://anonym.es/?https://magazinelib.com/) - Free PDF and interactive e-magazines.
 - [magazinesdownload.org](http://anonym.es/?https://magazinesdownload.org/) - Magazines hosted on free, fast, file hosting sites.
 - [PDF Giant](http://pdf-giant.com/) - (insecure) - Various categories of downloadable PDFs.
@@ -1745,8 +1758,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [AAXtoMP3](http://anonym.es/?https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
 - [AudioBook Bay](http://audiobookbay.nl/) - (insecure) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
 - [AudioBooks.Cloud](http://anonym.es/?https://audiobooks.cloud/) - DDL links to a lot of audiobooks.
-- [Booksonic](http://booksonic.org/) - Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
-- [The-Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) - (insecure) - Audiobooks hosted by "The Eye".
+- [Booksonic](http://anonym.es/?http://booksonic.org/) - Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
+- [The-Eye /public/AudioBooks](http://anonym.es/?http://the-eye.eu/public/AudioBooks/) - (insecure) - Audiobooks hosted by "The Eye".
+- [Hoerspiele](https://www.hoerspiele.cc/) - (Ger) - A big german website which provides Audiobooks via sharehosters.
 - [Tokybook](http://anonym.es/?https://tokybook.com/) - Yet another free audiobook streaming site.
 - [BookFI](http://anonym.es/?http://en.bookfi.net/) - (insecure) - The largest ebook library.
 - [Ebooks Shares](http://ebooks-shares.org) - (insecure) - A lot of eBooks & audiobooks!
@@ -1789,7 +1803,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Documentaries
 - [/r/Documentaries](http://anonym.es/?https://www.reddit.com/r/documentaries) - Popular documentaries subreddit.
-- [DocuWiki-net](http://docuwiki.net/index.php?title=Main_Page) - (insecure) - DocuWiki.net serves as an index of documentary films on the Edonkey Network.
+- [DocuWiki-net](http://anonym.es/?http://docuwiki.net/index.php?title=Main_Page) - (insecure) - DocuWiki.net serves as an index of documentary films on the Edonkey Network.
+- [Documentary](http://anonym.es/?http://documentary.su/) - (insecure) - International board for audiobooks & documentaries. 
 - [MVGroup](http://forums.mvgroup.org/) - (insecure) - A forum which shares documentaries via P2P.
 - [whatwhat888 big list of documentary sites (streaming and download)](http://anonym.es/?https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) - An old post by /u/whatwhat888 that may still be useful.
 
@@ -1979,6 +1994,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### Navigation Software
 - [China Rns](http://anonym.es/?https://www.china-rns.com/forum) - (Ger/EN) - German/English forum around navigation software & updates.
+- [Nachtfalke](https://www.nachtfalke.biz/index.php) - (Ger/EN) - Another big forum to discuss navigation software related stuff.
 - [Digital Eliteboard](http://anonym.es/?https://www.digital-eliteboard.com/forums) - (Ger) - Help forum around various topics and provides some tutorials.
 
 **[`^        back to top        ^`](#)**
