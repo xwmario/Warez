@@ -259,7 +259,8 @@
 
 **[`^        back to top        ^`](#)**
 
-## YouTube Downloader
+
+## YouTube Downloader (tools/websites)
 - [QDownloader.net](http://anonym.es/?http://qdownloader.net/youtube-video-downloader) - Download videos from YouTube in MP4, FLV, 3GP, and other formats.
 - [Sconverter.com](http://anonym.es/?http://sconverter.com/) - Online Youtube Video Downloader.
 - [YouTubeNow.com](http://anonym.es/?http://www.youtubnow.com/) - Claims to be the best online YouTube downloader 2019.
@@ -267,6 +268,9 @@
 - [y2mate.com](http://anonym.es/?http://y2mate.com/) - Download Video and Audio from YouTube.
 - [youtube-dl](http://anonym.es/?http://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 
+
+### YouTube channel blocker
+- [YouTube Cleaner](http://anonym.es/?https://addons.mozilla.org/firefox/addon/youtube-cleaner/) - (Firefox) - YouTube cleaner offers the ability to block specific user defined channels.
 
 **[`^        back to top        ^`](#)**
 
@@ -277,9 +281,8 @@
 - [Tornado](http://anonym.es/?http://tornado-torrent.gitlab.io/posts/first-beta/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 - [qBittorrent](http://anonym.es/?http://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 
-**[`^        back to top        ^`](#)**
 
-### Torrent Plugins for e.g. for Deluge or qB
+### Torrent Plugins (e.g. Deluge or qB)
 - [Auto removing of deluge torrents](http://anonym.es/?http://github.com/omaralvarez/deluge-autoremoveplus) - Auto removal of deluge torrents after they are finished.
 - [deluge-ltConfig](http://anonym.es/?http://github.com/ratanakvlun/deluge-ltconfig/releases) - ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
 - [Deluge Plugins Overview](http://anonym.es/?http://dev.deluge-torrent.org/wiki/Plugins) - An official list of third-party plugins for Deluge.
@@ -288,6 +291,7 @@
 - [rutorrent-all-seeders](http://anonym.es/?http://github.com/AkdM/rutorrent-all-seeders) - This ruTorrent plugin adds the columns 'All Seeders' the torrents list.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Usenet Clients
 - [Newsbin](http://anonym.es/?http://newsbin.com/about.php) - Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
@@ -322,7 +326,6 @@
 - [ripme](http://anonym.es/?http://github.com/RipMeApp/ripme) - A album/video downloader with support for over 80 sites.
 - [Swiss Transfer](http://anonym.es/?http://www.swisstransfer.com/en) - Share Files up to 25GB.
 - [uGet](http://anonym.es/?http://ugetdm.com/) - Open Source Download Manager.
-- [wget - a noob's guide](http://anonym.es/?http://chris.partridge.tech/data/wget-noobs.pdf) - A beginner guide on how to use `wget`.
 - [wget for Windows](http://anonym.es/?http://eternallybored.org/misc/wget/) - A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
 - [wget](http://anonym.es/?http://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
 - [YouTube MP3 Rip](http://anonym.es/?http://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
