@@ -1,3 +1,35 @@
+## Adobe 
+- [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](http://anonym.es/?https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18) 
+
+**[`^        back to top        ^`](#)**
+
+
+## Movie & TV Streaming
+- [How To Stream Movies, TV, Anime & Sports Online](http://anonym.es/?https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
+- [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](http://anonym.es/?https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
+
+
+**[`^        back to top        ^`](#)**
+
+
+## Graphics & Design
+- [GFXDomain.net Tutorials board](http://anonym.es/?http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
+
+**[`^        back to top        ^`](#)**
+
+
+## Nintendo Switch
+- [The Ultimate Noob Guide for Hacking your Nintendo Switch](http://anonym.es/?https://guide.sdsetup.com/) - Want to hack your Nintendo Switch but don’t know where to start? Just follow this guide!
+
+**[`^        back to top        ^`](#)**
+
+
+## JDownloader
+- [How to bypass Mega Quota limit via JDownloader 2](http://anonym.es/?https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
+
+**[`^        back to top        ^`](#)**
+
+
 ## VPN Guides & Tutorials
 - [/r/VPN wiki](http://anonym.es/?https://www.reddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
 - [Choosing the best VPN (for you) - /r/VPN](http://anonym.es/?https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
@@ -9,15 +41,35 @@
 
 **[`^        back to top        ^`](#)**
 
+
+## Software Piracy explained
+- [MIC028_Piracy Guide.indd - Microsoft (.PDF)](http://anonym.es/?http://download.microsoft.com/documents/australia/PIRACY/PiracyGuide.pdf) - Microsoft's anti software piracy guide.
+- [What are the risks of using pirated Windows 10?](http://anonym.es/?https://windowsreport.com/pirated-windows-10-risks/)
+- [Unofficial Reddit Guides to software piracy](http://anonym.es/?https://reddit.guide/r/Piracy/) - A list with subreddits connected to software piracy, it also lists which community was banned from Reddit.
+
+**[`^        back to top        ^`](#)**
+
+
 ## ISP
 - [How to start your own ISP](http://anonym.es/?https://startyourownisp.com/) - Start your own ISP, lists tools which you need and lots of background information.
   
 **[`^        back to top        ^`](#)**
 
+## Self-hosting
+- [How to Host "Questionable" Websites v4.0](http://anonym.es/?https://weboas.is/media/host.pdf) - PDF from weboas.is which shows how you self-host Qquestionable" websites.
+
+
 ## Ebooks & TextBooks
 - [How To find and download ebooks & textbooks](http://anonym.es/?https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_).
 
 **[`^        back to top        ^`](#)**
+
+
+## eMule
+- [How to use eMule in 2018](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+
+**[`^        back to top        ^`](#)**
+
 
 ### Exploit Development
 - [Exploit Writing Tutorials](http://anonym.es/?https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
@@ -26,35 +78,13 @@
 
 **[`^        back to top        ^`](#)**
 
-## General Courses & Tutorials
-- [FreeTutorials.eu](http://anonym.es/?https://www.freetutorials.eu/) - Lots of Udemy courses for free. Websites uses adblock detector.
-- [GFXDomain.net Tutorials board](http://anonym.es/?http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
-- [Git.ir](http://anonym.es/?https://git.ir) - (IR) - Download courses (e.g. Lynda, Linkedin, Pluralsight, Skillshare, Packtpub, etc) for free.
-- [How To Stream Movies, TV, Anime & Sports Online](http://anonym.es/?https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
-- [How to bypass Mega Quota limit via JDownloader 2](http://anonym.es/?https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
-- [How to Host "Questionable" Websites v4.0](http://anonym.es/?https://weboas.is/media/host.pdf) - PDF from weboas.is
-- [How to use eMule in 2018](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
-- [Lynda Courses](http://anonym.es/?https://www.reddit.com/r/megalinks/comments/7vlt4j/education_lynda_266_courses_207gb/) - 266+ Lynda courses
-- [TUTSGALAXY](http://anonym.es/?https://tutsgalaxy.com/) - Learn HTML5 and CSS3 fundamentals.
-- [The Ultimate Noob Guide for Hacking your Nintendo Switch](http://anonym.es/?https://guide.sdsetup.com/) - Want to hack your Nintendo Switch but don’t know where to start? Just follow this guide!
-- [Traning Circle](http://anonym.es/?https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
-- [Unlimited Mega.nz-IDM-downloader](http://anonym.es/?https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Download Mega.nz without any limits.
-- [What are magnet links and trackers?](http://anonym.es/?https://gist.github.com/nektro/788ba921b51bedbbea07a04fb123b21a) Short explanation of magnet and trackers and how they work.
-- [[Updated] How to bypass the adblock ban on KissAnime](http://anonym.es/?https://old.reddit.com/r/KissAnime/comments/awmkrz/updatedguide_how_to_bypass_the_adblock_ban/) - An Ad blocker guide for KissAnime.
-- [coursehunter](http://anonym.es/?https://www.coursehunters.net/) - Watch paid tutorials online for free
-- [learninglcom](http://anonym.es/?https://learninglcom.com/) - Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more.
-- [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](http://anonym.es/?https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
-- [tpget](http://anonym.es/?https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
-- [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG.
-- [How to get ti-nspire CX student software for free, even after the free trial.](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
-
-**[`^        back to top        ^`](#)**
 
 ## Torrent DMCA prevention
 - Open QB advance settings, and bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [check this example](http://anonym.es/?https://i.imgur.com/pD7atey.jpg).
 - [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](http://anonym.es/?https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
 
 **[`^        back to top        ^`](#)**
+
 
 ## Seedbox Setup Tools and Guides
 - [DockSTARTer](http://anonym.es/?https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
@@ -68,6 +98,7 @@
 
 **[`^        back to top        ^`](#)**
 
+
 ## Plex
 - [hoarding.me](http://anonym.es/?https://hoarding.me/) - Unlimited and automated. How to setup your own dream Plex server?!
 - [linuxserver/docker-plex](http://anonym.es/?https://github.com/linuxserver/docker-plex) - LinuxServer.io Plex Media Server docker image.
@@ -79,6 +110,7 @@
 
 **[`^        back to top        ^`](#)**
 
+
 ### Plex Transcoding
 - [kube-plex](http://anonym.es/?https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [Plex-Remote-Transcoder](http://anonym.es/?https://github.com/wnielson/Plex-Remote-Transcoder) - A distributed transcoding backend for Plex.
@@ -87,11 +119,13 @@
 
 **[`^        back to top        ^`](#)**
 
+
 ## Linux Hardening
 - [kloak](http://anonym.es/?https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
 - [The practical linux hardening guide](http://anonym.es/?https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress project!
 
 **[`^        back to top        ^`](#)**
+
 
 ## Windows 10 Hardening
 - [Windows 10 Privacy Guide](http://anonym.es/?https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
@@ -105,7 +139,8 @@
 
 **[`^        back to top        ^`](#)**
 
-## Bypass PayWalls
+
+## Bypassing PayWalls
 - [[Guide] Bypassing paywalls on iOS apps](http://anonym.es/?https://zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
 - [Get Around Paywalls with Incognito Mode](http://anonym.es/?https://lifehacker.com/get-around-paywalls-with-incognito-mode-1679310015) - Tutorial how to get around a Paywall with Incognito Mode.
 - [How to Get Around Newspaper Paywalls in 2019](http://anonym.es/?https://medium.com/black-edge-consulting/how-to-bypass-virtually-every-news-paywall-705602c4c2ce?source=linkShare-ccf1b677570b-1549597061&_branch_match_id=638842629899229780) - How to bypass newspaper paywalls and access the WSJ, NYT, Washington Post, Business Insider, Financial Times for free.
@@ -117,7 +152,7 @@
 
 **[`^        back to top        ^`](#)**
 
-## qBittorrent Tutorials
+## qBittorrent
 - [Auto unRar](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) or via [script](http://anonym.es/?https://github.com/arfoll/unrarall)
 
 **[`^        back to top        ^`](#)**
@@ -131,3 +166,30 @@
 - [How to get yt premium for free](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/d6ltfc/so_here_is_how_to_get_yt_premium_for_free/) - A short tutorial on how you get YouTube Premium for free.
 
 **[`^        back to top        ^`](#)**
+
+## Wget
+- [wget - a noob's guide](http://anonym.es/?http://chris.partridge.tech/data/wget-noobs.pdf) - A beginner guide on how to use `wget`.
+- [tpget](http://anonym.es/?https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
+
+**[`^        back to top        ^`](#)**
+
+
+## HTML5 & CSS
+- [TUTSGALAXY](http://anonym.es/?https://tutsgalaxy.com/) - Learn HTML5 and CSS3 fundamentals.
+
+**[`^        back to top        ^`](#)**
+
+
+## Mega.nz Limit quota bypass
+- [Unlimited Mega.nz-IDM-downloader](http://anonym.es/?https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Download Mega.nz without any limits.
+
+**[`^        back to top        ^`](#)**
+
+
+## Misc Tutorials
+- [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG.
+- [How to get ti-nspire CX student software for free, even after the free trial.](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
+- [Traning Circle](http://anonym.es/?https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
+
+**[`^        back to top        ^`](#)**
+
