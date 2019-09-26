@@ -203,3 +203,9 @@ There is a universal rule for Android:
 
 **[`^        back to top        ^`](#)**
 
+
+## ZippyShare automation
+- [Zippyshare.sh](http://anonym.es/?hhttps://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
+
+**[`^        back to top        ^`](#)**
+
