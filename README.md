@@ -100,7 +100,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## Social Media Alternatives
-- [Mastodon](http://anonym.es/?https://joinmastodon.org/) - Like a decentralized Twitter.
+- [Gab Social](http://anonym.es/?https://gab.com/) - Gab is a fork of Mastodon, itself an open-source self-hosted, federated social media networking service. 
 - [MeWe](http://anonym.es/?https://mewe.com/) - Google+ replacement.
 - [Movim](http://anonym.es/?https://freedif.org/movim-the-decentralized-social-network) - Movim is a social network, based on XMPP, with Chat and chatrooms, news & communities features.
 - [Nitter](https://nitter.net/) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
