@@ -1606,9 +1606,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-### Windows Activation & tests
+### Microsoft Windows Activation (KMS/KMS38/HWID)
 - [PIDChecker](http://anonym.es/?https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product keys.
-- [HWIDGEN](http://anonym.es/?https://old.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods.
+- [HWIDGEN](http://anonym.es/?https://old.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods. [Source code](http://anonym.es/?https://github.com/CHEF-KOCH/HWIDGEN-SRC)
 - [KMS Activator](http://anonym.es/?https://github.com/CHEF-KOCH/KMS-activator) - The original open source repo for KMS related activation & research.
 - [KMS Server Emulator written in Python](http://anonym.es/?https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
 - [W10-Digital-License-Activation-Script-4](http://anonym.es/?https://github.com/trungx/W10-Digital-License-Activation-Script-4) - Activate the Windows 10 permanently with digital License.
@@ -1699,14 +1699,13 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## eBook Search Indexer
-- [ABook](http://abook.ws/) - (insecure) - One of the oldest book search indexers.
-- [BinSearch](http://binsearch.info/) - (insecure) - Binary Usenet search engine which can be used for eBooks and other stuff.
+- [ABook](http://anonym.es/?http://abook.ws/) - (insecure) - One of the oldest book search indexers.
+- [BinSearch](http://anonym.es/?http://binsearch.info/) - (insecure) - Binary Usenet search engine which can be used for eBooks and other stuff.
 - [EBookEE](http://anonym.es/?https://ebookee.org/) - Tech, Database, Java and many many other categories.
 - [EBook Bike](http://anonym.es/?https://ebook.bike/) - Another search indexer which claims to be the "largest" on the Internet.
-- [Ebook 3000](http://www.ebook3000.com/) - (insecure) - Free ebooks downloads.
-- [FreeBookSpot](http://www.freebookspot.es/) - (insecure) - Similar to eBookEE.
-- [GingaDaddy](http://www.gingadaddy.com) - (insecure) - A usenet newsgroup for eBooks. (needs login)
-- [Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - (insecure) - Preset of indexed websites to search for comics.
+- [FreeBookSpot](http://anonym.es/?http://www.freebookspot.es/) - (insecure) - Similar to eBookEE.
+- [GingaDaddy](http://anonym.es/?http://www.gingadaddy.com) - (insecure) - A usenet newsgroup for eBooks. (needs login)
+- [Via Google Search](http://anonym.es/?http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - (insecure) - Preset of indexed websites to search for comics.
 - [oznzb](http://anonym.es/?https://www.oznzb.com ) - Yet another ebook search engine.
 - [PDFDrive](http://anonym.es/?https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
 
@@ -1714,16 +1713,16 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## Magazines
-- [ebook3000.com](http://anonym.es/?http://ebook3000.com/) - (insecure) - Various magazines.
+- [Ebook 3000](http://anonym.es/?http://ebook3000.com/) - (insecure) - Various magazines.
 - [FlipHTML5](http://anonym.es/?http://fliphtml5.com/explore) - (insecure) - International magazines.
 - [MagazineLib](http://anonym.es/?https://magazinelib.com/) - Free PDF and interactive e-magazines.
 - [magazinesdownload.org](http://anonym.es/?https://magazinesdownload.org/) - Magazines hosted on free, fast, file hosting sites.
-- [PDF Giant](http://pdf-giant.com/) - (insecure) - Various categories of downloadable PDFs.
+- [PDF Giant](http://anonym.es/?http://pdf-giant.com/) - (insecure) - Various categories of downloadable PDFs.
 
 **[`^        back to top        ^`](#)**
 
 
-## Academic Papers (white papers, GRE, etc.)
+## Academic Papers (White papers, GRE, etc.)
 - [Academic Torrents](http://anonym.es/?http://academictorrents.com/) - (insecure) - A Community-Maintained Distributed Repository for researchers, by researchers.
 - [BookSC](http://anonym.es/?http://booksc.org/) - (insecure) - The world's largest scientific articles store. 50,000,000+ articles for free.
 - [GRE Prep](http://anonym.es/?https://www.chegg.com/test-prep/gre) - (**semi free**) - Paid and free (trial) material for school, college and graduate students.
@@ -2617,15 +2616,26 @@ Since this list is really huge I can't name each and every single one of you, bu
 ### Google Play Store
 - [F-Droid](http://anonym.es/?https://f-droid.org/) - F-Droid is a open source alternative to Google's Play Store.
 - [Aurora Store](http://anonym.es/?https://f-droid.org/en/packages/com.aurora.store/) - Allows you the usage of Google Play Store but without lossing your privacy!
-- [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - Similar like Aurora Store, both apps are foss. 
+- [Yalp Store](http://anonym.es/?https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - Similar like Aurora Store, both apps are foss. 
 
 
 ### Google Earth
-- [ArcGIS](https://www.arcgis.com/home/webmap/viewer.html) - A privacy friendly alternative to Google's Eath Service.
+- [ArcGIS](http://anonym.es/?https://www.arcgis.com/home/webmap/viewer.html) - A privacy friendly alternative to Google's Eath Service.
 
 
 ### Google Home
-- [Projekt Leon-AI](https://github.com/leon-ai/leon) - A good alternative to Google's Home service. 
+- [Projekt Leon-AI](http://anonym.es/?https://github.com/leon-ai/leon) - A good alternative to Google's Home service. 
+
+**[`^        back to top        ^`](#)**
+
+
+## Wifi Jammer
+- [esp8266 deauther](https://github.com/spacehuhn/esp8266_deauther) - Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners! [(Short Overview & Video)](https://www.instructables.com/id/DIY-Wifi-Jammer-With-ESP8266-and-Mobile-App/)
+- [wifijammer](http://anonym.es/?https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers.
+- [JamWiFi](http://anonym.es/?https://github.com/unixpickle/JamWiFi) - A GUI, easy to use WiFi network jammer for Mac OS X.
+- [PNP-WiFi-Jammer](http://anonym.es/?https://github.com/PNPtutorials/PNP-WiFi-Jammer) - This script continuously jams all the WiFi networks around you.
+- [fluxion](http://anonym.es/?https://github.com/hackcrypto/fluxion) - Script attempts to retrieve the WPA/WPA2 key from a target access point by means of a social engineering (phishing) attack.
+- [wificurse](http://anonym.es/?https://github.com/oblique/wificurse) - WiFi Jamming tool.
 
 **[`^        back to top        ^`](#)**
 
