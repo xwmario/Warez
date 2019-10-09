@@ -937,8 +937,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [GoGoAnime](http://anonym.es/?https://www1.gogoanime.sh/) - Subs and dubs, many ads, many player alternatives.
 - [Hi10Anime](http://anonym.es/?https://hi10anime.com/) - High Quality 10-bit Animes.
 - [KickAssAnime](http://anonym.es/?https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
-- [KimCartoon](http://anonym.es/?https://kimcartoon.co/)
-- [KissCartoon](http://anonym.es/?https://kisscartoon.ac/)
+- [KimCartoon](http://anonym.es/?https://kimcartoon.to/)
 - [Mangarock](http://anonym.es/?https://mangarock.com/)
 - [MoviesEver](http://anonym.es/?https://moviesever.com/)
 - [NineAnime](http://anonym.es/?https://www.nineanime.com/)
@@ -1046,13 +1045,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [/r/CFBStreams](http://anonym.es/?https://www.reddit.com/r/CFBStreams/)
 - [/r/MLBStreams](http://anonym.es/?https://www.reddit.com/r/MLBStreams/)
 - [/r/mmafights](http://anonym.es/?https://www.reddit.com/r/mmafights/)
-- [/r/MMAStreams](http://anonym.es/?https://www.reddit.com/r/MMAStreams/)
 - [/r/motorsportsstreams](http://anonym.es/?https://www.reddit.com/r/motorsportsstreams) - Reddit community for motorsports streams.
-- [/r/nbastreams](http://anonym.es/?https://www.reddit.com/r/nbastreams/)
 - [/r/ncaaBBallStreams](http://anonym.es/?https://www.reddit.com/r/ncaaBBallStreams/)
 - [/r/nflstreams](http://anonym.es/?https://www.reddit.com/r/nflstreams/)
 - [/r/NHLStreams](http://anonym.es/?https://www.reddit.com/r/NHLStreams/)
-- [/r/redsoccer](http://anonym.es/?https://www.reddit.com/r/redsoccer)
 - [/r/rugbystreams](http://anonym.es/?https://www.reddit.com/r/rugbystreams/)
 - [/r/WWEstreams](http://anonym.es/?https://www.reddit.com/r/WWEstreams/)
 - [Best Sport Streaming](http://anonym.es/?https://www.bestsportstreaming.com/) - Site that rates sport streaming services.
@@ -1353,7 +1349,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Cartoons
 - [animetoon](http://www.animetoon.org/) - (`insecure`) - Lots of streaming via premium hosts for cartoons.
-- [KissCartoon](http://anonym.es/?https://kisscartoon.ac/) - Popular cartoon streaming site.
 - [Toonova](http://www.toonova.net/) - (`insecure`) - Another site for streaming cartoons.
 - [watchcartoononline.com](http://anonym.es/?https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site.
 - [watchcartoononline.io](http://anonym.es/?https://www.watchcartoononline.io/) - Large DDL site for cartoons as well as anime and movies.
@@ -1589,7 +1584,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 ## Windows (Info, tools and other resources)
 - [AME](http://anonym.es/?https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 - [Krakatoa](http://anonym.es/?https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
-- [MDL Forums](http://anonym.es/?https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
+- [My Digital Life Forums](http://anonym.es/?https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
+- [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
+- [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering focused software, including video tutorials, and some eBooks.
 - [Microsoft Build Overview](http://anonym.es/?https://msbuilds.rg-adguard.net/) - A history of Windows build strings.
 - [PCBeta](http://anonym.es/?https://bbs.pcbeta.com) - Windows ISOs, hotfixes and discussions.
 - [RCC](http://anonym.es/?https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, check your system's trusted root certificate store.
