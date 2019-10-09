@@ -492,6 +492,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 #### Public Trackers
 - [1337x](http://anonym.es/?https://1337x.to/) - 1337x is a torrent site that offers verified torrent downloads.
+- [7torrents](http://anonym.es/?https://www.7torrents.cc/) - Privacy-focused DHT search engine without any ads.
 - [BTDB](http://anonym.es/?https://btdb.to/) - Large BitTorrent DHT search engine.
 - [CGPeers](http://anonym.es/?https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
 - [dlb.to](http://anonym.es/?https://dlb.to/) - Indixer for various Warez websites and material.
