@@ -1081,7 +1081,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Stremio
-
+- [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) - An application that allows you to download any stream from Stremio.
 - [r/StremioAddons](http://anonym.es/?https://www.reddit.com/r/StremioAddons/) - Discussion and links on reddit to unofficial add-ons for Stremio.
 - [A complete curated list of all working Stremio Add-ons provided (via Reddit)](http://anonym.es/?https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
 - [PimpMyStremio](http://anonym.es/?https://github.com/sungshon/PimpMyStremio) - A local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio.
