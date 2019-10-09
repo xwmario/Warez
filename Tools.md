@@ -360,6 +360,13 @@
 **[`^        back to top        ^`](#)**
 
 
+## Udemy Downloader
+- [udemy-downloader-gui](http://anonym.es/?https://github.com/FaisalUmair/udemy-downloader-gui) A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
+- [udemy-downloader-gui](http://anonym.es/?https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Windows Integration Tools
 - [NTLite](http://anonym.es/?http://www.ntlite.com/) - Paid program to remove integrated telemetry, integrate updates & more.
 - [MSGM ToolKit](http://anonym.es/?http://www.majorgeeks.com/files/details/msmg_toolkit.html) - Free program to customize Windows similar like NTLite bu without a nice looking GUI.
