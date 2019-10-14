@@ -105,6 +105,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Movim](http://anonym.es/?https://freedif.org/movim-the-decentralized-social-network) - Movim is a social network, based on XMPP, with Chat and chatrooms, news & communities features.
 - [Nitter](https://nitter.net/) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
 - [Pleroma](http://anonym.es/?https://pleroma.social/) - Host your own social media.
+- [Stream.io](http://anonym.es/?https://Stream.io) - Tries to combine all social networks into one place (_currently beta_).
 
 **[`^        back to top        ^`](#)**
 
