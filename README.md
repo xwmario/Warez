@@ -783,8 +783,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### DDL Link Sites
 - [/r/DataHoarder/](http://anonym.es/?https://old.reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
-- [/f/MEGAlinks](http://anonym.es/?https://raddle.me/f/MEGAlinks) - Aims to replace the old /r/megalinks directory.
-- [/r/GDriveLinks](http://anonym.es/?https://www.reddit.com/r/GDriveLinks/) - (Multi) - Google Drive Download Links.
 - [/r/ZippyShare](http://anonym.es/?https://www.reddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_).
 - [0DayDown](http://anonym.es/?https://www.0daydown.com/) (CN/EN) MacOS, Music & other links (works with JDownloader).
 - [3dl.tv](http://anonym.es/?https://3dl.tv/) - (Ger) - Music, Movies, TV Shows, apps & more.
@@ -987,7 +985,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### Random Movie/TV Streaming Websites
 - [#1 Movies Website](http://anonym.es/?https://www1.1movies.is) - Watch movies online for free in HD quality without downloading or signing up.
-- [/r/BestOfStreamingVideo](http://anonym.es/?https://www.reddit.com/r/BestOfStreamingVideo/)
 - [/r/MovieStreamingSites](http://anonym.es/?https://www.reddit.com/r/MovieStreamingSites/)
 - [AZMovies](http://anonym.es/?https://azmovies.xyz/) - AZMovies your best source for watching movies online, with High Quality 1080p movies, you can stream anytime.
 - [Arabseed](http://anonym.es/?https://arabseed.tv/) - (AR) - Online shopping from a great selection at Digital Music Store.
@@ -1959,7 +1956,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Big Media Libraries
-- [/r/BestOfStreamingVideo](http://anonym.es/?https://www.reddit.com/r/BestOfStreamingVideo/) - Reddit, random streaming sites.
 - [/r/MovieStreamingSites](http://anonym.es/?https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
 - [123Movies.ooo](http://anonym.es/?https://123movies.ooo/) - Watch & stream full HD movies & TV series online for free.
 - [2TwoMovies](http://anonym.es/?https://two-movies.net/) - Watch Free Movies Online. TwoMovies is a free online video service that offers large collection of full length movies.
@@ -2244,10 +2240,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [/r/BestOfStreamingVideo](http://anonym.es/?https://www.reddit.com/r/BestOfStreamingVideo)
 - [/r/fullcartoonsonyoutube](http://anonym.es/?https://www.reddit.com/r/fullcartoonsonyoutube/)
 - [/r/FullLengthFilms](http://anonym.es/?https://www.reddit.com/r/FullLengthFilms/)
-- [/r/FullMovieonViooz](http://anonym.es/?https://www.reddit.com/r/FullMovieonViooz)
 - [/r/fullmovierequest](http://anonym.es/?https://www.reddit.com/r/fullmovierequest/)
 - [/r/FullMoviesDailyMotion](http://anonym.es/?https://www.reddit.com/r/FullMoviesDailyMotion)
-- [/r/fullmoviesongoogle](http://anonym.es/?https://www.reddit.com/r/fullmoviesongoogle/)
 - [/r/fullmoviesonopenload](http://anonym.es/?https://www.reddit.com/r/fullmoviesonopenload)
 - [/r/Fullmoviesonvimeo](http://anonym.es/?https://www.reddit.com/r/Fullmoviesonvimeo/)
 - [/r/fullmoviesonyoutube](http://anonym.es/?https://www.reddit.com/r/fullmoviesonyoutube/)
