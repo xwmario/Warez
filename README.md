@@ -2130,6 +2130,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ## Discord alternatives (without logging/telemetry)
 - [Ripcord](http://anonym.es/?https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
+- [EnhancedDiscord](http://anonym.es/?https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod. 
 
 **[`^        back to top        ^`](#)**
 
