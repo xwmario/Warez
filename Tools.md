@@ -32,6 +32,8 @@
 - [Nefarious](http://anonym.es/?http://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
 - [Piracy and automation, an overview](http://anonym.es/?http://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools.
 - [Pulsarr](http://anonym.es/?http://github.com/roboticsound/Pulsarr) - Browser extension (currently Chrome & Firefox) - for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [Ripme](http://anonym.es/?https://github.com/RipMeApp/ripme) - 
+Downloads albums in bulk.
 - [SickRage](http://anonym.es/?http://www.sickrage.ca/) - Automatic Video Library Manager for TV Shows.
 - [Snahp tool](http://anonym.es/?http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
 - [traktarr](http://anonym.es/?http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
