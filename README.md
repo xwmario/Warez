@@ -1245,6 +1245,11 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
+### DOS games
+- [The Archive](https://blog.archive.org/2019/10/13/2500-more-ms-dos-games-playable-at-the-archive/) - Archive.org provides a legit way to play almost all DOS games for free in your browser.
+
+**[`^        back to top        ^`](#)**
+
 ### 3DS
 - [3DS Decrypter utility](http://anonym.es/?https://github.com/matiffeder/stuff) - Decrypt 3DS files.
 - [3dscia](http://anonym.es/?https://www.3dscia.com/) - Nintendo 3ds CIA files.
