@@ -1561,6 +1561,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [gallery-dl](http://anonym.es/?https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites
 - [KaranPC](http://anonym.es/?https://karanpc.com) - Yet another community around Windows software. 
 - [Nulled](http://anonym.es/?https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
+- [PirateCity](http://anonym.es/?https://www.piratecity.cc) - Softwares, Performance Optimizing Tools, Antivirus Softwares , Image Editing Tools, Video Editing Softwares, Data Recovery Softwares & more.
 - [Sanet.st](http://anonym.es/?https://sanet.st/windows/) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
 - [Softlay](http://anonym.es/?https://softlay.net) - Windows software mirrors.
 - [Team-OS HKRG](http://anonym.es/?https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
