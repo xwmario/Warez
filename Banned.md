@@ -468,3 +468,5 @@
 
 ## VPN provider
 - [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption), see [here](https://torrentfreak.com/nordvpn-had-private-keys-stolen-after-server-breach-191022/) for more information
+- TorGuard
+- VikingVPN
