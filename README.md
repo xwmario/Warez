@@ -1132,7 +1132,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### Game Repacks
 - ["A simple script for easily downloading emulator.games ROMs"](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
-- [BlackBox](http://www.blackboxrepack.com/) - (`insecure`) - A well known forum/site for game repacks.
+- [Corepack](http://anonym.es/?https://corepacks.com/) - Game & software repacks.
+- [BlackBox](http://anonym.es/?http://www.blackboxrepack.com/) - (`insecure`) - A well known forum/site for game repacks.
 - [Dark Umbra](http://anonym.es/?https://darkumbra.net/) - A forum for sourcing games.
 - [DODI](http://dodi-repacks.site/) - (`insecure`) - Similar like fit-girl repacks, known and trusted by thousend of peoples around the world.
 - [ElAmigos Games](http://anonym.es/?https://www.elamigos-games.com/) - Premium links to cracked PC games.
