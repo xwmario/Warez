@@ -406,6 +406,10 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
+## ePub Editor
+- [Sigil](https://github.com/Sigil-Ebook) - [Sigil](https://sigil-ebook.com/) is a multi-platform EPUB ebook editor
+        
+
 ## eBook Downloader
 - [dlfeb](http://anonym.es/?http://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
 - [LibGen](http://anonym.es/?http://libgen.is/) - The website has now an app which lets you search their database and download the books via their desktop app.
