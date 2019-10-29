@@ -788,7 +788,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [3dl.tv](http://anonym.es/?https://3dl.tv/) - (Ger) - Music, Movies, TV Shows, apps & more.
 - [Adit-HD Forum](http://www.adit-hd.com/index.php) - (`insecure`) - Forum which provides links to HD rips.
 - [AdiT-HD](http://adit-hd.com/) - (`insecure`) - Direct movie download database.
-- [AppNee Freeware Group](http://anonym.es/?https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
+- [AppNee Freeware Group](http://anonym.es/?https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, Adobe & more.
 - [Audioz](http://anonym.es/?https://audioz.download/) - Provides Audio stuff.
 - [AvaxHome](http://anonym.es/?https://avxhm.se) - Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [AVXHome](http://avxhome.se/) - (`insecure`) - Best of eBooks, Software, Mag & more.
