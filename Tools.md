@@ -735,3 +735,10 @@ Downloads albums in bulk.
 - [Everything](http://anonym.es/?https://www.voidtools.com/) - Locate files and folders by name on Windows instantly.
 
 **[`^        back to top        ^`](#)**
+
+
+## Twitch
+- [Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) -  A multi platform Twitch.tv browser for Streamlink
+- [smarttv-twitch](https://github.com/fgl27/smarttv-twitch) - Twitch client for Samsung Smart TVs 2015 and newer models, in doubt read the README bellow
+
+**[`^        back to top        ^`](#)**
