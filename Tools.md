@@ -718,13 +718,13 @@ Downloads albums in bulk.
 
 
 ## Windows Sets replacement (tabbed explorer)
-- [multrin](http://anonym.es/?http://github.com/sentialx/multrin) - Cross-platform replacement for abandoned Windows Sets
+- [Multrin](http://anonym.es/?http://github.com/sentialx/multrin) - Cross-platform replacement for abandoned Windows Sets
 - [Stardock Groupy](http://anonym.es/?http://www.stardock.com/products/groupy/) - Groupy enables you to drag and drop application windows together to group them together under a common tabbed interface.
 
 **[`^        back to top        ^`](#)**
 
 
-## Firewall Bypassing
+## Firewall Bypassing Tools
 - [Tunna](http://anonym.es/?hhttps://github.com/SECFORCE/Tunna) - Tunna is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
 
 **[`^        back to top        ^`](#)**
@@ -738,7 +738,8 @@ Downloads albums in bulk.
 
 
 ## Twitch
-- [Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) -  A multi platform Twitch.tv browser for Streamlink
-- [smarttv-twitch](https://github.com/fgl27/smarttv-twitch) - Twitch client for Samsung Smart TVs 2015 and newer models, in doubt read the README bellow
+- [Official Twitch Apps](http://anonym.es/?https://www.twitch.tv/downloads) - All official Twitch clients.
+- [Twitch-GUI](http://anonym.es/?https://github.com/streamlink/streamlink-twitch-gui) -  A multi platform Twitch.tv browser for Streamlink
+- [smarttv-twitch](http://anonym.es/?https://github.com/fgl27/smarttv-twitch) - Twitch client for Samsung Smart TVs 2015 and newer models.
 
 **[`^        back to top        ^`](#)**
