@@ -204,6 +204,7 @@ Downloads albums in bulk.
 
 ## DDoS Tools
 - [Anevicon](http://anonym.es/?http://github.com/Gymmasssorla/anevicon) - The most powerful UDP-based load generator, written in Rust.
+- [dark-fantasy-hack-tool](https://github.com/ritvikb99/dark-fantasy-hack-tool) - Take down small websites with HTTP FLOOD, includes other functions like port scanners & more.
 - [HOIC](http://anonym.es/?http://sourceforge.net/projects/high-orbit-ion-cannon/) - Updated version of Low Orbit Ion Cannon, has 'boosters' to get around common counter measures.
 - [JS LOIC](http://anonym.es/?http://metacortexsecurity.com/tools/anon/LOIC/LOICv1.html) - JavaScript in-browser version of LOIC.
 - [LOIC](http://anonym.es/?http://github.com/NewEraCracker/LOIC/) - Open source network stress tool for Windows.
