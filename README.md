@@ -783,7 +783,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### DDL Link Sites
 - [/r/DataHoarder/](http://anonym.es/?https://old.reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
-- [/r/ZippyShare](http://anonym.es/?https://www.reddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_).
+- [/r/ZippyShare](http://anonym.es/?https://www.reddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_) (Zippy geoIp bypass via [Zippy Direct](http://anonym.es/?https://zippy.direct/)
 - [0DayDown](http://anonym.es/?https://www.0daydown.com/) (CN/EN) MacOS, Music & other links (works with JDownloader).
 - [3dl.tv](http://anonym.es/?https://3dl.tv/) - (Ger) - Music, Movies, TV Shows, apps & more.
 - [Adit-HD Forum](http://www.adit-hd.com/index.php) - (`insecure`) - Forum which provides links to HD rips.
