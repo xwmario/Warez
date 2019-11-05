@@ -345,7 +345,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 ### Countries where both downloading & sharing is illegal
 * Argentina
 * Bangladesh
-* Brazil
+* [Brazil](https://g1.globo.com/sp/sao-paulo/noticia/2019/11/01/policia-civil-deflagra-operacao-contra-pirataria-digital-em-sp.ghtml)
 * Canada
 * Chile
 * Columbia
@@ -2643,3 +2643,10 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
+### Multihoster 
+- [Premiumize.me](http://anonym.es/?https://www.premiumize.me/)
+- [Oboom](http://anonym.es/?https://www.oboom.com/)
+- [Smoozed](http://anonym.es/?https://www.smoozed.biz/)
+
+**[`^        back to top        ^`](#)**
