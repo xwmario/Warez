@@ -324,6 +324,7 @@
 * pinoytvplus.com
 * pinoytvreplay.su
 * pinoytvreplays.co
+* Pirate.ws
 * putlocker0.com
 * putlockerr.is
 * putlockers.co
@@ -415,6 +416,7 @@
 * 2baksa.net
 * NORO repacks
 * nosTEAM.ro
+* Kkiste.io
 
 ## eBooks
 * downeu.org
