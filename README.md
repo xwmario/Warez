@@ -506,6 +506,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Idope (Clone)](http://anonym.es/?https://idope.top/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Isohunt2](http://anonym.es/?https://isohunt2.net/) - Clone of the original ISOHunt torrent index and repository.
 - [KickAss Torrents](http://anonym.es/?https://katcr.co/) - Community-made reincarnation launched in 2016.
+- [LBRY](http://anonym.es/?https://beta.lbry.tv/) & [source code](http://anonym.es/?https://github.com/lbryio/lbrytv) - Search engine for games, videos, music & more. 
 - [LimeTorrents](http://anonym.es/?https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
 - [Monitor Shodan](http://anonym.es/?https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
 - [MKVCage](http://anonym.es/?https://www.mkvcage.nl/) - (warning) - Rebooted (unofficial) MKVCage website. It's not in any relationship with the original _project_.
