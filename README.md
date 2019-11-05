@@ -2459,12 +2459,14 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ## Alternative (private) Search Engines
 - [DavidWon.com](http://anonym.es/?http://davidwon.com/) - (`insecure`) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
 - [Mega.nz Search Engine](http://anonym.es/?http://megasearch.co/) - (`insecure`) - A search engine for Mega.nz files.
 - [Search Encrypt](http://anonym.es/?https://www.searchencrypt.com/) - The Privacy Based Search Engine.
-- [Startpage.com](http://anonym.es/?https://www.startpage.com/) - The world's most private search engine.
+- [SearX](http://anonym.es/?https://searx.me/) - The world's most private search engine.
 - [Jive Search](http://anonym.es/?https://jivesearch.com/) - A search engine that doesn't track you.
+- [Qwant](http://anonym.es/?https://lite.qwant.com/) - Yet another search engine.
 
 **[`^        back to top        ^`](#)**
 
@@ -2571,7 +2573,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Google Search
-- [StartPage](http://anonym.es/?https://www.startpage.com/) - StartPage is one of the best search engine replacements for Google.
 - [SearX](http://anonym.es/?https://github.com/asciimoo/searx/wiki/Searx-instances) - Open Source based search engine.
 - [MetaGer](http://anonym.es/?https://metager.de/) - Search engine made in Germany.
 
