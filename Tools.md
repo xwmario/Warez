@@ -1,11 +1,13 @@
 ## Audio Quality Analyzer
 - [Spek](http://anonym.es/?http://spek.cc/) - Determine the quality of your audio files.
 
+
 **[`^        back to top        ^`](#)**
 
 
 ## Audio Converter
 - [fre:ac](http://anonym.es/?https://www.freac.org/)
+
 
 **[`^        back to top        ^`](#)**
 
@@ -15,6 +17,7 @@
 - [Groove Music](http://anonym.es/?https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!
 - [MusicBrainz Picard](http://anonym.es/?https://picard.musicbrainz.org/) -  A solid cross-platform music tagger.
 - [MusicBee](http://anonym.es/?https://getmusicbee.com/) - Easy peasy organize your music library.
+
 
 **[`^        back to top        ^`](#)**
 
@@ -40,6 +43,9 @@
 - [Tampering and Reverse Engineering on Android (Guide + Info + Tool list)](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md) - Provides several background information, tools & info around the decompiling (reversing) process under Android.
 
 
+**[`^        back to top        ^`](#)**
+
+
 ## Automated Downloaders
 - [Awesome Uploader](http://anonym.es/?http://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
 - [Bonarr](http://anonym.es/?http://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
@@ -58,8 +64,11 @@ Downloads albums in bulk.
 - [SickRage](http://anonym.es/?http://www.sickrage.ca/) - Automatic Video Library Manager for TV Shows.
 - [Snahp tool](http://anonym.es/?http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
 - [traktarr](http://anonym.es/?http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+- [Qo-DL-Reborn](http://anonym.es/?https://github.com/Sorrow446/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
+
 
 **[`^        back to top        ^`](#)**
+
 
 ## Browser Password extraction
 - [Chrome Password Dumper](http://anonym.es/?http://github.com/roflsandwich/Chrome-Password-Dumper) - Extract Chrome passwords into a plain text file (works also via PowerShell)
@@ -134,6 +143,7 @@ Downloads albums in bulk.
 
 
 ## File Sharing Tools
+- [1337x Win App](http://anonym.es/?https://github.com/sakshatshinde/1337x_WinApp/) & [Wrapper for FitGirl Repacks](http://anonym.es/?https://github.com/sakshatshinde/Fitgirl_Repacks_WinApp/releases) - A simple 1337x windows app created using nativefier, basically a fan made 1337x tool for the official website.
 - [AutoRclone](http://anonym.es/?https://github.com/xyou365/AutoRclone/) - AutoRclone is a FOSS project that uses [rclone](https://rclone.org/), [folderclone](https://github.com/Spazzlo/folderclone) + service accounts to upload/copy resources to Google Team Drive.
 - [CrossFTP](http://anonym.es/?http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://anonym.es/?http://www.d-lan.net/) - A free LAN file sharing software.
@@ -296,7 +306,7 @@ Downloads albums in bulk.
 - [youtube-dl](http://anonym.es/?http://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 
 
-### YouTube channel blocker
+### YouTube Channel Blocker
 - [YouTube Cleaner](http://anonym.es/?https://addons.mozilla.org/firefox/addon/youtube-cleaner/) - (Firefox) - YouTube cleaner offers the ability to block specific user defined channels.
 
 **[`^        back to top        ^`](#)**
@@ -331,6 +341,7 @@ Downloads albums in bulk.
 
 **[`^        back to top        ^`](#)**
 
+
 ### DDL Tools
 - [annie](http://anonym.es/?http://github.com/iawia002/annie) - Fast, simple and clean video downloader.
 - [aria2](http://anonym.es/?http://aria2.github.io/) - a lightweight multi-protocol & multi-source command-line download utility.
@@ -359,10 +370,12 @@ Downloads albums in bulk.
 
 **[`^        back to top        ^`](#)**
 
+
 ## Netflix Downloader
 - [FlixGrab](http://anonym.es/?http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Music Downloading
 - [/r/DeezloaderIsBack](http://anonym.es/?http://www.reddit.com/r/DeezloadersIsBack) - Community supporting Deezer.
@@ -375,6 +388,7 @@ Downloads albums in bulk.
 
 **[`^        back to top        ^`](#)**
 
+
 ## Adobe CC
 - ["Ultimate Adobe Guide!"](http://anonym.es/?http://www.reddit.com/r/Piracy/comments/arbt9p/ultimate_adobe_guide/?sort=new) - Reddit guide for Adobe Products.
 - [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](http://anonym.es/?http://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
@@ -384,6 +398,7 @@ Downloads albums in bulk.
 - [How to download paid fonts for free](http://anonym.es/?http://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
 - [Pirating Adobe CC for Dummies](http://anonym.es/?http://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - detailed guide about pirating Adobe CC for Windows.
 
+
 **[`^        back to top        ^`](#)**
 
 
@@ -391,10 +406,18 @@ Downloads albums in bulk.
 - [udemy-downloader-gui](http://anonym.es/?https://github.com/FaisalUmair/udemy-downloader-gui) A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 - [udemy-downloader-gui](http://anonym.es/?https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 
+
 **[`^        back to top        ^`](#)**
 
 
-## Windows Integration Tools
+## Brilliant Downloader
+- [brilliant-dump_wip](http://anonym.es/?https://github.com/mrwnwttk/brilliant-dump_wip) - An unfinished tool to dump courses from [brilliant](http://anonym.es/?https://brilliant.org).
+      
+
+**[`^        back to top        ^`](#)**
+
+
+## Windows Slip-Stream Tools
 - [NTLite](http://anonym.es/?http://www.ntlite.com/) - Paid program to remove integrated telemetry, integrate updates & more.
 - [MSGM ToolKit](http://anonym.es/?http://www.majorgeeks.com/files/details/msmg_toolkit.html) - Free program to customize Windows similar like NTLite bu without a nice looking GUI.
 
