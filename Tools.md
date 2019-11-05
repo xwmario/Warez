@@ -125,12 +125,13 @@ Downloads albums in bulk.
 - [NitroShare](http://anonym.es/?http://nitroshare.net/) - Cross-Platform network file transfer application.
 - [OnionShare](http://anonym.es/?http://onionshare.org/) - Securely and anonymously share a file of any size.
 - [Magnetissimo](http://anonym.es/?https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
+- [Muwire](http://anonym.es/?https://muwire.com/) - I2P based file-sharing program. 
 - [Plowshare](http://anonym.es/?http://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
 - [PushBullet for desktop](http://anonym.es/?http://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
 - [PushBullet](http://anonym.es/?http://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
 - [Quazaa](http://anonym.es/?http://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.
 - [Seafile](http://anonym.es/?http://www.seafile.com/en/home/) - Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
-- [SpiderOak](http://anonym.es/?http://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy.
+- [Snark](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-installing/) - 
 - [Syncthing](http://anonym.es/?http://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 - [Teamviewer](http://anonym.es/?http://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
 - [Tixati](http://anonym.es/?http://www.tixati.com/) - Freeware, advanced featured torrent client, a web user interface is included.
