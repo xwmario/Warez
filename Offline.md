@@ -40,6 +40,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - view4u.co
 - kinow.to
 - Pirate.ws
+- Moonwalk.cc
 
 ## Anime
 - AnimeHeaven.eu
