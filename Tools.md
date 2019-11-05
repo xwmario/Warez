@@ -1,3 +1,24 @@
+## Audio Quality Analyzer
+- [Spek](http://anonym.es/?http://spek.cc/) - Determine the quality of your audio files.
+
+**[`^        back to top        ^`](#)**
+
+
+## Audio Converter
+- [fre:ac](http://anonym.es/?https://www.freac.org/)
+
+**[`^        back to top        ^`](#)**
+
+
+## Music Library Manager
+- [Beets](http://anonym.es/?https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks.
+- [Groove Music](http://anonym.es/?https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!
+- [MusicBrainz Picard](http://anonym.es/?https://picard.musicbrainz.org/) -  A solid cross-platform music tagger.
+- [MusicBee](http://anonym.es/?https://getmusicbee.com/) - Easy peasy organize your music library.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Android Reverse Engineering Tools
 - [androidre](http://anonym.es/?https://github.com/cryptax/androidre) - Reverse engineering Android.
 - [apkstudio](http://anonym.es/?https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
