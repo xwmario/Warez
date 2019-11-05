@@ -97,6 +97,7 @@ Downloads albums in bulk.
 - [The Free Manga Downloader (FMD)](http://anonym.es/?https://github.com/riderkick/FMD) - The Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
 - [n1mo/manga](http://anonym.es/?https://github.com/n1mo/manga) - A open source mangareader.net downloader written in python.
 - [mangadex-dl](http://anonym.es/?https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org.
+- [HakuNeko](http://anonym.es/?https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS.
 
 
 ### Subtitles Automation
