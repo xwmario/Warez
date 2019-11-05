@@ -683,6 +683,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Usenet Indexing Software
+- [Momentum Plus](https://plus.momentum-client.com/) - Usenet-Newsreader and in the (near future) indexer and collector for usenet files.
 - [nZEDb-deploy](http://anonym.es/?https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 - [nZEDb](http://anonym.es/?https://github.com/nZEDb/nZEDb) - A fork of nnplus(2011) - | NNTP / Usenet / Newsgroup indexer.
 - [newznab-tmux](http://anonym.es/?https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer.
