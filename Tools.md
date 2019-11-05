@@ -1,13 +1,11 @@
 ## Audio Quality Analyzer
 - [Spek](http://anonym.es/?http://spek.cc/) - Determine the quality of your audio files.
 
-
 **[`^        back to top        ^`](#)**
 
 
 ## Audio Converter
 - [fre:ac](http://anonym.es/?https://www.freac.org/)
-
 
 **[`^        back to top        ^`](#)**
 
@@ -17,7 +15,6 @@
 - [Groove Music](http://anonym.es/?https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!
 - [MusicBrainz Picard](http://anonym.es/?https://picard.musicbrainz.org/) -  A solid cross-platform music tagger.
 - [MusicBee](http://anonym.es/?https://getmusicbee.com/) - Easy peasy organize your music library.
-
 
 **[`^        back to top        ^`](#)**
 
@@ -42,7 +39,6 @@
 - [JEB](http://anonym.es/?https://www.pnfsoftware.com/) - (paid) - Professional tool for reversing android (and many other) applications.
 - [Tampering and Reverse Engineering on Android (Guide + Info + Tool list)](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md) - Provides several background information, tools & info around the decompiling (reversing) process under Android.
 
-
 **[`^        back to top        ^`](#)**
 
 
@@ -66,7 +62,6 @@ Downloads albums in bulk.
 - [traktarr](http://anonym.es/?http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Qo-DL-Reborn](http://anonym.es/?https://github.com/Sorrow446/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
 
-
 **[`^        back to top        ^`](#)**
 
 
@@ -74,7 +69,6 @@ Downloads albums in bulk.
 - [Chrome Password Dumper](http://anonym.es/?http://github.com/roflsandwich/Chrome-Password-Dumper) - Extract Chrome passwords into a plain text file (works also via PowerShell)
 - [Firefox Decrypt](http://anonym.es/?http://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox/Thunderbird/Seabird) profiles.
 - [ff-password-exporter](http://anonym.es/?http://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
-
 
 **[`^        back to top        ^`](#)**
 
@@ -104,7 +98,6 @@ Downloads albums in bulk.
 - [TVShows 2](http://anonym.es/?http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
 - [subsync](http://anonym.es/?http://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
 - [vlsub](http://anonym.es/?http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
-
 
 **[`^        back to top        ^`](#)**
 
@@ -402,18 +395,20 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-## Udemy Downloader
+## Courses
+### Udemy Downloader
 - [udemy-downloader-gui](http://anonym.es/?https://github.com/FaisalUmair/udemy-downloader-gui) A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 - [udemy-downloader-gui](http://anonym.es/?https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 
 
-**[`^        back to top        ^`](#)**
-
-
-## Brilliant Downloader
+### Brilliant Downloader
 - [brilliant-dump_wip](http://anonym.es/?https://github.com/mrwnwttk/brilliant-dump_wip) - An unfinished tool to dump courses from [brilliant](http://anonym.es/?https://brilliant.org).
-      
 
+
+
+### Skillshare Downloader
+- [skillshare-dl](http://anonym.es/?https://github.com/mrwnwttk/skillshare-dl) - Download courses from Skillshare.com, works on all platforms! 
+  
 **[`^        back to top        ^`](#)**
 
 
