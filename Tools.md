@@ -112,6 +112,7 @@ Downloads albums in bulk.
 
 
 ## File Sharing Tools
+- [AutoRclone](http://anonym.es/?https://github.com/xyou365/AutoRclone/) - AutoRclone is a FOSS project that uses [rclone](https://rclone.org/), [folderclone](https://github.com/Spazzlo/folderclone) + service accounts to upload/copy resources to Google Team Drive.
 - [CrossFTP](http://anonym.es/?http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://anonym.es/?http://www.d-lan.net/) - A free LAN file sharing software.
 - [DBREE](http://anonym.es/?http://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
