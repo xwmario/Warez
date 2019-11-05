@@ -30,6 +30,10 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 ## Movies
 - hdeuropix.com
 - movie2k.st
+- funxd.pw
+- HD-Area.org
+- Moonwalk.cc
+- Movie4k.to
 
 ## Anime
 - AnimeHeaven.eu
