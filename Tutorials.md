@@ -193,3 +193,7 @@
 
 **[`^        back to top        ^`](#)**
 
+
+## Linux Gaming
+* [Playing The Outer Worlds on Linux without the Epic Games Launcher](http://anonym.es/?https://www.reddit.com/r/Piracy/comments/drspy4/playing_the_outer_worlds_on_linux_without_the/)
+
