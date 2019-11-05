@@ -704,6 +704,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Usenet Forums
+- [Revenge of Usenet](http://anonym.es/?https://revenge-of-usenet.com) - (Ger) - Forum for usenet related news, and download discussions.
+- [House-Of-Usenet](http://anonym.es/?https://house-of-usenet.com) - (Ger) - Yet another german forum for usenet discussions.
 - [Brothers of Usenet](http://anonym.es/?https://www.brothers-of-usenet.net) - The original board went down, so this is a mirror for the well known forum which discusses stuff around the scene. 
 - [Fileleechers](http://anonym.es/?https://fileleechers.info) - (Ger) - A young forum around Usenet.
 - [House of Usenet](http://anonym.es/?https://house-of-usenet.com) - New provider, new url, a reboot of the well known forum.
@@ -1388,7 +1390,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [RuTracker](http://rutracker.org/forum/index.php) - (`insecure`) Ru-Tracker, music info, releases & software.
 - [Slsknet](http://www.slsknet.org/news/node/1) - (`insecure`) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
 - [airsonic](http://anonym.es/?https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
-- [streethiphop](http://anonym.es/?https://www.streethiphop.org/)] - Download free music.
+- [streethiphop](http://anonym.es/?https://www.streethiphop.org/) - Download free music.
+- [wi.to](http://anonym.es/?https://www.wi.to/) - A freemium hoster for music files.
 
 **[`^        back to top        ^`](#)**
 
@@ -1827,7 +1830,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 **[`^        back to top        ^`](#)**
 
 
-## P2P-Networks
+## P2P-Networks & IPTV Apps
 - [eDonkey network](http://anonym.es/?https://en.wikipedia.org/wiki/EDonkey_network) - A decentralized, mostly server-based, peer-to-peer file sharing network + [Server Status](http://anonym.es/?https://edk.peerates.net/servers/online-servers-list)
 - [FastTrack](http://anonym.es/?https://en.wikipedia.org/wiki/FastTrack) - Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
 - [Fildo](http://anonym.es/?https://fildo.net/android/en/#) - Android music streaming app which fetches files from third party MP3 search engines.
@@ -1838,6 +1841,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Peer-to-peer file sharing](http://anonym.es/?https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) - Detailed Wikipedia page about file sharing
 - [TiviMate IPTV player](http://anonym.es/?https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
 - [YouTube Vanced](http://anonym.es/?https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+- [Xtream Codes](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox) - Smarters App allows Android users to use IPTV, it offers free and paid content.
 
 **[`^        back to top        ^`](#)**
 
@@ -2651,3 +2655,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Smoozed](http://anonym.es/?https://www.smoozed.biz/)
 
 **[`^        back to top        ^`](#)**
+
+
+### Pay-TV Sky
+- [Familienforum.biz](http://anonym.es/?http://www.familienforum.biz/) - Sky cracking news, and other topics.
