@@ -2601,6 +2601,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### Google Docs + Sheets + Slides
+- [CryptPad](http://anonym.es/?https://cryptpad.fr/) - Currently does not support 2FA, besides that it's cool'io!
+- [Cryptee](http://anonym.es/?https://crypt.ee/) - Team Collaboration is coming soon.
+- [OnlyOffice](https://onlyoffice.com/) - Tries to replace OneNote and MS office.
 - [Collabora + Nextcloud](http://anonym.es/?https://nextcloud.com/collaboraonline/) - A self-hosted Google Docs alternative.
 - [Framacalc](http://anonym.es/?https://accueil.framacalc.org/en/) - Pretty new, but does it's job Sheets alternative.
 - [EtherPad](http://anonym.es/?https://etherpad.org/) - Fully open source and reliable, provides many services e.g. [EtherCalc](http://anonym.es/?https://ethercalc.net/)
