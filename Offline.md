@@ -34,6 +34,12 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - HD-Area.org
 - Moonwalk.cc
 - Movie4k.to
+- Streamworld.cc
+- Streamworld.co
+- Streamworld.to
+- view4u.co
+- kinow.to
+- Pirate.ws
 
 ## Anime
 - AnimeHeaven.eu
@@ -99,6 +105,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - swedupe.com
 
 ## Others
+- Openload
+- Streamango (compromised)
+- RapidVideo
 - aboutthescene.com
 - audiobookbay.cc
 - audiobookbay.la
