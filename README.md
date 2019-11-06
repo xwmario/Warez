@@ -851,6 +851,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Warez-BB-org](http://anonym.es/?https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]](#)
 - [WarezBB.org](http://warezbb.org/) - (`insecure`) - Invite-only elite forum.
 - [Warezforum Asia](http://warezforum.asia/) - (`insecure`) - A website for PDF's & more.
+- [WarezForums](https://warezforums.com/) - (EN/US) - Warez forum with films, TV shows, ebooks, anime, games, and more.
 - [watchepisodeseries](http://anonym.es/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](http://anonym.es/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
 - [ZeroBoard](http://anonym.es/?https://zeroboard.org/) - A board which provides Windows related stuff.
